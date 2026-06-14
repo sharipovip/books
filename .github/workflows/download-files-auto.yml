@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
     inputs:
       folder:
-        description: 'Папка для сохранения (например: books/Китобҳои_дарсӣ/Синфи_1)'
+        description: 'Папка для сохранения (например: books/Китобҳои дарсӣ/Синфи 1)'
         required: true
-        default: 'books/Китобҳои_дарсӣ/Синфи_1'
+        default: 'books/Китобҳои дарсӣ/Синфи 1'
       urls:
         description: 'Ссылки на файлы (каждая с новой строки)'
         required: true
@@ -30,10 +30,10 @@ jobs:
           mkdir -p "$FOLDER"
 
           # Читаем ссылки из многострочного ввода
-          printf '%s
-' "${{ github.event.inputs.urls }}" > /tmp/urls.txt
+          echo "${{ github.event.inputs.urls }}" > /tmp/urls.txt
 
           counter=1
+          total=$(wc -l < /tmp/urls.txt)
 
           while IFS= read -r url; do
             # Пропускаем пустые строки
@@ -41,25 +41,35 @@ jobs:
 
             echo "[$counter] Processing: $url"
 
-            # Получаем имя файла из URL (после последнего /)
-            filename=$(echo "$url" | sed 's/.*\///;s/[?#].*$//')
+            # Получаем имя файла из URL или Content-Disposition
+            filename=$(curl -sI -L "$url" 2>/dev/null | grep -i "content-disposition" | sed 's/.*filename="//;s/".*//;s/.*filename=//;s/;.*//')
 
-            # Если имя пустое или не содержит точки, генерируем
+            # Если не нашли в заголовках, берём из URL
+            if [ -z "$filename" ]; then
+              filename=$(basename "$url" | sed 's/[?#].*$//')
+            fi
+
+            # Если всё ещё нет имени, генерируем
             if [ -z "$filename" ] || [ "$filename" = "/" ]; then
-              filename="book_${counter}.pdf"
+              # Определяем расширение из Content-Type
+              ext=$(curl -sI -L "$url" 2>/dev/null | grep -i "content-type" | sed 's/.*\///;s/;.*//' | tr -d '\r')
+              case "$ext" in
+                pdf) ext="pdf" ;;
+                epub) ext="epub" ;;
+                zip) ext="zip" ;;
+                *) ext="pdf" ;;
+              esac
+              filename="book_${counter}.${ext}"
             fi
 
-            # Если нет расширения, добавляем .pdf
-            if ! echo "$filename" | grep -q '\.'; then
-              filename="${filename}.pdf"
-            fi
+            # Очищаем имя файла
+            filename=$(echo "$filename" | sed 's/[^a-zA-Z0-9А-Яа-яЁёҒғӢӣҚқӮӯҲҳҶҷ._-]/_/g' | sed 's/__*/_/g')
 
             echo "  Filename: $filename"
 
             # Скачиваем с заголовками браузера
-            curl -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"                  -H "Accept: application/pdf,*/*"                  -o "$FOLDER/$filename" "$url" 2>&1 | tail -3
+            curl -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"                  -H "Accept: application/pdf,*/*"                  --fail -o "$FOLDER/$filename" "$url" 2>&1 | tail -5
 
-            # Проверяем результат
             if [ -f "$FOLDER/$filename" ] && [ -s "$FOLDER/$filename" ]; then
               size=$(ls -lh "$FOLDER/$filename" | awk '{print $5}')
               echo "  ✓ Downloaded: $size"
