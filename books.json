@@ -1,0 +1,239 @@
+{
+  "version": 3,
+  "updatedAt": "2026-06-14",
+  "repo": "sharipovip/books",
+  "branch": "main",
+  "categories": [
+    {
+      "id": "kitobhoi_darsi",
+      "name": "Kitobhoi_darsi",
+      "emoji": "🎓",
+      "color1": "#2563eb",
+      "color2": "#3b82f6",
+      "subs": [
+        {
+          "id": "sinfi_1",
+          "name": "Sinfi_1",
+          "folder": "books/Kitobhoi_darsi/Sinfi_1",
+          "emoji": "📚"
+        },
+        {
+          "id": "sinfi_10",
+          "name": "Sinfi_10",
+          "folder": "books/Kitobhoi_darsi/Sinfi_10",
+          "emoji": "📚"
+        },
+        {
+          "id": "sinfi_11",
+          "name": "Sinfi_11",
+          "folder": "books/Kitobhoi_darsi/Sinfi_11",
+          "emoji": "📚"
+        },
+        {
+          "id": "sinfi_2",
+          "name": "Sinfi_2",
+          "folder": "books/Kitobhoi_darsi/Sinfi_2",
+          "emoji": "📚"
+        },
+        {
+          "id": "sinfi_3",
+          "name": "Sinfi_3",
+          "folder": "books/Kitobhoi_darsi/Sinfi_3",
+          "emoji": "📚"
+        },
+        {
+          "id": "sinfi_4",
+          "name": "Sinfi_4",
+          "folder": "books/Kitobhoi_darsi/Sinfi_4",
+          "emoji": "📚"
+        },
+        {
+          "id": "sinfi_5",
+          "name": "Sinfi_5",
+          "folder": "books/Kitobhoi_darsi/Sinfi_5",
+          "emoji": "📚"
+        },
+        {
+          "id": "sinfi_6",
+          "name": "Sinfi_6",
+          "folder": "books/Kitobhoi_darsi/Sinfi_6",
+          "emoji": "📚"
+        },
+        {
+          "id": "sinfi_7",
+          "name": "Sinfi_7",
+          "folder": "books/Kitobhoi_darsi/Sinfi_7",
+          "emoji": "📚"
+        },
+        {
+          "id": "sinfi_8",
+          "name": "Sinfi_8",
+          "folder": "books/Kitobhoi_darsi/Sinfi_8",
+          "emoji": "📚"
+        },
+        {
+          "id": "sinfi_9",
+          "name": "Sinfi_9",
+          "folder": "books/Kitobhoi_darsi/Sinfi_9",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "adabiyoti_jahon",
+      "name": "Адабиёти ҷаҳон",
+      "emoji": "🌍",
+      "color1": "#0891b2",
+      "color2": "#22d3ee",
+      "subs": [
+        {
+          "id": "nasr",
+          "name": "Наср",
+          "folder": "books/Адабиёти ҷаҳон/Наср",
+          "emoji": "📚"
+        },
+        {
+          "id": "falsafa",
+          "name": "Фалсафа",
+          "folder": "books/Адабиёти ҷаҳон/Фалсафа",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "digar",
+      "name": "Дигар",
+      "emoji": "📂",
+      "color1": "#64748b",
+      "color2": "#94a3b8",
+      "subs": [
+        {
+          "id": "digar",
+          "name": "Дигар",
+          "folder": "books/Дигар",
+          "emoji": "📂"
+        }
+      ]
+    },
+    {
+      "id": "zhurnalistika",
+      "name": "Журналистика",
+      "emoji": "📰",
+      "color1": "#525252",
+      "color2": "#a3a3a3",
+      "subs": [
+        {
+          "id": "zhurnalistika",
+          "name": "Журналистика",
+          "folder": "books/Журналистика",
+          "emoji": "📰"
+        }
+      ]
+    },
+    {
+      "id": "zindaginoma",
+      "name": "Зиндагинома",
+      "emoji": "👤",
+      "color1": "#854d0e",
+      "color2": "#facc15",
+      "subs": [
+        {
+          "id": "yoddosht",
+          "name": "Ёддошт",
+          "folder": "books/Зиндагинома/Ёддошт",
+          "emoji": "📔"
+        },
+        {
+          "id": "zindaginoma",
+          "name": "Зиндагинома",
+          "folder": "books/Зиндагинома/Зиндагинома",
+          "emoji": "👤"
+        }
+      ]
+    },
+    {
+      "id": "iqtisod",
+      "name": "Иқтисод",
+      "emoji": "💼",
+      "color1": "#0e7490",
+      "color2": "#06b6d4",
+      "subs": [
+        {
+          "id": "buhgalteriya",
+          "name": "Бухгалтерия",
+          "folder": "books/Иқтисод/Бухгалтерия",
+          "emoji": "📚"
+        },
+        {
+          "id": "iqtisodiyot",
+          "name": "Иқтисодиёт",
+          "folder": "books/Иқтисод/Иқтисодиёт",
+          "emoji": "📚"
+        },
+        {
+          "id": "marketing",
+          "name": "Маркетинг",
+          "folder": "books/Иқтисод/Маркетинг",
+          "emoji": "📚"
+        },
+        {
+          "id": "moliya",
+          "name": "Молия",
+          "folder": "books/Иқтисод/Молия",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "tib",
+      "name": "Тиб",
+      "emoji": "⚕️",
+      "color1": "#dc2626",
+      "color2": "#f87171",
+      "subs": [
+        {
+          "id": "tibbi_ananavi",
+          "name": "Тибби анъанавӣ",
+          "folder": "books/Тиб/Тибби анъанавӣ",
+          "emoji": "📚"
+        },
+        {
+          "id": "tibbi_klassiki",
+          "name": "Тибби классикӣ",
+          "folder": "books/Тиб/Тибби классикӣ",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "farhang",
+      "name": "Фарҳанг",
+      "emoji": "🎨",
+      "color1": "#d97706",
+      "color2": "#fbbf24",
+      "subs": [
+        {
+          "id": "lughat",
+          "name": "Луғат",
+          "folder": "books/Фарҳанг/Луғат",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "chiston",
+      "name": "Чистон",
+      "emoji": "🧩",
+      "color1": "#0d9488",
+      "color2": "#5eead4",
+      "subs": [
+        {
+          "id": "chiston",
+          "name": "Чистон",
+          "folder": "books/Чистон",
+          "emoji": "🧩"
+        }
+      ]
+    }
+  ]
+}
