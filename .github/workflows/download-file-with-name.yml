@@ -1,0 +1,65 @@
+name: Download Files
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+    inputs:
+      folder:
+        description: 'Folder path (use underscores, not spaces)'
+        required: true
+        default: 'books/Sinfi_1'
+      url:
+        description: 'File URL'
+        required: true
+      filename:
+        description: 'File name (with extension, e.g. book.pdf)'
+        required: true
+        default: 'book.pdf'
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download file
+        run: |
+          FOLDER="${{ github.event.inputs.folder }}"
+          URL="${{ github.event.inputs.url }}"
+          FILENAME="${{ github.event.inputs.filename }}"
+
+          mkdir -p "$FOLDER"
+
+          echo "Downloading: $URL"
+          echo "Saving as: $FOLDER/$FILENAME"
+
+          # Download with browser headers
+          curl -L             -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"             -o "$FOLDER/$FILENAME"             "$URL" 2>&1 | tail -3
+
+          # Check if downloaded
+          if [ -s "$FOLDER/$FILENAME" ]; then
+            size=$(ls -lh "$FOLDER/$FILENAME" | awk '{print $5}')
+            echo "OK: $size"
+          else
+            echo "FAILED"
+            rm -f "$FOLDER/$FILENAME"
+            exit 1
+          fi
+
+          echo ""
+          echo "=== Files in $FOLDER ==="
+          ls -lah "$FOLDER/"
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Add $FILENAME to ${{ github.event.inputs.folder }}" || echo "No changes"
+          git push
