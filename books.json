@@ -5,6 +5,22 @@
   "branch": "main",
   "categories": [
     {
+      "id": "peshvoi_millat",
+      "name": "Пешвои миллат",
+      "emoji": "👑",
+      "color1": "#b45309",
+      "color2": "#f59e0b",
+      "subs": [
+        {
+          "id": "peshvoi_millat",
+          "name": "Пешвои миллат",
+          "folder": "books/Пешвои миллат",
+          "emoji": "👑"
+        }
+      ],
+      "priority": true
+    },
+    {
       "id": "kitobhoi_darsi",
       "name": "Kitobhoi_darsi",
       "emoji": "🎓",
