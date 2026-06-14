@@ -1,0 +1,85 @@
+name: Download Files (Auto)
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+    inputs:
+      folder:
+        description: 'Папка для сохранения (например: books/Китобҳои_дарсӣ/Синфи_1)'
+        required: true
+        default: 'books/Китобҳои_дарсӣ/Синфи_1'
+      urls:
+        description: 'Ссылки на файлы (каждая с новой строки)'
+        required: true
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download files
+        run: |
+          FOLDER="${{ github.event.inputs.folder }}"
+          mkdir -p "$FOLDER"
+
+          # Читаем ссылки из многострочного ввода
+          printf '%s
+' "${{ github.event.inputs.urls }}" > /tmp/urls.txt
+
+          counter=1
+
+          while IFS= read -r url; do
+            # Пропускаем пустые строки
+            [ -z "$url" ] && continue
+
+            echo "[$counter] Processing: $url"
+
+            # Получаем имя файла из URL (после последнего /)
+            filename=$(echo "$url" | sed 's/.*\///;s/[?#].*$//')
+
+            # Если имя пустое или не содержит точки, генерируем
+            if [ -z "$filename" ] || [ "$filename" = "/" ]; then
+              filename="book_${counter}.pdf"
+            fi
+
+            # Если нет расширения, добавляем .pdf
+            if ! echo "$filename" | grep -q '\.'; then
+              filename="${filename}.pdf"
+            fi
+
+            echo "  Filename: $filename"
+
+            # Скачиваем с заголовками браузера
+            curl -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"                  -H "Accept: application/pdf,*/*"                  -o "$FOLDER/$filename" "$url" 2>&1 | tail -3
+
+            # Проверяем результат
+            if [ -f "$FOLDER/$filename" ] && [ -s "$FOLDER/$filename" ]; then
+              size=$(ls -lh "$FOLDER/$filename" | awk '{print $5}')
+              echo "  ✓ Downloaded: $size"
+            else
+              echo "  ✗ Failed or empty"
+              rm -f "$FOLDER/$filename"
+            fi
+
+            counter=$((counter + 1))
+            sleep 2
+          done < /tmp/urls.txt
+
+          echo ""
+          echo "=== Result ==="
+          ls -lah "$FOLDER/"
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Add files to ${{ github.event.inputs.folder }} - $(date +%Y-%m-%d)" || echo "No changes"
+          git push
