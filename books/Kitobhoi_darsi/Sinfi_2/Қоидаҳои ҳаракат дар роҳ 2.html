@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta name="description" content="">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://marifat.tj/admin/img/180_favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://marifat.tj/admin/img/32_favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://marifat.tj/admin/img/16_favicon.png">
+    <link rel="icon" href="https://marifat.tj/admin/img/favicon.ico">
+    <link rel="mask-icon" href="https://marifat.tj/admin/img/favicon.png" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="stylesheet" href="https://marifat.tj/libs/normalize.css">
+    <link rel="stylesheet" href="https://marifat.tj/libs/main.css?version=1.0">
+    <link rel="stylesheet" href="https://marifat.tj/libs/popup.css">
+    <title>Қоидаҳои ҳаракат дар роҳ</title>
+    <script src="https://marifat.tj/js/jquery-3.2.1.min.js"></script>
+    <script src="https://marifat.tj/libs/jszip.min.js"></script>
+    <script src="https://marifat.tj/libs/epub.min.js"></script>
+    <script src="https://marifat.tj/libs/reader.js"></script>
+</head>
+<body>
+<div id="viewer" class="spreads"></div>
+<a id="prev" href="#prev" class="arrow">‹</a>
+<a id="next" href="#next" class="arrow">›</a>
+<div id="controls">
+    <input id="current-percent" size="3" value="0" /> %
+</div>
+<script>
+    let start = new Date();
+    let end   = "";
+
+    let screen_width = $(window).width();
+    var controls = document.getElementById("controls");
+    var currentPage = document.getElementById("current-percent");
+    var slider = document.createElement("input");
+    var slide = function(){
+        var cfi = book.locations.cfiFromPercentage(slider.value / 100);
+        rendition.display(cfi);
+    };
+    var mouseDown = false;
+
+    // Load the opf
+    var book = ePub("https://marifat.tj/admin/booksfiles/62e3cb638215d_1659095907.epub");
+    var rendition = book.renderTo("viewer", {
+        width: "100%",
+        height: screen_width-(screen_width/2)
+    });
+
+    var ajax_progress = "0";
+        ajax_progress = parseFloat(ajax_progress);
+    var displayed = rendition.display(ajax_progress);
+
+    var title = document.getElementById("title");
+
+    var next = document.getElementById("next");
+    next.addEventListener("click", function(e){
+        rendition.next();
+        e.preventDefault();
+    }, false);
+
+    var prev = document.getElementById("prev");
+    prev.addEventListener("click", function(e){
+        rendition.prev();
+        e.preventDefault();
+    }, false);
+
+    var keyListener = function(e){
+
+        // Left Key
+        if ((e.keyCode || e.which) == 37) {
+            rendition.prev();
+        }
+
+        // Right Key
+        if ((e.keyCode || e.which) == 39) {
+            rendition.next();
+        }
+
+    };
+    var stored = 0;
+    rendition.on("keyup", keyListener);
+    document.addEventListener("keyup", keyListener, false);
+
+    book.ready.then(function(){
+        // Load in stored locations from json or local storage
+        var key = book.key()+'-locations';
+         stored = localStorage.getItem(key);
+        if (stored) {
+            return book.locations.load(stored);
+        } else {
+            // Or generate the locations on the fly
+            // Can pass an option number of chars to break sections by
+            // default is 150 chars
+            return book.locations.generate(1600);
+        }
+    })
+        .then(function(locations){
+            controls.style.display = "block";
+            slider.setAttribute("type", "range");
+            slider.setAttribute("min", 0);
+            slider.setAttribute("max", 100);
+            // slider.setAttribute("max", book.locations.total+1);
+            slider.setAttribute("step", 1);
+            slider.setAttribute("value", 0);
+
+            slider.addEventListener("change", slide, false);
+            slider.addEventListener("mousedown", function(){
+                mouseDown = true;
+            }, false);
+            slider.addEventListener("mouseup", function(){
+                mouseDown = false;
+            }, false);
+
+            // Wait for book to be rendered to get current page
+            displayed.then(function(){
+                // Get the current CFI
+                var currentLocation = rendition.currentLocation();
+                // Get the Percentage (or location) from that CFI
+                var currentPage = book.locations.percentageFromCfi(currentLocation.start.cfi);
+                slider.value = currentPage;
+                currentPage.value = currentPage;
+            });
+
+            controls.appendChild(slider);
+
+            currentPage.addEventListener("change", function(){
+                var cfi = book.locations.cfiFromPercentage(currentPage.value/100);
+                rendition.display(cfi);
+            }, false);
+
+            // Listen for location changed event, get percentage from CFI
+            rendition.on('relocated', function(location){
+                var percent = book.locations.percentageFromCfi(location.start.cfi);
+                var percentage = Math.floor(percent * 100);
+                if(!mouseDown) {
+                    slider.value = percentage;
+                }
+                currentPage.value = percentage;
+                console.log(location);
+                console.log(percent);
+                updateBookProgress(percent);
+            });
+
+            // Save out the generated locations to JSON
+            localStorage.setItem(book.key()+'-locations', book.locations.save());
+
+        });
+
+
+        function updateBookProgress(percent){
+            $.ajax({
+                url: "https://marifat.tj/update/book/progress",
+                type: "post",
+                data: {
+                    _token:"yESYVEFYs31gmIsO1yVfneQnbsdu25KNy95Sl2J0",
+                    book_id: "104",
+                    percent:percent
+                } ,
+                success: function (response) {
+
+                },
+                error: function(jqXHR, textStatus, errorThrown) {
+                    console.log(textStatus, errorThrown);
+                }
+            });
+        }
+
+        updateTimeSpent();
+
+        function updateTimeSpent(){
+            end = new Date();
+            let timelapse = ((end - start) / 1000);
+            $.ajax({
+                url: "https://marifat.tj/update/book/timespent",
+                type: "post",
+                data: {
+                    _token: "yESYVEFYs31gmIsO1yVfneQnbsdu25KNy95Sl2J0",
+                    book_id: "104",
+                    timelapse: timelapse
+                },
+                async: false
+            });
+            setTimeout(updateTimeSpent,10000);
+            start = new Date();
+        }
+
+
+</script>
+
+</body>
+</html>
