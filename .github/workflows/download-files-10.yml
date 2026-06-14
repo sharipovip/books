@@ -1,0 +1,133 @@
+name: Download Files
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+    inputs:
+      folder:
+        description: 'Papka dlya sohraneniya'
+        required: true
+        default: 'books/Sinfi_1'
+      url1:
+        description: 'Ssylka 1'
+        required: true
+      name1:
+        description: 'Imya fayla 1'
+        required: true
+      url2:
+        description: 'Ssylka 2'
+        required: false
+      name2:
+        description: 'Imya fayla 2'
+        required: false
+      url3:
+        description: 'Ssylka 3'
+        required: false
+      name3:
+        description: 'Imya fayla 3'
+        required: false
+      url4:
+        description: 'Ssylka 4'
+        required: false
+      name4:
+        description: 'Imya fayla 4'
+        required: false
+      url5:
+        description: 'Ssylka 5'
+        required: false
+      name5:
+        description: 'Imya fayla 5'
+        required: false
+      url6:
+        description: 'Ssylka 6'
+        required: false
+      name6:
+        description: 'Imya fayla 6'
+        required: false
+      url7:
+        description: 'Ssylka 7'
+        required: false
+      name7:
+        description: 'Imya fayla 7'
+        required: false
+      url8:
+        description: 'Ssylka 8'
+        required: false
+      name8:
+        description: 'Imya fayla 8'
+        required: false
+      url9:
+        description: 'Ssylka 9'
+        required: false
+      name9:
+        description: 'Imya fayla 9'
+        required: false
+      url10:
+        description: 'Ssylka 10'
+        required: false
+      name10:
+        description: 'Imya fayla 10'
+        required: false
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download files
+        run: |
+          FOLDER="${{ github.event.inputs.folder }}"
+          mkdir -p "$FOLDER"
+
+          download_file() {
+            num=$1
+            url=$2
+            name=$3
+
+            if [ -z "$url" ] || [ -z "$name" ]; then
+              return
+            fi
+
+            echo "[$num] Skachivanie: $name"
+            curl -L -A "Mozilla/5.0" -o "$FOLDER/$name" "$url" 2>&1 | tail -2
+
+            if [ -s "$FOLDER/$name" ]; then
+              size=$(ls -lh "$FOLDER/$name" | awk '{print $5}')
+              echo "  OK: $size"
+            else
+              echo "  FAILED"
+              rm -f "$FOLDER/$name"
+            fi
+
+            sleep 2
+          }
+
+          download_file 1 "${{ github.event.inputs.url1 }}" "${{ github.event.inputs.name1 }}"
+          download_file 2 "${{ github.event.inputs.url2 }}" "${{ github.event.inputs.name2 }}"
+          download_file 3 "${{ github.event.inputs.url3 }}" "${{ github.event.inputs.name3 }}"
+          download_file 4 "${{ github.event.inputs.url4 }}" "${{ github.event.inputs.name4 }}"
+          download_file 5 "${{ github.event.inputs.url5 }}" "${{ github.event.inputs.name5 }}"
+          download_file 6 "${{ github.event.inputs.url6 }}" "${{ github.event.inputs.name6 }}"
+          download_file 7 "${{ github.event.inputs.url7 }}" "${{ github.event.inputs.name7 }}"
+          download_file 8 "${{ github.event.inputs.url8 }}" "${{ github.event.inputs.name8 }}"
+          download_file 9 "${{ github.event.inputs.url9 }}" "${{ github.event.inputs.name9 }}"
+          download_file 10 "${{ github.event.inputs.url10 }}" "${{ github.event.inputs.name10 }}"
+
+          echo ""
+          echo "=== Result ==="
+          ls -lah "$FOLDER/"
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Add files to ${{ github.event.inputs.folder }}" || echo "No changes"
+          git push
