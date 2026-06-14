@@ -1,1 +1,147 @@
+name: Download Files (Universal+)
 
+on:
+  workflow_dispatch:
+    inputs:
+      folder_choice:
+        description: 'Выберите папку или введите новую'
+        required: true
+        default: 'books/Китобҳои дарсӣ/Синфи 1'
+      new_folder:
+        description: 'Новая папка (если выбрали "Новая папка" выше)'
+        required: false
+      file_count:
+        description: 'Количество файлов (1-10)'
+        required: true
+        default: '1'
+        type: choice
+        options:
+          - '1'
+          - '2'
+          - '3'
+          - '4'
+          - '5'
+          - '6'
+          - '7'
+          - '8'
+          - '9'
+          - '10'
+      file1_url:
+        description: 'Ссылка на файл 1'
+        required: true
+      file1_name:
+        description: 'Имя файла 1 (с расширением)'
+        required: true
+      file2_url:
+        description: 'Ссылка на файл 2'
+        required: false
+      file2_name:
+        description: 'Имя файла 2'
+        required: false
+      file3_url:
+        description: 'Ссылка на файл 3'
+        required: false
+      file3_name:
+        description: 'Имя файла 3'
+        required: false
+      file4_url:
+        description: 'Ссылка на файл 4'
+        required: false
+      file4_name:
+        description: 'Имя файла 4'
+        required: false
+      file5_url:
+        description: 'Ссылка на файл 5'
+        required: false
+      file5_name:
+        description: 'Имя файла 5'
+        required: false
+      file6_url:
+        description: 'Ссылка на файл 6'
+        required: false
+      file6_name:
+        description: 'Имя файла 6'
+        required: false
+      file7_url:
+        description: 'Ссылка на файл 7'
+        required: false
+      file7_name:
+        description: 'Имя файла 7'
+        required: false
+      file8_url:
+        description: 'Ссылка на файл 8'
+        required: false
+      file8_name:
+        description: 'Имя файла 8'
+        required: false
+      file9_url:
+        description: 'Ссылка на файл 9'
+        required: false
+      file9_name:
+        description: 'Имя файла 9'
+        required: false
+      file10_url:
+        description: 'Ссылка на файл 10'
+        required: false
+      file10_name:
+        description: 'Имя файла 10'
+        required: false
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Scan existing folders
+        id: scan
+        run: |
+          echo "=== Существующие папки ==="
+          find books -type d 2>/dev/null | sort || echo "Папок пока нет"
+          echo "==========================="
+
+      - name: Determine folder path
+        id: folder
+        run: |
+          if [ "${{ github.event.inputs.folder_choice }}" = "Новая папка" ] && [ -n "${{ github.event.inputs.new_folder }}" ]; then
+            FOLDER="${{ github.event.inputs.new_folder }}"
+          else
+            FOLDER="${{ github.event.inputs.folder_choice }}"
+          fi
+          echo "FOLDER=$FOLDER" >> $GITHUB_OUTPUT
+          echo "Target folder: $FOLDER"
+
+      - name: Download files
+        run: |
+          FOLDER="${{ steps.folder.outputs.FOLDER }}"
+          mkdir -p "$FOLDER"
+
+          COUNT=${{ github.event.inputs.file_count }}
+
+          for i in $(seq 1 $COUNT); do
+            URL_VAR="file${i}_url"
+            NAME_VAR="file${i}_name"
+            URL="${!URL_VAR}"
+            NAME="${!NAME_VAR}"
+
+            if [ -n "$URL" ] && [ -n "$NAME" ]; then
+              echo "[$i/$COUNT] Downloading: $NAME"
+              curl -L --fail -o "$FOLDER/$NAME" "$URL" && echo "  ✓ Success" || echo "  ✗ Failed"
+            else
+              echo "[$i/$COUNT] Skipped (empty URL or name)"
+            fi
+          done
+
+          echo ""
+          echo "=== Downloaded files ==="
+          ls -lah "$FOLDER/"
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Add files to ${{ steps.folder.outputs.FOLDER }} - $(date +%Y-%m-%d)" || echo "No changes"
+          git push
