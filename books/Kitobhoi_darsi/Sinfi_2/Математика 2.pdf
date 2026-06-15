@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="tj">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="5lOYVAmKbUyVeOzHl57nJl7f8jOzfWTEEb7NgEVC">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://marifat.tj/admin/img/180_favicon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://marifat.tj/admin/img/32_favicon.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://marifat.tj/admin/img/16_favicon.png">
+<link rel="icon" href="https://marifat.tj/admin/img/favicon.ico">
+<link rel="mask-icon" href="https://marifat.tj/admin/img/favicon.png" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://marifat.tj/libs/css/bootstrap.css">
+<link rel="stylesheet" href="https://marifat.tj/libs/bootstrap-icons/font/bootstrap-icons.css">
+<link rel="stylesheet" href="https://marifat.tj/css/style.css?version=1.2.1">    <script src="https://marifat.tj/js/jquery-3.2.1.min.js"></script>
+<script src="https://marifat.tj/libs/js/bootstrap.bundle.js"></script>
+<script src="https://marifat.tj/js/popper.min.js"></script>
+<script>
+    let url = "https://marifat.tj/";
+    let CSRF_TOKEN = $("meta[name='csrf-token']").attr('content');
+    $(function (){
+        $('#signin').on('submit', function(e){
+            e.preventDefault();
+            let $this = $(this);
+            $.ajax({
+                url: $this.prop('action'),
+                method: $this.prop('method'),
+                dataType: 'json',
+                data: $this.serialize()
+            }).done( function (response) {
+                console.log(response);
+                if (response=="0"){
+                    $(".signin_alert").show();
+                }else{
+                    window.location.reload();
+                }
+            });
+        });
+    });
+</script>
+        <title>Математика</title>
+    <link rel="stylesheet" href="https://marifat.tj/libs/star-rating-svg.css">
+</head>
+<body>
+<div class="web-header">
+    <div class="web-header_container">
+        <div class="gerb_tj"></div>
+        <div class="web-header_title">Китобхонаи электронӣ <br> Вазорати маориф ва илми Ҷумхурии Тоҷикистон</div>
+
+        <div class="nav_languages_wrapper">
+                        <a href="https://marifat.tj/set/locale?locale=ru" class="nothing_selected"><span class="flag_icon ru"></span> <span class="lang_title">RU</span></a>
+            <a href="https://marifat.tj/set/locale?locale=en" class="nothing_selected"><span class="flag_icon en"></span> <span class="lang_title">EN</span></a>
+            <a href="https://marifat.tj/set/locale?locale=tj" class="nav_lang_active"><span class="flag_icon tj"></span> <span class="lang_title">TJ</span></a>
+        </div>
+
+
+    </div>
+</div>
+<nav class="navbar">
+    <div class="nav_container">
+        <div class="logo-icon"></div>
+        <a href="https://marifat.tj/" class="logo_desc text-decoration-none">
+            <div class="logo-text">Китобхона</div>
+            <div class="logo_desc_text">Китоб, аудио, видео</div>
+        </a>
+                    <button class="btn-login" data-bs-toggle="modal" data-bs-target="#signInModal">Ворид шудан</button>
+                <a href="https://marifat.tj/faq" class="nav-menu ">Саволҳои маъмулӣ</a>
+        <a href="https://marifat.tj/videos" class="nav-menu ">Видео дарсҳо</a>
+        <a href="https://marifat.tj/audiobooks" class="nav-menu ">Аудио китобҳо</a>
+        <a href="https://marifat.tj/books" class="nav-menu nav-menu-active">Китобҳо</a>
+    </div>
+</nav>
+
+<!-- Modal -->
+<div class="modal fade" data-bs-backdrop="static" id="signInModal" tabindex="-1" aria-labelledby="signInModal" aria-hidden="true">
+    <div class="modal-dialog modal-sm modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="signInModal">Ворид шудан</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form action="https://marifat.tj/user/signin" method="post" id="signin">
+                <input type="hidden" name="_token" value="5lOYVAmKbUyVeOzHl57nJl7f8jOzfWTEEb7NgEVC">            <div class="modal-body">
+                <div class="mb-2">
+                    <label class="form-label">Логин</label>
+                    <input type="text" name="login" class="form-control" placeholder="name@example.com" required>
+                </div>
+                <div class="mb-2">
+                    <label  class="form-label">Рамз</label>
+                    <input type="password" name="password" class="form-control"  placeholder="" required>
+                </div>
+                <div class="mb-3">
+                    <a href="#">Рамзро фаромӯш кардед?</a>
+                </div>
+
+                <div class="alert alert-danger signin_alert p-3">Логин ё рамз нодуруст аст. Лутфан маълумоти дурустро ворид кунед.</div>
+
+            </div>
+            <div class="modal-footer">
+                <a href="https://marifat.tj/create/account" type="button" class="btn btn-secondary">Сохтани аккаунт</a>
+                <button type="submit" class="btn btn-primary">Ворид шудан</button>
+            </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="banner">
+    <div class="banner_heading">Ҷустуҷӯи китоб ва видео дарсҳо</div>
+    <div class="banner_heading_desc">Зиёда аз 1000+ китоб ва видео дарсҳо</div>
+    <div class="banner_search_wrapper">
+        <form action="books" method="get">
+        <input type="text" name="search" id="home_search_input" placeholder="">
+        <button type="submit" class="banner_search_btn">Ҷустуҷӯ</button>
+        </form>
+    </div>
+</div>
+<div class="container-fluid container-non-responsive">
+    <div class="row pt-4">
+        <main class="col-12 pb-5" id="main_content">
+            
+    <div class="row" id="book_details" book_id="83">
+        <div class="col-3">
+            <div class="book_preview left-floated">
+                <div class="book_preview_cover">
+                                            <img src="https://marifat.tj/admin/bookavatar/697b3766b6c79_1769682790.png" alt="book-cover">
+                                                                            </div>
+                <div class="book_preview_rating_wrapper">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                                                    <i class="bi bi-star"></i>
+                                                <i class="bi bi-star"></i>
+                                                <i class="bi bi-star"></i>
+                                    </div>
+                <div class="book_preview_title">Математика</div>
+            </div>
+
+            
+                        <div class="remove_from_favorites_button remove_my_favorite_book" book_id="83">
+               Алоқаманд нест
+            </div>
+                    </div>
+
+        <div class="col-8 bg-white shadow-sm p-3 rounded">
+            <div aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="https://marifat.tj/books?categories=13">Адабиёти мактабӣ</a></li>
+                    <li class="breadcrumb-item"><a href="https://marifat.tj/books?categories=13">Класс 2</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Математика</li>
+                </ol>
+            </div>
+            <h4 class="h4">Математика</h4>
+            <div class="book-author">
+                Муаллифи китоб: Шуайбова О., Худойдодова М., Шарифов Э., Норов Қ., Ҳалимов Ғ., Ҳақназаров Х., Бурҳонов Б.
+                <div class="book_preview_rating_wrapper ps-0">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                                                <i class="bi bi-star"></i>
+                                            <i class="bi bi-star"></i>
+                                            <i class="bi bi-star"></i>
+                                    </div>
+            </div>
+
+            <p class="about-book-short">
+                <b class="big-title-on-p">Дар бораи китоб</b><br>
+                
+            </p>
+
+            <table class="table table-sm">
+                <tr>
+                    <td width="200">Муаллиф</td>
+                    <td>Шуайбова О., Худойдодова М., Шарифов Э., Норов Қ., Ҳалимов Ғ., Ҳақназаров Х., Бурҳонов Б.</td>
+                </tr>
+                <tr>
+                    <td width="200">Нашриёт</td>
+                    <td>Маориф</td>
+                </tr>
+                <tr>
+                    <td>Забони нашриёт</td>
+                    <td>
+                                                Таджикский
+                    </td>
+                </tr>
+                <tr>
+                    <td>Соли нашр</td>
+                    <td>2019</td>
+                </tr>
+            </table>
+
+            <p>
+                <b class="big-title-on-p">Форматҳои дастрас</b>
+            </p>
+
+            <table class="table table-sm">
+                                                <tr>
+                    <td>EPUB</td>
+                                        <td width="150"><a target="_blank" href="https://marifat.tj/book/epub?book=62df83d9a1b7e_1658815449.epub&amp;id=83" class="btn btn-success btn-sm container-fluid">Онлайн хондан</a></td>
+                                                        </tr>
+                            </table>
+
+            <h5 class="mt-3">Мухобирот</h5>
+                            <div class="alert alert-primary mt-3">Мухобирот гузоштан ба маводи мазкур иҷозат нашудааст.</div>
+                    </div>
+
+    </div>
+
+    <script src="https://marifat.tj/libs/jquery.star-rating-svg.js"></script>
+    <script src="https://marifat.tj/js/books.js"></script>
+
+        </main>
+    </div>
+</div>
+<footer>
+    <div class="footer_container">
+        <div class="row">
+            <div class="col-3">
+                <div class="footer_header">Китобхона</div>
+                <a href="https://marifat.tj/books" class="footer_menu_item">Китобҳо</a>
+                <a href="https://marifat.tj/audiobooks" class="footer_menu_item">Аудио китобҳо</a>
+                <a href="https://marifat.tj/videos" class="footer_menu_item">Видео дарсҳо</a>
+                <a href="https://marifat.tj/faq" class="footer_menu_item">Саволҳои маъмулӣ</a>
+            </div>
+
+
+            <div class="col-3">
+                <div class="footer_header">Тамос</div>
+                <p>Телефон: +(992)225-84-34<br>Email: <a href="mailto:markazi-tik@maorif.tj">markazi-tik@maorif.tj</a><br>Суроға: ш.Душанбе, кучаи Айнӣ 126</p>
+            </div>
+
+            <div class="col-3">
+                <div class="footer_header">Китобхона дар ҷайби шумо</div>
+                <a href="https://play.google.com/store/apps/details?id=tj.com.maorif.marifat" class="footer_download_app_wrapper">
+                    <div class="footer_download_app_icon"></div>
+                    <div class="footer_download_app_head">Google Play</div>
+                    <div class="footer_download_app_desc">Скачать</div>
+                </a>
+            </div>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
