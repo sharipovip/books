@@ -1,0 +1,85 @@
+name: ♻️ Restore missing books from old commit
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_ref:
+        description: 'Old commit SHA where the lost books existed'
+        required: true
+        default: '19ee7feb7291d4dfb4a73cbbfe04353a8df5684c'
+      path:
+        description: 'Folder to restore from old commit'
+        required: true
+        default: 'books'
+      mode:
+        description: 'missing_only = restore only absent files; overwrite = restore full folder exactly from old commit'
+        required: true
+        default: 'missing_only'
+        type: choice
+        options:
+          - missing_only
+          - overwrite
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout current main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: ♻️ Restore files
+        shell: bash
+        run: |
+          set -euo pipefail
+          SRC='${{ github.event.inputs.source_ref }}'
+          RESTORE_PATH='${{ github.event.inputs.path }}'
+          MODE='${{ github.event.inputs.mode }}'
+
+          echo "Source ref: $SRC"
+          echo "Restore path: $RESTORE_PATH"
+          echo "Mode: $MODE"
+
+          git fetch origin "$SRC" --depth=1 || true
+          git cat-file -e "$SRC^{commit}"
+
+          if [ "$MODE" = "overwrite" ]; then
+            echo "⚠ Overwrite mode: restoring full path exactly from old commit"
+            git checkout "$SRC" -- "$RESTORE_PATH"
+          else
+            echo "✅ Missing-only mode: restoring only files absent in current main"
+            restored=0
+            # Restore regular files under RESTORE_PATH that exist in SRC but are absent now.
+            while IFS= read -r -d '' file; do
+              if [ ! -e "$file" ]; then
+                mkdir -p "$(dirname "$file")"
+                git checkout "$SRC" -- "$file"
+                echo "Restored: $file"
+                restored=$((restored+1))
+              fi
+            done < <(git ls-tree -r -z --name-only "$SRC" -- "$RESTORE_PATH")
+            echo "Restored files: $restored"
+          fi
+
+          echo ""
+          echo "Changed files:"
+          git status --short
+
+      - name: 💾 Commit restored files
+        shell: bash
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "✓ No files to restore"
+          else
+            git commit -m "♻️ restore missing books from ${{ github.event.inputs.source_ref }}"
+            git push
+            echo "✅ Restored files pushed"
+          fi
