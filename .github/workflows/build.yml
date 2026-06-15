@@ -13,22 +13,30 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: build-books-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Checkout
         uses: actions/checkout@v4
-        with: { fetch-depth: 1 }
+        with:
+          fetch-depth: 1
+          persist-credentials: true
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
+        with:
+          python-version: '3.11'
 
       - name: 📦 Install dependencies
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y poppler-utils
+          python -m pip install --upgrade pip
           pip install --quiet pillow
 
       - name: 🔨 Run build.py
