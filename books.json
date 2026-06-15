@@ -83,6 +83,38 @@
       ]
     },
     {
+      "id": "adabiyoti_muosir",
+      "name": "Адабиёти муосир",
+      "folder_raw": "Адабиёти муосир",
+      "emoji": "✍️",
+      "color1": "#7c3aed",
+      "color2": "#a78bfa",
+      "sort_order": 31,
+      "subs": [
+        {
+          "id": "adabiyoti_muosir_povest",
+          "name": "Повест",
+          "folder_raw": "Повест",
+          "folder": "books/Адабиёти муосир/Повест",
+          "emoji": "📚"
+        },
+        {
+          "id": "adabiyoti_muosir_publitsistika",
+          "name": "Публитсистика",
+          "folder_raw": "Публитсистика",
+          "folder": "books/Адабиёти муосир/Публитсистика",
+          "emoji": "📚"
+        },
+        {
+          "id": "adabiyoti_muosir_roman",
+          "name": "Роман",
+          "folder_raw": "Роман",
+          "folder": "books/Адабиёти муосир/Роман",
+          "emoji": "📕"
+        }
+      ]
+    },
+    {
       "id": "chiston",
       "name": "Чистон",
       "folder_raw": "Чистон",
