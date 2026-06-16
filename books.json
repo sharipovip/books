@@ -111,6 +111,20 @@
           "folder_raw": "Роман",
           "folder": "books/Адабиёти муосир/Роман",
           "emoji": "📕"
+        },
+        {
+          "id": "adabiyoti_muosir_safarnoma",
+          "name": "Сафарнома",
+          "folder_raw": "Сафарнома",
+          "folder": "books/Адабиёти муосир/Сафарнома",
+          "emoji": "📚"
+        },
+        {
+          "id": "adabiyoti_muosir_sher",
+          "name": "Шеър",
+          "folder_raw": "Шеър",
+          "folder": "books/Адабиёти муосир/Шеър",
+          "emoji": "🌹"
         }
       ]
     },
