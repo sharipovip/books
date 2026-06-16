@@ -272,6 +272,24 @@
       ]
     },
     {
+      "id": "ilmi",
+      "name": "Илмӣ",
+      "folder_raw": "Илмӣ",
+      "emoji": "🔬",
+      "color1": "#7c3aed",
+      "color2": "#a78bfa",
+      "sort_order": 110,
+      "subs": [
+        {
+          "id": "ilmi_siyosatshinosi",
+          "name": "Сиёсатшиносӣ",
+          "folder_raw": "Сиёсатшиносӣ",
+          "folder": "books/Илмӣ/Сиёсатшиносӣ",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
       "id": "digar",
       "name": "Дигар",
       "folder_raw": "Дигар",
