@@ -281,6 +281,34 @@
       "sort_order": 110,
       "subs": [
         {
+          "id": "ilmi_informatika",
+          "name": "Информатика",
+          "folder_raw": "Информатика",
+          "folder": "books/Илмӣ/Информатика",
+          "emoji": "📚"
+        },
+        {
+          "id": "ilmi_matematika",
+          "name": "Математика",
+          "folder_raw": "Математика",
+          "folder": "books/Илмӣ/Математика",
+          "emoji": "📚"
+        },
+        {
+          "id": "ilmi_pedagogika",
+          "name": "Педагогика",
+          "folder_raw": "Педагогика",
+          "folder": "books/Илмӣ/Педагогика",
+          "emoji": "📚"
+        },
+        {
+          "id": "ilmi_psihologiya",
+          "name": "Психология",
+          "folder_raw": "Психология",
+          "folder": "books/Илмӣ/Психология",
+          "emoji": "📚"
+        },
+        {
           "id": "ilmi_siyosatshinosi",
           "name": "Сиёсатшиносӣ",
           "folder_raw": "Сиёсатшиносӣ",
