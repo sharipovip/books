@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-06-16",
+  "updatedAt": "2026-06-17",
   "repo": "sharipovip/books",
   "branch": "main",
   "categories": [
@@ -314,6 +314,49 @@
           "folder_raw": "Сиёсатшиносӣ",
           "folder": "books/Илмӣ/Сиёсатшиносӣ",
           "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "peshvoi_millat",
+      "name": "Пешвои Миллат",
+      "folder_raw": "Пешвои Миллат",
+      "emoji": "👑",
+      "color1": "#0d9488",
+      "color2": "#5eead4",
+      "sort_order": 111,
+      "subs": [
+        {
+          "id": "peshvoi_millat",
+          "name": "Пешвои Миллат",
+          "folder_raw": "Пешвои Миллат",
+          "folder": "books/Пешвои Миллат",
+          "emoji": "👑"
+        }
+      ]
+    },
+    {
+      "id": "tarih",
+      "name": "Таърих",
+      "folder_raw": "Таърих",
+      "emoji": "🏛",
+      "color1": "#d97706",
+      "color2": "#fbbf24",
+      "sort_order": 112,
+      "subs": [
+        {
+          "id": "tarih",
+          "name": "Таърих",
+          "folder_raw": "Таърих",
+          "folder": "books/Таърих",
+          "emoji": "🏛"
+        },
+        {
+          "id": "tarih_tarihi_jahon",
+          "name": "Таърихи Ҷаҳон",
+          "folder_raw": "Таърихи Ҷаҳон",
+          "folder": "books/Таърих/Таърихи Ҷаҳон",
+          "emoji": "🏛"
         }
       ]
     },
