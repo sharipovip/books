@@ -1,6 +1,10 @@
 {
   "version": 3,
+<<<<<<< Updated upstream
   "updatedAt": "2026-06-19",
+=======
+  "updatedAt": "2026-06-17",
+>>>>>>> Stashed changes
   "repo": "sharipovip/books",
   "branch": "main",
   "categories": [

@@ -1,13 +1,21 @@
 {
   "version": 1,
+<<<<<<< Updated upstream
   "updatedAt": "2026-06-19",
+=======
+  "updatedAt": "2026-06-17",
+>>>>>>> Stashed changes
   "folder": "books/Адабиёти ҷаҳон/Фалсафа",
   "books": [
     {
       "name": "Китоби роҳ ва фазилат (Дао дэ Сзин). Лао-Сзи",
       "file": "Китоби роҳ ва фазилат (Дао дэ Сзин). Лао-Сзи.pdf",
       "size": 2751075,
+<<<<<<< Updated upstream
       "mtime": 1781829527
+=======
+      "mtime": 1781734611
+>>>>>>> Stashed changes
     }
   ]
 }

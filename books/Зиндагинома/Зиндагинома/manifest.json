@@ -1,13 +1,21 @@
 {
   "version": 1,
+<<<<<<< Updated upstream
   "updatedAt": "2026-06-19",
+=======
+  "updatedAt": "2026-06-17",
+>>>>>>> Stashed changes
   "folder": "books/Зиндагинома/Зиндагинома",
   "books": [
     {
       "name": "Зиндагиномаи Садриддин Айнӣ. Холида Айнӣ",
       "file": "Зиндагиномаи Садриддин Айнӣ. Холида Айнӣ.pdf",
       "size": 11129031,
+<<<<<<< Updated upstream
       "mtime": 1781829527
+=======
+      "mtime": 1781734611
+>>>>>>> Stashed changes
     }
   ]
 }

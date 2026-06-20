@@ -1,49 +1,81 @@
 {
   "version": 1,
+<<<<<<< Updated upstream
   "updatedAt": "2026-06-19",
+=======
+  "updatedAt": "2026-06-17",
+>>>>>>> Stashed changes
   "folder": "books/Чистон",
   "books": [
     {
       "name": "Суфиев А. Ҳазору як чистон",
       "file": "Суфиев А. Ҳазору як чистон.pdf",
       "size": 4077622,
+<<<<<<< Updated upstream
       "mtime": 1781829529
+=======
+      "mtime": 1781734613
+>>>>>>> Stashed changes
     },
     {
       "name": "Чист он",
       "file": "Чист он.pdf",
       "size": 5091772,
+<<<<<<< Updated upstream
       "mtime": 1781829529
+=======
+      "mtime": 1781734613
+>>>>>>> Stashed changes
     },
     {
       "name": "Чистон 2",
       "file": "Чистон 2.pdf",
       "size": 360126,
+<<<<<<< Updated upstream
       "mtime": 1781829529
+=======
+      "mtime": 1781734613
+>>>>>>> Stashed changes
     },
     {
       "name": "Чистон",
       "file": "Чистон.pdf",
       "size": 5091772,
+<<<<<<< Updated upstream
       "mtime": 1781829529
+=======
+      "mtime": 1781734613
+>>>>>>> Stashed changes
     },
     {
       "name": "Чистонҳо 1",
       "file": "Чистонҳо 1.pdf",
       "size": 232338,
+<<<<<<< Updated upstream
       "mtime": 1781829529
+=======
+      "mtime": 1781734613
+>>>>>>> Stashed changes
     },
     {
       "name": "Чистонҳо Н. Розик",
       "file": "Чистонҳо Н. Розик.pdf",
       "size": 51441,
+<<<<<<< Updated upstream
       "mtime": 1781829529
+=======
+      "mtime": 1781734613
+>>>>>>> Stashed changes
     },
     {
       "name": "Чистонҳо",
       "file": "Чистонҳо.pdf",
       "size": 91764,
+<<<<<<< Updated upstream
       "mtime": 1781829529
+=======
+      "mtime": 1781734613
+>>>>>>> Stashed changes
     }
   ]
 }

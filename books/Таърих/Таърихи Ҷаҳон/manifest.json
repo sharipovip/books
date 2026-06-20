@@ -1,13 +1,21 @@
 {
   "version": 1,
+<<<<<<< Updated upstream
   "updatedAt": "2026-06-19",
+=======
+  "updatedAt": "2026-06-17",
+>>>>>>> Stashed changes
   "folder": "books/Таърих/Таърихи Ҷаҳон",
   "books": [
     {
       "name": "Таърихи инқилоби Бухоро. Садриддин Айнӣ",
       "file": "Таърихи инқилоби Бухоро. Садриддин Айнӣ.pdf",
       "size": 15594622,
+<<<<<<< Updated upstream
       "mtime": 1781829529
+=======
+      "mtime": 1781734612
+>>>>>>> Stashed changes
     }
   ]
 }

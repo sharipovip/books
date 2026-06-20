@@ -1,13 +1,21 @@
 {
   "version": 1,
+<<<<<<< Updated upstream
   "updatedAt": "2026-06-19",
+=======
+  "updatedAt": "2026-06-17",
+>>>>>>> Stashed changes
   "folder": "books/Таърих",
   "books": [
     {
       "name": "Эҳёи Аҷам. Руҷӯи таърихию публицистӣ. Акбар Турсунов",
       "file": "Эҳёи Аҷам. Руҷӯи таърихию публицистӣ. Акбар Турсунов.pdf",
       "size": 3681201,
+<<<<<<< Updated upstream
       "mtime": 1781829529
+=======
+      "mtime": 1781734612
+>>>>>>> Stashed changes
     }
   ]
 }

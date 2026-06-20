@@ -1,25 +1,41 @@
 {
   "version": 1,
+<<<<<<< Updated upstream
   "updatedAt": "2026-06-19",
+=======
+  "updatedAt": "2026-06-17",
+>>>>>>> Stashed changes
   "folder": "books/Адабиёти классикӣ/Илмӣ",
   "books": [
     {
       "name": "Наврӯзнома (Наврузнаме, Nawruz-name, نوروزنامه). Умари Хайём",
       "file": "Наврӯзнома (Наврузнаме, Nawruz-name, نوروزنامه). Умари Хайём.pdf",
       "size": 16023100,
+<<<<<<< Updated upstream
       "mtime": 1781829523
+=======
+      "mtime": 1781734607
+>>>>>>> Stashed changes
     },
     {
       "name": "Осор-ул-боқия. Абӯрайҳон Берунӣ",
       "file": "Осор-ул-боқия. Абӯрайҳон Берунӣ.pdf",
       "size": 47234455,
+<<<<<<< Updated upstream
       "mtime": 1781829524
+=======
+      "mtime": 1781734607
+>>>>>>> Stashed changes
     },
     {
       "name": "Рисолаи Дилкушо (чанд ҳикоят). Убайди Зоконӣ",
       "file": "Рисолаи Дилкушо (чанд ҳикоят). Убайди Зоконӣ.pdf",
       "size": 9585061,
+<<<<<<< Updated upstream
       "mtime": 1781829524
+=======
+      "mtime": 1781734607
+>>>>>>> Stashed changes
     }
   ]
 }
