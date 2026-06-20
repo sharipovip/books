@@ -1,10 +1,6 @@
 {
   "version": 3,
-<<<<<<< Updated upstream
-  "updatedAt": "2026-06-19",
-=======
-  "updatedAt": "2026-06-17",
->>>>>>> Stashed changes
+  "updatedAt": "2026-06-20",
   "repo": "sharipovip/books",
   "branch": "main",
   "categories": [
@@ -276,19 +272,135 @@
       ]
     },
     {
-      "id": "ilmi",
-      "name": "Илмӣ",
-      "folder_raw": "Илмӣ",
-      "emoji": "🔬",
+      "id": "kitobhoi_darsi",
+      "name": "Kitobhoi darsi",
+      "folder_raw": "Kitobhoi darsi",
+      "emoji": "📚",
       "color1": "#7c3aed",
       "color2": "#a78bfa",
       "sort_order": 110,
       "subs": [
         {
+          "id": "kitobhoi_darsi_sinfi_1",
+          "name": "sinfi 1",
+          "folder_raw": "sinfi_1",
+          "folder": "books/Kitobhoi darsi/sinfi_1",
+          "emoji": "📚"
+        },
+        {
+          "id": "kitobhoi_darsi_sinfi_10",
+          "name": "sinfi 10",
+          "folder_raw": "sinfi_10",
+          "folder": "books/Kitobhoi darsi/sinfi_10",
+          "emoji": "📚"
+        },
+        {
+          "id": "kitobhoi_darsi_sinfi_11",
+          "name": "sinfi 11",
+          "folder_raw": "sinfi_11",
+          "folder": "books/Kitobhoi darsi/sinfi_11",
+          "emoji": "📚"
+        },
+        {
+          "id": "kitobhoi_darsi_sinfi_2",
+          "name": "sinfi 2",
+          "folder_raw": "sinfi_2",
+          "folder": "books/Kitobhoi darsi/sinfi_2",
+          "emoji": "📚"
+        },
+        {
+          "id": "kitobhoi_darsi_sinfi_3",
+          "name": "sinfi 3",
+          "folder_raw": "sinfi_3",
+          "folder": "books/Kitobhoi darsi/sinfi_3",
+          "emoji": "📚"
+        },
+        {
+          "id": "kitobhoi_darsi_sinfi_4",
+          "name": "sinfi 4",
+          "folder_raw": "sinfi_4",
+          "folder": "books/Kitobhoi darsi/sinfi_4",
+          "emoji": "📚"
+        },
+        {
+          "id": "kitobhoi_darsi_sinfi_5",
+          "name": "sinfi 5",
+          "folder_raw": "sinfi_5",
+          "folder": "books/Kitobhoi darsi/sinfi_5",
+          "emoji": "📚"
+        },
+        {
+          "id": "kitobhoi_darsi_sinfi_6",
+          "name": "sinfi 6",
+          "folder_raw": "sinfi_6",
+          "folder": "books/Kitobhoi darsi/sinfi_6",
+          "emoji": "📚"
+        },
+        {
+          "id": "kitobhoi_darsi_sinfi_7",
+          "name": "sinfi 7",
+          "folder_raw": "sinfi_7",
+          "folder": "books/Kitobhoi darsi/sinfi_7",
+          "emoji": "📚"
+        },
+        {
+          "id": "kitobhoi_darsi_sinfi_8",
+          "name": "sinfi 8",
+          "folder_raw": "sinfi_8",
+          "folder": "books/Kitobhoi darsi/sinfi_8",
+          "emoji": "📚"
+        },
+        {
+          "id": "kitobhoi_darsi_sinfi_9",
+          "name": "sinfi 9",
+          "folder_raw": "sinfi_9",
+          "folder": "books/Kitobhoi darsi/sinfi_9",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "ilmi",
+      "name": "Илмӣ",
+      "folder_raw": "Илмӣ",
+      "emoji": "🔬",
+      "color1": "#0d9488",
+      "color2": "#5eead4",
+      "sort_order": 111,
+      "subs": [
+        {
+          "id": "ilmi",
+          "name": "Илмӣ",
+          "folder_raw": "Илмӣ",
+          "folder": "books/Илмӣ",
+          "emoji": "🔬"
+        },
+        {
+          "id": "ilmi_adabiyotshinosi",
+          "name": "Адабиётшиносӣ",
+          "folder_raw": "Адабиётшиносӣ",
+          "folder": "books/Илмӣ/Адабиётшиносӣ",
+          "emoji": "📚"
+        },
+        {
+          "id": "ilmi_zabonshinosi",
+          "name": "Забоншиносӣ",
+          "folder_raw": "Забоншиносӣ",
+          "folder": "books/Илмӣ/Забоншиносӣ",
+          "emoji": "📚"
+        },
+        {
           "id": "ilmi_informatika",
           "name": "Информатика",
           "folder_raw": "Информатика",
           "folder": "books/Илмӣ/Информатика",
+          "emoji": "📚"
+        },
+        {
+          "id": "ilmi_kimiyo",
+          "name": "Кимиё",
+          "folder_raw": "Кимиё",
+          "folder": "books/Илмӣ/Кимиё",
           "emoji": "📚"
         },
         {
@@ -318,6 +430,80 @@
           "folder_raw": "Сиёсатшиносӣ",
           "folder": "books/Илмӣ/Сиёсатшиносӣ",
           "emoji": "📚"
+        },
+        {
+          "id": "ilmi_tehnologiya",
+          "name": "Технология",
+          "folder_raw": "Технология",
+          "folder": "books/Илмӣ/Технология",
+          "emoji": "📚"
+        },
+        {
+          "id": "ilmi_falsafa",
+          "name": "Фалсафа",
+          "folder_raw": "Фалсафа",
+          "folder": "books/Илмӣ/Фалсафа",
+          "emoji": "🤔"
+        },
+        {
+          "id": "ilmi_huquq",
+          "name": "Ҳуқуқ",
+          "folder_raw": "Ҳуқуқ",
+          "folder": "books/Илмӣ/Ҳуқуқ",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "islomi",
+      "name": "Исломӣ",
+      "folder_raw": "Исломӣ",
+      "emoji": "📚",
+      "color1": "#d97706",
+      "color2": "#fbbf24",
+      "sort_order": 112,
+      "subs": [
+        {
+          "id": "islomi",
+          "name": "Исломӣ",
+          "folder_raw": "Исломӣ",
+          "folder": "books/Исломӣ",
+          "emoji": "📚"
+        },
+        {
+          "id": "islomi_islom_ahloq",
+          "name": "Ахлоқ",
+          "folder_raw": "Ахлоқ",
+          "folder": "books/Исломӣ/Ислом/Ахлоқ",
+          "emoji": "📚"
+        },
+        {
+          "id": "islomi_islom_digar",
+          "name": "Дигар",
+          "folder_raw": "Дигар",
+          "folder": "books/Исломӣ/Ислом/Дигар",
+          "emoji": "📚"
+        },
+        {
+          "id": "islomi_islom_fiqh",
+          "name": "Фиқҳ",
+          "folder_raw": "Фиқҳ",
+          "folder": "books/Исломӣ/Ислом/Фиқҳ",
+          "emoji": "📚"
+        },
+        {
+          "id": "islomi_islom_quron",
+          "name": "Қуръон",
+          "folder_raw": "Қуръон",
+          "folder": "books/Исломӣ/Ислом/Қуръон",
+          "emoji": "📚"
+        },
+        {
+          "id": "islomi_islom_hadis",
+          "name": "Ҳадис",
+          "folder_raw": "Ҳадис",
+          "folder": "books/Исломӣ/Ислом/Ҳадис",
+          "emoji": "📚"
         }
       ]
     },
@@ -326,9 +512,9 @@
       "name": "Пешвои Миллат",
       "folder_raw": "Пешвои Миллат",
       "emoji": "👑",
-      "color1": "#0d9488",
-      "color2": "#5eead4",
-      "sort_order": 111,
+      "color1": "#dc2626",
+      "color2": "#f87171",
+      "sort_order": 113,
       "subs": [
         {
           "id": "peshvoi_millat",
@@ -344,9 +530,9 @@
       "name": "Таърих",
       "folder_raw": "Таърих",
       "emoji": "🏛",
-      "color1": "#d97706",
-      "color2": "#fbbf24",
-      "sort_order": 112,
+      "color1": "#0891b2",
+      "color2": "#22d3ee",
+      "sort_order": 114,
       "subs": [
         {
           "id": "tarih",

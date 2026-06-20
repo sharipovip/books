@@ -1,41 +1,25 @@
 {
   "version": 1,
-<<<<<<< Updated upstream
-  "updatedAt": "2026-06-19",
-=======
-  "updatedAt": "2026-06-17",
->>>>>>> Stashed changes
+  "updatedAt": "2026-06-20",
   "folder": "books/Дигар",
   "books": [
     {
       "name": "Сурудҳои мардумии Кӯлоб",
       "file": "Сурудҳои мардумии Кӯлоб.pdf",
       "size": 1110670,
-<<<<<<< Updated upstream
-      "mtime": 1781829527
-=======
-      "mtime": 1781734611
->>>>>>> Stashed changes
+      "mtime": 1781993425
     },
     {
       "name": "Таъбири хоб",
       "file": "Таъбири хоб.pdf",
       "size": 42509971,
-<<<<<<< Updated upstream
-      "mtime": 1781829527
-=======
-      "mtime": 1781734611
->>>>>>> Stashed changes
+      "mtime": 1781993425
     },
     {
       "name": "Шугунҳо ё Ирим сиримҳо. Фарҳод Исомиддинов",
       "file": "Шугунҳо ё Ирим сиримҳо. Фарҳод Исомиддинов.pdf",
       "size": 693950,
-<<<<<<< Updated upstream
-      "mtime": 1781829527
-=======
-      "mtime": 1781734611
->>>>>>> Stashed changes
+      "mtime": 1781993425
     }
   ]
 }

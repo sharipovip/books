@@ -1,31 +1,19 @@
 {
   "version": 1,
-<<<<<<< Updated upstream
-  "updatedAt": "2026-06-19",
-=======
-  "updatedAt": "2026-06-17",
->>>>>>> Stashed changes
+  "updatedAt": "2026-06-20",
   "folder": "books/Тиб/Тибби классикӣ",
   "books": [
     {
       "name": "Мунтахаби осор — Тибби рӯҳонӣ (чопӣ). Закариёи Розӣ",
       "file": "Мунтахаби осор — Тибби рӯҳонӣ (чопӣ). Закариёи Розӣ.pdf",
       "size": 4634500,
-<<<<<<< Updated upstream
-      "mtime": 1781829529
-=======
-      "mtime": 1781734613
->>>>>>> Stashed changes
+      "mtime": 1781993430
     },
     {
       "name": "Тибби Мансурӣ. Закариёи Розӣ",
       "file": "Тибби Мансурӣ. Закариёи Розӣ.pdf",
       "size": 2675474,
-<<<<<<< Updated upstream
-      "mtime": 1781829529
-=======
-      "mtime": 1781734613
->>>>>>> Stashed changes
+      "mtime": 1781993430
     }
   ]
 }
