@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-06-20",
+  "updatedAt": "2026-06-22",
   "repo": "sharipovip/books",
   "branch": "main",
   "categories": [
@@ -360,13 +360,38 @@
       ]
     },
     {
+      "id": "adabiyoti_bachagona",
+      "name": "Адабиёти бачагона",
+      "folder_raw": "Адабиёти бачагона",
+      "emoji": "📚",
+      "color1": "#0d9488",
+      "color2": "#5eead4",
+      "sort_order": 111,
+      "subs": [
+        {
+          "id": "adabiyoti_bachagona_nazm",
+          "name": "Назм",
+          "folder_raw": "Назм",
+          "folder": "books/Адабиёти бачагона/Назм",
+          "emoji": "📝"
+        },
+        {
+          "id": "adabiyoti_bachagona_nasr",
+          "name": "Наср",
+          "folder_raw": "Наср",
+          "folder": "books/Адабиёти бачагона/Наср",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
       "id": "ilmi",
       "name": "Илмӣ",
       "folder_raw": "Илмӣ",
       "emoji": "🔬",
-      "color1": "#0d9488",
-      "color2": "#5eead4",
-      "sort_order": 111,
+      "color1": "#d97706",
+      "color2": "#fbbf24",
+      "sort_order": 112,
       "subs": [
         {
           "id": "ilmi",
@@ -459,9 +484,9 @@
       "name": "Исломӣ",
       "folder_raw": "Исломӣ",
       "emoji": "📚",
-      "color1": "#d97706",
-      "color2": "#fbbf24",
-      "sort_order": 112,
+      "color1": "#dc2626",
+      "color2": "#f87171",
+      "sort_order": 113,
       "subs": [
         {
           "id": "islomi",
@@ -512,9 +537,9 @@
       "name": "Пешвои Миллат",
       "folder_raw": "Пешвои Миллат",
       "emoji": "👑",
-      "color1": "#dc2626",
-      "color2": "#f87171",
-      "sort_order": 113,
+      "color1": "#0891b2",
+      "color2": "#22d3ee",
+      "sort_order": 114,
       "subs": [
         {
           "id": "peshvoi_millat",
@@ -530,9 +555,9 @@
       "name": "Таърих",
       "folder_raw": "Таърих",
       "emoji": "🏛",
-      "color1": "#0891b2",
-      "color2": "#22d3ee",
-      "sort_order": 114,
+      "color1": "#16a34a",
+      "color2": "#86efac",
+      "sort_order": 115,
       "subs": [
         {
           "id": "tarih",
