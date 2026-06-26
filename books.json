@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-06-24",
+  "updatedAt": "2026-06-26",
   "repo": "sharipovip/books",
   "branch": "main",
   "categories": [
@@ -380,6 +380,13 @@
           "name": "Наср",
           "folder_raw": "Наср",
           "folder": "books/Адабиёти бачагона/Наср",
+          "emoji": "📚"
+        },
+        {
+          "id": "adabiyoti_bachagona_nasr_kitobho_az_usaid",
+          "name": "Китобҳо аз USAID",
+          "folder_raw": "Китобҳо аз USAID",
+          "folder": "books/Адабиёти бачагона/Наср/Китобҳо аз USAID",
           "emoji": "📚"
         }
       ]
