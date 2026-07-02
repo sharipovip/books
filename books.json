@@ -388,6 +388,13 @@
           "folder_raw": "Китобҳо аз USAID",
           "folder": "books/Адабиёти бачагона/Наср/Китобҳо аз USAID",
           "emoji": "📚"
+        },
+        {
+          "id": "adabiyoti_bachagona_folklor",
+          "name": "Фолклор",
+          "folder_raw": "Фолклор",
+          "folder": "books/Адабиёти бачагона/Фолклор",
+          "emoji": "📚"
         }
       ]
     },
