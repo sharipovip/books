@@ -5,7 +5,9 @@ on:
     branches: [main]
     paths:
       - 'books/**'
+      - 'covers/**'
       - 'build.py'
+      - 'generate_covers_manifest.py'
       - 'display_names.json'
       - '.github/workflows/build.yml'
   workflow_dispatch:
@@ -42,6 +44,9 @@ jobs:
       - name: 🔨 Run build.py
         run: python3 build.py
 
+      - name: 🖼 Generate covers manifest
+        run: python3 generate_covers_manifest.py
+
       - name: 💾 Commit changes
         run: |
           git config user.name  "github-actions[bot]"
@@ -50,7 +55,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "✓ No changes to commit"
           else
-            git commit -m "🤖 auto: rebuild manifests + books.json + covers"
+            git commit -m "🤖 auto: rebuild manifests + books.json + covers + covers_manifest.json"
             git push
             echo "✅ Pushed changes"
           fi
