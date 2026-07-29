@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21",
+  "updatedAt": "2026-07-29",
   "folder": "books/Исломӣ",
   "books": [
     {
       "name": "Чаҳоркитоб",
       "file": "Чаҳоркитоб.pdf",
       "size": 31314754,
-      "mtime": 1784656218
+      "mtime": 1785313775
     }
   ]
 }
