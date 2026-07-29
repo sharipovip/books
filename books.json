@@ -125,6 +125,13 @@
           "folder_raw": "Шеър",
           "folder": "books/Адабиёти муосир/Шеър",
           "emoji": "🌹"
+        },
+        {
+          "id": "adabiyoti_muosir_hikoya_va_qissa",
+          "name": "Ҳикоя ва қисса",
+          "folder_raw": "Ҳикоя ва қисса",
+          "folder": "books/Адабиёти муосир/Ҳикоя ва қисса",
+          "emoji": "📖"
         }
       ]
     },
@@ -547,13 +554,31 @@
       ]
     },
     {
-      "id": "peshvoi_millat",
-      "name": "Пешвои Миллат",
-      "folder_raw": "Пешвои Миллат",
+      "id": "kitobho_baroi_peshvoi_millat",
+      "name": "КИТОБҲО БАРОИ ПЕШВОИ МИЛЛАТ",
+      "folder_raw": "КИТОБҲО БАРОИ ПЕШВОИ МИЛЛАТ",
       "emoji": "👑",
       "color1": "#0891b2",
       "color2": "#22d3ee",
       "sort_order": 114,
+      "subs": [
+        {
+          "id": "kitobho_baroi_peshvoi_millat",
+          "name": "КИТОБҲО БАРОИ ПЕШВОИ МИЛЛАТ",
+          "folder_raw": "КИТОБҲО БАРОИ ПЕШВОИ МИЛЛАТ",
+          "folder": "books/КИТОБҲО БАРОИ ПЕШВОИ МИЛЛАТ",
+          "emoji": "👑"
+        }
+      ]
+    },
+    {
+      "id": "peshvoi_millat",
+      "name": "Пешвои Миллат",
+      "folder_raw": "Пешвои Миллат",
+      "emoji": "👑",
+      "color1": "#16a34a",
+      "color2": "#86efac",
+      "sort_order": 115,
       "subs": [
         {
           "id": "peshvoi_millat",
@@ -569,9 +594,9 @@
       "name": "Таърих",
       "folder_raw": "Таърих",
       "emoji": "🏛",
-      "color1": "#16a34a",
-      "color2": "#86efac",
-      "sort_order": 115,
+      "color1": "#be185d",
+      "color2": "#f472b6",
+      "sort_order": 116,
       "subs": [
         {
           "id": "tarih",
