@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-07-29",
+  "updatedAt": "2026-09-26",
   "repo": "sharipovip/books",
   "branch": "main",
   "categories": [
@@ -406,13 +406,31 @@
       ]
     },
     {
+      "id": "biologiya",
+      "name": "Биология",
+      "folder_raw": "Биология",
+      "emoji": "📚",
+      "color1": "#d97706",
+      "color2": "#fbbf24",
+      "sort_order": 112,
+      "subs": [
+        {
+          "id": "biologiya",
+          "name": "Биология",
+          "folder_raw": "Биология",
+          "folder": "books/Биология",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
       "id": "ilmi",
       "name": "Илмӣ",
       "folder_raw": "Илмӣ",
       "emoji": "🔬",
-      "color1": "#d97706",
-      "color2": "#fbbf24",
-      "sort_order": 112,
+      "color1": "#dc2626",
+      "color2": "#f87171",
+      "sort_order": 113,
       "subs": [
         {
           "id": "ilmi",
@@ -505,9 +523,9 @@
       "name": "Исломӣ",
       "folder_raw": "Исломӣ",
       "emoji": "📚",
-      "color1": "#dc2626",
-      "color2": "#f87171",
-      "sort_order": 113,
+      "color1": "#0891b2",
+      "color2": "#22d3ee",
+      "sort_order": 114,
       "subs": [
         {
           "id": "islomi",
@@ -558,9 +576,9 @@
       "name": "КИТОБҲО БАРОИ ПЕШВОИ МИЛЛАТ",
       "folder_raw": "КИТОБҲО БАРОИ ПЕШВОИ МИЛЛАТ",
       "emoji": "👑",
-      "color1": "#0891b2",
-      "color2": "#22d3ee",
-      "sort_order": 114,
+      "color1": "#16a34a",
+      "color2": "#86efac",
+      "sort_order": 115,
       "subs": [
         {
           "id": "kitobho_baroi_peshvoi_millat",
@@ -576,9 +594,9 @@
       "name": "Пешвои Миллат",
       "folder_raw": "Пешвои Миллат",
       "emoji": "👑",
-      "color1": "#16a34a",
-      "color2": "#86efac",
-      "sort_order": 115,
+      "color1": "#be185d",
+      "color2": "#f472b6",
+      "sort_order": 116,
       "subs": [
         {
           "id": "peshvoi_millat",
@@ -594,9 +612,9 @@
       "name": "Таърих",
       "folder_raw": "Таърих",
       "emoji": "🏛",
-      "color1": "#be185d",
-      "color2": "#f472b6",
-      "sort_order": 116,
+      "color1": "#64748b",
+      "color2": "#94a3b8",
+      "sort_order": 117,
       "subs": [
         {
           "id": "tarih",

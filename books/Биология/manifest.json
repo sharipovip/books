@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-26",
+  "folder": "books/Биология",
+  "books": [
+    {
+      "name": "1_botanika_qismi_2",
+      "file": "1_botanika_qismi_2.pdf",
+      "size": 77738846,
+      "mtime": 1790456449
+    },
+    {
+      "name": "1_Entomolgiyai_umumi",
+      "file": "1_Entomolgiyai_umumi.pdf",
+      "size": 23627938,
+      "mtime": 1790456447
+    },
+    {
+      "name": "1_inzhenernaja_biologija",
+      "file": "1_inzhenernaja_biologija.pdf",
+      "size": 81140005,
+      "mtime": 1790456449
+    },
+    {
+      "name": "1_nho_a01.qxd",
+      "file": "1_nho_a01.qxd.pdf",
+      "size": 25383357,
+      "mtime": 1790456449
+    },
+    {
+      "name": "biologiyai rastanii... -2025. 73с.",
+      "file": "biologiyai rastanii... -2025. 73с..pdf",
+      "size": 18962834,
+      "mtime": 1790456449
+    }
+  ]
+}
