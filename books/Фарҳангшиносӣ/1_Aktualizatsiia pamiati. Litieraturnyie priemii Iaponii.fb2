@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <book-title>Актуализация памяти. Литературные премии Японии</book-title>
+   <author><first-name>Елена</first-name><middle-name>Михайловна</middle-name><last-name>Байбикова</last-name></author>
+   <genre>sci_culture</genre>
+   <genre>nonf_publicism</genre>
+   <sequence name="Иностранная литература журнал 2012 №2" number="1"/>
+   <date/>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>ru</lang>
+   </title-info>
+  <document-info>
+   <author>
+    <first-name>Ant82</first-name>
+    <last-name/>
+    <nickname>Неизвестный автор</nickname>
+   </author>
+   <program-used>ABBYY FineReader 11, FictionBook Editor Release 2.6</program-used>
+   <date value="2012-03-08">129756518717810000</date>
+   <src-ocr>ABBYY FineReader 11</src-ocr>
+   <id>{742FB26D-917F-4F4D-8EE1-7A28F76AD01F}</id>
+   <version>1.0</version>
+   <history>
+    <p>Ant82</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>Актуализация памяти. Литературные премии Японии</book-name>
+   <publisher>Иностранная литература </publisher>
+   <city>Москва</city>
+   <year>2012</year>
+   </publish-info>
+ </description>
+ <body>
+  <section>
+   <title>
+    <p>Актуализация памяти. Литературные премии Японии</p>
+   </title>
+   <p>Первая литературная премия появилась в Японии в 1893 году <a l:href="#n_1" type="note">[1]</a>, всего лишь на двенадцать лет позже учреждения Пушкинской премии в России. Как и везде, институт литературной премии возник в Японии практически одновременно с зарождением развивающегося книжного рынка современной литературы. И хотя первая премия была учреждена для поощрения авторов лишь исторических произведений, тем не менее в ее жюри вошли крупнейшие писатели и литературтрегеры того времени: Сёё Цубоути и Коё Одзаки<a l:href="#n_2" type="note">[2]</a>.</p>
+   <p>Такое начало можно счесть вполне закономерным, ведь японская письменная литература началась именно с исторических памятников — “Кодзики” и “Нихонги”<a l:href="#n_3" type="note">[3]</a>, которым теперь отведено почетное место в классическом литературном каноне.</p>
+   <p>Литературный канон отдельно взятой нации историчен априори, по своей сути он — память национальной литературы, нечто вроде молекулы ДНК. Для фиксации, хранения и воспроизведения информации используются разные канонизирующие механизмы: статичный и динамичный. Говоря об этих основных механизмах литературной канонизации, историк японской литературы Эдвард Мэк определяет институт литературной премии именно как динамичную систему<a l:href="#n_4" type="note">[4]</a>. Можно сказать, что литературная премия функционирует как музей: с одной стороны, она поддерживает существующий канон (бывшие лауреаты премий и их тексты формируют “постоянную экспозицию” музея), с другой — институт премии является механизмом обновления канона: благодаря премиям коллекция литературных экспонатов постоянно пополняется. В случае с крупными престижными премиями каждое такое обновление создает медийный повод, подстегивает интерес широкой публики к национальной литературе, заново легитимизируя ее существование. Собственно, в этом и проявляется динамичность данного механизма.</p>
+   <p>Однако в условиях общемировой экономики культурных практик с ее концепцией “заменяемой” культуры “одноразового пользования”<a l:href="#n_5" type="note">[5]</a>, многие премии (равно как и многие музеи) на фоне непрекращающегося процесса изъятия форм художественной культуры из повседневного обращения грешат “недифференцированным собирательством артефактов”<a l:href="#n_6" type="note">[6]</a>, которое узаконивается неоспоримым профессиональным авторитетом самих “собирателей” или, говоря иначе, компетентных экспертов.</p>
+   <p>Нодзоми Омори, автор “Нападок на литературные премии” — своеобразного путеводителя по литературным премиям, пишет в одной из своих максим: “Читать произведения лауреатов дебютных премий — все равно что играть в лотерею” <a l:href="#n_7" type="note">[7]</a>; и еще через несколько страниц: “Понимание того или иного выбора, сделанного в рамках литературной премии, доступно лишь через отождествление себя с теми, кто входит с состав Комитета” <a l:href="#n_8" type="note">[8]</a>. Впрочем, пресловутая “случайность” выбора может быть отчасти компенсирована количеством премий, а также их разнообразием.</p>
+   <p>В Японии, к слову, общее количество премий превышает пятьсот. (Для сравнения — в путеводителе “Литературные премии России” перечислено около семидесяти литературных премий, десять из которых относятся к дореволюционному и советскому периоду <a l:href="#n_9" type="note">[9]</a>.) Премии учреждаются издательствами, редакциями журналов, различными обществами, фондами и административными образованиями; например, премия Сэя Ито была учреждена в 1990 году муниципалитетом г. Отару, родного города писателя, и компанией “Хоккайдо симбунся”. Премия присуждается в двух номинациях: художественное произведение и литературоведческое исследование. Призовой фонд — 1 млн. иен.</p>
+   <p>Большинство японских премий в отличие от западных признают только “одноразовое” лауреатство. То есть получить одну и ту же премию дважды — невозможно.</p>
+   <p>Зачастую премии разных учредителей конкурируют между собой (как, впрочем, и сами учредители), меряются статусностью, которая во многом зависит от состава жюри. Вероятно, именно этим объясняется тот факт, что в жюри разных премий попадают одни и те же люди. Так, например, Синтаро Исихара <a l:href="#n_10" type="note">[10]</a>с 1992 по 2007 годы входил в комитет премии Юкио Мисимы, учрежденной издательством “Синтёся” <a l:href="#n_11" type="note">[11]</a>, а в 2009-м — в комитет премии Акутагавы, учрежденной издательством “Бунгэй сюндзю” <a l:href="#n_12" type="note">[12]</a>. Премия имени Юкио Мисимы существует с 1988 года. Присуждается ежегодно во второй декаде мая за новаторское письмо авторам прозаических, поэтических, литературоведческих и драматургических произведений. Призовой фонд — 1 млн. иен. Премия имени Рюноскэ Акутагавы считается самой престижной из присуждаемых дебютантам и неизвестным авторам. Учреждена в 1935 году в память о выдающемся японском писателе. Призовой фонд — 1 млн. иен. Премии удостаиваются произведения “дзюнбунгаку” (“чистая литература”) — принятое в японском литературоведении общее обозначение для прозаических, поэтических и драматургических художественных произведений, противопоставляемых произведениям массовой или развлекательной литературы.</p>
+   <p>Писательница Ёко Огава <a l:href="#n_13" type="note">[13]</a>в 2009 году была членом жюри сразу обеих премий. Здесь необходимо пояснить, что премия Мисимы изначально была создана как аналог премии Акутагавы и традиционно соперничает с ней в жанре “дзюнбунгаку”. В области массовой литературы у обоих издательств также есть конкурирующие премии: премия Сюгоро Ямамато<a l:href="#n_14" type="note">[14]</a> и премия Наоки<a l:href="#n_15" type="note">[15]</a>, соответственно. Вообще, если говорить о спектре премируемых жанров, то возникает ощущение, что в Японии существуют премии практически для любого жанра. Например, в 2006 году газета “Маинити” учредила премию “Большой мобильный роман” за произведение, написанное на мобильном телефоне.</p>
+   <p>Премии дифференцированы не только по жанрам, но и по степени известности авторов, а также по способу отбора произведений. В настоящее время в Японии более пятидесяти дебютных премий, которые присуждаются по результатам открытого конкурса. Существуют и “закрытые” дебютные премии — например, упомянутая выше премия Акутагавы, присуждаемая дважды в год. Самой престижной премией для признанных авторов считается премия Номы<a l:href="#n_16" type="note">[16]</a>. Есть также премии для “известных, но непризнанных” — к этой категории можно отнести, например, премию Тайко Хирабаяси, просуществовавшую с 1973-го no 1997 год. Эта премия была учреждена по завещанию писательницы и ориентировалась на “тех, кто отдав себя без остатка литературе, не получил должного признания”. С 1989 года куратором премии было влиятельное издательство “Коданся”.</p>
+   <p>Призовые фонды премий существенно различны. Скажем, лауреат премии “Гран-при роман Поплар” <a l:href="#n_17" type="note">[17]</a>получает приз в двадцать миллионов иен (около 250000 долларов по нынешнему курсу), а тот, кому досталась премия имени Кэндзабуро Оэ<a l:href="#n_18" type="note">[18]</a>, вовсе не получает денежной награды. Размер денежных призов подавляющего большинства известных премий колеблется от 500 тыс. до 2 млн. иен. У некоторых премий есть свои эмблемы и символы. Так, к примеру, лауреату премии Кёка Идзуми вручается зеркало — аллюзия на псевдоним писателя, первый иероглиф которого (“кё”) имеет значение “зеркало” — престижная премия учреждена муниципалитетом города Канадзава в 1973 году в честь столетнего юбилея со дня рождения писателя и присуждается ежегодно. Призовой фонд — 1 млн. иен. Премией награждают, как правило, за определённое произведение, однако отдельные авторы были удостоены премии за вклад в японскую литературу.</p>
+   <p>Количество и степень специализации премий — признак литературоцентричного общества с динамичной литературной жизнью и агрессивным литературным рынком, стратегическое развитие которого, а также динамика взаимодействия различных игроков, конечно, не могут не влиять на институт литературной премии. Тем не менее сопутствуя современной литературе практически со дня ее основания, этот своеобразный динамичный канон<a l:href="#n_19" type="note">[19]</a>, как уже говорилось, формирует память современной литературы и обеспечивает культурную преемственность. Составителям номера хотелось дать читателям возможность увидеть это самим.</p>
+   <p>Именно поэтому в данном разделе публикуются произведения трех представителей довоенной японской литературы — Кёка Идзуми, Сэя Ито и Тайко Хирабаяси, ранее почти не переводившихся на русский язык. Именами этих писателей названы Не очень крупные, но солидные <a l:href="#n_20" type="note">[20]</a>литературные премии, лауреатами и членами жюри которых в разные годы были некоторые из авторов, представленных в данном номере.</p>
+  </section>
+ </body>
+ <body name="notes">
+  <title>
+   <p>Примечания</p>
+  </title>
+  <section id="n_1">
+   <title>
+    <p>1</p>
+   </title>
+   <p>Премия газеты “Ёмиури” за исторический роман и пьесу.</p>
+  </section>
+  <section id="n_2">
+   <title>
+    <p>2</p>
+   </title>
+   <p>Сёё Цубоути (1859–1935) — ученый-филолог и писатель. Автор известного трактата “Сущность романа” (1885), в котором постулировались революционные принципы построения литературного произведения. Коё Одзаки (1867–1903) — японский писатель. Вместе с Бимё Ямада создал в 1888 г. литературное общество “Друзья тушечницы” (от слова “тушь”), идейно-творческая позиция которого была связана с традициями старой литературы.</p>
+  </section>
+  <section id="n_3">
+   <title>
+    <p>3</p>
+   </title>
+   <p>“Кодзики” (Записи о деяниях древности) — историко-литературный памятник, датирован 712 г.; “Нихонги” (Анналы Японии) — хроника правлений императоров Японии с древнейших времен до 697 г. в 31 томе. Составлена в 720 г.</p>
+  </section>
+  <section id="n_4">
+   <title>
+    <p>4</p>
+   </title>
+   <p>Edward Mack. Manufacturing Modern Japanese Literature: Publishing, Prizes, and the Ascription of Literary Value. — Durham &amp; London: Duke University Press, 2010. P. 6. Мэк противопоставляет институту литературной премии издание многотомных серий (статичная канонизация).</p>
+  </section>
+  <section id="n_5">
+   <title>
+    <p>5</p>
+   </title>
+   <p>Sandra Ponzanesi. Boutique Postcolonialism: Literary Awards, Cultural Value and the Canon / In</p>
+   <p>H. Klein &amp; W. Görtschacher (Eds.) // Fiction and Literary Prizes in Great Britain (pp. 107–134). Vienna: Praesens Verlag, p. 120.</p>
+  </section>
+  <section id="n_6">
+   <title>
+    <p>6</p>
+   </title>
+   <p>Формулировка про недифференцированное собирательство позаимствована из публикации: О. Беззубова. Музей как объект философско-антропологического исследования // Методология гуманитарного знания в перспективе XXI века. — Серия “Symposium”. — Выпуск № 12.— СПб.: Санкт-Петербургское философское общество, 2001, с. 179–183.</p>
+  </section>
+  <section id="n_7">
+   <title>
+    <p>7</p>
+   </title>
+   <p>Нодзоми Омори (р. 1961) — японский литературный критик, переводчик, составитель антологий. “Нападки” написаны в соавторстве с писательницей Юми Тоёдзаки. (Бунгаку-сё мэттагири. — Токио: Тикума Сёбо, 2008, с. 85).</p>
+  </section>
+  <section id="n_8">
+   <title>
+    <p>8</p>
+   </title>
+   <p>Там же. С. 137. Ср. с высказыванием Александра Иличевского, лауреата “Русского Букера” (2007) и “Большой книги”(2010): “Культура — организм, канонизирующий текст. Премия тоже призвана быть одной из функций этого сложного процесса. Механизм — инструмент премии — предельно груб и случаен. Это примерно как делать нейрохирургическую операцию при помощи топора. Но иногда удается сделать выбор, мало чем отличающийся от высокого художественного акта”. (Из частной переписки с автором данной статьи, 30.8.2011.)</p>
+  </section>
+  <section id="n_9">
+   <title>
+    <p>9</p>
+   </title>
+   <p>Литературные премии России: Путеводитель / Сост. Р. М. Рубен. — М., 2008.</p>
+  </section>
+  <section id="n_10">
+   <title>
+    <p>10</p>
+   </title>
+   <p>Синтаро Исихара (р. 1932) — японский писатель и политик, с 1999 г. занимающий пост губернатора Токио. Его произведения известны русскоязычному читателю благодаря переводам Александра Мещерякова.</p>
+  </section>
+  <section id="n_11">
+   <title>
+    <p>11</p>
+   </title>
+   <p>“Синтёся” — издательство, основано в 1896 г. Одно из наиболее известных и значимых японских издательств, широко известно своими литературными журналами и серией “Библиотека Синтёся”. Издательство курирует ряд крупных литературных премий.</p>
+  </section>
+  <section id="n_12">
+   <title>
+    <p>12</p>
+   </title>
+   <p>“Бунгэй сюндзю” — издательство, основанное в 1923 г. известным японским писателем Каном Кикути. “Бунгэй сюндзю” курирует такие престижные литературные премии, как премия Акутагавы и премия Наоки.</p>
+  </section>
+  <section id="n_13">
+   <title>
+    <p>13</p>
+   </title>
+   <p>Ёко Огава (р. 1962) — японская писательница, лауреат премий Акутагавы (1990), Танидзаки (2006) и др.</p>
+  </section>
+  <section id="n_14">
+   <title>
+    <p>14</p>
+   </title>
+   <p>Премия Сюгоро Ямамото учреждена в 1987 г. Присуждается ежегодно авторам новых произведений “За виртуозное владение искусством рассказчика”. Призовой фонд — 1 млн иен.</p>
+  </section>
+  <section id="n_15">
+   <title>
+    <p>15</p>
+   </title>
+   <p>Премия Наоки учреждена в 1935 году параллельно с премией Акутагавы. Премии удостаиваются произведения массовой и развлекательной литературы. Призовой фонд — 1 млн иен.</p>
+  </section>
+  <section id="n_16">
+   <title>
+    <p>16</p>
+   </title>
+   <p>Премия Номы присуждается ежегодно с 1941 г. в соответствии с завещанием Сэйдзи Номы, основателя издательства “Коданся”. Изначально премией награждался автор за вклад в японскую литературу. После 1953 г. назначение премии изменилось, и теперь она присуждается за выдающееся литературное произведение. Призовой фонд — 3 млн иен. Писатели, получившие эту премию, фактически признаются классиками современной японской литературы.</p>
+  </section>
+  <section id="n_17">
+   <title>
+    <p>17</p>
+   </title>
+   <p>“Гран-при роман Поплар” — дебютная премия, учрежденная издательством “Поплар” в 2006 г. Присуждается авторам за произведения массовой и развлекательной литературы.</p>
+  </section>
+  <section id="n_18">
+   <title>
+    <p>18</p>
+   </title>
+   <p>Премия имени Кэндзабуро Оэ была учреждена в 2006 в честь пятидесятилетия писательской карьеры нобелевского лауреата Кэндзабуро Оэ, а также в честь 150-летия со дня основания издательства “Коданся”. Единственным членом жюри является сам Оэ. Главный приз — перевод произведения на английский, французский или немецкий языки и публикация за рубежом.</p>
+  </section>
+  <section id="n_19">
+   <title>
+    <p>19</p>
+   </title>
+   <p>Edward Mack. Manufacturing Modern Japanese Literature, p. 182.</p>
+  </section>
+  <section id="n_20">
+   <title>
+    <p>20</p>
+   </title>
+   <p>В данном контексте определение “солидные” соотносится с английским “trustworthy” (вызывающие доверие) в том смысле, в котором это словосочетание используется в работе Каре Юхана Мьёра: Käre Johan Mjør. The Online Library and the Classic Literary Canon in PostSoviet Russia: Some Observations on “The Fundamental Electronic Library of Russian Literature and Folklore” // <emphasis>Digital Icons: Studies in Russian, Eurasian and Central European New Media</emphasis>. 2009, vol.</p>
+   <p>1. № 2, p. 83–99. URL: http://digi-talicons.org/issie02/kare=mjor/</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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</binary>
+</FictionBook>
