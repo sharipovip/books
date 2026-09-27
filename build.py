@@ -4,8 +4,8 @@
 Китобхона — auto builder for sharipovip/books
 
 What it does:
-1) Scans books/** for PDF files.
-2) Writes manifest.json into every folder that contains PDFs.
+1) Scans books/** for book files (pdf, epub, fb2, doc, docx, mp4, txt).
+2) Writes manifest.json into every folder that contains them.
 3) Writes root books.json from the real folder structure.
 4) Generates covers/<same folder>/<pdf name>.jpg from first PDF page.
 
@@ -41,6 +41,9 @@ BRANCH = os.environ.get("KITOB_BRANCH", "main")
 TODAY = date.today().isoformat()
 
 PDF_EXT = ".pdf"
+# v94: бисёрформат — ғайр аз PDF ин форматҳо низ ба manifest.json ва books.json дохил мешаванд
+# (барнома онҳоро мекушояд: epub/fb2/docx дар дохил, .doc тавассути барномаи берунӣ, mp4/текст)
+BOOK_EXTS = {".pdf", ".epub", ".fb2", ".doc", ".docx", ".mp4", ".txt"}
 COVER_W = int(os.environ.get("COVER_W", "400"))
 COVER_H = int(os.environ.get("COVER_H", "600"))
 COVER_QUALITY = int(os.environ.get("COVER_QUALITY", "78"))
@@ -183,9 +186,9 @@ def collect_pdf_dirs() -> dict[Path, list[Path]]:
     if not BOOKS_DIR.exists():
         print("⚠ books/ directory does not exist")
         return result
-    for pdf in BOOKS_DIR.rglob("*.pdf"):
-        if pdf.is_file():
-            result.setdefault(pdf.parent, []).append(pdf)
+    for item in BOOKS_DIR.rglob("*"):
+        if item.is_file() and item.suffix.lower() in BOOK_EXTS:
+            result.setdefault(item.parent, []).append(item)
     for k in result:
         result[k].sort(key=lambda p: p.name.casefold())
     return dict(sorted(result.items(), key=lambda kv: kv[0].as_posix().casefold()))
@@ -212,7 +215,7 @@ def build_manifests(pdf_dirs: dict[Path, list[Path]]) -> int:
         }
         if write_json_if_changed(folder / "manifest.json", manifest):
             changed += 1
-            print(f"📝 manifest: {rel_posix(folder)}/manifest.json ({len(pdfs)} PDF)")
+            print(f"📝 manifest: {rel_posix(folder)}/manifest.json ({len(pdfs)} files)")
     return changed
 
 
@@ -353,6 +356,10 @@ def build_covers(pdf_dirs: dict[Path, list[Path]]) -> int:
     changed = 0
     for pdfs in pdf_dirs.values():
         for pdf in pdfs:
+            # Обложка генерируется только из PDF (первая страница); для остальных форматов
+            # обложку можно положить вручную: covers/<папка>/<имя файла>.jpg
+            if pdf.suffix.lower() != PDF_EXT:
+                continue
             if generate_cover(pdf, cover_path_for_pdf(pdf)):
                 changed += 1
     return changed
@@ -367,7 +374,7 @@ def main() -> int:
 
     pdf_dirs = collect_pdf_dirs()
     pdf_count = sum(len(v) for v in pdf_dirs.values())
-    print(f"🔎 Found {pdf_count} PDF in {len(pdf_dirs)} folders")
+    print(f"🔎 Found {pdf_count} books (pdf/epub/fb2/doc/docx/mp4/txt) in {len(pdf_dirs)} folders")
 
     if not pdf_dirs:
         print("⚠ No PDFs found. Nothing to build.")
