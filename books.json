@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-26",
+  "updatedAt": "2026-09-27",
   "repo": "sharipovip/books",
   "branch": "main",
   "categories": [
@@ -590,13 +590,31 @@
       ]
     },
     {
+      "id": "pedagogika",
+      "name": "Педагогика",
+      "folder_raw": "Педагогика",
+      "emoji": "📚",
+      "color1": "#be185d",
+      "color2": "#f472b6",
+      "sort_order": 116,
+      "subs": [
+        {
+          "id": "pedagogika",
+          "name": "Педагогика",
+          "folder_raw": "Педагогика",
+          "folder": "books/Педагогика",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
       "id": "peshvoi_millat",
       "name": "Пешвои Миллат",
       "folder_raw": "Пешвои Миллат",
       "emoji": "👑",
-      "color1": "#be185d",
-      "color2": "#f472b6",
-      "sort_order": 116,
+      "color1": "#64748b",
+      "color2": "#94a3b8",
+      "sort_order": 117,
       "subs": [
         {
           "id": "peshvoi_millat",
@@ -612,9 +630,9 @@
       "name": "Таърих",
       "folder_raw": "Таърих",
       "emoji": "🏛",
-      "color1": "#64748b",
-      "color2": "#94a3b8",
-      "sort_order": 117,
+      "color1": "#2563eb",
+      "color2": "#60a5fa",
+      "sort_order": 118,
       "subs": [
         {
           "id": "tarih",
