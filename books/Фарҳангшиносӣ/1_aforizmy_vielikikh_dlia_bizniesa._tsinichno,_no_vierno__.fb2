@@ -1,0 +1,3722 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sci_culture</genre>
+   <author>
+    <first-name>Юлия</first-name>
+    <middle-name>Николаевна</middle-name>
+    <last-name>Максимова (сост.)</last-name>
+   </author>
+   <book-title>Афоризмы великих для бизнеса. Цинично, но верно…</book-title>
+   <annotation>
+    <p>В книге, которую вы держите в руках, собраны поразительные по меткости, тонкости и точности афоризмы самых выдающихся мыслителей человечества, связанные с бизнесом. Смело используйте в своей деятельности накопленную веками мудрость; и тогда бизнес для вас станет и любимым делом, и увлекательным занятием, и надежным источником дохода.</p>
+    <empty-line/>
+   </annotation>
+   <date>2007</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>ru</lang>
+   <sequence name="Мысли в дорогу"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Litres Downloader</nickname>
+   </author>
+   <program-used>Litres Downloader, FictionBook Editor Release 2.6.6</program-used>
+   <date value="2012-12-29">2012</date>
+   <src-url>lib.rus.ec + lib.aldebaran.ru</src-url>
+   <id>FC35FB5C-6BFB-1014-9A90-E9D21D59226A</id>
+   <version>1.1</version>
+   <history>
+    <p>1.1 форматирование, исправление ошибок (naulik)</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>Афоризмы великих для бизнеса. Цинично, но верно…</book-name>
+   <publisher>РИПОЛ классик</publisher>
+   <city>Москва</city>
+   <year>2007</year>
+   <isbn>978-5-386-0016</isbn>
+   <sequence name="Мысли в дорогу"/>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Юлия Николаевна Максимова</p>
+   <p>Афоризмы великих для бизнеса. Цинично, но верно…</p>
+  </title>
+  <epigraph>
+   <p>Руководи сам своим бизнесом — не позволяй бизнесу руководить тобой.</p>
+   <text-author>Издатель</text-author>
+  </epigraph>
+  <section>
+   <title>
+    <p>1</p>
+   </title>
+   <epigraph>
+    <p>Деньги либо господствуют над своим обладателем, либо служат ему.</p>
+    <text-author>Гораций</text-author>
+   </epigraph>
+   <section>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Деньги составляют средство для людей умных, цель — для глупцов.</p>
+     <text-author>П. Декурсель</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Деньгами надо управлять, а не служить им.</p>
+     <text-author>Сенека</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Деньги — это солнце жизни, без которого жизнь тяжка, и мрачна, и холодна.</p>
+     <text-author>В. Г. Белинский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Нажить много денег — храбрость; сохранить их — мудрость, а умело расходовать их — искусство.</p>
+     <text-author>Б. Ауэрбах</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Все преимущество иметь деньги заключается в возможности ими пользоваться.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Деньги не пахнут.</p>
+     <text-author>Веспасиан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Деньги — как навоз: если их не разбрасывать, от них будет мало толку.</p>
+     <text-author>Фр. Бэкон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Нет ничего святого, чего деньги не могли бы осквернить, ничего столь сильного, чего нельзя было бы осилить деньгами.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не почитай денег ни больше, ни меньше, чем они того стоят; это хороший слуга и плохой господин.</p>
+     <text-author>А. Дюма-сын</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Деньги — благо отрицательное: о них, как о здоровье, думаешь только тогда, когда их нет.</p>
+     <text-author>А. Апухтин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Человек без денег — агония, деньги без человека — мертвечина.</p>
+     <text-author>А. Оксеншерна</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лучше всего деньги, добытые собственным трудом, хуже — добытые по наследству, еще хуже — от брата, хуже всего — от женщины.</p>
+     <text-author>Древнеиндийское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Человек служит не человеку — человек служит деньгам.</p>
+     <text-author>Древнеиндийское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Истрачивая деньги на ненужное, ты мало будешь иметь их на необходимое.</p>
+     <text-author>Хилон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Наличные деньги — не наличные достоинства.</p>
+     <text-author>Д. И. Фонвизин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Помните, что деньги обладают способностью размножаться.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Трать на один пенс меньше, чем зарабатываешь.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Человек иногда более щедр, когда у него мало денег, чем когда их много; может быть, чтобы не дать подумать, что у него их нет вовсе…</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Есть две добродетели, которым люди удивляются: храбрость и щедрость, потому что есть две вещи, которые они очень уважают и о которых эти добродетели заставляют не радеть: деньги и жизнь.</p>
+     <text-author>Ж. Лабрюйер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Люди, считающие деньги способными все сделать, сами способны все сделать за деньги.</p>
+     <text-author>П. Буаст</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Будьте осторожны с мелкими расходами: самая небольшая течь может потопить большой корабль.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Деньги все могут сделать: они срывают скалы, высушивают реки; нет такой вершины, на которую не мог бы взобраться нагруженный золотом осел.</p>
+     <text-author>Ф. Рохас</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Чем больше имеют денег, чем больше имеют власти, тем меньше употребляют первых, тем больше злоупотребляют второю.</p>
+     <text-author>Ф. С. Честерфилд</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Те, что считают отсутствие денег худшим из зол, ошибаются: есть более невыносимое зло — это отсутствие желаний.</p>
+     <text-author>В. Шербюлье</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Набитую деньгами суму легче носить, чем пустую нищенскую торбу.</p>
+     <text-author>М. Сафир</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Деньги не исправляют несправедливостей природы, а углубляют их.</p>
+     <text-author>Л. Н. Андреев</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Принято считать любовь к деньгам корнем всех бед. Можно сказать то же самое и про отсутствие денег.</p>
+     <text-author>С. Батлер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Деньги — не единственная связь человека с человеком.</p>
+     <text-author>Т. Карлейль</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Человек, ни разу не задумавшийся о деньгах, о чести, о приобретении влиятельных связей, о должности, — разве может он знать людей?</p>
+     <text-author>Фр. Ницше</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Многими каждый шиллинг в чужом кармане воспринимается как личное оскорбление.</p>
+     <text-author>О. Генри</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Раз не в деньгах счастье, отдайте их соседу.</p>
+     <text-author>Ж. Ренар</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Безопаснее всего можно удвоить свои деньги, свернув их вдвое и положив в собственный карман.</p>
+     <text-author>К. Хаббард</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>За деньги мы вынуждены платить свободой</p>
+     <text-author>Р. Л. Стивенсон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Приснившиеся деньги не могут быть потрачены.</p>
+     <text-author>Индийская пословица</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатство подобно Морской воде, от которой жажда тем больше усиливается, чем больше пьешь.</p>
+     <text-author>А. Шопенгауэр</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Удивительно устроен человек — он огорчается, когда теряет богатство, и равнодушен к тому, что безвозвратно уходят дни его жизни.</p>
+     <text-author>Абу-ль-Фарадж</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Пусть мудрецы решатся презирать богатство.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатство главным образом зависит от двух вещей: от трудолюбия и умеренности, иначе говоря — не теряй ни времени, ни денег, и используй и то и другое наилучшим образом.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатство тем и опасно, что оно портит не только его обладателя, но и людей, соприкасающихся с ним.</p>
+     <text-author>Б. Ауэрбах</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Гораздо легче приобрести богатство, чем избавиться от него.</p>
+     <text-author>Г. Торо</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатство идет на пользу, ибо экономит время.</p>
+     <text-author>Ч. Лэм</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Люди хотят для себя богатства и славы; если то и другое нельзя обрести честно, следует их избегать.</p>
+     <text-author>Конфуций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатство от суетности истощается, а собирающий трудами умножает его.</p>
+     <text-author>Притчи Соломона (гл. 13, ст. 11)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>От богатства родится пресыщение, от пресыщения — спесь.</p>
+     <text-author>Солон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>С ростом богатства растут и заботы.</p>
+     <text-author>Гораций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатством не изменишь происхождения.</p>
+     <text-author>Гораций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если хочешь быть богатым, не помышляй увеличить свое имущество, а только уменьши свою жадность.</p>
+     <text-author>К. Гельвеций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Высшее богатство — отсутствие прихотей.</p>
+     <text-author>Сенека</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Высшее богатство — отсутствие жадности.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатству иных людей не стоит завидовать: они приобрели его такой ценой, которая нам не по карману, — они пожертвовали ради него покоем, здоровьем, честью, совестью. Это слишком дорого — сделка принесла бы нам лишь убытки.</p>
+     <text-author>Ж. Лабрюйер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кратчайший и вернейший способ составить себе состояние — это дать людям понять, что им выгодно делать вам добро.</p>
+     <text-author>Ж. Лабрюйер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Грубые и вульгарные души всегда будут питать большее уважение к богатству, чем к таланту.</p>
+     <text-author>К. Колтон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если некоторые люди презирают богатство, то потому, что они потеряли надежду на свое обогащение. Это зависть, возбуждаемая богатством, возвела добродетель в сан богини.</p>
+     <text-author>Фр. Бэкон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кто, обладая богатством, не уделяет от него другим и не тратит его для собственного удовольствия, тот ничем не владеет, подобно соломенному чучелу, что охраняет на поле чужое зерно.</p>
+     <text-author>Индусское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Большое состояние бывает большим рабством.</p>
+     <text-author>Сенека</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Многие состояния, подобно рекам, имеют чистое начало, но, увеличиваясь, становятся грязными.</p>
+     <text-author>Ж. Пети-Сан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богат тот, кто получает больше, чем тратит; беден тот, чьи траты превышают доходы.</p>
+     <text-author>Ж. Лабрюйер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Тратьте меньше, чем зарабатываете, — вот вам и «философский камень».</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если хотите быть богатым, научитесь не только зарабатывать, но и быть экономным.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кто не может пользоваться своими богатствами, тот беден.</p>
+     <text-author>П. Буаст</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Поток богатств теряется в песках расточительности.</p>
+     <text-author>П. Буаст</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не зарься на богатства, ибо их трудно приобрести и еще труднее сохранить.</p>
+     <text-author>П. Фахадо</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Вы ослеплены золотом, сверкающим в доме богатых; вы, конечно, видите, что они имеют, но вы не видите, чего им недостает.</p>
+     <text-author>Блаженный Августин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Искусство разбогатеть, собственно, есть не что иное, как уменье завладеть добром других людей при добром их согласии.</p>
+     <text-author>К. Виланд</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Так называемые богатые люди — лишь управляющие. В лучшем случае они распоряжаются своим состоянием только до конца жизни.</p>
+     <text-author>Э. Хаббард</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатство — вещь, без которой можно жить счастливо. Но благосостояние — вещь, необходимая для счастья.</p>
+     <text-author>Н. Г. Чернышевский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Доброе имя лучше большого богатства, и добрая слава лучше серебра и золота.</p>
+     <text-author>Притчи Соломона (гл. 22, ст. 1)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатство не в имуществе, а в таланте.</p>
+     <text-author>Персидская пословица</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Я просил о богатстве, чтобы быть счастливым, а о бедности, чтобы стать мудрым.</p>
+     <text-author>Испанская пословица</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Человек живет на земле не для того, чтобы стать богатым, но для того, чтобы стать счастливым.</p>
+     <text-author>Стендаль</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатый муж везде знаем и на чужой стороне друзей имеет, а бедный и в своей стороне ненавидим ходит.</p>
+     <text-author>Даниил Заточник</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Честную бедность, разумеется, пожалеть Можно, но восхищаться ею — увольте!</p>
+     <text-author>О. Уайльд</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не бедность невыносима, а презрение. Я могу обходиться без всего, но я хочу, чтоб об этом не знали.</p>
+     <text-author>Вольтер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>За нищету даже и не палкой выгоняют, а метлой выметают из компании человеческой, чтобы тем оскорбительней было. И справедливо: ибо в нищете я первый сам готов оскорбить себя.</p>
+     <text-author>Ф. М. Достоевский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Люди страшатся бедности и безвестности; если того и другого нельзя избежать, не теряя чести, следует их принять.</p>
+     <text-author>Конфуций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Много хлеба бывает и на ниве бедных, но некоторые гибнут от беспорядка.</p>
+     <text-author>Притчи Соломона (гл. 13, ст. 24)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Убыток делает из одних и тех же граждан деспотов и рабов, бедность же делает всех их равными.</p>
+     <text-author>Б. Сен-Пьер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Бедность болезненна, но не позорна.</p>
+     <text-author>Шотландская пословица</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>У бедняка не должно быть ни единого недостатка.</p>
+     <text-author>П. Бомарше</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Люди разоряющиеся всегда веселы; только разорившись, они впадают в дурное настроение.</p>
+     <text-author>А. Дюма-сын</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Известно, насколько сильнее страх потерять наличное благо, чем желание вернуть давно потерянное.</p>
+     <text-author>Фр. Шиллер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Когда все потеряно, остается еще будущность.</p>
+     <text-author>Бови</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не привыкай к благоденствию — оно преходяще; кто владеет — учись терять, кто счастлив — учись страдать.</p>
+     <text-author>Фр. Шиллер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатеть вы начинаете после уплаты долгов.</p>
+     <text-author>Французская поговорка</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Просящему у тебя дай, и от хотящего занять у тебя не отвращайся.</p>
+     <text-author>Матфей (гл. 5, ст. 42)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Долг и право — братья; у них одна мать — свобода. Они рождаются в один и тот же день, они растут, развиваются и погибают вместе.</p>
+     <text-author>В. Кузен</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Долг — это уважение к праву другого.</p>
+     <text-author>И. Кант</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Наш долг — это право, которое другие имеют на нас.</p>
+     <text-author>Фр. Ницше</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Долг — начало рабства, даже хуже рабства, потому что кредитор неумолимее рабовладельца: он владеет не только вашим телом, но и вашим достоинством и может при случае нанести ему тяжкие оскорбления.</p>
+     <text-author>В. Гюго</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Долги похожи на всякую другую западню: попасть в них весьма легко, но выбраться довольно трудно.</p>
+     <text-author>Б. Шоу</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Долг легче пера и тяжелее горы.</p>
+     <text-author>Японская пословица</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Небольшая сумма, данная взаймы, делает должника; большая — делает врага.</p>
+     <text-author>Сенека</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кредиторы отличаются лучшей памятью, чем должники.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ничто не влечет за собой так неизменно неблагодарности, как одолжения, за которые никакая благодарность не была бы достаточно велика.</p>
+     <text-author>Ж. Ж. Руссо</text-author>
+    </cite>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>2</p>
+   </title>
+   <epigraph>
+    <p>Самая большая польза, которую можно извлечь из жизни, — жить для дела, которое переживет нас.</p>
+    <text-author>Уильям Джемс</text-author>
+   </epigraph>
+   <section>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Почти во всех делах самое трудное — начало.</p>
+     <text-author>Ж. Ж. Руссо</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Хорошее начало — половина дела.</p>
+     <text-author>Платон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Начало есть более чем половина всего.</p>
+     <text-author>Аристотель</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Хорошее начало не мелочь, хоть начинается с мелочи.</p>
+     <text-author>Сократ</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Начало всякого дела — размышление, а прежде всякого действия — совет.</p>
+     <text-author>Сирах (гл. 37, ст. 20)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Дурное начало — дурной конец.</p>
+     <text-author>Теренций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Раз начатое не может быть остановлено.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Самая тяжелая работа — та, которую мы не решаемся начать: она становится кошмаром.</p>
+     <text-author>Ш. Бодлер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Никогда не показывай полдела — пусть любуются в законченном виде. Начало всегда нескладно, и нескладный этот образ остается в воображении; память о нем мешает насладиться вещью, уже завершенной.</p>
+     <text-author>Б. Грасиан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>О деле суди по исходу.</p>
+     <text-author>Овидий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кто, предпринимая дело, спешит наскоро достичь результата, тот ничего не сделает. Кто осторожно оканчивает свое дело, как начал, тот не потерпит неудачи.</p>
+     <text-author>Лао-цзы</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Исход крупных дел часто зависит от мелочей.</p>
+     <text-author>Тит Ливий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Исход дела — наставник неразумных.</p>
+     <text-author>Тит Ливий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если осталось еще что-нибудь доделать, считай, что ничто не сделано.</p>
+     <text-author>Кукан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Или не берись, или доводи до конца.</p>
+     <text-author>Овидий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Результат оправдывает действие.</p>
+     <text-author>Овидий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Дело тем верней свершишь, чем важней его считаешь.</p>
+     <text-author>Плавт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Только терпеливый закончит дело, а торопливый упадет.</p>
+     <text-author>Саади</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>То, что сделано, не может стать несделанным.</p>
+     <text-author>Плавт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если б люди всегда думали об исходе своих предприятий, они бы ничего не предпринимали.</p>
+     <text-author>Г. Лессинг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Приятны завершенные труды.</p>
+     <text-author>Гомер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Каждому делу — свое время.</p>
+     <text-author>Сенека</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Знай всему пору.</p>
+     <text-author>Питтак</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Все в свое время.</p>
+     <text-author>Курций Руф</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Следует подчиняться времени.</p>
+     <text-author>Кукан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Выбрать время — значит сберечь время, а что сделано несвоевременно, сделано понапрасну.</p>
+     <text-author>Фр. Бэкон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Каждое потерянное мгновение — потерянное дело, потерянная польза.</p>
+     <text-author>Ф. С. Честерфилд</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Одна из самых тяжелых потерь — потеря времени.</p>
+     <text-author>Ж. Бюффон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Человек, который осмеливается потратить впустую час времени, еще не осознал цену жизни.</p>
+     <text-author>Ч. Дарвин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Один час сегодня стоит двух часов завтра.</p>
+     <text-author>Т. Фуллер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ничего не откладывать на завтра — вот преимущественно секрет того, кто знает цену времени. Когда что-нибудь откладывают на другой день, то не думают, что каждый день и каждый час приносят новую заботу.</p>
+     <text-author>Э. Лабуле</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <poem>
+      <stanza>
+       <v>Дела переносить на завтра неумно;</v>
+       <v>Что завтра может быть, нам ведать не дано.</v>
+      </stanza>
+     </poem>
+     <text-author>Фирдоуси</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>В важных делах жизни всегда надо спешить так, как будто бы от потери одной минуты должно было все погибнуть.</p>
+     <text-author>В. Г. Белинский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Нельзя убивать время, не вредя этим вечности.</p>
+     <text-author>Г. Торо</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кто время выиграл — все выиграл в итоге.</p>
+     <text-author>Мольер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Что наспех делается — недолго длится.</p>
+     <text-author>Саади</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если хочешь иметь досуг, не теряй времени даром.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если хочешь, чтобы у тебя было мало времени, ничего не делай.</p>
+     <text-author>А. П. Чехов</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Когда у человека много свободного времени, он немногого достигнет.</p>
+     <text-author>Сюнь-цзы</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Люди, которым всегда некогда, обыкновенно ничего не делают.</p>
+     <text-author>Г. Лихтенберг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Торопливость задерживает.</p>
+     <text-author>Курций Руф</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Просыпаясь утром, спроси себя: «Что я должен сделать?» Вечером, прежде чем заснуть: «Что я сделал?»</p>
+     <text-author>Пифагор</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Слово всегда отважнее дела.</p>
+     <text-author>Фр. Шиллер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Сказано — сделано.</p>
+     <text-author>Овидий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Слово есть образ дела.</p>
+     <text-author>Солон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Слово есть тень дела.</p>
+     <text-author>Демокрит</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Дела важнее слов.</p>
+     <text-author>Саллюстий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Задумав дело, не говори о нем: не удастся — засмеют.</p>
+     <text-author>Питтак</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Меньше скажешь слов, скорее справишь дело.</p>
+     <text-author>В. Скотт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Длинная речь так же не подвигает дела, как длинное платье не помогает ходьбе.</p>
+     <text-author>Ш. М. Талейран</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не верьте словам ни своим, ни чужим, верьте только делам своим и чужим.</p>
+     <text-author>Л. Н. Толстой</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Всякое слово без дела ничтожно и пусто.</p>
+     <text-author>Демосфен</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Осторожно действовать еще важнее, чем разумно рассуждать. Дела влекут за собой слова.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Люди, у которых мало дела, бывают весьма болтливы; чем меньше кто думает, тем больше говорит.</p>
+     <text-author>Ш. Монтескье</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Факты не согласуются с речами.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не говори необдуманных слов, чтобы не попасть по неведению в трудное положение.</p>
+     <text-author>Ас-Самарканди</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Когда суть дела обдумана заранее, слова приходят сами собой.</p>
+     <text-author>Гораций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Отдавайтесь делу всем сердцем и душой, но убедитесь прежде, хорошее ли это дело.</p>
+     <text-author>Дж. Рескин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Наибольшая из всех безнравственностей — это браться за дело, которое не умеешь делать.</p>
+     <text-author>Наполеон I</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Дело, суть которого не ясна, вызывает отвращение</p>
+     <text-author>Ж. А. Фабр</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Во всяком деле, коль знаешь мало, держись проверенного.</p>
+     <text-author>Б. Грасиан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Во всяком предприятии нужно две трети уделять расчету и одну треть случаю. Увеличьте первую дробь, и вы будете малодушным; увеличьте вторую — и вы станете безрассудным.</p>
+     <text-author>Наполеон I</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>В серьезных делах следует заботиться не столько о том, чтобы создавать благоприятные возможности, сколько о том, чтобы их не упускать.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если человек берется за два дела, прямо противоположных друг другу, — одно из них непременно не удастся ему.</p>
+     <text-author>Эзоп</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Любое дело есть попытка предвидеть будущее.</p>
+     <text-author>С. Батлер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Дела — это чужие деньги.</p>
+     <text-author>А. Дюма-сын</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Никогда не бывает больших дел без больших трудностей.</p>
+     <text-author>Вольтер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не всякому всякое дело под силу.</p>
+     <text-author>Луцилий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Избегай дел, зависящих от других; стремись лишь к тому, что зависит от тебя самого.</p>
+     <text-author>Древнеиндийское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не дело создано для мысли, а мысль создана для дела.</p>
+     <text-author>Вольтер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лучше в совершенстве выполнить небольшую часть дела, чем сделать плохо в десять раз более.</p>
+     <text-author>Аристотель</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если ты что-нибудь делаешь, делай это хорошо. Если же ты не можешь или не хочешь делать хорошо, лучше совсем не делай.</p>
+     <text-author>Л. Н. Толстой</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Коммерческая деятельность, как религия и наука, не должна испытывать ни любви, ни ненависти.</p>
+     <text-author>С. Батлер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Я всегда стараюсь поддержать практическое начинание, даже самое небольшое, ведь часто в горчичном зерне скрывается и растет чудо.</p>
+     <text-author>Ф. Найтингейл</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Будь благосклонен к смелым начинаниям.</p>
+     <text-author>Вергилий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Начинания принесут одному трудную жизнь, другому же счастье.</p>
+     <text-author>Вергилий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Видеть и делать новое — очень большое удовольствие.</p>
+     <text-author>Вольтер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если вы удачно выберете труд и вложите в него всю свою душу, то счастье само вас отыщет.</p>
+     <text-author>К. Д. Ушинский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>В природе все мудро продумано и устроено, всяк должен заниматься своим делом, и в этой мудрости — высшая справедливость жизни.</p>
+     <text-author>Леонардо да Винчи</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Каждый человек должен преимущественно браться за то, что для него возможно и что для него пристойно.</p>
+     <text-author>Аристотель</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не забывай делать невозможное, чтобы достигнуть возможного.</p>
+     <text-author>А. Г. Рубинштейн</text-author>
+    </cite>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>3</p>
+   </title>
+   <epigraph>
+    <p>Да, ни в богатстве, ни во власти Нет без морали людям счастья.</p>
+    <text-author>Себастьян Брант</text-author>
+   </epigraph>
+   <section>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Трудолюбие — душа всякого дела и залог благосостояния.</p>
+     <text-author>Ч. Диккенс</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>В своих делах можно полагаться только на себя и на свой труд.</p>
+     <text-author>Эзоп</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Труд — отец голода, дед пищеварения, прадед здоровья.</p>
+     <text-author>М. — Г. Сафир</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Жизнь без труда — воровство, труд без искусства — варварство.</p>
+     <text-author>Дж. Рескин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Жить — значит работать. Труд есть жизнь человека.</p>
+     <text-author>Вольтер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Работа избавляет нас от трех великих зол: скуки, порока, нужды.</p>
+     <text-author>Вольтер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Человек должен трудиться — плохо ему, когда он бездействует.</p>
+     <text-author>Древнеиндийское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Мир и труд — вот источники благополучия.</p>
+     <text-author>Древнеиндийское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кто возделывает землю свою, тот будет насыщаться хлебом; а кто идет по следам празднолюбцев, тот скудоумен.</p>
+     <text-author>Притчи Соломона (гл. 12, ст. 11)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>От всякого труда есть прибыль, а от пустословия только ущерб.</p>
+     <text-author>Притчи Соломона (гл. 14, ст. 23)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Все вещи — в труде: не может человек пересказать всего; не насытится око зрением, не наполнится ухо слушанием.</p>
+     <text-author>Екклесиаст (гл. 1, ст. 8)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Всякий труд и всякий успех в делах производят взаимную между людьми зависть. И это — суета и томление духа!</p>
+     <text-author>Екклесиаст (гл. 4, ст. 4)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Всякий вид работы приятнее, чем покой.</p>
+     <text-author>Демокрит</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Истинное сокровище для людей — умение трудиться.</p>
+     <text-author>Эзоп</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Труд часто является отцом удовольствия.</p>
+     <text-author>Вольтер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Для людей работа является наслаждением.</p>
+     <text-author>Эзоп</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Хотя труд и наслаждение различны по своей природе, все же между ними имеется какая-то естественная связь.</p>
+     <text-author>Тит Ливии</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Как движение возбуждает аппетит, так труд возбуждает жажду удовольствий.</p>
+     <text-author>Ф. С. Честерфилд</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Сознание плодотворности труда есть одно из самых лучших удовольствий.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Труд должен сообразоваться с отдыхом; глуп тот, кто отдых превращает в занятие.</p>
+     <text-author>Фр. Рюккерт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Трудитесь, пока позволяют силы и годы.</p>
+     <text-author>Овидий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Неусыпный труд все препятствия преодолевает.</p>
+     <text-author>М. В. Ломоносов</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Для человека с талантом и любовью к труду не существует преград.</p>
+     <text-author>Л. Бетховен</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Понуждай сам свою работу; не жди, чтобы она тебя понуждала.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Труд — целительный бальзам, он — добродетели источник.</p>
+     <text-author>И. Гердер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Труд, который нам приятен, излечивает горе.</p>
+     <text-author>В. Шекспир</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Трудом, а не войной человек проявляет свое мужество: трудом больше, чем правом, поддерживается правосудие, и если когда-нибудь род человеческий достигнет благоденствия, то опять-таки трудом.</p>
+     <text-author>П. Прудон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>В чем бы ни состоял труд, это все равно: он сам по себе служит благословением, когда человек жаждет деятельности.</p>
+     <text-author>М. Твен</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Труд благодетелен для человека, ибо отвлекает его внимание от собственной жизни, закрывает от него его собственный образ, не дает смотреть на того другого, который есть сам он и который делает для него одиночество ужасным.</p>
+     <text-author>А. Франс</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Я представить не могу положения, чтоб когда-нибудь было нечего делать.</p>
+     <text-author>Ф. М. Достоевский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Нет счастья в бездействии.</p>
+     <text-author>Ф. М. Достоевский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Труд ценится дорого, когда дешевеет капитал. Ум ценится дорого, когда дешевеет сила.</p>
+     <text-author>В. О. Ключевский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Прекращение деятельности всегда приводит за собой вялость, а за вялостью идет дряхлость.</p>
+     <text-author>Апулей</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Стремление к деятельности крепнет с годами.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Человек создан для действия. Не действовать и не существовать для человека — одно и то же.</p>
+     <text-author>Вольтер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Какова бы ни была деятельность, но привычка и приобретаемое через нее умение действовать — великое дело. Кто не сидел сложа руки и тогда, как нечего было делать, тот сумеет действовать, когда настанет для этого время.</p>
+     <text-author>В. Г. Белинский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Деятельность — великая вещь. Когда люди станут решительно делать то, что нужно, то со временем им это понравиться.</p>
+     <text-author>Дж. Рескин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Нет никакого позора в работе: позорно безделье.</p>
+     <text-author>Гесиод</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не думай, что фортуна даст тебе то, что не дала работа.</p>
+     <text-author>Португальское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Труд высекает огонь из камня.</p>
+     <text-author>Немецкая пословица</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>День, в который вы решились что-то сделать, — счастливый день.</p>
+     <text-author>Японская пословица</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Великих людей питает труд.</p>
+     <text-author>Сенека</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Корабль жизни поддается всем ветрам и бурям, если не имеет трудового балласта.</p>
+     <text-author>Стендаль</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Наша лень наказывается не только нашими неудачами, но и удачами других.</p>
+     <text-author>Ж. Ренар</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лень есть дочь богатства и мать бедности.</p>
+     <text-author>П. Декурсель</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лень — мать, у которой сын — воровство и дочь — голод.</p>
+     <text-author>В. Гюго</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лень, как ржавчина, разъедает быстрее, чем труд изнашивает.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лень — это ржа ума и тела; ключ, которым часто пользуются, всегда блестит, как новый.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лень плетется так медленно, что бедность скоро нагоняет ее.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Изо всех наших пороков единственный, в котором мы охотно сознаемся, — это лень.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Леность все делает трудным, труд — все легким; кто встает поздно — без толку мечется весь день и принимается за дело, когда уже ночь на носу.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лень, безусловно, наибольшая помеха в развитии наших способностей</p>
+     <text-author>Э. Делакруа</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>В нашем уме больше лени, чем в нашем теле.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Люди от природы ленивы; но страстное стремление к труду — это первый плод благоустроенного общества; и если народ вновь впадает в состояние лени и безразличия, то это происходит опять-таки из-за несправедливости этого же самого общества, которое не придает уже больше труду той цены, которой он заслуживает.</p>
+     <text-author>Ж. Ж. Руссо</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если будешь не ленив, то, как источник, придет жатва твоя; скудость же далеко убежит от тебя.</p>
+     <text-author>Притчи Соломона (гл. 6, ст. 11)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ленивая рука делает бедным, а рука прилежных обогащает.</p>
+     <text-author>Притчи Соломона (гл. 10, ст. 4)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Рука прилежных будет господствовать, а ленивая будет под данью.</p>
+     <text-author>Притчи Соломона (гл. 12, ст. 24)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Душа ленивого желает, но тщетно.</p>
+     <text-author>Притчи Соломона (гл. 13, ст. 4)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ленивые всегда собираются что-то сделать.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ленивые всегда бывают людьми посредственными.</p>
+     <text-author>Вольтер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Праздность более утомляет, чем труд.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Праздные люди мертвы в течение всей своей долгой жизни.</p>
+     <text-author>Т. Фуллер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Я смотрю на праздность как на своего рода самоубийство.</p>
+     <text-author>Ф. С. Честерфилд</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Праздный человек, точно часы без стрелок.</p>
+     <text-author>Дж. Ф. Купер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Праздность не есть мать всех пороков, как это утверждает ходячая мораль; нет, праздность — дочь всех добродетелей, награда за почтенные труды, а также и за не совсем почтенные, непрестанное вожделение и мечта бедноты, надежда и стремление всех трудящихся в поте лица.</p>
+     <text-author>К. Раиберти</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Это ужасно тяжелая работа — ничего не делать.</p>
+     <text-author>О. Уайльд</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кто возделывает землю свою, тот будет насыщаться хлебом, а кто подражает праздным, тот насытится нищетою.</p>
+     <text-author>Притчи Соломона (гл. 28, ст. 19)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Нерадивый в работе своей — брат расточителю.</p>
+     <text-author>Притчи Соломона (гл. 18, ст. 10)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>К занятому человеку редко ходят в гости бездельники — к кипящему горшку мухи не летят.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лесть — фальшивая Монета, находящая сбыт только благодаря нашему тщеславию.</p>
+     <text-author>Дж. Локк</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Что плавильня — для серебра, горнило — для золота, то для человека уста, которые хвалят его.</p>
+     <text-author>Причти Соломона (гл. 27, ст. 21)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лесть подобна оружию, нарисованному на картине: она доставляет приятность, а пользы никакой.</p>
+     <text-author>Пифагор</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лесть есть род дудки, которой приманивают птиц, подражая их голосу.</p>
+     <text-author>Фр. Бэкон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лесть, говорят, пища глупых. Между тем сколько умных людей готовы, от времени до времени, отведать хоть глоток этой пищи!</p>
+     <text-author>Дж. Свифт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лесть всегда нам нравится, когда она касается качеств, которых нам недостает. Скажите дураку, что он очень умен, и плуту, что он честнейший человек в свете, и они заключат вас в свои объятия.</p>
+     <text-author>Г. Филдинг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лесть — помощница пороков.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лесть любят все.</p>
+     <text-author>Б. Дизраэли</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Льстец — самый опасный из ручных животных.</p>
+     <text-author>Диоген</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Льстецы — худшие из врагов.</p>
+     <text-author>Тацит</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Избегайте льстецов — это переодетые воры.</p>
+     <text-author>У. Пенн</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Льстец — это ревнивый и завистливый ум, которому, по-видимому, доставляет удовольствие ваше возвышение, но которого на самом деле терзает ваше благосостояние.</p>
+     <text-author>Ж. Лабрюйер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Порядочность обнаруживается в речах, но куда вернее — в делах</p>
+     <text-author>Б. Грасиан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кривыми путями не добраться барке до гавани. Лишь тот, кто честен и добр, благополучно достигает берега.</p>
+     <text-author>Древнеегипетское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Дела должны вести нас к счастью. Но где нет справедливости, нет счастья. Поступай же справедливо.</p>
+     <text-author>Древнеиндийское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Подлецы потому и успевают в своих делах, что поступают с честными людьми, как с подлецами, а честные люди поступают с подлецами, как с честными людьми.</p>
+     <text-author>В. Г. Белинский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Чем честнее человек, тем менее он подозревает других в бесчестности. Низкая душа предполагает всегда и самые низкие побуждения у благородных поступков.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Считайте всех людей честными людьми, но живите с ними, как если бы они были мошенниками.</p>
+     <text-author>Дж. Мазарини</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Я не замечал, чтобы честность людей возрастала с их богатством.</p>
+     <text-author>Т. Джефферсон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Что нечестно приобретено, то прахом пойдет.</p>
+     <text-author>Невий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Тот, кто требует платы за свою честность, чаще всего продает свою честь.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Нет, конечно, ни одного человека в мире, который, если ему представляется случай стать мошенником за тысячу талеров, не остался бы честным человеком за половину этой суммы.</p>
+     <text-author>Г. Лихтенберг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если бы мошенники знали все преимущества честности, то они ради выгоды перестали бы мошенничать.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Сын разбогатевшего мошенника может еще быть честным человеком, но зять — никогда.</p>
+     <text-author>Ж. Наррей</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Наживайся честно, если можешь, а если нет, то любым способом.</p>
+     <text-author>Гораций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Когда порок доходен — правда убыльна.</p>
+     <text-author>Публилий Сир</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Всякого рода беспринципная деятельность в конце концов приводит к банкротству.</p>
+     <text-author>И. В. Гёте</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Честный и бесчестный человек познаются не только из того, что они делают, но и из того, чего они желают.</p>
+     <text-author>Демокрит</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Честность оскорбляет людей в ту минуту, когда она им во вред, потом они же ею восторгаются и ее превозносят.</p>
+     <text-author>Плиний Младший</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Честность для нас значит не меньше, чем для других необходимость.</p>
+     <text-author>Плиний Младший</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Честность — лучший и одновременно самый верный образ действий.</p>
+     <text-author>Дж. Леббок</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не покидайте никогда дороги долга и чести — это единственное, в чем мы почерпаем счастье.</p>
+     <text-author>Ж. Бюффон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Есть люди, которые относятся к нравственности, как некоторые архитекторы к домам: на первый план ставится удобство.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Польза добродетели столь очевидна, что даже дрянные люди поступают добродетельно ради выгоды.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Без ума жить худо; что ты наживешь без него?</p>
+     <text-author>Д. И. Фонвизин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ум редко ведет к богатству, но богатство делает всех умными людьми…</p>
+     <text-author>Б. Джонсон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не понимаю, как это бедность может быть сестрой высокого ума.</p>
+     <text-author>Петроний</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если бедность — мать преступлений, то недалекий ум — их отец.</p>
+     <text-author>Ж. Лабрюйер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Самое большое богатство — разум.</p>
+     <text-author>Али-ибн Аби-Талиб</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>На земле нет ничего более достойного уважения, чем ум.</p>
+     <text-author>К. Гельвеций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ум — бог для каждого.</p>
+     <text-author>Гераклит</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ум выше храбрости.</p>
+     <text-author>Федр</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ум — это духовное оружие человека.</p>
+     <text-author>В. Г. Белинский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Мало иметь хороший ум, главное — хорошо его применять.</p>
+     <text-author>Р. Декарт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Небольшое преимущество — иметь живой ум, если не имеешь верности суждения: совершенство часов не в быстром ходе, а в верном ходе.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ум человеческий всегда стремится к какой-либо деятельности и ни при каких обстоятельствах не терпит непрерывного покоя.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Самое великое, заключающееся в самом малом, есть здравый ум в теле человека.</p>
+     <text-author>Питтак</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>У короткого ума — длинный язык.</p>
+     <text-author>Аристофан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Слова — врата ума. Если держать их открытыми, ум ускользнет наружу.</p>
+     <text-author>Хун Цзычен</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Голова без ума, что фонарь без свечи.</p>
+     <text-author>Л. Н. Толстой</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Многознайство уму не научит.</p>
+     <text-author>Гераклит</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Избыток пищи мешает тонкости ума.</p>
+     <text-author>Сенека</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Человеческий ум воспитывается учением и мышлением.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Непринужденная беседа — лучшая школа для ума.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Наблюдайте за вашим телом, если хотите, чтобы ваш ум работал правильно.</p>
+     <text-author>Р. Декарт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Много вина — мало ума.</p>
+     <text-author>Менандр</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Никогда не поздно поумнеть.</p>
+     <text-author>Д. Дефо</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кого боги задумали погубить, того они лишают рассудка, и все представляется ему в ложном свете.</p>
+     <text-author>Древнеиндийское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Глуп, кто меж плясунов и сам пускается в пляску.</p>
+     <text-author>Луцилий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Что человек может быть великим умом, нисколько того не замечая, — это нелепость, в которой способна убедить себя лишь непроходимая бездарность, дабы иметь право считать чувство собственного ничтожества скромностью.</p>
+     <text-author>А. Шопенгауэр</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Правду говоря, какое бы почтение ни высказывалось и даже ни проявлялось по отношению к действительному или предполагаемому умственному превосходству, везде, однако, можно наблюдать общую тенденцию делать посредственность господствующей над человечеством силой.</p>
+     <text-author>Дж. Милль</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Мы находим несколько решений одного и того же вопроса не столько потому, что наш ум очень плодовит, сколько потому, что он не слишком прозорлив и, вместо того чтобы остановиться на самом лучшем решении, представляет нам без разбора все возможности сразу.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ум человека можно определить по тщательности, с которой он учитывает будущее или исход дела.</p>
+     <text-author>Г. Лихтенберг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Умный человек иногда торопится, но ничего не делает второпях.</p>
+     <text-author>Ф. С. Честерфилд</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <poem>
+      <stanza>
+       <v>Не решай ничего опрометчиво,</v>
+       <v>Не подумавши — действовать нечего.</v>
+      </stanza>
+     </poem>
+     <text-author>Фирдоуси</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Просто думать — недостаточно, нужно думать о чем-то.</p>
+     <text-author>Ж. Ренар</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Самая большая нищета — невежество.</p>
+     <text-author>Али-ибн Аби-Шалиб</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лучше быть нищим, чем невеждой: если первый лишен денег, то второй лишен образа человеческого.</p>
+     <text-author>Аристипп</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Нет преграды, равной преграде невежества.</p>
+     <text-author>Древнеиндийское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Невежество — мать злобы, зависти, алчности и всех прочих низких и грубых пороков, а также грехов.</p>
+     <text-author>Г. Галилей</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Невежество — ночь ума, ночь безлунная и беззвездная.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Невежество — это сумерки, там рыщет зло.</p>
+     <text-author>В. Гюго</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Полное невежество приводит к полному тупоумию.</p>
+     <text-author>К. Гельвеций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>При невежестве ум чахнет за недостатком пищи.</p>
+     <text-author>К. Гельвеций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Есть одно только благо — знание и одно только зло — невежество.</p>
+     <text-author>Сократ</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Круглое невежество — не самое большое зло: накопление плохо усвоенных знаний еще хуже.</p>
+     <text-author>Платон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Неудивительно, что большое количество знаний, не будучи в силах сделать человека умным, часто делает его тщеславным и заносчивым.</p>
+     <text-author>Дж. Аддисон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Невежественными бывают только те, которые решаются такими оставаться.</p>
+     <text-author>Платон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если от грязных ног, идущих по глине и кучам мусора, вред невелик, то от невежественного языка немалый урон бывает слушателям.</p>
+     <text-author>Дион</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Есть три рода невежества: совсем не знать ничего; знать дурно то, что все знают; знать не то, что следует знать.</p>
+     <text-author>Ш. Дюкло</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Бережливость не хочет ничего расходовать по-пустому, скупость вовсе ничего не хочет расходовать.</p>
+     <text-author>Л. Сэй</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Бережливость — важный источник благосостояния.</p>
+     <text-author>Цицерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Будьте бережливы: недостаток денег часто производит недостаток ума, а чаще — недостаток честности.</p>
+     <text-author>П. Буаст</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Бережливость может считаться дочерью благоразумия, сестрою умеренности и матерью свободы.</p>
+     <text-author>С. Смайлс</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Много есть способов разбогатеть, но честных мало; бережливость — один из самых верных. Однако и этот способ не совсем невинен: он несколько нарушает обязанности, налагаемые человеколюбием и благотворительностью.</p>
+     <text-author>Фр. Бэкон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Поздно быть бережливым когда все растрачено.</p>
+     <text-author>Сенека</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богаче всех человек бережливый, беднее всех — скряга.</p>
+     <text-author>С. Шамфор</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Скупость дальше от бережливости, чем даже расточительность.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Сбережение ради сбережения весьма презренное дело, даже если деньги заработаны честным путем… Копить только ради удовольствия быть богатым есть характерная черта ограниченного ума или низкой души.</p>
+     <text-author>С. Смайлс</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Скупые люди сходны с ипохондриками, которые живут в постоянном страхе, повсюду видят опасности и боятся разбиться от прикосновения к чему-либо.</p>
+     <text-author>К. Гельвеций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Скупцы так много заботятся о богатстве, словно оно их собственное, но так мало им пользуются, словно оно чужое.</p>
+     <text-author>Бион</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Заблуждение скупых состоит в том, что они считают золото и серебро благами, тогда как это только средства для приобретения благ.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если деньги не слуга твой, то они станут твоим господином. Скупец не владеет своими богатствами, скорее можно сказать, что его богатства им владеют.</p>
+     <text-author>Фр. Бэкон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатство порождает скупость.</p>
+     <text-author>Тит Ливий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Скупой всегда нуждается.</p>
+     <text-author>Гораций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Скупому все враги, а главный — сам себе.</p>
+     <text-author>Публилий Сир</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Скряга близок к безумцу.</p>
+     <text-author>Гораций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Скупость, словно пропитанная вредоносными зельями, расслабляет дух.</p>
+     <text-author>Саллюстий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Скупость благородна только в расходовании времени.</p>
+     <text-author>Сенека</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Жадного деньги возбуждают, а не насыщают.</p>
+     <text-author>Публилий Сир</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Высшее богатство — отсутствие жадности.</p>
+     <text-author>Сенека</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Богатство не уменьшает жадности.</p>
+     <text-author>Саллюстий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Жадность до денег, если она ненасытна, гораздо тягостней нужды, ибо чем больше растут желания, тем большие потребности они порождают.</p>
+     <text-author>Демокрит</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Жадность бездонна — в эту пропасть можно падать бесконечно. Корыстный часто не знает, чего он хочет, и единственное, что его ждет, — это конечная неудача.</p>
+     <text-author>Древнеегипетское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Для жадного нет дельного и недельного, нет славного и позорного, нет доброго и злого — для него есть только выгодное и невыгодное.</p>
+     <text-author>Древнеиндийское изречение</text-author>
+    </cite>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>4</p>
+   </title>
+   <epigraph>
+    <p>Издревле есть у людей мудрые и прекрасные изречения, от них следует нам поучаться.</p>
+    <text-author>Геродот</text-author>
+   </epigraph>
+   <section>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ничего так не делает жизнь легко переносимой, как деятельность, направленная к одной цели.</p>
+     <text-author>Фр. Шиллер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Блажен тот, кто нашел свое дело; пусть он не ищет другого блаженства. У него есть дело и цель жизни.</p>
+     <text-author>Т. Карлейль</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Я уважаю людей, которые точно знают, чего хотят. Большая часть бед во всем мире происходит от того, что люди недостаточно точно понимают свои цели. Начиная возводить здание, они тратят на фундамент слишком мало усилий, чтобы могла выстоять башня.</p>
+     <text-author>И. В. Гёте</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>На свете мало недостижимых вещей; будь у нас больше настойчивости, мы могли бы отыскать путь почти к любой цели.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если нет цели, не делаешь ничего, и не делаешь ничего великого, если цель ничтожна.</p>
+     <text-author>Д. Дидро</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ставь себе лишь достижимые цели.</p>
+     <text-author>Гораций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Для достижения поставленной цели деловитость нужна не менее, чем знание.</p>
+     <text-author>П. Бомарше</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Чтобы оправдаться в собственных глазах, мы нередко убеждаем себя, что не в силах достичь цели; на самом же деле мы не бессильны, а безвольны.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Самый медлительный человек, если он только не теряет из виду цели, идет быстрее, чем тот, кто блуждает бесцельно.</p>
+     <text-author>Г. Лессинг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Большинство людей, стремящихся к цели, способны скорее сделать одно большое усилие, чем упорно идти избранной дорогой; из-за лени и непостоянства они часто утрачивают плоды лучших своих начинаний и дают обогнать себя тем, кто отправился в путь поздней, чем они, и шел медленней, но зато безостановочно.</p>
+     <text-author>Ж. Лабрюйер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Хочешь достигнуть цели своего стремления — спрашивай вежливее о дороге, с которой сбился.</p>
+     <text-author>В. Шекспир</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Лишены прозорливости не те люди, которые не достигают цели, а те, которые проходят мимо нее.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кто попадает далее цели, тот так же промахивается, как и тот, кто не попал в цель.</p>
+     <text-author>М. Монтень</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Человек вырастает по мере того, как растут его цели.</p>
+     <text-author>Фр. Шиллер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Идеи — это капиталы, которые приносят проценты лишь в руках таланта.</p>
+     <text-author>А. Ривароль</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Идеи — редкая дичь в лесу слов…</p>
+     <text-author>В. Гюго</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Новая идея — это клин, который входит только толстым концом.</p>
+     <text-author>Б. Фонтенель</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Идея выше факта.</p>
+     <text-author>О. Бальзак</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Какой поток представляют собой идеи! Как быстро затопляют они все, что призваны разрушить и поглотить, и с какой скоростью прорывают они страшные пропасти!</p>
+     <text-author>В. Гюго</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Идея нематериальна: ни время, ни смерть не могут влиять на нее.</p>
+     <text-author>Ж. Э. Ренан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Истинная идея не требует позволения: она мало заботится о том, признается ли ее право или нет. Христианство не нуждалось ни в свободе печати, ни в свободе собраний, чтобы покорить мир.</p>
+     <text-author>Ж. Э. Ренан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ложные идеи походят на неправильные камни, которые не могут идти на постройку здания.</p>
+     <text-author>Б. Фонтенель</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Новые идеи надо поддерживать. Немногие имеют такую смелость, но это очень драгоценное свойство людей.</p>
+     <text-author>К. Э. Циолковский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Нет ничего более несокрушимого не свете, чем идея, чье время пришло.</p>
+     <text-author>В. Гюго</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Мощная идея сообщает часть своей мощи человеку.</p>
+     <text-author>М. Пруст</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>С идеями носиться опасно, следует держать их от себя на почтительном расстоянии.</p>
+     <text-author>М. Арнолд</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Идеи могут быть обезврежены только идеями.</p>
+     <text-author>О. Бальзак</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Хороший советник лучше любого богатства.</p>
+     <text-author>Сократ</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ничего люди не принимают с таким отвращением, как советы.</p>
+     <text-author>Дж. Аддисон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Самые полезные советы те, которые легче всего использовать.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Мы все умны, когда дело идет о том, чтобы давать советы; но когда надо избегать промахов, мы не более как дети.</p>
+     <text-author>Менандр</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Те, которые дают советы, не сопровождая их примерами, походят на дорожные столбы, которые дорогу указывают, но сами по ней не ходят.</p>
+     <text-author>A. Ривароль</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Когда хочешь посоветоваться с кем-нибудь о своем деле, обрати прежде всего внимание на то, как он устраивает свои собственные дела.</p>
+     <text-author>Исократ</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Попроси совета и поступи по своему разумению.</p>
+     <text-author>Норвежская пословица</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Думай… сам, но внимай и чужому совету.</p>
+     <text-author>Гомер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Проси совета у того, кто умеет одерживать победы над самим собою.</p>
+     <text-author>Леонардо да Винчи</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не советуйся с глупым, ибо он не может умолчать о деле.</p>
+     <text-author>Сирах (гл. 8, ст. 20)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Держись совета сердца твоего, ибо нет никого для тебя вернее его.</p>
+     <text-author>Сирах (гл. 37, ст. 17)</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Дурной совет больше всего вредит советчику.</p>
+     <text-author>Авл Геллий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если совет хорош, неважно, кто его дал.</p>
+     <text-author>Т. Фуллер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Совет, данный кому-либо в присутствии других людей, воспринимается как упрек.</p>
+     <text-author>Кей-Кавус</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Время дает хорошие советы.</p>
+     <text-author>Мальтийская поговорка</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Совет дороже золота.</p>
+     <text-author>Плавт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Самое трудное — познать самого себя, самое легкое — давать советы другим.</p>
+     <text-author>Фалес</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Просить совета есть величайшее доверие, какое один человек может оказать другому.</p>
+     <text-author>Дж. Боккаччо</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Никогда не давайте советов тому, кто просит у вас только денег.</p>
+     <text-author>П. Кальдерон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Совет — больше чем услуга.</p>
+     <text-author>А. Дюма-отец</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Услуга, брошенная в лицо, не услуга вовсе.</p>
+     <text-author>Мексиканская пословица</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Неблагодарное дело — услуга, если за нее требуют благодарность.</p>
+     <text-author>Плиний Младший</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Признательность за услугу уносит с собой немалую долю дружеского расположения к тому, кто сделал нам добро.</p>
+     <text-author>Ж. Лабрюйер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Приняв услугу, расстаешься с вольностью.</p>
+     <text-author>Публилий Сир</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Чрезмерная поспешность в расплате за оказанную услугу есть своего рода неблагодарность.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не забывай услуг, тебе оказанных, но забудь про те, которые ты сам оказал.</p>
+     <text-author>Публилий Сир</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Никогда не оказывайте услуг, о которых не просят.</p>
+     <text-author>О. Бальзак</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Обдумай, верно ли и возможно ли то, что ты обещаешь, ибо обещание — есть долг.</p>
+     <text-author>Конфуций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Если мы не всегда властны исполнить наше обещание, то всегда в нашей воле не давать его.</p>
+     <text-author>П. Буаст</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Большие обещания уменьшают доверие.</p>
+     <text-author>Гораций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Каждое неисполненное обещание — это безводное облако, ненаточенная сабля и бесплодное дерево.</p>
+     <text-author>Ас-Самарканди</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не скупись на обещания, но сдерживай лишь немногие из них, и ты будешь торжествовать над врагами.</p>
+     <text-author>Данте Алигьери</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Опыт — самый лучший наставник.</p>
+     <text-author>Вергилий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Верь опыту.</p>
+     <text-author>Овидий</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Опыт — лучший учитель.</p>
+     <text-author>Дж. Локк</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Опыт — учитель, берущий высокую плату за уроки, но зато никто не научает лучше его.</p>
+     <text-author>Т. Карлейль</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Опытность — это школа, в которой уроки стоят дорого, но это — единственная школа, в которой можно научиться.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Опытность — это убогая хижина, построенная из обломков того мраморного и позолоченного дворца, что зовут нашими иллюзиями.</p>
+     <text-author>Ж. Ру</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>На жизненном поприще знание без опыта — зрячий на неизвестной ему дороге, опыт без знания — слепец на знакомой ему стезе: всякая перемена на ней сбивает его с толку.</p>
+     <text-author>Ш. Пьермон</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Опыт — дитя мысли, а мысль — дитя действия.</p>
+     <text-author>Б. Дизраэли</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Опыт, увеличивая нашу мудрость, не уменьшает нашей глупости.</p>
+     <text-author>Г. Шоу</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Опыт прекрасен, если он не слишком дорог!</p>
+     <text-author>Английская поговорка</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Опыт не передается по наследству.</p>
+     <text-author>Популярное итальянское высказывание</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>В жизни нет ничего лучше собственного опыта.</p>
+     <text-author>В. Скотт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Все люди опытны в том, что касается их выгоды.</p>
+     <text-author>Плавт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Приятнее, если ты поумнел от опыта других, чем другие от твоего.</p>
+     <text-author>Плавт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Трудитесь день и ночь над приобретением опыта, и он рано или поздно послужит вам для того, чтобы замечать ошибки… других.</p>
+     <text-author>Ж. Наррей</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не следует робеть из опасения наделать ошибок, самая большая ошибка — это лишать себя опытности.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Величайшей ошибкой в жизни, которую можно допустить, является постоянный страх перед возможностью совершить ошибку.</p>
+     <text-author>Э. Хаббард</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Причина ошибки — незнание лучшего.</p>
+     <text-author>Демокрит</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Каждому человеку свойственно ошибаться, но никому, кроме глупца, не свойственно упорствовать в ошибке.</p>
+     <text-author>Аристотель</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не исправление ошибки, а упорство в ней роняет честь любого человека или организации людей.</p>
+     <text-author>Б. Франклин</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Единственная настоящая ошибка — не исправлять своих прошлых ошибок.</p>
+     <text-author>Конфуций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Дурной человек старается оправдать свою ошибку, хороший — исправить ее.</p>
+     <text-author>Японская пословица</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Достойную осуждения ошибку совершает тот, кто не учитывает своих возможностей и стремится к завоеваниям любой ценой.</p>
+     <text-author>Н. Макиавелли</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ошибаться не только свойственно человеку: это — его главное занятие. Вся наша жизнь — ряд ошибок. Но если бы нам была дана возможность их исправить, мы их повторили бы.</p>
+     <text-author>В. Крачковский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Мы легко забываем наши ошибки, если они никому, кроме нас, неизвестны.</p>
+     <text-author>Фр. Ларошфуко</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Мы не любим, когда нас жалеют за совершенные нами ошибки.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Гораздо легче вполне ошибиться, нежели наполовину.</p>
+     <text-author>И. В. Гёте</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ошибки великого ума более поучительны, чем истины ума посредственного, и когда первый сбивается с пути, он все-таки указывает хороший путь, но только другим способом.</p>
+     <text-author>Л. Берне</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Людям с великими достоинствами нелегко прощаются и маленькие ошибки.</p>
+     <text-author>М. Эшенбах</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Кто на многое отваживается, тот неизбежно во многом и ошибается.</p>
+     <text-author>Менандр</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Осторожным полезны ошибки других.</p>
+     <text-author>Федр</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ошибка одного — урок другому.</p>
+     <text-author>Дж. Рей</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Противник, вскрывающий ваши ошибки, гораздо полезнее, чем друг, скрывающий их.</p>
+     <text-author>Леонардо да Винчи</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Гораздо легче найти ошибку, нежели истину. Ошибка лежит на поверхности, и ее замечаешь сразу, а истина скрыта в глубине, и не всякий может отыскать ее.</p>
+     <text-author>И. В. Гёте</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Ошибки глупцов иной раз столь грубы и непредвиденны, что ставят в тупик умных людей: они полезны только тем, кто их делает.</p>
+     <text-author>Ж. Лабрюйер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Мы недостаточно долго живем, чтоб извлечь пользу из своих ошибок; мы всю жизнь делаем ошибки; умереть исправленным — вот вся польза, которую можно извлечь из своих постоянных ошибок.</p>
+     <text-author>Ж. Лабрюйер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Желание избежать ошибки вовлекает в другую.</p>
+     <text-author>Гораций</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Поздно признаваться в ошибке, когда весь корабль под водою.</p>
+     <text-author>Клавдиан</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Мы должны быть мужественней и не прекращать своей деятельности от неудач. Надо искать их причины и устранять их.</p>
+     <text-author>К. Э. Циолковский</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Важнейшим фактором любого дела является вера в успех. Без нее успех невозможен.</p>
+     <text-author>У. Джемс</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Не рассказывай о том, что задумал: не бывает успеха у замысла, что открыт другому.</p>
+     <text-author>Древнеиндийское изречение</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Людям, решившимся действовать, обыкновенно бывают удачи; напротив, они редко удаются людям, которые только и занимаются тем, что взвешивают и медлят.</p>
+     <text-author>Геродот</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <poem>
+      <stanza>
+       <v>Трешь щепку о щепку — добудешь огонь,</v>
+       <v>Копаешь колодец — и воду добудешь.</v>
+       <v>Упорный достигнет того, чего хочет:</v>
+       <v>Усердье и разум к успеху ведут.</v>
+      </stanza>
+     </poem>
+     <text-author>Бхаса</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Успех создает мало друзей.</p>
+     <text-author>Л. Вовенарг</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Для достижения успеха необходима всего лишь сметка, а не талант; нужна постоянная, бдительная, неустанная сноровка — вот в чем заключается успех.</p>
+     <text-author>Ф. Шнель</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Такт поможет добиться успеха даже тогда, когда ничего не сможет сделать сила.</p>
+     <text-author>Дж. Леббок</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Для успеха умение обращаться с людьми намного важнее таланта.</p>
+     <text-author>Дж. Леббок</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Главная формула успеха заключается в знании, как обращаться с людьми.</p>
+     <text-author>Т. Рузвельт</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Чтобы добиться успеха в этом мире, недостаточно быть просто глупым, нужно еще иметь хорошие манеры.</p>
+     <text-author>Вольтер</text-author>
+    </cite>
+    <subtitle>***</subtitle>
+    <cite>
+     <p>Успех бывает часто единственной видимой разницей между гением и безумием.</p>
+     <text-author>П. Буаст</text-author>
+    </cite>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>Авторы, наиболее часто цитируемые в книге</p>
+   </title>
+   <section>
+    <p>Августин Блаженный (Аврелий) (354–430) — христианский теолог и церковный деятель.</p>
+    <p>Аддисон Джозеф (1672–1719) — английский поэт, ученый и политик.</p>
+    <p>Андреев Леонид Николаевич (1871–1919) — известный русский писатель.</p>
+    <p>Аристипп Киренейский (2-я половина V в. — начало IV в. до н. э.) — древнегреческий философ, ученик Сократа, основатель киренской школы, один из родоначальников гедонизма.</p>
+    <p>Аристотель (384–322 до н. э.) — древнегреческий философ и ученый.</p>
+    <p>Аристофан (ок. 445—ок. 385 до н. э.) — древнегреческий поэт-комедиограф, «отец комедии».</p>
+    <p>Ас-Самарканди Мухаммед Аззахири (XII в.) — персидский поэт, создатель «Синдбад-наме».</p>
+    <p>Бальзак Оноре де (1799–1850) — знаменитый французский романист.</p>
+    <p>Батлер Сэмюэл (1835–1902) — английский писатель, философ, теолог, музыкант и художник.</p>
+    <p>Белинский Виссарион Григорьевич (1811–1848) — знаменитый русский критик и публицист.</p>
+    <p>Берне Людвиг (1786–1837) — немецкий писатель.</p>
+    <p>Бетховен Людвиг ван (1770–1827) — знаменитый немецкий композитор, пианист и дирижер.</p>
+    <p>Бион Борисфенит (конце IV — середина III в. до н. э.) — древнегреческий писатель и философ.</p>
+    <p>Бови — английский писатель конца XIX века (более подробных сведений не имеется).</p>
+    <p>Бомарше Пьер [Огюстен] (1732–1799) — знаменитый французский писатель.</p>
+    <p>Брант Себастьян (ок. 1458–1521) — немецкий писатель-гуманист.</p>
+    <p>Буаст Пьер (1765–1824) — французский лексикограф и философ.</p>
+    <p>Бэкон Фрэнсис (1561–1626) — великий английский философ, основатель эмпирического направления.</p>
+    <p>Бюффон Жорж Луи Леклерк де (1707–1788) — французский естествоиспытатель, иностранный почетный член Санкт-Петербургской АН.</p>
+    <p>Вергилий Публий Марон (70–19 до н. э.) — великий древнеримский поэт.</p>
+    <p>Виланд Кристоф [Мартин] (1733–1813) — немецкий поэт.</p>
+    <p>Винчи Леонардо да (1452–1519) — великий итальянский живописец, скульптор, архитектор, ученый, инженер.</p>
+    <p>Вовенарг Лик де, маркиз (1715–1747) — французский моралист.</p>
+    <p>Вольтер (Мари Франсуа Аруэ) (1694–1778) — знаменитый французский писатель, философ.</p>
+    <p>Гельвеций Клод [Адриан] (1715–1771) — французский философ, принадлежавший к школе сенсуалистов.</p>
+    <p>Гераклит Эфесский (конец IV — начало V в. до н. э.) — древнегреческий философ-диалектик, представитель ионийской школы.</p>
+    <p>Геродот (между 490 и 480—ок. 425 до н. э.) — древнегреческий историк, прозванный «отцом истории».</p>
+    <p>Гёте Иоганн Вольфганг (1749–1832) — великий немецкий писатель-мыслитель.</p>
+    <p>Гомер — древнегреческий легендарный эпический поэт; легенды рисуют Гомера слепым и странствующим певцом.</p>
+    <p>Гораций (Квинт Гораций Флакк) (65—8 до Р. Х.) — знаменитый древнеримский поэт.</p>
+    <p>Грасиан Балтасар (1584–1658) — испанский иезуит, писатель, глубокий мыслитель, строгий моралист.</p>
+    <p>Гюго Виктор [Мари] (1802–1885) — знаменитый французский поэт и романист, глава французского демократического романтизма.</p>
+    <p>Данте Алигьери (1265–1321) — великий итальянский поэт.</p>
+    <p>Декарт Рене (1596–1650) — французский философ, математик, физик и физиолог.</p>
+    <p>Декурсель Пьер (1856—?) — французский журналист, драматург и романист.</p>
+    <p>Делакруа Эжен (1798–1863) — французский живописец и график.</p>
+    <p>Демокрит (ок. 470 или 460 до Р. X. — ум. в глуб. старости) — древнегреческий философ, основатель атомизма.</p>
+    <p>Демосфен (ок. 384–322 до н. э.) — древнегреческий оратор.</p>
+    <p>Джемс Уильям (1842–1910) — американский философ и психолог, один из основателей прагматизма.</p>
+    <p>Джонсон Бенджамин (1573–1637) — английский драматург.</p>
+    <p>Дизраэли Бенджамин, [граф] Биконсфилд (1804–1881) — английский писатель и государственный деятель.</p>
+    <p>Диккенс Чарлз (1812–1870) — знаменитый английский писатель.</p>
+    <p>Диоген Синопский (ок. 400—ок. 325 до н. э.) — древнегреческий философ-киник; практиковал крайний аскетизм, по преданию, жил в бочке.</p>
+    <p>Достоевский Федор Михайлович (1821–1881) — великий русский писатель.</p>
+    <p>Дюма Александр, отец (1802–1870) — французский писатель.</p>
+    <p>Дюма Александр, сын (1824–1895) — французский драматург и романист.</p>
+    <p>Кальдерон де ла Барка Педро (1600–1681) — знаменитый испанский драматург.</p>
+    <p>Кант Иммануил (1724–1804) — великий немецкий философ, родоначальник немецкой классической философии.</p>
+    <p>Карлейль Томас (1795–1881) — английский публицист, историк и философ.</p>
+    <p>Кай-Кавус (Аль-Маали) (1021–1098) — персидский писатель, автор книги «Кавус-намэ».</p>
+    <p>Ключевский Василий Осипович (1841–1911) — русский историк, академик Санкт-Петербургской АН.</p>
+    <p>Колтон Калеб — североамериканский проповедник и мыслитель первой трети XIX столетия.</p>
+    <p>Конфуций (Кун-цзы) (ок. 551–479 до н. э.) — древнекитайский мыслитель, основатель этико-политического учения.</p>
+    <p>Купер Джеймс Фенимор (1789–1851) — американский писатель.</p>
+    <p>Лабрюйер Жан де (1645–1696) — известный французский писатель.</p>
+    <p>Ларошфуко Франсуа де, герцог (1613–1680) — французский моралист, автор афоризмов.</p>
+    <p>Леббок Джон (1834–1913) — английский естествоиспытатель и моралист.</p>
+    <p>Лессинг Готхольд [Эфраим] (1729–1781) — знаменитый немецкий драматург, критик и публицист.</p>
+    <p>Лихтенберг Георг [Кристоф] (1742–1799) — выдающийся немецкий физик, публицист и сатирик.</p>
+    <p>Локк Джон (1632–1704) — английский философ, положивший начало эмпиризму в философии.</p>
+    <p>Ломоносов Михаил Васильевич (1711–1765) — первый русский ученый-естествоиспытатель мирового значения, поэт, художник, историк.</p>
+    <p>Луцилий Гай (ок. 180–102 до н. э.) — древнеримский поэт.</p>
+    <p>Лэм Чарлз (1775–1834) — английский писатель.</p>
+    <p>Менандр (ок. 343—ок. 291 до н. э.) — древнегреческий поэт-комедиограф.</p>
+    <p>Милль Джон Стюарт (1806–1873) — английский философ и экономист, один из величайших умов XIX в.</p>
+    <p>Мольер (Жан Батист Поклен) (1622–1673) — великий французский драматург, создатель национальной комедии.</p>
+    <p>Найтингейл Флоренс (1820–1910) — английская сестра милосердия и общественная деятельница.</p>
+    <p>Наполеон I (1769–1821) — французский император.</p>
+    <p>Ницше Фридрих (1844–1900) — знаменитый немецкий философ.</p>
+    <p>О.Генри (Уильям Сидни Портер) (1862–1910) — американский писатель.</p>
+    <p>Овидий (Публий Овидий Назон) (43 до Р. X. — ок 18 после Р. X.) — знаменитый древнеримский поэт.</p>
+    <p>Петроний Арбитр Гай (год рождения неизвестен, принужден Нероном к самоубийству в 66 г. н. э.) — древнеримский писатель, придворный Нерона — «арбитр изящества».</p>
+    <p>Питтак (умер ок. 570 г. до н. э.) — один из семи мудрецов Древней Греции.</p>
+    <p>Пифагор (VI в. до н. э.) — древнегреческий философ, математик, религиозный и политический деятель.</p>
+    <p>Плавт Тит Макций (ок. 250—ок. 184 до н. э.) — древнеримский комедиограф.</p>
+    <p>Платон (428 или 427–348 или 347 до н. э.) — древнегреческий философ, ученик Сократа, основатель школы в Афинах.</p>
+    <p>Плиний Младший (61 или 62 —ок. 114) — древнеримский общественный деятель и писатель.</p>
+    <p>Пруст Марсель (1871–1922) — французский писатель.</p>
+    <p>Публилий Сир (I в. до н. э.) — древнеримский поэт, автор мимов.</p>
+    <p>Ренан [Жозеф] Эрнест (1823–1892) — знаменитый французский философ и историк.</p>
+    <p>Ренар Жюль (1864–1910) — французский писатель.</p>
+    <p>Рескин Джон (1819–1900) — английский писатель, теоретик искусства.</p>
+    <p>Ривароль Антуан (1753–1801) — французский писатель, остроумный и едкий памфлетист.</p>
+    <p>Рузвельт Теодор (1858–1919) — 26 — й президент США.</p>
+    <p>Руссо Жан Жак (1712–1778) — знаменитый французский писатель.</p>
+    <p>Саади (Муслихаддин Абу Мухаммед Абдаллах ибн Мушрифаддин) (между 1203 и 1210–1292) — персидский поэт, писатель и мыслитель.</p>
+    <p>Саллюстий (Гай Саллюстий Крисп) (86–35 до н. э.) — древнеримский историк.</p>
+    <p>Сафир Моисей (1795–1858) — немецкий юморист и поэт, талантливый рассказчик, остроумный критик.</p>
+    <p>Сафир Мориц-Готлиб (1795–1858) — австрийский писатель.</p>
+    <p>Сенека Луций Анней (ок. 4 до Р. X. — 65 после Р. X.) — великий римский философ, драматург и оратор, приверженец стоицизма.</p>
+    <p>Сократ (ок. 470–399 до н. э.) — великий древнегреческий философ, один из родоначальников диалектики.</p>
+    <p>Стендаль (Анри Мари Бейль) (1783–1842) — знаменитый французский писатель.</p>
+    <p>Талейран (Талейран-Перигор) Шарль Морис (1754–1838) — французский дипломат, министр иностранных дел при Директории, в период Консульства и империи Наполеона, при Людовике XVIII.</p>
+    <p>Теренций Публий (ок. 195–159 до н. э.) — древнеримский комедиограф.</p>
+    <p>Тит Ливий (59 до н. э. — 17 н. э.) — древнеримский историк.</p>
+    <p>Толстой Лев Николаевич, граф (1828–1910) — великий русский романист и философ.</p>
+    <p>Торо Генри Дэвид (1817–1862) — американский писатель, публицист, философ.</p>
+    <p>Уайльд Оскар (1854–1900) — известный английский писатель.</p>
+    <p>Ушинский Константин Дмитриевич (1824–1870) — русский педагог-демократ, основоположник научной педагогики в России.</p>
+    <p>Фабр Жан Анри (1823–1915) — французский энтомолог.</p>
+    <p>Филдинг Генри (1707–1754) — популярный английский романист, классик литературы Просвещения.</p>
+    <p>Фонвизин Денис Иванович (1744 или 1745–1792) — русский писатель, просветитель.</p>
+    <p>Фонтенель Бернар Ле Бовье де (1657–1757) — французский писатель, ученый-популяризатор.</p>
+    <p>франклин Бенджамин (1706–1790) — американский писатель-просветитель, государственный деятель, ученый, один из авторов Декларации независимости Конституции и США.</p>
+    <p>Франс Анатоль (Анатоль Франсуа Тибо) (1844–1924) — известный французский романист и критик.</p>
+    <p>Фуллер Томас (1608–1661) — английский богослов, историк и биограф.</p>
+    <p>Хаббард Кин (1868–1930) — американский писатель-сатирик.</p>
+    <p>Хаббард Элберт Грин (1856–1915) — американский писатель, редактор и издатель.</p>
+    <p>Хилон (VI в. до н. э.) — один из семи мудрецов Древней Греции.</p>
+    <p>Циолковский Константин Эдуардович (1857–1935) — знаменитый русский ученый и изобретатель, основоположник современной космонавтики.</p>
+    <p>Цицерон Марк Туллий (106—43 до Р. X.) — величайший древнеримский оратор и выдающийся философ.</p>
+    <p>Чернышевский Николай Гаврилович (1828–1889) — русский революционный демократ, ученый, писатель, литературный критик. Тестерфилд Филип Дормер Стенхоп (1694–1773) — английский писатель и государственный деятель.</p>
+    <p>Чехов Антон Павлович (1860–1904) — знаменитый русский писатель, почетный академик Санкт-Петербургской АН.</p>
+    <p>Шамфор [Себастьян Рок Никола] (1741–1794) — французский писатель.</p>
+    <p>Шекспир Вильям (1564–1616) — великий английский драматург и поэт.</p>
+    <p>Шиллер [Иоганн] Фридрих (1759–1805) — известный немецкий поэт и драматург.</p>
+    <p>Шопенгауэр Артур (1788–1860) — знаменитый немецкий философ.</p>
+    <p>Шоу Генри Уилер (1818–1885) — американский писатель-сатирик.</p>
+   </section>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJ
+SkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUK
+BwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJ
+BQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU
+FBQU/8AAEQgBqQFeAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkK
+C//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHw
+JDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3
+eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY
+2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkK
+C//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1Lw
+FWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2
+d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW
+19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/N+k+taNxqVrNCUj0q1gc/8A
+LRJJSR+bkfpTNO0bUdY837BYXN7sxv8As0LSbM9M4Bx0P5Vmn1ehzT5Ya3X9epRzSgkHIOD7
+Vst4K8QqpLaDqYA5JNnIMf8AjtYxppp7GcZRl8Lua+l+KtQ0kAQTuqjJwD69a6e3+MOsQIoE
+zn1+Y81w9nZXGo3KW9pBLczv92KFC7N34A5Nay+B/ETK5/sDVPlHazkx1H+zSdupjNUov3nb
+52Ne7+Kes3XBncA/7RqufEWszyiOWd4XdA6qxPzgjgj1z2xXPahpN9pEix39ncWUjDcqXETR
+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</binary>
+</FictionBook>
