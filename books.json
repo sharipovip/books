@@ -626,13 +626,31 @@
       ]
     },
     {
+      "id": "siyosat_siyosatshinosi",
+      "name": "Сиёсат, Сиёсатшиносӣ",
+      "folder_raw": "Сиёсат, Сиёсатшиносӣ",
+      "emoji": "📚",
+      "color1": "#2563eb",
+      "color2": "#60a5fa",
+      "sort_order": 118,
+      "subs": [
+        {
+          "id": "siyosat_siyosatshinosi",
+          "name": "Сиёсат, Сиёсатшиносӣ",
+          "folder_raw": "Сиёсат, Сиёсатшиносӣ",
+          "folder": "books/Сиёсат, Сиёсатшиносӣ",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
       "id": "tarih",
       "name": "Таърих",
       "folder_raw": "Таърих",
       "emoji": "🏛",
-      "color1": "#2563eb",
-      "color2": "#60a5fa",
-      "sort_order": 118,
+      "color1": "#7c3aed",
+      "color2": "#a78bfa",
+      "sort_order": 119,
       "subs": [
         {
           "id": "tarih",
@@ -655,9 +673,9 @@
       "name": "Фарҳангшиносӣ",
       "folder_raw": "Фарҳангшиносӣ",
       "emoji": "🎨",
-      "color1": "#7c3aed",
-      "color2": "#a78bfa",
-      "sort_order": 119,
+      "color1": "#0d9488",
+      "color2": "#5eead4",
+      "sort_order": 120,
       "subs": [
         {
           "id": "farhangshinosi",

@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-28",
+  "folder": "books/Сиёсат, Сиёсатшиносӣ",
+  "books": [
+    {
+      "name": "12095",
+      "file": "12095.pdf",
+      "size": 16271375,
+      "mtime": 1790584812
+    },
+    {
+      "name": "12199,2000-186с",
+      "file": "12199,2000-186с.pdf",
+      "size": 40259342,
+      "mtime": 1790584812
+    },
+    {
+      "name": "12251, 2018-180с",
+      "file": "12251, 2018-180с.pdf",
+      "size": 70722313,
+      "mtime": 1790584812
+    },
+    {
+      "name": "12271, Р. -2026. 80с.",
+      "file": "12271, Р. -2026. 80с..pdf",
+      "size": 675995,
+      "mtime": 1790584812
+    },
+    {
+      "name": "12273-2026. 206с.",
+      "file": "12273-2026. 206с..pdf",
+      "size": 4391162,
+      "mtime": 1790584812
+    },
+    {
+      "name": "[Machin_Igor_Fedorovich]_Istoriya_politicheskih_i_(libcats.org)",
+      "file": "[Machin_Igor_Fedorovich]_Istoriya_politicheskih_i_(libcats.org).pdf",
+      "size": 85425354,
+      "mtime": 1790584813
+    },
+    {
+      "name": "afkori siyosi va huquqi A B",
+      "file": "afkori siyosi va huquqi A B.pdf",
+      "size": 5679210,
+      "mtime": 1790584813
+    },
+    {
+      "name": "dasturamal",
+      "file": "dasturamal.pdf",
+      "size": 65978315,
+      "mtime": 1790584813
+    },
+    {
+      "name": "ilm",
+      "file": "ilm.pdf",
+      "size": 48609583,
+      "mtime": 1790584813
+    },
+    {
+      "name": "politika",
+      "file": "politika.pdf",
+      "size": 32927700,
+      "mtime": 1790584813
+    },
+    {
+      "name": "risolati sozandagi",
+      "file": "risolati sozandagi.pdf",
+      "size": 48158785,
+      "mtime": 1790584814
+    }
+  ]
+}
