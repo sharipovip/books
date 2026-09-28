@@ -342,11 +342,53 @@ def book_meta(path: Path) -> tuple[str | None, bytes | None]:
 def sanitize_filename(title: str, ext: str) -> str | None:
     """Название книги → безопасное имя файла (любые алфавиты, вкл. таджикский)."""
     name = re.sub(r"[\\/:*?\"<>|\r\n\t]", " ", title)
+    name = name.replace("_", " ")  # «с всяки _» → обычные пробелы
     name = re.sub(r"\s+", " ", name).strip(" .")
     if not name:
         return None
     name = name[:100].strip()
     return name + ext
+
+
+def pretty_book_name(s: str) -> str | None:
+    """«1_Kitobi_darsi_2» → «Kitobi darsi 2»: убирает числовой префикс с разделителем
+    (1_, 2., 5-) и подчёркивания. Целиком числовые названия («1984», «12065») не трогает."""
+    name = str(s or "").strip()
+    stripped = re.sub(r"^\d+[_\-.]\s*", "", name)
+    if stripped and len(stripped) >= 2:
+        name = stripped
+    name = name.replace("_", " ")
+    name = re.sub(r"\s+", " ", name).strip(" .-")
+    return name or None
+
+
+def pdf_title(path: Path) -> str | None:
+    """Заголовок из метаданных PDF (pdfinfo из poppler-utils, есть в GitHub Actions)."""
+    if shutil.which("pdfinfo") is None:
+        return None
+    try:
+        out = subprocess.run(
+            ["pdfinfo", str(path)],
+            stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=30,
+        )
+        text = out.stdout.decode("utf-8", "ignore")
+    except Exception:
+        return None
+    m = re.search(r"^Title:\s*(.+)$", text, re.M)
+    if not m:
+        return None
+    t = _clean_title(m.group(1))
+    if not t:
+        return None
+    t = re.sub(r"^microsoft word -\s*", "", t, flags=re.I).strip() or None
+    if not t:
+        return None
+    low = t.casefold()
+    if low in ("untitled", "untitled document", "document", "powerpoint presentation", "layout"):
+        return None
+    if low == path.stem.strip().casefold():
+        return None
+    return t
 
 
 def rename_books_to_titles() -> int:
@@ -369,11 +411,16 @@ def rename_books_to_titles() -> int:
             title, _cover = book_meta(path)
         except Exception:
             title = None
-        if not title:
-            continue
-        if path.stem.strip().casefold() == title.strip().casefold():
-            continue  # уже называется как книга
-        new_base = sanitize_filename(title, path.suffix)
+        if title:
+            if path.stem.strip().casefold() == title.strip().casefold():
+                continue  # уже называется как книга
+            new_base = sanitize_filename(title, path.suffix)
+        else:
+            # метаданных нет (китобҳои лотинӣ бо «_») — барои ординарӣ: 1_Kitobi_darsi → Kitobi darsi
+            pretty = pretty_book_name(path.stem)
+            if not pretty or pretty.casefold() == path.stem.strip().casefold():
+                continue  # ном аллакай тоза аст
+            new_base = sanitize_filename(pretty, path.suffix)
         if not new_base:
             continue
         target = path.with_name(new_base)
@@ -412,6 +459,18 @@ def pdf_info(pdf: Path) -> dict[str, Any]:
                 name = title
         except Exception:
             pass
+    elif pdf.suffix.lower() == ".pdf":
+        # PDF: заголовок из метаданных (если есть), иначе имя файла как есть
+        try:
+            t = pdf_title(pdf)
+            if t:
+                name = t
+        except Exception:
+            pass
+    # чистим отображаемое имя: «1_Kitobi_darsi» → «Kitobi darsi» (файлы PDF не переименовываются!)
+    pretty = pretty_book_name(name)
+    if pretty and pretty.casefold() != name.strip().casefold():
+        name = pretty
     return {
         "name": name,
         "file": pdf.name,
