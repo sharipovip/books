@@ -191,6 +191,11 @@ def collect_pdf_dirs() -> dict[Path, list[Path]]:
         return result
     for item in BOOKS_DIR.rglob("*"):
         if item.is_file() and item.suffix.lower() in BOOK_EXTS:
+            # v99: .docx/.txt, лежащие РЯДОМ с .doc — это служебные копии для
+            # показа внутри приложения (doc→docx конвертация). Их НЕ показываем
+            # в каталоге отдельными книгами.
+            if item.suffix.lower() in (".docx", ".txt") and item.with_suffix(".doc").exists():
+                continue
             result.setdefault(item.parent, []).append(item)
     for k in result:
         result[k].sort(key=lambda p: p.name.casefold())
@@ -392,12 +397,14 @@ def pdf_title(path: Path) -> str | None:
 
 
 def rename_books_to_titles() -> int:
-    """Переименует файлы epub/fb2 в НАСТОЯЩИЕ названия из метаданных файла.
+    """Переименует файлы epub/fb2/doc в НАСТОЯЩИЕ названия.
 
     Файлы в репо названы транслитом («1_Armaghieddon_otkladyvaietsia.epub»), а внутри
     каждого файла записано настоящее название («Армагеддон откладывается», «Шоҳнома»...).
     После переименования имя файла, имя в manifest.json и имя обложки
     (covers/<папка>/<название>.jpg) СОВПАДАЮТ. Обложка переименовывается вместе с книгой.
+    v99: .doc тоже переименовывается (метаданных нет → просто чистое имя: «1_estetika» →
+    «estetika»), а рядом робот кладёт .docx-копию для показа внутри приложения.
     PDF не переименовываются (заголовок из PDF надёжно извлечь нельзя) — их имена и так
     нормальные. Идемпотентно: повторный запуск ничего не меняет.
     """
@@ -405,7 +412,7 @@ def rename_books_to_titles() -> int:
     if not BOOKS_DIR.exists():
         return 0
     for path in sorted(BOOKS_DIR.rglob("*")):
-        if not path.is_file() or path.suffix.lower() not in (".epub", ".fb2"):
+        if not path.is_file() or path.suffix.lower() not in (".epub", ".fb2", ".doc"):
             continue
         try:
             title, _cover = book_meta(path)
@@ -446,6 +453,62 @@ def rename_books_to_titles() -> int:
         renamed += 1
         print(f"✏️ renamed: {rel_posix(path)} → {rel_posix(target).split('/')[-1]}")
     return renamed
+
+
+def convert_docs() -> int:
+    """v99: DOC (Word 97-2003) → DOCX-копия рядом с файлом — чтобы приложение
+    ПОКАЗЫВАЛО книгу внутри ридера (mammoth читает .docx, но не .doc).
+
+    Порядок качества: LibreOffice (soffice) → полноценный .docx с форматированием;
+    antiword → .txt (только текст). В CI build.yml ставит antiword всегда, а
+    libreoffice-writer — только если есть .doc без .docx-копии.
+    Идемпотентно: если копия уже есть — ничего не делает.
+    """
+    if not BOOKS_DIR.exists():
+        return 0
+    docs = [p for p in sorted(BOOKS_DIR.rglob("*.doc")) if p.is_file()]
+    if not docs:
+        return 0
+    have_soffice = shutil.which("soffice") is not None
+    have_antiword = shutil.which("antiword") is not None
+    if not have_soffice and not have_antiword:
+        print("⚠ Найдены .doc, но нет конвертера (soffice/antiword) — копии не созданы")
+        return 0
+    converted = 0
+    for path in docs:
+        docx = path.with_suffix(".docx")
+        txt = path.with_suffix(".txt")
+        if docx.exists() or txt.exists():
+            continue  # копия уже есть
+        if have_soffice:
+            try:
+                subprocess.run(
+                    ["soffice", "--headless", "--convert-to", "docx", "--outdir", str(path.parent), str(path)],
+                    check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=300,
+                )
+                if docx.exists() and docx.stat().st_size > 0:
+                    print(f"📄 doc→docx: {rel_posix(docx)}")
+                    converted += 1
+                    continue
+            except Exception as e:
+                print(f"⚠ doc→docx не удалось ({path.name}): {e}")
+        if have_antiword:
+            try:
+                out = subprocess.run(
+                    ["antiword", "-w", "0", str(path)],
+                    stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=90,
+                )
+                if out.returncode == 0:
+                    text = out.stdout.decode("utf-8", "replace").strip()
+                    if text:
+                        txt.write_text(text + "\n", encoding="utf-8")
+                        print(f"📄 doc→txt: {rel_posix(txt)}")
+                        converted += 1
+                        continue
+            except Exception as e:
+                print(f"⚠ doc→txt не удалось ({path.name}): {e}")
+        print(f"⚠ {path.name}: копия для показа не создана")
+    return converted
 
 
 def pdf_info(pdf: Path) -> dict[str, Any]:
@@ -688,6 +751,10 @@ def main() -> int:
     r = rename_books_to_titles()
     if r:
         print(f"✏️ Renamed {r} books to their real titles")
+
+    d = convert_docs()
+    if d:
+        print(f"📄 Created {d} viewable copies of .doc books")
 
     pdf_dirs = collect_pdf_dirs()
     pdf_count = sum(len(v) for v in pdf_dirs.values())
