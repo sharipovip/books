@@ -687,6 +687,24 @@
       ]
     },
     {
+      "id": "fizika",
+      "name": "Физика",
+      "folder_raw": "Физика",
+      "emoji": "📚",
+      "color1": "#d97706",
+      "color2": "#fbbf24",
+      "sort_order": 121,
+      "subs": [
+        {
+          "id": "fizika",
+          "name": "Физика",
+          "folder_raw": "Физика",
+          "folder": "books/Физика",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
       "id": "digar",
       "name": "Дигар",
       "folder_raw": "Дигар",
