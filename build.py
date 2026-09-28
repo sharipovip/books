@@ -339,6 +339,68 @@ def book_meta(path: Path) -> tuple[str | None, bytes | None]:
     return None, None
 
 
+def sanitize_filename(title: str, ext: str) -> str | None:
+    """Название книги → безопасное имя файла (любые алфавиты, вкл. таджикский)."""
+    name = re.sub(r"[\\/:*?\"<>|\r\n\t]", " ", title)
+    name = re.sub(r"\s+", " ", name).strip(" .")
+    if not name:
+        return None
+    name = name[:100].strip()
+    return name + ext
+
+
+def rename_books_to_titles() -> int:
+    """Переименует файлы epub/fb2 в НАСТОЯЩИЕ названия из метаданных файла.
+
+    Файлы в репо названы транслитом («1_Armaghieddon_otkladyvaietsia.epub»), а внутри
+    каждого файла записано настоящее название («Армагеддон откладывается», «Шоҳнома»...).
+    После переименования имя файла, имя в manifest.json и имя обложки
+    (covers/<папка>/<название>.jpg) СОВПАДАЮТ. Обложка переименовывается вместе с книгой.
+    PDF не переименовываются (заголовок из PDF надёжно извлечь нельзя) — их имена и так
+    нормальные. Идемпотентно: повторный запуск ничего не меняет.
+    """
+    renamed = 0
+    if not BOOKS_DIR.exists():
+        return 0
+    for path in sorted(BOOKS_DIR.rglob("*")):
+        if not path.is_file() or path.suffix.lower() not in (".epub", ".fb2"):
+            continue
+        try:
+            title, _cover = book_meta(path)
+        except Exception:
+            title = None
+        if not title:
+            continue
+        if path.stem.strip().casefold() == title.strip().casefold():
+            continue  # уже называется как книга
+        new_base = sanitize_filename(title, path.suffix)
+        if not new_base:
+            continue
+        target = path.with_name(new_base)
+        if target.exists() and target != path:
+            # коллизия: одинаковое название у двух книг → суффикс (2), (3)...
+            stem, ext = new_base[:-len(path.suffix)], path.suffix
+            n = 2
+            while target.exists() and target != path:
+                target = path.with_name(f"{stem} ({n}){ext}")
+                n += 1
+        if target == path:
+            continue
+        # обложка следует за книгой (старое имя → новое имя)
+        old_cover = cover_path_for_pdf(path)
+        new_cover = cover_path_for_pdf(target)
+        if old_cover.exists():
+            if new_cover.exists():
+                old_cover.unlink()          # новая уже есть — старую убираем
+            else:
+                new_cover.parent.mkdir(parents=True, exist_ok=True)
+                old_cover.rename(new_cover)
+        path.rename(target)
+        renamed += 1
+        print(f"✏️ renamed: {rel_posix(path)} → {rel_posix(target).split('/')[-1]}")
+    return renamed
+
+
 def pdf_info(pdf: Path) -> dict[str, Any]:
     st = pdf.stat()
     name = pdf.stem
@@ -563,6 +625,10 @@ def main() -> int:
     if not isinstance(overrides, dict):
         print("⚠ display_names.json must be an object; ignoring")
         overrides = {}
+
+    r = rename_books_to_titles()
+    if r:
+        print(f"✏️ Renamed {r} books to their real titles")
 
     pdf_dirs = collect_pdf_dirs()
     pdf_count = sum(len(v) for v in pdf_dirs.values())
