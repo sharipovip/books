@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-28",
+  "folder": "books/Информатика",
+  "books": [
+    {
+      "name": "12336,-2022.-128с.",
+      "file": "12336,-2022.-128с..pdf",
+      "size": 18193544,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_asoshoi_tehnikai_kompjuter._kitobi_darsyi_baroi_honandagoni_sinfi_11",
+      "file": "1_asoshoi_tehnikai_kompjuter._kitobi_darsyi_baroi_honandagoni_sinfi_11.pdf",
+      "size": 15333733,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_asoshoi_tehnikai_kompjuteryi 10",
+      "file": "1_asoshoi_tehnikai_kompjuteryi 10.pdf",
+      "size": 15586768,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_biblioteka_programmista_c",
+      "file": "1_biblioteka_programmista_c.pdf",
+      "size": 2042933,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_informacionnaja_bezopasnost",
+      "file": "1_informacionnaja_bezopasnost.doc",
+      "size": 4944384,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_informatikai_tatbiqi",
+      "file": "1_informatikai_tatbiqi.pdf",
+      "size": 14717390,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_instrumenty_taktika_i_motivy_hakerov_znaj_svoego_vraga",
+      "file": "1_instrumenty_taktika_i_motivy_hakerov_znaj_svoego_vraga.pdf",
+      "size": 3125054,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_internet-smi",
+      "file": "1_internet-smi.pdf",
+      "size": 4460357,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_osnovy_sovremennoj_kriptografii_1.2",
+      "file": "1_osnovy_sovremennoj_kriptografii_1.2.pdf",
+      "size": 1456959,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_osnovy_sovremennoj_kriptografii_1.3",
+      "file": "1_osnovy_sovremennoj_kriptografii_1.3.pdf",
+      "size": 2621433,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_podgotovka_shkolnikov_k_olimpiadam_po_informatike_s_ispolzovaniem_vebsajta",
+      "file": "1_podgotovka_shkolnikov_k_olimpiadam_po_informatike_s_ispolzovaniem_vebsajta.pdf",
+      "size": 3168808,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_proisshiestviie_na_tikhoi_ulitsie",
+      "file": "1_proisshiestviie_na_tikhoi_ulitsie.fb2",
+      "size": 1447641,
+      "mtime": 1790605477
+    },
+    {
+      "name": "1_sekrety_hakerov._bezopasnost_setej_gotovye_reshenija_trete_izdanie",
+      "file": "1_sekrety_hakerov._bezopasnost_setej_gotovye_reshenija_trete_izdanie.pdf",
+      "size": 21658824,
+      "mtime": 1790605477
+    }
+  ]
+}

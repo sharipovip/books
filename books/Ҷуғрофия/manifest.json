@@ -4,76 +4,166 @@
   "folder": "books/Ҷуғрофия",
   "books": [
     {
+      "name": "1_1f721e55-8ead-489b-881a-12b3f790cb83",
+      "file": "1_1f721e55-8ead-489b-881a-12b3f790cb83.pdf",
+      "size": 26495526,
+      "mtime": 1790605575
+    },
+    {
+      "name": "1_Atlas vielikikh ghieoghrafichieskikh otkrytii. Vsiekh vriemien i narodov",
+      "file": "1_Atlas vielikikh ghieoghrafichieskikh otkrytii. Vsiekh vriemien i narodov.pdf",
+      "size": 79103681,
+      "mtime": 1790605575
+    },
+    {
+      "name": "1_Atlas._Tsielyi_mir_v_tvoikh_ruk",
+      "file": "1_Atlas._Tsielyi_mir_v_tvoikh_ruk.pdf",
+      "size": 21582840,
+      "mtime": 1790605575
+    },
+    {
+      "name": "1_Atlas",
+      "file": "1_Atlas.pdf",
+      "size": 27656110,
+      "mtime": 1790605576
+    },
+    {
+      "name": "1_atlas_celyj_mir_v_tvoih__rukah",
+      "file": "1_atlas_celyj_mir_v_tvoih__rukah.pdf",
+      "size": 18777946,
+      "mtime": 1790605576
+    },
+    {
+      "name": "1_ganjhoi_kishvari_tojikiston",
+      "file": "1_ganjhoi_kishvari_tojikiston.pdf",
+      "size": 5755758,
+      "mtime": 1790605576
+    },
+    {
+      "name": "1_geografija.planeta_zemlja",
+      "file": "1_geografija.planeta_zemlja.pdf",
+      "size": 4521687,
+      "mtime": 1790605576
+    },
+    {
+      "name": "1_geografija_mirovogo_hozjajstva",
+      "file": "1_geografija_mirovogo_hozjajstva.doc",
+      "size": 2955264,
+      "mtime": 1790605576
+    },
+    {
+      "name": "1_geografijai_iqtisodii_tojikiston_va_asoshoi_demografija",
+      "file": "1_geografijai_iqtisodii_tojikiston_va_asoshoi_demografija.pdf",
+      "size": 3331331,
+      "mtime": 1790605576
+    },
+    {
+      "name": "1_geografijai_iqtisodyi_va_ijtimoii_tojikiston",
+      "file": "1_geografijai_iqtisodyi_va_ijtimoii_tojikiston.pdf",
+      "size": 82940275,
+      "mtime": 1790605576
+    },
+    {
+      "name": "1_geografijakitobi_darsi_baroi_sinfi_6-um",
+      "file": "1_geografijakitobi_darsi_baroi_sinfi_6-um.pdf",
+      "size": 24226302,
+      "mtime": 1790605577
+    },
+    {
+      "name": "1_Geografiya_7",
+      "file": "1_Geografiya_7.pdf",
+      "size": 86894494,
+      "mtime": 1790605576
+    },
+    {
       "name": "1_prysud",
       "file": "1_prysud.fb2",
       "size": 98978,
-      "mtime": 1790598855
+      "mtime": 1790605577
     },
     {
       "name": "1_pryzhok",
       "file": "1_pryzhok.fb2",
       "size": 683238,
-      "mtime": 1790598855
+      "mtime": 1790605577
     },
     {
       "name": "1_pryzhok_chieriez_propast'",
       "file": "1_pryzhok_chieriez_propast'.fb2",
       "size": 1185761,
-      "mtime": 1790598855
+      "mtime": 1790605577
+    },
+    {
+      "name": "1_rekreacionnaja_geografija",
+      "file": "1_rekreacionnaja_geografija.pdf",
+      "size": 3351651,
+      "mtime": 1790605577
+    },
+    {
+      "name": "1_tabiat_va_sarvathoi_tabiii_tojikiston_sinfi_10",
+      "file": "1_tabiat_va_sarvathoi_tabiii_tojikiston_sinfi_10.pdf",
+      "size": 18746044,
+      "mtime": 1790605577
+    },
+    {
+      "name": "1_Toponimika_vostoka",
+      "file": "1_Toponimika_vostoka.pdf",
+      "size": 75579960,
+      "mtime": 1790605576
     },
     {
       "name": "5298, 2020-198с",
       "file": "5298, 2020-198с.pdf",
       "size": 38232634,
-      "mtime": 1790598855
+      "mtime": 1790605578
     },
     {
       "name": "5364, 2003-100с.",
       "file": "5364, 2003-100с..pdf",
       "size": 16156344,
-      "mtime": 1790598856
+      "mtime": 1790605578
     },
     {
       "name": "8062 jugrofiyai viloyati sugd 1998-156с",
       "file": "8062 jugrofiyai viloyati sugd 1998-156с.pdf",
       "size": 59957457,
-      "mtime": 1790598856
+      "mtime": 1790605578
     },
     {
       "name": "abrorov piryahhoi toj",
       "file": "abrorov piryahhoi toj.pdf",
       "size": 50920512,
-      "mtime": 1790598857
+      "mtime": 1790605579
     },
     {
       "name": "istifodai oqilonai zamin",
       "file": "istifodai oqilonai zamin.pdf",
       "size": 42621546,
-      "mtime": 1790598859
+      "mtime": 1790605579
     },
     {
       "name": "jonnisori ilm",
       "file": "jonnisori ilm.pdf",
       "size": 25111398,
-      "mtime": 1790598860
+      "mtime": 1790605580
     },
     {
       "name": "sanghoi garobahoi badahshon",
       "file": "sanghoi garobahoi badahshon.pdf",
       "size": 11059124,
-      "mtime": 1790598860
+      "mtime": 1790605580
     },
     {
       "name": "snejniy pokrov tadjikistana2008, 130с",
       "file": "snejniy pokrov tadjikistana2008, 130с.pdf",
       "size": 32860872,
-      "mtime": 1790598861
+      "mtime": 1790605580
     },
     {
       "name": "tojikon az nigohi",
       "file": "tojikon az nigohi.pdf",
       "size": 23000106,
-      "mtime": 1790598861
+      "mtime": 1790605580
     }
   ]
 }
