@@ -14,6 +14,7 @@ Idempotent: repeated runs do not duplicate anything and commit only real changes
 
 from __future__ import annotations
 
+import base64
 import hashlib
 import json
 import os
@@ -22,6 +23,8 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import zipfile
+import xml.etree.ElementTree as ET
 from datetime import date
 from pathlib import Path
 from typing import Any
@@ -194,10 +197,161 @@ def collect_pdf_dirs() -> dict[Path, list[Path]]:
     return dict(sorted(result.items(), key=lambda kv: kv[0].as_posix().casefold()))
 
 
+# ---------- Метаданные epub/fb2: настоящее название книги + обложка ----------
+# Файлы в репо часто названы транслитом («1_Armaghieddon_otkladyvaietsia.epub»),
+# а ВНУТРИ файла лежит настоящее название («Армагеддон откладывается») и обложка.
+# Мы не переименовываем файлы (ссылки стабильны) — только берём имя и обложку
+# из самого файла для manifest.json и covers/.
+
+def _clean_title(t: str | None) -> str | None:
+    if not t:
+        return None
+    t = re.sub(r"\s+", " ", str(t)).strip()
+    return t[:120] if t else None
+
+
+def _epub_opf_path(zf: zipfile.ZipFile) -> str | None:
+    try:
+        container = zf.read("META-INF/container.xml")
+        root = ET.fromstring(container)
+        for rf in root.iter():
+            if rf.tag.endswith("rootfile"):
+                p = rf.get("full-path")
+                if p and p in zf.namelist():
+                    return p
+    except Exception:
+        pass
+    return None
+
+
+def _epub_cover_href(opf_dir: str, manifest_items: list, spine_ids: list) -> tuple[str, str] | None:
+    # 1) <item properties="cover-image">
+    for it in manifest_items:
+        props = (it.get("properties") or "").split()
+        if "cover-image" in props and (it.get("media-type") or "").startswith("image/"):
+            return it.get("href"), it.get("media-type")
+    # 2) id похожий на cover
+    for it in manifest_items:
+        if re.search(r"(^|_)cover($|_)|(cover[-_]?image)", (it.get("id") or ""), re.I) and (it.get("media-type") or "").startswith("image/"):
+            return it.get("href"), it.get("media-type")
+    # 3) первый spine-файл типа cover.xhtml -> <img> внутри
+    for sid in spine_ids[:3]:
+        for it in manifest_items:
+            if it.get("id") == sid and "html" in (it.get("media-type") or ""):
+                href, mt = it.get("href"), it.get("media-type")
+                return href + "::__HTML__", mt  # маркер: это страница, не картинка
+    return None
+
+
+def extract_epub_meta(path: Path) -> tuple[str | None, bytes | None]:
+    """Возвращает (название, bytes обложки) из EPUB."""
+    try:
+        with zipfile.ZipFile(path) as zf:
+            opf_path = _epub_opf_path(zf)
+            if not opf_path:
+                return None, None
+            opf_dir = opf_path.rsplit("/", 1)[0] + "/" if "/" in opf_path else ""
+            root = ET.fromstring(zf.read(opf_path))
+            # название: dc:title
+            title = None
+            for el in root.iter():
+                if el.tag.endswith("}title") and (el.text or "").strip():
+                    title = _clean_title(el.text)
+                    break
+            # обложка
+            manifest_items = [el for el in root.iter() if el.tag.endswith("}item")]
+            spine_ids = [el.get("idref") for el in root.iter() if el.tag.endswith("}itemref")]
+            cover = _epub_cover_href(opf_dir, manifest_items, spine_ids)
+            cover_bytes = None
+            if cover:
+                href, _mt = cover
+                if href.endswith("::__HTML__"):
+                    # страница cover.xhtml — ищем <img src> внутри
+                    try:
+                        page_path = href[:-len("::__HTML__")]
+                        full = opf_dir + page_path
+                        if full not in zf.namelist():
+                            full = page_path
+                        page = ET.fromstring(zf.read(full))
+                        img_src = None
+                        for el in page.iter():
+                            if el.tag.endswith("}img") and el.get("src"):
+                                img_src = el.get("src")
+                                break
+                        if img_src:
+                            img_path = img_src.split("?")[0]
+                            full_img = (opf_dir + img_path) if not img_src.startswith("/") else img_path[1:]
+                            for cand in {full_img, opf_dir + img_path, img_path}:
+                                if cand in zf.namelist():
+                                    cover_bytes = zf.read(cand)
+                                    break
+                    except Exception:
+                        pass
+                else:
+                    img_path = href.split("?")[0]
+                    for cand in {opf_dir + img_path, img_path}:
+                        if cand in zf.namelist():
+                            cover_bytes = zf.read(cand)
+                            break
+            return title, cover_bytes
+    except Exception:
+        return None, None
+
+
+def extract_fb2_meta(path: Path) -> tuple[str | None, bytes | None]:
+    """Возвращает (название, bytes обложки) из FB2 (utf-8 и windows-1251)."""
+    try:
+        root = ET.parse(str(path)).getroot()
+        title = None
+        for ti in root.iter():
+            if ti.tag.endswith("}title-info"):
+                for bt in ti.iter():
+                    if bt.tag.endswith("}book-title") and (bt.text or "").strip():
+                        title = _clean_title(bt.text)
+                        break
+                # обложка: coverpage/image xlink:href="#id"
+                href = None
+                for cp in ti.iter():
+                    if cp.tag.endswith("}coverpage"):
+                        for im in cp.iter():
+                            if im.tag.endswith("}image"):
+                                for v in (im.get("{http://www.w3.org/1999/xlink}href"), im.get("href"), im.get("l:href")):
+                                    if v:
+                                        href = v.lstrip("#")
+                                        break
+                if href:
+                    for b in root.iter():
+                        if b.tag.endswith("}binary") and b.get("id") == href:
+                            data = (b.text or "").replace("\n", "").replace("\r", "").replace(" ", "")
+                            return title, base64.b64decode(data)
+                break
+        return title, None
+    except Exception:
+        return None, None
+
+
+def book_meta(path: Path) -> tuple[str | None, bytes | None]:
+    ext = path.suffix.lower()
+    if ext == ".epub":
+        return extract_epub_meta(path)
+    if ext == ".fb2":
+        return extract_fb2_meta(path)
+    return None, None
+
+
 def pdf_info(pdf: Path) -> dict[str, Any]:
     st = pdf.stat()
+    name = pdf.stem
+    if pdf.suffix.lower() in (".epub", ".fb2"):
+        # настоящее название книги из самого файла (вместо транслита имени файла)
+        try:
+            title, _cover = book_meta(pdf)
+            if title:
+                name = title
+        except Exception:
+            pass
     return {
-        "name": pdf.stem,
+        "name": name,
         "file": pdf.name,
         "size": st.st_size,
         "mtime": int(st.st_mtime),
@@ -352,16 +506,54 @@ def generate_cover(pdf: Path, cover: Path) -> bool:
             return False
 
 
+def save_cover_bytes(data: bytes, cover: Path) -> bool:
+    """Обложка из bytes (epub/fb2) — тот же вид, что у PDF-обложек: 400x600, белый фон."""
+    if Image is None:
+        return False
+    try:
+        import io
+        im = Image.open(io.BytesIO(data)).convert("RGB")
+        im.thumbnail((COVER_W, COVER_H), Image.LANCZOS)
+        canvas = Image.new("RGB", (COVER_W, COVER_H), (245, 240, 228))
+        canvas.paste(im, ((COVER_W - im.width) // 2, (COVER_H - im.height) // 2))
+        cover.parent.mkdir(parents=True, exist_ok=True)
+        tmp = cover.with_suffix(".tmp.jpg")
+        canvas.save(tmp, "JPEG", quality=COVER_QUALITY, optimize=True, progressive=True)
+        if cover.exists() and file_sha1(tmp) == file_sha1(cover):
+            tmp.unlink(missing_ok=True)
+            return False
+        tmp.replace(cover)
+        return True
+    except Exception as e:
+        print(f"⚠ cover from meta failed for {cover.name}: {e}")
+        return False
+
+
+def generate_cover_from_meta(book: Path, cover: Path) -> bool:
+    if cover.exists() and cover.stat().st_mtime >= book.stat().st_mtime and cover.stat().st_size >= 500:
+        return False  # свежая — не трогаем
+    try:
+        _title, data = book_meta(book)
+    except Exception:
+        data = None
+    if not data:
+        return False
+    return save_cover_bytes(data, cover)
+
+
 def build_covers(pdf_dirs: dict[Path, list[Path]]) -> int:
     changed = 0
     for pdfs in pdf_dirs.values():
         for pdf in pdfs:
-            # Обложка генерируется только из PDF (первая страница); для остальных форматов
-            # обложку можно положить вручную: covers/<папка>/<имя файла>.jpg
-            if pdf.suffix.lower() != PDF_EXT:
-                continue
-            if generate_cover(pdf, cover_path_for_pdf(pdf)):
-                changed += 1
+            if pdf.suffix.lower() == PDF_EXT:
+                # PDF: обложка = первая страница (pdftoppm)
+                if generate_cover(pdf, cover_path_for_pdf(pdf)):
+                    changed += 1
+            elif pdf.suffix.lower() in (".epub", ".fb2"):
+                # EPUB/FB2: обложка извлекается из самого файла
+                if generate_cover_from_meta(pdf, cover_path_for_pdf(pdf)):
+                    changed += 1
+                    print(f"🖼 cover (from file meta): {rel_posix(cover_path_for_pdf(pdf))}")
     return changed
 
 
