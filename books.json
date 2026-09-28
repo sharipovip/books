@@ -705,6 +705,24 @@
       ]
     },
     {
+      "id": "jughrofiya",
+      "name": "Ҷуғрофия",
+      "folder_raw": "Ҷуғрофия",
+      "emoji": "📚",
+      "color1": "#dc2626",
+      "color2": "#f87171",
+      "sort_order": 122,
+      "subs": [
+        {
+          "id": "jughrofiya",
+          "name": "Ҷуғрофия",
+          "folder_raw": "Ҷуғрофия",
+          "folder": "books/Ҷуғрофия",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
       "id": "digar",
       "name": "Дигар",
       "folder_raw": "Дигар",

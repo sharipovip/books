@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-28",
+  "folder": "books/Ҷуғрофия",
+  "books": [
+    {
+      "name": "1_prysud",
+      "file": "1_prysud.fb2",
+      "size": 98978,
+      "mtime": 1790598855
+    },
+    {
+      "name": "1_pryzhok",
+      "file": "1_pryzhok.fb2",
+      "size": 683238,
+      "mtime": 1790598855
+    },
+    {
+      "name": "1_pryzhok_chieriez_propast'",
+      "file": "1_pryzhok_chieriez_propast'.fb2",
+      "size": 1185761,
+      "mtime": 1790598855
+    },
+    {
+      "name": "5298, 2020-198с",
+      "file": "5298, 2020-198с.pdf",
+      "size": 38232634,
+      "mtime": 1790598855
+    },
+    {
+      "name": "5364, 2003-100с.",
+      "file": "5364, 2003-100с..pdf",
+      "size": 16156344,
+      "mtime": 1790598856
+    },
+    {
+      "name": "8062 jugrofiyai viloyati sugd 1998-156с",
+      "file": "8062 jugrofiyai viloyati sugd 1998-156с.pdf",
+      "size": 59957457,
+      "mtime": 1790598856
+    },
+    {
+      "name": "abrorov piryahhoi toj",
+      "file": "abrorov piryahhoi toj.pdf",
+      "size": 50920512,
+      "mtime": 1790598857
+    },
+    {
+      "name": "istifodai oqilonai zamin",
+      "file": "istifodai oqilonai zamin.pdf",
+      "size": 42621546,
+      "mtime": 1790598859
+    },
+    {
+      "name": "jonnisori ilm",
+      "file": "jonnisori ilm.pdf",
+      "size": 25111398,
+      "mtime": 1790598860
+    },
+    {
+      "name": "sanghoi garobahoi badahshon",
+      "file": "sanghoi garobahoi badahshon.pdf",
+      "size": 11059124,
+      "mtime": 1790598860
+    },
+    {
+      "name": "snejniy pokrov tadjikistana2008, 130с",
+      "file": "snejniy pokrov tadjikistana2008, 130с.pdf",
+      "size": 32860872,
+      "mtime": 1790598861
+    },
+    {
+      "name": "tojikon az nigohi",
+      "file": "tojikon az nigohi.pdf",
+      "size": 23000106,
+      "mtime": 1790598861
+    }
+  ]
+}
