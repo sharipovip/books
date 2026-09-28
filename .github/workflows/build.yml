@@ -37,9 +37,21 @@ jobs:
       - name: 📦 Install dependencies
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y poppler-utils
+          sudo apt-get install -y poppler-utils antiword
           python -m pip install --upgrade pip
           pip install --quiet pillow
+
+      # v99: .doc-книги получают .docx-копию для показа ВНУТРИ приложения.
+      # LibreOffice тяжёлый — ставим ТОЛЬКО если есть .doc без .docx-копии
+      # (обычно один раз после загрузки новых .doc, потом копии уже в репо).
+      - name: 📄 LibreOffice для конвертации .doc (если нужно)
+        run: |
+          if python3 -c "import pathlib,sys; sys.exit(0 if [p for p in pathlib.Path('books').rglob('*.doc') if not p.with_suffix('.docx').exists()] else 1)"; then
+            echo "Найдены .doc без .docx-копии — устанавливаю LibreOffice (1-2 мин, один раз)"
+            sudo apt-get install -y --no-install-recommends libreoffice-writer
+          else
+            echo "Новых .doc нет — LibreOffice не нужен"
+          fi
 
       - name: 🔨 Run build.py
         run: python3 build.py
