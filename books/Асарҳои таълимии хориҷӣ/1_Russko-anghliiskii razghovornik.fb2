@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+<book-title>Русско-английский разговорник</book-title>
+<genre>sci_linguistic</genre>
+<lang>ru</lang>
+</title-info>
+  <document-info>
+   <program-used>my_Make_FB2</program-used>
+   <date value="2011-05-27">27.05.2011</date>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+    <book-name>Русско-английский разговорник</book-name>
+  </publish-info>
+ </description>
+<body>
+
+<section>
+<title><p>Русско-английский разговорник</p>
+</title>
+<section>
+<title>
+<p>Повседневные фразы</p>
+</title>
+<section>
+<title><p>Общие</p>
+</title>
+<p><emphasis>Спасибо.</emphasis>	- Thank you / Thanks.</p>
+<p><emphasis>Большое спасибо.</emphasis>	- Thank you very much.</p>
+<p><emphasis>Пожалуйста (в ответ на "спасибо").</emphasis>	- You're welcome.</p>
+<p><emphasis>Да.</emphasis>	- Yes.</p>
+<p><emphasis>Нет.</emphasis>	- No.</p>
+<p><emphasis>Пожалуйста (просьба).</emphasis>	- Please.</p>
+<p><emphasis>Вот, пожалуйста (что-то даешь).</emphasis>	- Here you are.</p>
+<p><emphasis>Понимаю.</emphasis>	- I see.</p>
+<p><emphasis>Хорошо.</emphasis>	- All right / OK.</p>
+<p><emphasis>Ничего.</emphasis>	- That's all right.</p>
+<p><emphasis>Не бери в голову!</emphasis>	- Never mind!</p>
+<p><emphasis>Как далеко от города?</emphasis>	- How far is it to the town?</p>
+<p><emphasis>Сколько?</emphasis>	- How many (much)?</p>
+<p>Example:</p>
+<p> Сколько здесь книг? — How many books are here?</p>
+<p> Сколько это стоит? — How much does it cost?</p>
+<p><emphasis>Как долго?</emphasis>	- How long?</p>
+<p><emphasis>Сюда, пожалуйста.</emphasis>	- This way, please.</p>
+<p><emphasis>Кого спросить?</emphasis>	- Whom should I ask?</p>
+<p><emphasis>Не понимаю.</emphasis>	- I don't understand.</p>
+<p><emphasis>Извините, я не расслышал.</emphasis>	- I'm sorry, I didn't catch you.</p>
+<p><emphasis>После вас.</emphasis>	- After you.</p>
+<p><emphasis>Здесь сильное движение.</emphasis>	- There's a lot of traffic here.</p>
+<p><emphasis>Я заблудился.</emphasis>	- I'm lost.</p>
+<p><emphasis>Вы говорите по-английски?</emphasis>	- Do you speak English?</p>
+</section>
+<section>
+<title><p>Приветствия</p>
+</title>
+<p><emphasis>Доброе утро!</emphasis>	- Good morning!</p>
+<p><emphasis>Добрый день!</emphasis>	- Good afternoon!</p>
+<p><emphasis>Добрый вечер!</emphasis>	- Good evening!</p>
+<p><emphasis>Спокойной ночи.</emphasis>	- Good night.</p>
+<p><emphasis>Привет!</emphasis>	- Hallo! / Hi!</p>
+<p><emphasis>Здравствуйте.</emphasis>	- How do you do?</p>
+<p><emphasis>Давайте встретимся в (фойе).</emphasis>	- I'd like to meet you in the (lobby).</p>
+<p><emphasis>Приятно познакомиться.</emphasis>	- It's nice to meet you.</p>
+<p><emphasis>Рад Вас снова видеть.</emphasis>	- I'm glad to see you again.</p>
+<p><emphasis>Я женат (замужем).</emphasis>	- I am married.</p>
+<p><emphasis>Я холост (не замужем).</emphasis>	- I am single.</p>
+<p><emphasis>Как Ваши дела?</emphasis>	- How are you?</p>
+<p><emphasis>Как успехи?</emphasis>	- How are you getting along?</p>
+<p><emphasis>Какие новости?</emphasis>	- What's news?</p>
+<p><emphasis>Давненько вас не видел.</emphasis>	- Long time to see.</p>
+<p><emphasis>Можно узнать, как Вас зовут?</emphasis>	- May I have your name?</p>
+<p><emphasis>Вот моя визитная карточка.</emphasis>	- This is my business card.</p>
+<p><emphasis>Позвольте представить Вас моему мужу (моей жене).</emphasis>	- May I introduce you to my husband (wife)? / Let me introduce you to...</p>
+<p><emphasis>Передавайте наилучшие пожелания от меня Вашей матери.</emphasis>	- Please give my kind regards to your mother.</p>
+<p><emphasis>Передавай привет Николаю.</emphasis>	- Say hallo to Nick for me.</p>
+<p><emphasis>Спасибо, с удовольствием.</emphasis>	- I would like to do that, thank you. / With great pleasure, thank you.</p>
+<p><emphasis>С удовольствием.</emphasis>	- I am pleased to do so.</p>
+<p><emphasis>До свидания.</emphasis>	- Goodbye.</p>
+<p><emphasis>До встречи.</emphasis>	- See you later.</p>
+<p><emphasis>До скорой встречи.</emphasis>	- See you soon.</p>
+<p><emphasis>Счастливо.</emphasis>	- Take care of yourself.</p>
+<p><emphasis>Не пропадайте.</emphasis>	- Let's keep in touch.</p>
+<p><emphasis>С нетерпением жду нашей следующей встречи.</emphasis>	- I'm looking forward to seeing you again.</p>
+</section>
+<section>
+<title><p>Приглашения</p>
+</title>
+<p><emphasis>Вы завтра свободны?</emphasis>	- Will you be free tomorrow?</p>
+<p><emphasis>Хотите пойти со мной?</emphasis>	- Would you like to come with me?</p>
+<p><emphasis>Позвольте мне быть Вашим гидом.</emphasis>	- Let me be your guide.</p>
+<p><emphasis>Пойдете со мной за покупками?</emphasis>	- Won't you go sopping with me?</p>
+<p><emphasis>Пойдемте купаться.</emphasis>	- Let's go swimming.</p>
+<p><emphasis>Не хотите чего-нибудь поесть?</emphasis>	- Would you care for something to eat?</p>
+<p><emphasis>Звучит неплохо.</emphasis>	- That sounds good.</p>
+<p><emphasis>Позвольте предложить вам что-нибудь выпить.</emphasis>	- May I offer you a drink?</p>
+<p><emphasis>Хотите чего-нибудь выпить?</emphasis>	- How about a drink?</p>
+<p><emphasis>Ваше здоровье!</emphasis>	- Cheers!</p>
+<p><emphasis>Не пора ли попить кофейку?</emphasis>	- Let's take a coffee break.</p>
+<p><emphasis>Еще чашечку кофе, пожалуйста.</emphasis>	- I'd like another cup of coffee.</p>
+<p><emphasis>Чувствуйте себя как дома.</emphasis>	- Make yourself at home.</p>
+<p><emphasis>Давайте платить пополам.</emphasis>	- Let's go fifty-fifty on the bill.</p>
+<p><emphasis>Он платит счет.</emphasis>	- He'll pay the bill.</p>
+</section>
+<section>
+<title><p>Комплименты</p>
+</title>
+<p><emphasis>Мне нравится Ваша новая прическа.</emphasis>	- Your new hairdo is not bad.</p>
+<p><emphasis>У Вас великолепный вкус в одежде.</emphasis>	- You have wonderful taste in clothes.</p>
+<p><emphasis>Какая ты очаровательная девушка!</emphasis>	- What a charming girl you are!</p>
+<p><emphasis>Спасибо за комплимент.</emphasis>	- Thank you for your compliment.</p>
+<p><emphasis>Спасибо за прекрасный день.</emphasis>	- Thank you for a nice day.</p>
+<p><emphasis>Спасибо, что встретили меня (зашли за мной).</emphasis>	- Thank you for picking me up.</p>
+<p><emphasis>Очень любезно с Вашей стороны.</emphasis>	- That's very kind of you.</p>
+<p><emphasis>Вы очень добры.</emphasis>	- You're very generous.</p>
+<p><emphasis>Я очень Вам благодарен.</emphasis>	- I'm really grateful to you.</p>
+<p><emphasis>Спасибо и извините за беспокойство.</emphasis>	- Thank you for your trouble.</p>
+<p><emphasis>Весьма признателен.</emphasis>	- Much obliged.</p>
+<p><emphasis>Я очень Вам обязан.</emphasis>	- I'm very much obliged to you.</p>
+</section>
+<section>
+<title><p>Извинения</p>
+</title>
+<p><emphasis>Извините (если привлекаешь внимание, прерываешь).</emphasis>	- Excuse me.</p>
+<p><emphasis>Извините (если извиняешься).</emphasis>	- Sorry.</p>
+<p><emphasis>Извините, я на секунду.</emphasis>	- Excuse me a moment.</p>
+<p><emphasis>Подождите минуту, пожалуйста.</emphasis>	- Just a minute please.</p>
+<p><emphasis>Это моя вина.</emphasis>	- That's my fault.</p>
+<p><emphasis>Я был неосторожен.</emphasis>	- It was careless of me.</p>
+<p><emphasis>Я не хотел Вас обидеть.</emphasis>	- I didn't mean that.</p>
+<p><emphasis>В следующий раз постараюсь.</emphasis>	- Next time I'll get it right.</p>
+<p><emphasis>Извините за опоздание.</emphasis>	- Forgive me for being late.</p>
+<p><emphasis>Извините, что заставил Вас ждать.</emphasis>	- I'm sorry to have kept you waiting.</p>
+<p><emphasis>Я не помешаю?</emphasis>	- Am I disturbing you?</p>
+<p><emphasis>Можно Вас побеспокоить на секунду?</emphasis>	- May I bother you a moment?</p>
+<p><emphasis>Нет, ничего.</emphasis>	- Never mind.</p>
+<p><emphasis>Ничего, пожалуйста.</emphasis>	- Oh it's nothing.</p>
+<p><emphasis>Ничего.</emphasis>	- Forget it.</p>
+</section>
+<section>
+<title><p>Просьбы</p>
+</title>
+<p><emphasis>Простите.</emphasis>	- I beg your pardon.</p>
+<p><emphasis>Повторите, пожалуйста.</emphasis>	- Say it once more please.</p>
+<p><emphasis>Пожалуйста, говорите немного медленнее.</emphasis>	- Please speak more slowly.</p>
+<p><emphasis>Напишите это здесь, пожалуйста.</emphasis>	- Please write it here.</p>
+<p><emphasis>Пожалуйста, поторопитесь.</emphasis>	- Please hurry up.</p>
+<p><emphasis>Пойдемте со мной!</emphasis>	- Come with me!</p>
+<p><emphasis>Пожалуйста, вызовите врача.</emphasis>	- Please call a doctor.</p>
+<p><emphasis>Не одолжите...?</emphasis>	- Can you lend me...?</p>
+<p><emphasis>Сделайте одолжение.</emphasis>	- Will you do me a favor?</p>
+<p><emphasis>Можно взглянуть?</emphasis>	- May I take a look at it?</p>
+<p><emphasis>Можно одолжить Вашу ручку?</emphasis>	- Can I borrow your pen?</p>
+<p><emphasis>Помогите донести, пожалуйста.</emphasis>	- Would you please help me carry this?</p>
+<p><emphasis>Пожалуйста, помогите мне с этими пакетами.</emphasis>	- Could you give me a hand with these parcels?</p>
+<p><emphasis>Не отправите ли за меня письмо?</emphasis>	- Will you please mail this letter for me?</p>
+<p><emphasis>Помогите мне с этой проблемой.</emphasis>	- Will you help me with this problem?</p>
+<p><emphasis>Можно узнать Ваш адрес?</emphasis>	- May I have your address?</p>
+<p><emphasis>Не подбросите до центра?</emphasis>	- Could you drop me downtown, please?</p>
+<p><emphasis>Что это?</emphasis>	- What's this?</p>
+<p><emphasis>Что это значит?</emphasis>	- What does this mean?</p>
+<p><emphasis>Где туалет?</emphasis>	- Where is the restroom?</p>
+<p><emphasis>Почему бы и нет?</emphasis>	- Why not?</p>
+<p><emphasis>Чем скорее, тем лучше.</emphasis>	- The sooner the better.</p>
+</section>
+<section>
+<title><p>Чувства</p>
+</title>
+<p><emphasis>Я не уверен.</emphasis>	- I'm not sure.</p>
+<p><emphasis>Не думаю.</emphasis>	- I don't think so.</p>
+<p><emphasis>Боюсь, что нет.</emphasis>	- I'm afraid not.</p>
+<p><emphasis>Невероятно.</emphasis>	- It's incredible.</p>
+<p><emphasis>Боюсь, что Вы ошиблись.</emphasis>	- I'm afraid you're mistaken.</p>
+<p><emphasis>О, как жаль.</emphasis>	- That's too bad.</p>
+<p><emphasis>У меня плохое настроение.</emphasis>	- I feel blue.</p>
+<p><emphasis>Это отвратительно.</emphasis>	- It's disgusting.</p>
+<p><emphasis>Меня от тебя тошнит.</emphasis>	- You make me sick.</p>
+<p><emphasis>Успокойся, все будет в порядке.</emphasis>	- Calm down, everything will be OK.</p>
+<p><emphasis>Не надо нервничать.</emphasis>	- Don't be nervous. / Take it easy.</p>
+<p><emphasis>Не торопитесь.</emphasis>	- Take your time.</p>
+<p><emphasis>Не обращай(те) внимания на то, что он сказал.</emphasis>	- Don't bother with what he said.</p>
+<p><emphasis>Остыньте!</emphasis>	- Cool it!</p>
+<p><emphasis>Не унывайте!</emphasis>	- Cheer up!</p>
+<p><emphasis>Какая жалость!</emphasis>	- What a pity!</p>
+<p><emphasis>Вот так сюрприз!</emphasis>	- What a surprise!</p>
+<p><emphasis>Вы, должно быть, шутите!</emphasis>	- You must be kidding!</p>
+<p><emphasis>О боже, какой кошмар!</emphasis>	- Oh dear what a mess!</p>
+</section>
+<section>
+<title><p>Время</p>
+</title>
+<p><emphasis>DING=4 WIDTH=600    Который час?</emphasis>	- What time is it?</p>
+<p><emphasis>Сколько времени?</emphasis>	- What time do you have?</p>
+<p><emphasis>Семь часов.</emphasis>	- It's seven o'clock.</p>
+<p><emphasis>Без четверти восемь.</emphasis>	- It's a quarter to eight.</p>
+<p><emphasis>Десять минут пятого.</emphasis>	- It's ten minutes past four.</p>
+<p><emphasis>Полдевятого.</emphasis>	- It's half past eight.</p>
+<p><emphasis>Рано.</emphasis>	- It's early.</p>
+<p><emphasis>Уже поздно?</emphasis>	- Is it late?</p>
+<p><emphasis>Сколько времени идти туда пешком?</emphasis>	- How long will it take to wall over there?</p>
+</section>
+<section>
+<title><p>Пожелания</p>
+</title>
+<p><emphasis>Поздравляю!</emphasis>	- Congratulations!</p>
+<p><emphasis>Поздравляю с днем рождения!</emphasis>	- Best wishes for your birthday!</p>
+<p><emphasis>С рождеством!</emphasis>	- Merry Christmas!</p>
+<p><emphasis>Наилучшие пожелания в новом году!</emphasis>	- Best wishes for a Happy New Year!</p>
+<p><emphasis>Желаю счастья сегодня и всегда!</emphasis>	- Happy many returns of the day!</p>
+<p><emphasis>Христос воскрес!</emphasis>	- Happy Easter!</p>
+<p><emphasis>Желаю Вам счастья и многих лет жизни.</emphasis>	- I wish you many years of happiness.</p>
+<p><emphasis>Поздравляю от всей души.</emphasis>	- Heartiest congratulations.</p>
+<p><emphasis>Желаю Вам поскорее выздороветь.</emphasis>	- I hope you'll get better soon.</p>
+<p><emphasis>Счастливой поездки!</emphasis>	- Have a nice trip!</p>
+<p><emphasis>Удачи!</emphasis>	- Good luck.</p>
+<p><emphasis>Давай еще раз встретимся!</emphasis>	- Let's meet again!</p>
+</section>
+<section>
+<title><p>Погода</p>
+</title>
+<p><emphasis>Какой чудесный день!</emphasis>	- What a nice day!</p>
+<p><emphasis>Жарко.</emphasis>	- It's hot.</p>
+<p><emphasis>Опускается туман.</emphasis>	- It's getting foggy.</p>
+<p><emphasis>Небо расчищается.</emphasis>	- The sky is clearing up.</p>
+<p><emphasis>Завтра будет солнечно.</emphasis>	- It will be sunny tomorrow.</p>
+<p><emphasis>Какой ужасный день!</emphasis>	- What a nasty day!</p>
+<p><emphasis>Интересно, будет гроза?</emphasis>	- I wonder if there will be a storm?</p>
+<p><emphasis>Какая, по-вашему, будет погода?</emphasis>	- What do you think the weather looks like?</p>
+</section>
+</section>
+<section>
+<title><p>Путешествия</p>
+</title>
+<section>
+<title><p>Заказ билетов</p>
+</title>
+<p><emphasis>Это прямой рейс?</emphasis>	- Is that a direct flight?</p>
+<p><emphasis>В этом рейсе есть промежуточные посадки?</emphasis>	- Does the flight land somewhere before the final destination?</p>
+<p><emphasis>Какие есть рейсы до Лондона?</emphasis>	- What flights are there to London?</p>
+<p><emphasis>Пожалуйста, проверьте в других компаниях.</emphasis>	- Please check other airlines.</p>
+<p><emphasis>Не могли бы Вы уточнить, есть ли билеты на этот рейс?</emphasis>	- Would you please check whether there is room on the flight?</p>
+<p><emphasis>Сколько рейсов в день?</emphasis>	- How frequent are the flights?</p>
+<p><emphasis>Когда мне нужно быть в аэропорту?</emphasis>	- How early must I be at the airport?</p>
+<p><emphasis>Сколько мне можно брать багажа?</emphasis>	- How much luggage am I allowed to take?</p>
+<p><emphasis>У меня нет багажа.</emphasis>	- I don't have luggage.</p>
+<p><emphasis>Сколько стоит билет?</emphasis>	- How much is the ticket?</p>
+<p><emphasis>Есть ли какие-нибудь скидки?</emphasis>	- Is there any discount?</p>
+<p><emphasis>Забронируйте место на ближайший рейс до Лондона, пожалуйста.</emphasis>	- Please reserve the next flight to London.</p>
+<p><emphasis>Один билет до Лондона, бизнес-класс.</emphasis>	- One business class ticket to London.</p>
+<p><emphasis>Я хотел бы вернуть свой билет до Варшавы.</emphasis>	- I would like to cancel my ticket to Warsaw.</p>
+<p><emphasis>Снимите этот заказ, пожалуйста.</emphasis>	- Cancel this reservation, please.</p>
+<p><emphasis>Я хотел бы подтвердить заказ.</emphasis>	- I'd like to reconfirm a reservation.</p>
+<p><emphasis>Я хочу изменить заказ.</emphasis>	- I want to change my reservation.</p>
+</section>
+<section>
+<title><p>Регистрация</p>
+</title>
+<p><emphasis>Где стойка Финнэйр?</emphasis>	- Where is the Finnair counter?</p>
+<p><emphasis>Где здание аэропорта?</emphasis>	- Where is the airport terminal?</p>
+<p><emphasis>Где проходит регистрация?</emphasis>	- Where do I check in?</p>
+<p><emphasis>Отправьте багаж в мою гостиницу.</emphasis>	- Address the luggage to my hotel.</p>
+<p><emphasis>Сколько нужно платить за лишний вес?</emphasis>	- How much is the excess baggage charge?</p>
+<p><emphasis>Я хотел бы отправить этот багаж в Париж.</emphasis>	- I'd like to send this baggage to Paris.</p>
+<p><emphasis>Я транзитом до Лос-Анжелеса.</emphasis>	- I'm in transit for Los Angeles.</p>
+<p><emphasis>Когда посадка?</emphasis>	- When is boarding time?</p>
+<p><emphasis>На какой выход?</emphasis>	- What is the gate number?</p>
+<p><emphasis>Этот рейс отправится вовремя?</emphasis>	- Will this flight leave on time?</p>
+<p><emphasis>Я хотел бы забронировать место в салоне для некурящих.</emphasis>	- I would like to reserve a seat in the non-smoking section.</p>
+<p><emphasis>Место у окна, пожалуйста.</emphasis>	- Window seat, please.</p>
+</section>
+<section>
+<title><p>В самолете</p>
+</title>
+<p><emphasis>Где это место?</emphasis>	- Where is this seat?</p>
+<p><emphasis>Не могли бы Вы поменяться со мной местами?</emphasis>	- Could I change seats with you?</p>
+<p><emphasis>У Вас есть английская газета?</emphasis>	- Do you have an English newspaper?</p>
+<p><emphasis>Не могли бы Вы принести мне одеяло?</emphasis>	- Would you please get me a blanket?</p>
+<p><emphasis>Принесите подушку, пожалуйста.</emphasis>	- Could you give me a pillow, please?</p>
+<p><emphasis>Можно еще один напиток?</emphasis>	- Can I have another drink?</p>
+<p><emphasis>Можно еще орехов?</emphasis>	- Can I have more nuts?</p>
+<p><emphasis>Я хотел бы заказать напитки.</emphasis>	- I want to order some drinks.</p>
+<p><emphasis>Чай, пожалуйста.</emphasis>	- Tea, please.</p>
+<p><emphasis>Есть ли на борту стюардесса, говорящая по-французски?</emphasis>	- Is there a French - speaking stewardess on board?</p>
+<p><emphasis>Есть ли на борту стюардесса, говорящая по-английски?</emphasis>	- Is there a srewardess on board who can speak English?</p>
+<p><emphasis>Вы можете перевести это на английский?</emphasis>	- Can you translate it into English?</p>
+<p><emphasis>Пожалуйста, не курите здесь.</emphasis>	- Please don't smoke here.</p>
+<p><emphasis>На сколько отложен рейс?</emphasis>	- How long will it be delayed?</p>
+<p><emphasis>Надолго мы здесь остановились?</emphasis>	- How long will we stop here?</p>
+<p><emphasis>Мне плохо.</emphasis>	- I feel sick.</p>
+<p><emphasis>Можно мне откинуть спинку?</emphasis>	- May I recline my seat?</p>
+<p><emphasis>Можно в самолете купить что-нибудь без пошлины?</emphasis>	- Do they sell duty-free goods on board?</p>
+<p><emphasis>Мне нужны для кино наушники.</emphasis>	- I would like some earphones for the movie.</p>
+<p><emphasis>Это не работает.</emphasis>	- It doesn't work.</p>
+<p><emphasis>Когда мы прибываем?</emphasis>	- What time do we arrive?</p>
+</section>
+<section>
+<title><p>Таможня</p>
+</title>
+<p><emphasis>Дайте мне, пожалуйста, другой бланк декларации.</emphasis>	- May I have another customs form?</p>
+<p><emphasis>Покажите, пожалуйста, как заполнять это форму.</emphasis>	- Please show me how to fill in the form.</p>
+<p><emphasis>Вот мой паспорт.</emphasis>	- Here's my passport.</p>
+<p><emphasis>Поставьте мне, пожалуйста, штамп в паспорт.</emphasis>	- Would you please stamp my passport?</p>
+<p><emphasis>Какова цель Вашей поездки?</emphasis>	- What is the purpose of your visit?</p>
+<p><emphasis>Я турист.</emphasis>	- I'm a tourist.</p>
+<p><emphasis>Я в отпуске.</emphasis>	- I am on vacation.</p>
+<p><emphasis>Я в командировке.</emphasis>	- I am on a business trip.</p>
+<p><emphasis>Это мой первый приезд.</emphasis>	- This is my first visit.</p>
+<p><emphasis>Как долго Вы здесь пробудите?</emphasis>	- How long will you stay here?</p>
+<p><emphasis>Я собираюсь пробыть здесь две недели.</emphasis>	- I plan to stay two weeks.</p>
+<p><emphasis>Вот моя транзитная виза.</emphasis>	- This is my transit pass.</p>
+<p><emphasis>У меня только предметы личного пользования.</emphasis>	- I only have articles for personal use.</p>
+<p><emphasis>Это подарок для друга.</emphasis>	- This is a gift for a friend.</p>
+<p><emphasis>Эта видеокамера для моего личного пользования.</emphasis>	- This video camera is for my personal use.</p>
+<p><emphasis>Это стоит около …</emphasis>	- It costs about....</p>
+<p><emphasis>Мне нечего декларировать.</emphasis>	- I have nothing to declare.</p>
+<p><emphasis>Беспошлинный магазин.</emphasis>	- Duty-free shop.</p>
+<p><emphasis>Можно в этом аэропорту что-нибудь купить?</emphasis>	- Can we do some shopping in this airport?</p>
+<p><emphasis>Мне нужно будет платить пошлину за камеру, которую я здесь купил?</emphasis>	- Do I have to pay duty on the camera I bought here?</p>
+<p><emphasis>Можно попросить чек?</emphasis>	- May I have a receipt?</p>
+</section>
+<section>
+<title><p>Багаж</p>
+</title>
+<p><emphasis>Где можно получить багаж?</emphasis>	- Where can I get my baggage?</p>
+<p><emphasis>Вот моя багажная квитанция.</emphasis>	- Here is my claim tag.</p>
+<p><emphasis>Я не могу найти свой багаж.</emphasis>	- I can't find my baggage.</p>
+<p><emphasis>Мне не выдали багажную квитанцию при регистрации.</emphasis>	- I didn't receive the claim tag when I checked in.</p>
+<p><emphasis>Мой багаж поврежден, и некоторых вещей не хватает.</emphasis>	- My baggage is broken, and some things are missing.</p>
+<p><emphasis>Где можно найти носильщика?</emphasis>	- Where can I find a porter?</p>
+<p><emphasis>Это мой багаж.</emphasis>	- This is my baggage.</p>
+<p><emphasis>Пожалуйста, отнесите эти вещи к стоянке такси.</emphasis>	- Please take this baggage to the taxi stand.</p>
+<p><emphasis>В багаже есть хрупкие предметы.</emphasis>	- It's fragile.</p>
+<p><emphasis>Будьте осторожны, пожалуйста.</emphasis>	- Please becareful carrying it.</p>
+<p><emphasis>Можно взять эту багажную тележку.</emphasis>	- May I use this baggage cart?</p>
+</section>
+<section>
+<title><p>Информация</p>
+</title>
+<p><emphasis>Где находится информационное бюро?</emphasis>	- Where is the tourist information office?</p>
+<p><emphasis>Я транзитный пассажир до Сан–Франциско.</emphasis>	- I am a transit passenger to San Francisco.</p>
+<p><emphasis>Я успею сделать пересадку в тот же день?</emphasis>	- Can I make a connection on the same day?</p>
+<p><emphasis>Сколько нужно времени на пересадку?</emphasis>	- How long does it take to make a connection?</p>
+<p><emphasis>Можно мне заказать номер в гостиницу?</emphasis>	- Can I reserve a hotel room here?</p>
+<p><emphasis>Где я могу сесть на автобус в город?</emphasis>	- Where can I catch the shuttle bus?</p>
+</section>
+</section>
+<section>
+<title><p>Гостиница</p>
+</title>
+<section>
+<title><p>Бронирование</p>
+</title>
+<p><emphasis>Я делал заказ.</emphasis>	- I have made a reservation.</p>
+<p><emphasis>Места были зарезервированы для меня и моей семьи.</emphasis>	- Reservations have been made for me and my family.</p>
+<p><emphasis>Заказ был подтвержден в Париже.</emphasis>	- The reservation has been confirmed in Paris.</p>
+<p><emphasis>У вас есть свободные места?</emphasis>	- Do you have any vacancies?</p>
+<p><emphasis>Мне нужна комната.</emphasis>	- I would like a room.</p>
+<p><emphasis>Я хотел бы одноместный номер.</emphasis>	- I’d like a single room.</p>
+<p><emphasis>Я хотел бы номер с ванной.</emphasis>	- I’d like a room with a bath.</p>
+<p><emphasis>Я хотел бы номер с двумя кроватями.</emphasis>	- I would like a room with two beds.</p>
+<p><emphasis>Нам нужен двухместный номер с дополнительной кроватью.</emphasis>	- We need one double room with an extra bed.</p>
+<p><emphasis>Есть что-нибудь подешевле?</emphasis>	- Is there anything cheaper?</p>
+<p><emphasis>Не могли бы Вы показать мне комнату получше?</emphasis>	- Would you please show me a better room?</p>
+<p><emphasis>Не могли бы Вы показать мне комнату побольше (поменьше)?</emphasis>	- Would you please show me a larger (smaller) room?</p>
+<p><emphasis>Комнату, с видом на море.</emphasis>	- A room facing the sea.</p>
+<p><emphasis>Какова плата за обслуживание и налог?</emphasis>	- How much is the service charge and tax?</p>
+<p><emphasis>Надбавка за обслуживание учтена?</emphasis>	- is the service charge included?</p>
+<p><emphasis>Сколько стоит номер, включая завтрак?</emphasis>	- How much for a room including breakfast?</p>
+<p><emphasis>Завтрак включен?</emphasis>	- Is breakfast included?</p>
+<p><emphasis>Сколько это стоит в день?</emphasis>	- What is the rate?</p>
+<p><emphasis>Вам нужен залог?</emphasis>	- Do you need a deposit?</p>
+<p><emphasis>Когда я должен освободить номер?</emphasis>	- When is check-out time?</p>
+<p><emphasis>Вам нужен мой паспорт?</emphasis>	- Do you need my passport?</p>
+<p><emphasis>Можете порекомендовать другую гостиницу?</emphasis>	- Can you recommend another hotel?</p>
+<p><emphasis>Я сниму этот номер на неделю (месяц).</emphasis>	- I’ll take this room for a week (month).</p>
+<p><emphasis>Я пробуду два дня.</emphasis>	- I ’ ll stay two nights.</p>
+<p><emphasis>Меня зовут …</emphasis>	- My name is…</p>
+<p><emphasis>Где мне расписаться?</emphasis>	- Where do I sign?</p>
+<p><emphasis>Можно одолжить Вашу ручку?</emphasis>	- Could I borrow your pen?</p>
+</section>
+<section>
+<title><p>Обслуживание</p>
+</title>
+<p><emphasis>Войдите.</emphasis>	- Come in.</p>
+<p><emphasis>Я хотел бы сдать на хранение некоторые ценные вещи.</emphasis>	- I would like to put some valuables in the safety-deposit box.</p>
+<p><emphasis>Я хотел бы забрать мои ценности.</emphasis>	- I’d like my valuables back.</p>
+<p><emphasis>Пошлите, пожалуйста, багаж в мой номер.</emphasis>	- Would you please send the luggage to my room?</p>
+<p><emphasis>Пожалуйста, пошлите кого-нибудь за моим багажом.</emphasis>	- Please send someone for my baggage.</p>
+<p><emphasis>Не могли бы Вы присмотреть за моим багажом?</emphasis>	- Can you keep this baggage for me?</p>
+<p><emphasis>Я хотел бы забрать свой багаж.</emphasis>	- May I have my baggage back?</p>
+<p><emphasis>В моей комнате есть розетка для электробритвы?</emphasis>	- Is there a socket in my room for my electric shaver?</p>
+<p><emphasis>Пожалуйста, принесите мне горячей воды.</emphasis>	- Please bring me some hot water.</p>
+<p><emphasis>Не могли бы Вы дать мне еще одно одеяло?</emphasis>	- Would you give me another blanket?</p>
+<p><emphasis>Как включать кабельное телевидение?</emphasis>	- How do you use cable TV?</p>
+<p><emphasis>Вам известен код Вашей страны?</emphasis>	- Do you know what your international code is?</p>
+<p><emphasis>Какой код России?</emphasis>	- What is the country code for Russia?</p>
+<p><emphasis>В какое время работает ресторан?</emphasis>	- At what time are meals served?</p>
+<p><emphasis>Можно заказать завтрак в номер?</emphasis>	- Can I have breakfast in my room?</p>
+<p><emphasis>В полвосьмого, пожалуйста.</emphasis>	- I’d like it at 7.30 ( seven thirty ), please.</p>
+<p><emphasis>Я хотел бы заказать завтрак на завтра.</emphasis>	- I’d like to order breakfast for tomorrow.</p>
+<p><emphasis>Вот мой заказ.</emphasis>	- Here’s my order.</p>
+<p><emphasis>Могу я идти пешком, или лучше взять такси?</emphasis>	- Can I walk or should I take a taxi?</p>
+<p><emphasis>Мне кто-нибудь звонил?</emphasis>	- Is there a telephone massage for me?</p>
+<p><emphasis>Пожалуйста, дайте мне карточку с адресом этой гостиницы.</emphasis>	- Please give me the card with this hotel’s address.</p>
+<p><emphasis>Я хотел бы сдать это в стирку.</emphasis>	- I would like to have this washed.</p>
+<p><emphasis>Будьте осторожны, пожалуйста. Это чистый шелк.</emphasis>	- Please be careful with it. It is pure silk.</p>
+<p><emphasis>Отправьте, пожалуйста, эту одежду в стирку.</emphasis>	- Would you please send this clothes to the laundry?</p>
+<p><emphasis>Вы можете почистить и отгладить этот костюм?</emphasis>	- Will you clean and press this suit?</p>
+<p><emphasis>Можете пришить эти пуговицы?</emphasis>	- Can you saw these buttons on?</p>
+<p><emphasis>Можете удалить это пятно?</emphasis>	- Can you remove this stain?</p>
+<p><emphasis>Можете погладить эти брюки при мне?</emphasis>	- Can you press these pants while I wait?</p>
+<p><emphasis>Выгладите это, пожалуйста.</emphasis>	- Please have this pressed.</p>
+<p><emphasis>Когда это будет готово?</emphasis>	- When will it be ready?</p>
+<p><emphasis>Мне это нужно к десяти часам.</emphasis>	- I need it by 10 (ten) o’clock.</p>
+<p><emphasis>Будьте добры разбудите меня в семь часов.</emphasis>	- Would you please wake me at 7 (seven) o’clock?</p>
+<p><emphasis>Пожалуйста, уберите в этой комнате.</emphasis>	- Please make up this room.</p>
+<p><emphasis>Принесите мне, пожалуйста, полотенце.</emphasis>	- Please bring me a bath towel.</p>
+<p><emphasis>Не могли бы Вы вызвать такси?</emphasis>	- Would you please call a taxi?</p>
+<p><emphasis>Сколько времени ехать в аэропорт на такси?</emphasis>	- How long does it take to go to the airport by taxi?</p>
+</section>
+<section>
+<title><p>Жалобы</p>
+</title>
+<p><emphasis>Телевизор не работает.</emphasis>	- The TV doesn’t work.</p>
+<p><emphasis>Нет туалетной бумаги.</emphasis>	- There is no toilet paper.</p>
+<p><emphasis>Нет мыла.</emphasis>	- There is no soap.</p>
+<p><emphasis>Замок сломан.</emphasis>	- The lock is broken.</p>
+<p><emphasis>Раковина засорена.</emphasis>	- The sink is clogged.</p>
+<p><emphasis>Нет горячей воды.</emphasis>	- There’s no hot running water.</p>
+<p><emphasis>Я хотел бы поменять комнату.</emphasis>	- I’d like to change my room.</p>
+<p><emphasis>Я до сих пор жду заказанный завтрак.</emphasis>	- I’m still waiting for the breakfast I ordered.</p>
+<p><emphasis>Тут, должно быть, ошибка. Это не мое.</emphasis>	- There must be a mistake. These are not mine.</p>
+<p><emphasis>Пятна не удалили.</emphasis>	- The stains have not been removed.</p>
+<p><emphasis>Это пятно от крови.</emphasis>	- This stain is blood.</p>
+<p><emphasis>Я заказывал кровать на двоих, а получил две односпальных.</emphasis>	- I reserved a double bed, but I got a twin.</p>
+<p><emphasis>Эта комната слишком маленькая. У вас есть побольше?</emphasis>	- This room is too small. Don’t you have a bigger one?</p>
+</section>
+<section>
+<title><p>Оплата</p>
+</title>
+<p><emphasis>Я уезжаю.</emphasis>	- I’m checking out.</p>
+<p><emphasis>Я уезжаю завтра.</emphasis>	- I’m leaving tomorrow.</p>
+<p><emphasis>Я хотел бы уехать на день раньше.</emphasis>	- I want to leave one day earlier.</p>
+<p><emphasis>Когда мне нужно освободить комнату?</emphasis>	- When do I have to vacate the room?</p>
+<p><emphasis>Я хотел бы продлить мое пребывание на несколько дней.</emphasis>	- I’d like to extend my stay for a few days.</p>
+<p><emphasis>Можно получить счет?</emphasis>	- May I have the bill?</p>
+<p><emphasis>Можно взглянуть на счет?</emphasis>	- Could I see the bill?</p>
+<p><emphasis>За что этот счет?</emphasis>	- What’s this bill for?</p>
+<p><emphasis>По - моему, это дороговато.</emphasis>	- I find it a little expensive.</p>
+<p><emphasis>Извините, но это не моя подпись.</emphasis>	- I’m sorry, this isn’t my signature.</p>
+<p><emphasis>Вы принимаете кредитные карточки?</emphasis>	- Will you accept a credit card?</p>
+<p><emphasis>Вы берете дорожные чеки?</emphasis>	- Do you take traveler’s checks?</p>
+<p><emphasis>Мне очень здесь понравилось.</emphasis>	- I ’ ve enjoyed my stay.</p>
+</section>
+<section>
+<title><p>Услуги</p>
+</title>
+<p><emphasis>Где находится столовая?</emphasis>	- Where is the dining room?</p>
+<p><emphasis>Здесь есть буфет?</emphasis>	- Is there a snack bar here?</p>
+<p><emphasis>В моей комнате есть мини-бар?</emphasis>	- Is there a mini-bar in my room?</p>
+<p><emphasis>У вас есть гараж?</emphasis>	- Do you have a garage?</p>
+<p><emphasis>Здесь есть бассейн ( сауна )</emphasis>	- Is there a swimming pool (sauna)?</p>
+<p><emphasis>Здесь есть косметический салон?</emphasis>	- Is there a beauty shop?</p>
+<p><emphasis>Где аварийный выход?</emphasis>	- Where is the emergency exit?</p>
+</section>
+<section>
+<title><p>Аренда</p>
+</title>
+<p><emphasis>Я хочу снять квартиру.</emphasis>	- I want to find an apartment for rent.</p>
+<p><emphasis>Я хотел бы снять двухкомнатную квартиру.</emphasis>	- I’d like to rent a two-room apartment.</p>
+<p><emphasis>Я бы предпочел меблированную квартиру.</emphasis>	- I would prefer a furnished apartment.</p>
+<p><emphasis>Сколько нужно заплатить сразу?</emphasis>	- How much is the down payment?</p>
+<p><emphasis>Сколько надо платить в месяц?</emphasis>	- How much is the monthly rate?</p>
+<p><emphasis>Можно снять гараж?</emphasis>	- Is it possible to rent a garage?</p>
+</section>
+</section>
+<section>
+<title><p>В ресторане</p>
+</title>
+<section>
+<title><p>Заказ столика</p>
+</title>
+<p><emphasis>Здесь есть поблизости хороший ресторан?</emphasis>	- Are there any good restaurants around here?</p>
+<p><emphasis>Вы можете порекомендовать хороший ресторан?</emphasis>	- Can you recommend a good place to eat?</p>
+<p><emphasis>Что-нибудь, где не слишком дорого.</emphasis>	- Some place not too expensive.</p>
+<p><emphasis>Здесь поблизости есть китайский ресторан?</emphasis>	- Is there a Chinese restaurant near here?</p>
+<p><emphasis>Я хотел бы пойти в китайский ресторан.</emphasis>	- I'd like to go to a Chinese restaurant.</p>
+<p><emphasis>Я хотел бы попробовать лучшие местные блюда.</emphasis>	- I want to eat the best local food.</p>
+<p><emphasis>Нам нужно делать заказ заранее?</emphasis>	- Do we have to make a reservation.</p>
+<p><emphasis>Вы не могли бы принять мой заказ?</emphasis>	- Can you make reservations for me?</p>
+<p><emphasis>Когда вы открываетесь на завтрак?</emphasis>	- What time do you open for breakfast?</p>
+<p><emphasis>Мне нужен стол на двоих.</emphasis>	- I would like a table for two?</p>
+<p><emphasis>У вас есть столик у окна?</emphasis>	- Do you have a table by the window?</p>
+<p><emphasis>Нас шесть человек.</emphasis>	- We are a party of six.</p>
+<p><emphasis>У меня заказ.</emphasis>	- I have a reservation.</p>
+</section>
+<section>
+<title><p>Заказ блюд</p>
+</title>
+<p><emphasis>Я хотел бы сделать заказ.</emphasis>	- I'd like to place an order.</p>
+<p><emphasis>Я хотел бы поужинать.</emphasis>	- I would like supper.</p>
+<p><emphasis>Я бы предпочел легкий завтрак.</emphasis>	- I would like a continental breakfast.</p>
+<p><emphasis>Какой напиток Вы предпочитаете перед обедом?</emphasis>	- What drink would you like before dinner?</p>
+<p><emphasis>Я возьму то, что Вы посоветуете.</emphasis>	- I'll have whatever you recommend.</p>
+<p><emphasis>Что бы Вы посоветовали?</emphasis>	- What do you recommend?</p>
+<p><emphasis>Какое в этом ресторане фирменное блюдо?</emphasis>	- What is the specialty of the house.</p>
+<p><emphasis>Меню, пожалуйста.</emphasis>	- Menu, please.</p>
+<p><emphasis>Можно попросить меню и карту вин, пожалуйста.</emphasis>	- May I have the menu and the wine list, please?</p>
+<p><emphasis>Вы подаете вегетарианское меню?</emphasis>	- Do you serve vegetarian food?</p>
+<p><emphasis>У вас есть меню на английском?</emphasis>	- Is there an English menu?</p>
+<p><emphasis>Какой у вас сегодня суп?</emphasis>	- What kind of soup are you serving today?</p>
+<p><emphasis>Какой сегодня фирменный коктейль?</emphasis>	- What's the cocktail of the day?</p>
+<p><emphasis>Что будете заказывать?</emphasis>	- May I take your otder?</p>
+<p><emphasis>Я возьму то же самое.</emphasis>	- I'll have the same thing.</p>
+<p><emphasis>Я возьму это.</emphasis>	- I'll have this.</p>
+<p><emphasis>Сколько времени это займет?</emphasis>	- How long will it take?</p>
+<p><emphasis>Яичницу (омлет).</emphasis>	- Scrambled eggs.</p>
+<p><emphasis>Я возьму только бутерброд с ветчиной.</emphasis>	- I'll just have a ham sandwich.</p>
+<p><emphasis>Бифштекс с жареным картофелем.</emphasis>	- I'll have a T-bone steak with fried potatoes.</p>
+<p><emphasis>Вам картофель жареный, запеченный или пюре?</emphasis>	- Would you like fried, baked or mashed potatoes?</p>
+<p><emphasis>Как вам приготовить?</emphasis>	- How would you like it?</p>
+<p><emphasis>Средне пожаренный, пожалуйста.</emphasis>	- Medium rare, please.</p>
+<p><emphasis>Хорошо пожаренный, пожалуйста.</emphasis>	- Well - done, please.</p>
+<p><emphasis>Карту вин, пожалуйста.</emphasis>	- Please show me the wine list.</p>
+<p><emphasis>Какие вина у вас есть?</emphasis>	- What kind of wine do you have?</p>
+<p><emphasis>Я бы хотел бутылку белого вина.</emphasis>	- I would like a bottle of white wine.</p>
+<p><emphasis>Сколько стоит белая бутылка?</emphasis>	- How much is a whole bottle?</p>
+<p><emphasis>Сколько стоит один бокал?</emphasis>	- How much is a glass?</p>
+<p><emphasis>Я бы хотел чашку кофе (чая)</emphasis>	- I would like a cup of coffee (tea).</p>
+<p><emphasis>Можно попросить стакан воды?</emphasis>	- May I have a glass of water?</p>
+<p><emphasis>Апельсиновый или томатный сок?</emphasis>	- Orange juice or tomato juice?</p>
+<p><emphasis>Как на счет чего-нибудь на десерт?</emphasis>	- How about some dessert?</p>
+<p><emphasis>Блинчики и молочный коктейль, пожалуйста.</emphasis>	- Pancakes and a milk shake, please.</p>
+</section>
+<section>
+<title><p>Обслуживание</p>
+</title>
+<p><emphasis>Еще одну порцию риса, пожалуйста.</emphasis>	- One more order of rice, please.</p>
+<p><emphasis>Два гамбургера с собой, пожалуйста.</emphasis>	- Two hamburgers to go, please.</p>
+<p><emphasis>С маслом.</emphasis>	- With butter.</p>
+<p><emphasis>С лимоном.</emphasis>	- With lemon.</p>
+<p><emphasis>Еще немного, пожалуйста.</emphasis>	- A little more, please.</p>
+<p><emphasis>Больше не надо, спасибо.</emphasis>	- No more, thank you.</p>
+<p><emphasis>Передайте, пожалуйста, соль.</emphasis>	- Would you please pass the salt?</p>
+<p><emphasis>Это вкусно?</emphasis>	- How does it taste?</p>
+<p><emphasis>Было очень вкусно.</emphasis>	- It was delicious.</p>
+<p><emphasis>Я сыт.</emphasis>	- It was more than I could eat.</p>
+<p><emphasis>Можно мне получить это прямо сейчас?</emphasis>	- Can I have it right away?</p>
+<p><emphasis>Поторопитесь, пожалуйста.</emphasis>	- Would you please hurry?</p>
+<p><emphasis>Это не мой заказ.</emphasis>	- This is not my order.</p>
+<p><emphasis>Мой заказ еще не принесли.</emphasis>	- My order hasn't come yet.</p>
+<p><emphasis>Как это едят?</emphasis>	- How do you eat this?</p>
+<p><emphasis>Оно холодное.</emphasis>	- It is cold.</p>
+<p><emphasis>Слишком много специй.</emphasis>	- It is too spicy.</p>
+<p><emphasis>Не слишком сладко.</emphasis>	- Not too sweet.</p>
+<p><emphasis>Поменьше соли.</emphasis>	- Not too salty.</p>
+<p><emphasis>Не слишком крепкий.</emphasis>	- Not too strong.</p>
+<p><emphasis>Это не проварено (не прожарено).</emphasis>	- This is not cooked enough.</p>
+<p><emphasis>Очень жесткое.</emphasis>	- It is tough.</p>
+<p><emphasis>Это не совсем свежее.</emphasis>	- This is not quite fresh.</p>
+<p><emphasis>Это недостаточно чистое.</emphasis>	- It is not clean enough.</p>
+</section>
+<section>
+<title><p>Оплата</p>
+</title>
+<p><emphasis>Счет, пожалуйста.</emphasis>	- Bill, please.</p>
+<p><emphasis>Чек, пожалуйста.</emphasis>	- Check, please.</p>
+<p><emphasis>Можно попросить счет?</emphasis>	- Could I have the bill, please?</p>
+<p><emphasis>Могу я взять чек?</emphasis>	- Can I get the check, please?</p>
+<p><emphasis>Я бы хотел рассчитаться сейчас.</emphasis>	- I would like to pay now, please.</p>
+<p><emphasis>Сколько я Вам должен?</emphasis>	- How much do I owe you?</p>
+<p><emphasis>Сколько всего?</emphasis>	- How much is the total?</p>
+<p><emphasis>Плата за обслуживание включена в счет?</emphasis>	- Does the bill include the service charge?</p>
+<p><emphasis>Мне кажется, в счете ошибка.</emphasis>	- I believe the bill is added up wrong.</p>
+<p><emphasis>Я заплачу по счету.</emphasis>	- The bill is on me.</p>
+<p><emphasis>Сегодня вечером я угощаю.</emphasis>	- I treat you to dinner this evening.</p>
+<p><emphasis>Запишите это на мой счет, пожалуйста.</emphasis>	- Put it on my bill, please.</p>
+<p><emphasis>Я плачу за всех.</emphasis>	- I am paying for everything.</p>
+<p><emphasis>Мы платим отдельно.</emphasis>	- We are paying separately.</p>
+<p><emphasis>Давайте заплатим поровну.</emphasis>	- Let's split the bill.</p>
+<p><emphasis>Позвольте мне заплатить мою долю.</emphasis>	- Let me pay my share.</p>
+<p><emphasis>Сдачи не надо.</emphasis>	- Keep the change, please.</p>
+</section>
+</section>
+<section>
+<title><p>Покупки</p>
+</title>
+<section>
+<title><p>Информация</p>
+</title>
+<p><emphasis>Когда вы закрываетесь?</emphasis>	- When do you close ?</p>
+<p><emphasis>Когда закрывается этот магазин?</emphasis>	- When does this store close?</p>
+<p><emphasis>До скольки вы открыты в рабочие дни?</emphasis>	- How late are you opened on weekdays?</p>
+<p><emphasis>Открыто с девяти до пяти.</emphasis>	- Open from nine o’clock to five o’clock .</p>
+<p><emphasis>Закрыто с двенадцати до двух.</emphasis>	- Closed from twelve o’clock to two o’clock .</p>
+<p><emphasis>Где здесь торговый центр ?</emphasis>	- Where is the shopping area?</p>
+<p><emphasis>Там есть безналоговый магазин?</emphasis>	- Is there a tax-free shop?</p>
+<p><emphasis>Там есть универмаг ?</emphasis>	- Is there a department store?</p>
+<p><emphasis>На каком этаже продовольственный отдел?</emphasis>	- On which floor is the food department?</p>
+<p><emphasis>Какие оригинальные изделия есть в этом городе?</emphasis>	- What are some special products of this town?</p>
+<p><emphasis>Где я могу это купить?</emphasis>	- Where can I buy it?</p>
+</section>
+<section>
+<title><p>Обслуживание</p>
+</title>
+<p><emphasis>Я только смотрю.</emphasis>	- I’m just looking around .</p>
+<p><emphasis>Это дорого ?</emphasis>	- Is this expensive?</p>
+<p><emphasis>Это неплохо , но дороговато .</emphasis>	- It’s good, but it’s a little expensive.</p>
+<p><emphasis>У вас есть такой же?</emphasis>	- Do you have one like this?</p>
+<p><emphasis>У вас есть такой же другого цвета?</emphasis>	- Do you have this in another colour?</p>
+<p><emphasis>У вас есть такое же лучшего качества.</emphasis>	- Do you have one of better quality?</p>
+<p><emphasis>У вас есть побольше ?</emphasis>	- Do you have a bigger one?</p>
+<p><emphasis>У вас есть подешевле ?</emphasis>	- Do you have a cheaper one?</p>
+<p><emphasis>Я хотел бы взглянуть на более светлый (темный) тон.</emphasis>	- I would like to see a lighter (darker) shade.</p>
+<p><emphasis>Я беру это .</emphasis>	- I’ll take this.</p>
+<p><emphasis>Я могу купить это без налога?</emphasis>	- Can I buy it tax-free?</p>
+<p><emphasis>Можно попросить подарочную упаковку?</emphasis>	- Could I have a gift box?</p>
+<p><emphasis>Я не могу себе позволить это купить.</emphasis>	- I can’t afford to buy this.</p>
+<p><emphasis>Отошлите это, пожалуйста, в гостиницу с чеком.</emphasis>	- Will you send it to the hotel with a receipt?</p>
+<p><emphasis>Не могли бы Вы отправить это сегодня?</emphasis>	- Would you please send it today?</p>
+<p><emphasis>Могу я это забрать ?</emphasis>	- May I pick it up?</p>
+<p><emphasis>Сколько времени займет ремонт ?</emphasis>	- How long will it take to repair?</p>
+<p><emphasis>Вы даете гарантию на ремонт?</emphasis>	- Will you guarantee the repairs?</p>
+<p><emphasis>Я зайду попозже .</emphasis>	- I will come back later.</p>
+</section>
+<section>
+<title><p>Одежда</p>
+</title>
+<p><emphasis>Я хотел бы примерить .</emphasis>	- I’d like to try it on.</p>
+<p><emphasis>Я хотел бы примерить оба.</emphasis>	- I would like to try both of them on.</p>
+<p><emphasis>Где примерочная ?</emphasis>	- Where’s the fitting room?</p>
+<p><emphasis>Вы могли бы снять мерку на пиджак?</emphasis>	- Will you take the measurements for a jacket?</p>
+<p><emphasis>Можете снять с меня мерку?</emphasis>	- Can you measure me?</p>
+<p><emphasis>Вы думаете, этот материал долговечный?</emphasis>	- Do you think this material is durable?</p>
+<p><emphasis>Мне нужен костюм на заказ.</emphasis>	- I would like a custom-made suit.</p>
+<p><emphasis>Я бы хотела юбку на заказ.</emphasis>	- I would like to have a custom-made skirt.</p>
+<p><emphasis>Я бы хотела взглянуть на хлопчатобумажную ночную рубашку.</emphasis>	- I wish to look at a cotton nightdress.</p>
+<p><emphasis>Меня интересует приталенный смокинг .</emphasis>	- I would like to have a fitted dinner jacket.</p>
+<p><emphasis>Я хотел бы купить пижаму.</emphasis>	- I would like a pair of pajamas.</p>
+<p><emphasis>У вас есть пиджак к этим брюкам?</emphasis>	- Do you have a jacket to match these pants?</p>
+<p><emphasis>Я бы хотела, чтобы здесь была складка спереди.</emphasis>	- I would like to have a pleat in the front.</p>
+<p><emphasis>Когда можно будет прийти на примерку?</emphasis>	- When can I have a fitting?</p>
+<p><emphasis>Вы подгоните это по длине?</emphasis>	- Will you adjust the length?</p>
+<p><emphasis>В этом месте слишком тесно.</emphasis>	- It ’ s too tight here.</p>
+<p><emphasis>Вещи будут готовы до следующей пятницы?</emphasis>	- Can clothes be finished before next Friday?</p>
+<p><emphasis>На заказ.</emphasis>	- Tailor-made .</p>
+</section>
+<section>
+<title><p>Личные предметы</p>
+</title>
+<p><emphasis>Не могли бы Вы показать мне ассортимент шелковых галстуков?</emphasis>	- Could you show me a selection of silk ties?</p>
+<p><emphasis>У вас есть другие цвета?</emphasis>	- Do you have it in different colours?</p>
+<p><emphasis>Я бы хотела шелковый шарфик к этой блузке.</emphasis>	- I would like a silk scarf to match this blouse.</p>
+<p><emphasis>Меня интересует коричневый пояс .</emphasis>	- I would like to have a brown belt.</p>
+<p><emphasis>Это натуральная кожа ?</emphasis>	- Is this genuine leather?</p>
+<p><emphasis>Покажите мне, пожалуйста, кожаное портмоне.</emphasis>	- I’d like a leather wallet.</p>
+<p><emphasis>Мне нужен практичный багажный комплект.</emphasis>	- I would like to see a practical set of luggage.</p>
+<p><emphasis>Покажите мне мягкий кожаный портфель.</emphasis>	- I would like to see a soft leather portfolio.</p>
+<p><emphasis>Я бы хотел приобрести мягкие контактные линзы.</emphasis>	- I would like soft contact lenses.</p>
+<p><emphasis>Мне нужны солнцезащитные очки .</emphasis>	- I would like a pair of sunglasses.</p>
+<p><emphasis>Эти очки для меня слишком слабые.</emphasis>	- These glasses are too weak for me.</p>
+<p><emphasis>Я бы хотел примерить очки посильнее.</emphasis>	- I would like to try some stronger glasses.</p>
+<p><emphasis>У вас есть хлопчатобумажные (шерстяные, нейлоновые) носки?</emphasis>	- Do you have cotton (wool, nylon) socks?</p>
+<p><emphasis>Мне нужны две пары носков.</emphasis>	- May I have two pairs of socks?</p>
+<p><emphasis>Мне нужна пара легкой летней обуви.</emphasis>	- I would like a pair of lightweight summer shoes.</p>
+<p><emphasis>У вас найдется пара спортивной обуви?</emphasis>	- Do you have a pair of tennis shoes?</p>
+<p><emphasis>Что Вы можете посоветовать при воспалении глаз?</emphasis>	- Can you recommend something for irritated eyes?</p>
+<p><emphasis>Мне нужно какое-нибудь средство от раздражения кожи.</emphasis>	- I would like something for skin irritation.</p>
+<p><emphasis>Покажите мне другой, пожалуйста.</emphasis>	- Please show me another one.</p>
+<p><emphasis>Из какого материала это сделано?</emphasis>	- What material is it made of?</p>
+</section>
+<section>
+<title><p>Электроника</p>
+</title>
+<p><emphasis>Я хотел бы посмотреть камеру.</emphasis>	- I would like to see a camera.</p>
+<p><emphasis>Не могли бы вставить пленку в мой фотоаппарат?</emphasis>	- Would you please put film in my camera?</p>
+<p><emphasis>Мне нужна цветная пленка.</emphasis>	- I would like colour film.</p>
+<p><emphasis>Мне нужно по три отпечатка с каждого кадра.</emphasis>	- I would like three prints of each.</p>
+<p><emphasis>Не могли бы Вы увеличить эти фотографии?</emphasis>	- I would like these photographs enlarged.</p>
+<p><emphasis>Я хочу купить компакт диск в подарок.</emphasis>	- I would like to buy a CD for someone.</p>
+<p><emphasis>У вас есть батарейки ?</emphasis>	- Have you got any batteries?</p>
+<p><emphasis>Мне нужны две лампочки на 60 ватт.</emphasis>	- I would like to have two 60 (sixty) watt bulbs.</p>
+<p><emphasis>Покажите , как этим пользоваться .</emphasis>	- Will you show me how to operare it?</p>
+<p><emphasis>Когда они будут готовы ?</emphasis>	- When will they be ready?</p>
+<p><emphasis>Думаете , это можно отремонтировать ?</emphasis>	- Do you think you can repair it?</p>
+<p><emphasis>Вы можете сделать ремонт при мне?</emphasis>	- Can you repair this while I wait?</p>
+</section>
+<section>
+<title><p>Сувениры</p>
+</title>
+<p><emphasis>Я хотел бы купить сувенир на память об этом городе.</emphasis>	- I would like to have a souvenir of the town.</p>
+<p><emphasis>У вас есть фотографии с видами этой местности?</emphasis>	- Do you have pictures with scenes of this area?</p>
+<p><emphasis>У вас есть открытка с видом города?</emphasis>	- Do you have a postcard with a picture of the town?</p>
+<p><emphasis>Это хрусталь ?</emphasis>	- Are these crystals?</p>
+<p><emphasis>Я бы хотел букет красных роз.</emphasis>	- I would like a bouquet of red roses.</p>
+<p><emphasis>У вас есть почтовые марки?</emphasis>	- Do you have stamps?</p>
+<p><emphasis>Сколько шоколада можно вывести из страны?</emphasis>	- How much chocolate can I take out of the country?</p>
+<p><emphasis>Какая начинка у этих конфет?</emphasis>	- What's in that chocolate?</p>
+<p><emphasis>Две плитки горького шоколада .</emphasis>	- I would like two bars of plain chocolate.</p>
+</section>
+<section>
+<title><p>Книги</p>
+</title>
+<p><emphasis>Можно просто посмотреть?</emphasis>	- May I browse?</p>
+<p><emphasis>У вас есть какая-нибудь развлекательная книжка на английском?</emphasis>	- Do yoy have an entertaining book in English?</p>
+<p><emphasis>Я хотел бы детектив на английском.</emphasis>	- I would like to have a mystery novel in English.</p>
+<p><emphasis>Русскую газету , пожалуйста .</emphasis>	- Please give me a Russian newspaper.</p>
+<p><emphasis>Мне нужен блокнот для заметок.</emphasis>	- I would like a writing pad.</p>
+<p><emphasis>Мне нужна подробная карта города.</emphasis>	- I would like a clearly marked map of this town.</p>
+<p><emphasis>У вас есть поздравительные открытки?</emphasis>	- Do you have any greeting cards?</p>
+</section>
+<section>
+<title><p>Оплата</p>
+</title>
+<p><emphasis>Где я могу заплатить?</emphasis>	- Where do I pay?</p>
+<p><emphasis>Вы принимаете кредитные карточки?</emphasis>	- Do you accept credit cards?</p>
+<p><emphasis>Можно заплатить персональным чеком?</emphasis>	- Can I have a personal check?</p>
+<p><emphasis>Вы принимаете иностранную валюту?</emphasis>	- Do you accept foreign currency?</p>
+<p><emphasis>Это больше, чем я могу заплатить.</emphasis>	- This is more than I can pay.</p>
+<p><emphasis>Цена неоправданно велика .</emphasis>	- The price is not reasonable.</p>
+<p><emphasis>Цена больше, чем я рассчитывал.</emphasis>	- The price is higher than what I had in mind.</p>
+<p><emphasis>Можете предложить мне лучшую цену?</emphasis>	- Can you give me a better price?</p>
+<p><emphasis>Вы можете дать мне скидку за расчет наличными?</emphasis>	- Can you give me a cash discount?</p>
+<p><emphasis>Можно купить это в рассрочку?</emphasis>	- Can I buy it on installment?</p>
+<p><emphasis>Здесь в счете нет ошибки?</emphasis>	- Isn't there a mistake in the bill?</p>
+<p><emphasis>Проверьте еще раз .</emphasis>	- Will you check it again?</p>
+<p><emphasis>Вы неправильно дали мне сдачу.</emphasis>	- You gave me the wrong change.</p>
+<p><emphasis>Дайте мне , пожалуйста , чек .</emphasis>	- Can you give me a receipt, please?</p>
+<p><emphasis>Я уже заплатил .</emphasis>	- I have already paid.</p>
+<p><emphasis>Можете послать это по этому адресу?</emphasis>	- Will you send it to this address?</p>
+<p><emphasis>Я хотел бы получить это сегодня.</emphasis>	- I'd like to have it today.</p>
+<p><emphasis>Я хотел бы это вернуть.</emphasis>	- I'd like to return this.</p>
+<p><emphasis>Вот мой чек .</emphasis>	- Here's my receipt.</p>
+<p><emphasis>Это сломано .</emphasis>	- This is broken.</p>
+</section>
+</section>
+<section>
+<title><p>Экскурсии</p>
+</title>
+<section>
+<title><p>Планы</p>
+</title>
+<p><emphasis>Я хотел бы поехать во Францию.</emphasis>	- I want to go to France.</p>
+<p><emphasis>Я собираюсь поехать во Францию.</emphasis>	- I plan to go to France.</p>
+<p><emphasis>Я улетаю в США на следующей неделе.</emphasis>	- I'll leaving for the USA next week.</p>
+<p><emphasis>Как долго Вы собираетесь пробыть в Париже?</emphasis>	- How long do you intend to stay in Paris?</p>
+<p><emphasis>Я хотел бы путешествовать туристическим классом.</emphasis>	- I would like to travel tourist class.</p>
+<p><emphasis>Я предпочитаю путешествовать автобусом (поездом, самолетом)</emphasis>	- I prefer to go by bus (train, plane).</p>
+</section>
+<section>
+<title><p>Информация</p>
+</title>
+<p><emphasis>Какие достопримечательности здесь есть?</emphasis>	- What special sights are there?</p>
+<p><emphasis>Какие предлагаются экскурсии?</emphasis>	- What sightseeing tours are available?</p>
+<p><emphasis>Вы можете порекомендовать интересную экскурсию?</emphasis>	- Can you recommend an interesting tour?</p>
+<p><emphasis>Не могли бы Вы рассказать, какие здесь есть музеи?</emphasis>	- Would you please tell me what museums there are here?</p>
+<p><emphasis>Где находится театр?</emphasis>	- Where is the theater?</p>
+<p><emphasis>Где ближайшая станция метро?</emphasis>	- Where is the nearest subway station?</p>
+<p><emphasis>Где стоянка такси?</emphasis>	- Where is the taxi stand?</p>
+<p><emphasis>Здесь есть поблизости туалет?</emphasis>	- Is there a public restroom near here?</p>
+<p><emphasis>Можно воспользоваться Вашим туалетом?</emphasis>	- May I use your bathroom?</p>
+<p><emphasis>В котором часу мы вернемся?</emphasis>	- What time does it get back?</p>
+<p><emphasis>Сколько стоит эта экскурсия?</emphasis>	- How much is this tour?</p>
+<p><emphasis>Во сколько начало?</emphasis>	- What time does it start?</p>
+<p><emphasis>Питание включено в стоимость?</emphasis>	- Are any meals included?</p>
+<p><emphasis>Экскурсия по городу предусмотрена?</emphasis>	- Is there a city tour here?</p>
+<p><emphasis>Это однодневная экскурсия?</emphasis>	- Is this an all-day tour?</p>
+<p><emphasis>Дайте мне, пожалуйста, план города.</emphasis>	- Please give me a map of the town.</p>
+<p><emphasis>Где я могу купить план города?</emphasis>	- Where can I buy the map of the town/city.</p>
+<p><emphasis>У вас есть брошюра с описанием туров и экскурсий?</emphasis>	- Do you have a brochure describing tours and excursions?</p>
+<p><emphasis>Здесь есть театр?</emphasis>	- Is there a theater here?</p>
+<p><emphasis>Когда и где мы можем встретиться?</emphasis>	- When and where can we meet?</p>
+<p><emphasis>Где я могу купить билет?</emphasis>	- Where can I buy a ticket?</p>
+<p><emphasis>Сколько стоит входной билет?</emphasis>	- How much is admission?</p>
+<p><emphasis>Что интересного можно тут еще посмотреть?</emphasis>	- What other interesting things are there to see?</p>
+<p><emphasis>Это слишком далеко, чтобы идти пешком?</emphasis>	- Is it too far to walk?</p>
+<p><emphasis>У нас будет возможность сделать пару фотографий?</emphasis>	- Will there be an opportunity to take some photographs?</p>
+<p><emphasis>Сколько времени это будет идти?</emphasis>	- How long will it run?</p>
+<p><emphasis>Что идет сейчас?</emphasis>	- What is showing now?</p>
+<p><emphasis>Кто-нибудь здесь говорит по-английски?</emphasis>	- Can anyone here speak English?</p>
+<p><emphasis>Мне нужен гид, говорящий по-английски.</emphasis>	- I want an English-speaking guide.</p>
+</section>
+<section>
+<title><p>Как пройти</p>
+</title>
+<p><emphasis>Извините, как пройти к этому месту?</emphasis>	- Excuse me. How can I get to this place?</p>
+<p><emphasis>Скажите, пожалуйста, как пройти к этой гостинице?</emphasis>	- Would you tell me how to get to this hotel?</p>
+<p><emphasis>Гостиница далеко отсюда?</emphasis>	- Is the hotel far from here?</p>
+<p><emphasis>Сколько это займет времени?</emphasis>	- How long does it take?</p>
+<p><emphasis>Оно на этой стороне?</emphasis>	- Is that on this side?</p>
+<p><emphasis>Как мне пройти к почте?</emphasis>	- Will you show me the way to the post office?</p>
+<p><emphasis>В какую сторону идти к центру?</emphasis>	- Which way is downtown?</p>
+<p><emphasis>Покажите на плане, где мы сейчас находимся.</emphasis>	- Please point out where I am on this map.</p>
+<p><emphasis>Пожалуйста, набросайте здесь план.</emphasis>	- Please draw a map here.</p>
+<p><emphasis>Где мы сейчас?</emphasis>	- Where are we now?</p>
+<p><emphasis>Как называется эта улица?</emphasis>	- What's the name of this street?</p>
+<p><emphasis>По чему можно ориентироваться по пути?</emphasis>	- What landmarks are on the way?</p>
+<p><emphasis>Мне идти прямо?</emphasis>	- Should I go straight?</p>
+<p><emphasis>По пути Вы увидите ресторан на другой стороне улицы.</emphasis>	- On the way you’ll see a restaurant on the other side of the street.</p>
+<p><emphasis>Это примерно десять минут ходьбы.</emphasis>	- It’s about ten minutes of walk.</p>
+<p><emphasis>Это совсем близко.</emphasis>	- It’ s a short walk.</p>
+<p><emphasis>Это прямо через улицу.</emphasis>	- It’s right across the street.</p>
+<p><emphasis>Это в конце коридора.</emphasis>	- It’s at the end of this corridor.</p>
+<p><emphasis>Это не очень далеко.</emphasis>	- It’ s not so far.</p>
+<p><emphasis>Вы не можете его не заметить.</emphasis>	- You can’ t miss it.</p>
+<p><emphasis>Подождите здесь минутку, пожалуйста.</emphasis>	- Wait here a moment, please.</p>
+<p><emphasis>Я выхожу на следующей остановке.</emphasis>	- I get off at the next stop.</p>
+<p><emphasis>Высадите меня здесь, пожалуйста.</emphasis>	- Let me off here, please.</p>
+<p><emphasis>Остановите здесь, пожалуйста.</emphasis>	- Stop here, please.</p>
+</section>
+<section>
+<title><p>Развлечения</p>
+</title>
+<p><emphasis>Я хотел бы поехать куда-нибудь отдохнуть.</emphasis>	- I would like to go somewhere to relax.</p>
+<p><emphasis>Давайте сходим в какое-нибудь интересное место?</emphasis>	- Shall we find a nice place to go?</p>
+<p><emphasis>В какой кинотеатр пойдем?</emphasis>	- Which movie house will we go to?</p>
+<p><emphasis>Хотите пойти со мной в оперу?</emphasis>	- Would you like to go to the opera with me?</p>
+<p><emphasis>Я куплю билеты.</emphasis>	- I’ll get the tickets.</p>
+<p><emphasis>Я зайду за Вами в семь часов.</emphasis>	- I’ll pick you up at seven o’clock.</p>
+<p><emphasis>Давайте сходим сегодня вечером в кино.</emphasis>	- Let’s go to the movie tonight.</p>
+<p><emphasis>Кто Ваши любимые артисты?</emphasis>	- Who are your favorite movie stars?</p>
+<p><emphasis>Когда начинается кино?</emphasis>	- When does the movie start?</p>
+<p><emphasis>Покажите, где мое место, пожалуйста.</emphasis>	- Will you take me to my seat, please?</p>
+<p><emphasis>Когда заканчивается представление?</emphasis>	- What time will the show be over?</p>
+<p><emphasis>Когда начинается представление?</emphasis>	- How soon does the show begin?</p>
+<p><emphasis>Хотите пойти куда-нибудь потанцевать?</emphasis>	- Would you like to go dancing?</p>
+<p><emphasis>Разрешите пригласить Вас на танец.</emphasis>	- May I have this dance, please?</p>
+<p><emphasis>По телевизору будут интересные фильмы?</emphasis>	- Are there any good movies on TV?</p>
+<p><emphasis>Сегодня вечером по телевизору будет что-нибудь интересное?</emphasis>	- Are there any good programs on TV tonight?</p>
+</section>
+<section>
+<title><p>Фотографии</p>
+</title>
+<p><emphasis>Здесь можно фотографировать?</emphasis>	- May I take pictures here?</p>
+<p><emphasis>Можно использовать вспышку?</emphasis>	- May I use a flash?</p>
+<p><emphasis>Не могли бы Вы сфотографировать меня?</emphasis>	- Would you mind taking a picture for me?</p>
+<p><emphasis>Сфотографируйтесь со мной, пожалуйста.</emphasis>	- Please pose with me.</p>
+</section>
+</section>
+<section>
+<title><p>Средства связи</p>
+</title>
+<section>
+<title><p>Почта</p>
+</title>
+<p><emphasis>Где находится почта?</emphasis>	- Where is the post office?</p>
+<p><emphasis>Не могли бы Вы объяснить, как пройти к почте?</emphasis>	- Would you please direct me to the post office?</p>
+<p><emphasis>Я хочу послать это письмо заказным.</emphasis>	- Please register this letter.</p>
+<p><emphasis>Я хочу послать его экспресс-почтой.</emphasis>	- I would like to send it by express.</p>
+<p><emphasis>Я хотел бы послать это письмо авиапочтой.</emphasis>	- I’d like to send this letter by air mail.</p>
+<p><emphasis>Пожалуйста, пошлите его спецдоставкой.</emphasis>	- Please send it by special delivery.</p>
+<p><emphasis>Застрахуйте его, пожалуйста.</emphasis>	- Insure it, please.</p>
+<p><emphasis>Это весит слишком много?</emphasis>	- Does this weigh too much?</p>
+<p><emphasis>Сколько это стоит?</emphasis>	- How much is it?</p>
+<p><emphasis>Сколько будет стоить пересылка этих писем?</emphasis>	- How much will it cost to send these letters?</p>
+<p><emphasis>Вы не знаете, сколько стоит письмо а Россию?</emphasis>	- Do you know what the postage is to Russia?</p>
+<p><emphasis>Сколько стоит авиаписьмо в Россию?</emphasis>	- How much does it cost to send an airmail to Russia?</p>
+<p><emphasis>Где я могу купить марки и открытки?</emphasis>	- Where can I get stamps and postcards?</p>
+<p><emphasis>Я хотел бы отправить эту посылку в Варшаву.</emphasis>	- I’d like to send this package to Warsaw.</p>
+<p><emphasis>Взвесьте это письмо, пожалуйста.</emphasis>	- Will you weigh this parcel, please?</p>
+<p><emphasis>Отправьте, пожалуйста, эту посылку как можно скорее.</emphasis>	- Would you please send this parcel as quickly as possible?</p>
+</section>
+<section>
+<title><p>Телеграф</p>
+</title>
+<p><emphasis>Я хотел бы отправить телеграмму.</emphasis>	- I would like to send a telegram.</p>
+<p><emphasis>Можно попросить бланк телеграммы?</emphasis>	- May I have a telegram form?</p>
+<p><emphasis>Когда телеграмма будет в Москве?</emphasis>	- When will the telegram arrive in Moscow?</p>
+<p><emphasis>Это очень долго. Вы не могли бы послать ее экспрессом?</emphasis>	- That takes too long. Would you please do it by express?</p>
+<p><emphasis>Сколько стоит одно слово?</emphasis>	- What is the charge per word?</p>
+<p><emphasis>Сколько букв может быть в одном слове?</emphasis>	- How many letters are allowed per word?</p>
+</section>
+<section>
+<title><p>Телефон</p>
+</title>
+<p><emphasis>Местный звонок.</emphasis>	- Local call.</p>
+<p><emphasis>Международный звонок.</emphasis>	- International call.</p>
+<p><emphasis>Я хотел бы сделать звонок в Москву за счет адресата.</emphasis>	- I want to make a collect call to Moscow.</p>
+<p><emphasis>Я хотел бы позвонить за границу.</emphasis>	- I’d like to make an overseas call.</p>
+<p><emphasis>Разговор с уведомлением, пожалуйста.</emphasis>	- Make it a person-to-person call, please.</p>
+<p><emphasis>Сколько стоит трехминутный разговор с Германией?</emphasis>	- How much does it cost for three minutes to Germany?</p>
+<p><emphasis>Я хотел бы позвонить в Мюнхен.</emphasis>	- I would like to make a call to Munich.</p>
+<p><emphasis>Где здесь поблизости телефон-автомат?</emphasis>	- Where can I find a public phone around here?</p>
+<p><emphasis>Линия занята.</emphasis>	- The line is busy.</p>
+<p><emphasis>Этого номера нет в справочнике.</emphasis>	- The number is unlisted.</p>
+<p><emphasis>Можно мне набирать напрямую?</emphasis>	- Can I dial directly?</p>
+<p><emphasis>Извините, Вы ошиблись номером.</emphasis>	- I’m sorry, you have the wrong number.</p>
+<p><emphasis>Его сейчас нет.</emphasis>	- He’s not in now.</p>
+<p><emphasis>Она сейчас говорит по другому телефону.</emphasis>	- She’s on another line now.</p>
+<p><emphasis>Не кладите трубку, пожалуйста.</emphasis>	- Hold the line, please.</p>
+<p><emphasis>Не кладите пока трубку, пожалуйста.</emphasis>	- Don’t hang up yet, please.</p>
+<p><emphasis>Я перезвоню позже.</emphasis>	- I’ll call again later.</p>
+<p><emphasis>Добавочный 212, пожалуйста.</emphasis>	- Give me extension 212 (two-one-two), please.</p>
+<p><emphasis>Кто говорит?</emphasis>	- Who is calling, please?</p>
+<p><emphasis>Как это пишется?</emphasis>	- How do you spell that?</p>
+<p><emphasis>Я ошибся номером.</emphasis>	- I got the wrong number.</p>
+<p><emphasis>Пожалуйста, попросите его мне позвонить.</emphasis>	- Please ask him to call me.</p>
+<p><emphasis>Я слушаю.</emphasis>	- Go ahead.</p>
+<p><emphasis>Вы можете ему кое-что передать?</emphasis>	- Could you leave a message?</p>
+<p><emphasis>Когда он вернется?</emphasis>	- What time is he expected back?</p>
+<p><emphasis>Спасибо за звонок.</emphasis>	- Thank you for calling.</p>
+</section>
+</section>
+<section>
+<title><p>В банке</p>
+</title>
+<section>
+<title><p>Вклад / снятие денег</p>
+</title>
+<p><emphasis>До которого часа открыт банк?</emphasis>	- How late is the bank open?</p>
+<p><emphasis>Я хотел бы открыть счет.</emphasis>	- I would like to open an account.</p>
+<p><emphasis>Я хочу снять со счета …</emphasis>	- I want to withdraw...</p>
+<p><emphasis>Я хочу открыть сберегательный счет.</emphasis>	- I’d like to open a saving account, please.</p>
+<p><emphasis>Я хочу положить на счет немного денег.</emphasis>	- I’d like to deposit some money.</p>
+<p><emphasis>Вот мое удостоверение.</emphasis>	- This is my identification.</p>
+<p><emphasis>Как быстро можно это сделать?</emphasis>	- How quickly can this be done?</p>
+</section>
+<section>
+<title><p>Обмен валюты</p>
+</title>
+<p><emphasis>Где я могу обменять деньги?</emphasis>	- Where can I change money?</p>
+<p><emphasis>Какой обменный курс доллара?</emphasis>	- What is the exchange rate for dollars?</p>
+<p><emphasis>Разменяйте мне, пожалуйста, пять фунтов.</emphasis>	- Can you give me change for five pounds?</p>
+<p><emphasis>Я хотел бы обналичить дорожный чек.</emphasis>	- I would like to cash this traveler’s check.</p>
+<p><emphasis>Не могли бы Вы разменять 100-долларовую купюру?</emphasis>	- Could you break this 100 (hundred) dollar bill?</p>
+<p><emphasis>Разменяйте, пожалуйста, эту купюру.</emphasis>	- Could you give me change for this bill?</p>
+<p><emphasis>Не могли бы Вы часть дать мелочью?</emphasis>	- Could you include some small change too?</p>
+<p><emphasis>Мне нужна мелочь.</emphasis>	- I’d like some change.</p>
+<p><emphasis>Мне нужны монеты всех достоинств.</emphasis>	- I’d like coins of all sizes, please.</p>
+</section>
+<section>
+<title><p>В поезде</p>
+</title>
+<p><emphasis>Как мне добраться отсюда туда?</emphasis>	- How can I get to this place from here?</p>
+<p><emphasis>Какие поезда идут в Чикаго?</emphasis>	- Which line goes to Chicago?</p>
+<p><emphasis>Сколько стоит билет до Парижа?</emphasis>	- How much for a ticket to Paris?</p>
+<p><emphasis>Сколько стоит билет до Рима?</emphasis>	- What is the fare to Rome?</p>
+<p><emphasis>Мне нужен билет до Лондона.</emphasis>	- I would like a ticket to London.</p>
+<p><emphasis>Два билета туристического класса.</emphasis>	- I would like two tourist class tickets.</p>
+<p><emphasis>Я хотел бы забронировать место на этом поезде.</emphasis>	- I’d like to reserve a seat on this train.</p>
+<p><emphasis>Мне нужно делать пересадку?</emphasis>	- Do I have to change trains?</p>
+<p><emphasis>Где мне делать пересадку?</emphasis>	- Where should I change trains?</p>
+<p><emphasis>С какой платформы отправляется поезд?</emphasis>	- Which platform does the train depart from?</p>
+<p><emphasis>Я опоздал на поезд. Когда идет следующий?</emphasis>	- I missed the train. When does the next one depart?</p>
+<p><emphasis>Это прямой поезд на Ганбург?</emphasis>	- Is this a direct train to Humburg?</p>
+<p><emphasis>Этот поезд идет в Лондон?</emphasis>	- This train goes to London, doesn’t it?</p>
+<p><emphasis>Как долго будет задержка.</emphasis>	- How long is the delay?</p>
+<p><emphasis>Это поезд скорый или пригородный?</emphasis>	- Is this train an express or a local?</p>
+<p><emphasis>Здесь есть вагон ресторан?</emphasis>	- Is there a dining car?</p>
+<p><emphasis>Вагон-ресторан в начале или в хвосте поезда?</emphasis>	- Is the dining car at the front or rear of the train?</p>
+<p><emphasis>Это место занято?</emphasis>	- Is this seat taken?</p>
+<p><emphasis>Я думаю, это место мое.</emphasis>	- I think this is my seat.</p>
+<p><emphasis>Я предпочитаю место у окна.</emphasis>	- I prefer a seat by the window.</p>
+<p><emphasis>Здесь очень жарко ( холодно )</emphasis>	- It is very hot (cold) here.</p>
+<p><emphasis>Можно открыть окно?</emphasis>	- May I open the window?</p>
+<p><emphasis>Где мы сейчас проезжаем?</emphasis>	- Where are we passing now?</p>
+<p><emphasis>Сколько времени поезд здесь стоит?</emphasis>	- How long does the train stop here?</p>
+<p><emphasis>Где следующая остановка?</emphasis>	- Where is the next stop?</p>
+<p><emphasis>На какой остановке мне выходить?</emphasis>	- Which stop should I get off at?</p>
+<p><emphasis>Сколько остановок отсюда?</emphasis>	- How many stops from here?</p>
+<p><emphasis>До скольких работает метро?</emphasis>	- How late does the subway run?</p>
+</section>
+<section>
+<title><p>На корабле</p>
+</title>
+<p><emphasis>Во сколько отплытие?</emphasis>	- When does it sail?</p>
+<p><emphasis>Когда посадка?</emphasis>	- What time do we board?</p>
+<p><emphasis>Где я могу сесть на корабль?</emphasis>	- Where can I board the ship?</p>
+<p><emphasis>Проводите меня, пожалуйста, до каюты.</emphasis>	- Would you please show me to my cabin?</p>
+<p><emphasis>Я бы хотел позавтракать в каюте (номере).</emphasis>	- I would like to have breakfast in my cabin (room).</p>
+<p><emphasis>Я хотел бы зарезервировать кресло на палубе.</emphasis>	- I’d like to reserve a deck chair.</p>
+<p><emphasis>В какое время я могу пообедать?</emphasis>	- What time can I dine?</p>
+</section>
+<section>
+<title><p>В автобусе</p>
+</title>
+<p><emphasis>Билет туда и обратно, пожалуйста.</emphasis>	- I would like a round-trip ticket, please.</p>
+<p><emphasis>Этот автобус идет туда?</emphasis>	- Does this bus go to that place?</p>
+<p><emphasis>Когда идет следующий автобус в аэропорт?</emphasis>	- What time does the next bus for airport leave?</p>
+<p><emphasis>Это расписание еще действует?</emphasis>	- Is this bus schedule current?</p>
+<p><emphasis>Сколько стоит билет туда и обратно?</emphasis>	- What’s the round-trip fare?</p>
+<p><emphasis>Сколько времени действителен обратный билет?</emphasis>	- How long is a round-trip good for?</p>
+<p><emphasis>Сколько стоит билет туда?</emphasis>	- How much is the fare to this place?</p>
+<p><emphasis>Как долго ехать до центра?</emphasis>	- How long will it take to go downtown?</p>
+<p><emphasis>Я хочу сдать билет.</emphasis>	- I want to cancel this ticket.</p>
+<p><emphasis>Вызовите для меня такси.</emphasis>	- Would you call a taxi for me, please?</p>
+<p><emphasis>Где мы можем взять такси?</emphasis>	- Where can we get a taxi?</p>
+<p><emphasis>Отвезите меня по этому адресу, пожалуйста.</emphasis>	- Take me to this address, please.</p>
+</section>
+<section>
+<title><p>Прокат автомобиля</p>
+</title>
+<p><emphasis>Я могу взять напрокат машину?</emphasis>	- Can I rent a car?</p>
+<p><emphasis>Какие документы мне нужно иметь с собой?</emphasis>	- What papers do I need with me?</p>
+<p><emphasis>Вот мои международные водительские права.</emphasis>	- This is my international driving permit (license).</p>
+<p><emphasis>Я хотел бы взять эту машину напрокат на два дня.</emphasis>	- I’d like to rent this car for two days.</p>
+<p><emphasis>Сколько это стоит в неделю (в день)?</emphasis>	- What does it cost per week (day)?</p>
+<p><emphasis>Цена включает страховку?</emphasis>	- Does the price include insurance?</p>
+<p><emphasis>Мне нужно оставлять залог?</emphasis>	- Do I need to pay a deposit?</p>
+<p><emphasis>Куда я могу позвонить, если что-нибудь случится?</emphasis>	- Please give me some numbers to call in case of trouble.</p>
+<p><emphasis>Покажите мне расценки, пожалуйста.</emphasis>	- Show me a list of your rates, please.</p>
+<p><emphasis>Сколько нужно платить за дополнительный пробег?</emphasis>	- How much does it cost for additional kilometers?</p>
+<p><emphasis>Я могу оставить машину в месте назначения?</emphasis>	- May I drop the car off at destination?</p>
+<p><emphasis>Где я могу вернуть ее?</emphasis>	- Where can I return it?</p>
+<p><emphasis>Пожалуйста, пошлите машину к моей гостинице завтра утром.</emphasis>	- Please send a car to my hotel tomorrow morning.</p>
+<p><emphasis>Я хочу подать заявление на возмещение ущерба по автомобильной страховке.</emphasis>	- I’d like to make a car insurance claim.</p>
+<p><emphasis>Заполните это, пожалуйста.</emphasis>	- Please fill it out.</p>
+</section>
+<section>
+<title><p>Сервис</p>
+</title>
+<p><emphasis>Где можно припарковаться?</emphasis>	- Where can I park?</p>
+<p><emphasis>В этом районе есть гостиница?</emphasis>	- Is there a hotel in this area?</p>
+<p><emphasis>Где самый короткий путь на пляж?</emphasis>	- Which is the shortest way to the beach?</p>
+<p><emphasis>Дорога до озера хорошая?</emphasis>	- Is the road to the lake a good one?</p>
+<p><emphasis>Где ближайший гараж?</emphasis>	- Where is the nearest garage?</p>
+<p><emphasis>Сколько километров (миль) до ближайшей заправочной станции?</emphasis>	- How many kilometers (miles) is to the nearest gas station?</p>
+</section>
+<section>
+<title><p>На автозаправке</p>
+</title>
+<p><emphasis>Мне нужно сорок литров бензина.</emphasis>	- I would like to have ten gallons of gas.</p>
+<p><emphasis>Я обычно использую бензин.</emphasis>	- I usually use gasoline.</p>
+<p><emphasis>Можете проверить?</emphasis>	- Can you check it for me?</p>
+<p><emphasis>У вас есть антифриз?</emphasis>	- Do you have any antifreeze?</p>
+<p><emphasis>Проверьте давление в шинах.</emphasis>	- Would you please check the tire pressure?</p>
+<p><emphasis>Долейте тормозной жидкости, пожалуйста.</emphasis>	- Would you please top up the brake fluid?</p>
+<p><emphasis>Добавьте, пожалуйста, воды в радиатор.</emphasis>	- Would you please add some water to the radiator?</p>
+<p><emphasis>Помойте, пожалуйста, машину.</emphasis>	- Can I have the car washed?</p>
+</section>
+<section>
+<title><p>Неисправности</p>
+</title>
+<p><emphasis>Двигатель не заводится.</emphasis>	- The engine won ’ t start.</p>
+<p><emphasis>Двигатель перегревается.</emphasis>	- The engine gets very hot.</p>
+<p><emphasis>Он очень шумит.</emphasis>	- It is noisy.</p>
+<p><emphasis>Что - то шумит.</emphasis>	- Something is making a noise.</p>
+<p><emphasis>Он стучит.</emphasis>	- It makes a knocking noise.</p>
+<p><emphasis>Что-то не в порядке с давлением масла.</emphasis>	- There is something wrong with the oil pressure.</p>
+<p><emphasis>Сигнал не работает.</emphasis>	- The horn doesn’t work.</p>
+<p><emphasis>Подзарядите, пожалуйста, аккумулятор.</emphasis>	- Would you please charge the battery?</p>
+<p><emphasis>У вас есть запчасти?</emphasis>	- Do you have spare parts?</p>
+<p><emphasis>У нас кончился бензин.</emphasis>	- We ’ re out of gas.</p>
+<p><emphasis>Машина сломалась. Пришлите кого-нибудь за ней.</emphasis>	- The car broke down. Please send someone for it.</p>
+<p><emphasis>Вы можете починить машину?</emphasis>	- Can you repair the car?</p>
+<p><emphasis>Сколько времени займет ремонт машины?</emphasis>	- How long will it take to repair the car?</p>
+<p><emphasis>Сколько примерно будет стоить ремонт?</emphasis>	- How much will the repairs cost, approximately?</p>
+<p><emphasis>Ремонт покрывается моей страховкой?</emphasis>	- Are the repairs covered by my insurance?</p>
+<p><emphasis>Позвони мне, когда машина будет готова.</emphasis>	- Will you call me when the car is ready?</p>
+</section>
+<section>
+<title><p>Авария</p>
+</title>
+<p><emphasis>Это была моя вина.</emphasis>	- It is my fault.</p>
+<p><emphasis>Мне кажется, это Ваша вина.</emphasis>	- I think it was your fault.</p>
+<p><emphasis>Не похоже, чтобы ущерб был большой.</emphasis>	- There doesn’t seem to be much damage.</p>
+<p><emphasis>Давайте решим вопрос между нами.</emphasis>	- Can we settle the matter between ourselves?</p>
+<p><emphasis>Пусть кто-нибудь вызовет полицию.</emphasis>	- I would like somebody to call the police.</p>
+<p><emphasis>Я иностранец. Вот мои водительские права.</emphasis>	- I ’ m a foreigner. Here’s my driver’s license.</p>
+<p><emphasis>Назовите Вашу фамилию и адрес, пожалуйста.</emphasis>	- may I have your name and address?</p>
+<p><emphasis>Можно попросить копию протокола происшествия?</emphasis>	- May I have a copy of the accident report?</p>
+</section>
+<section>
+<title><p>Дорожные знаки</p>
+</title>
+<p><emphasis>Въезд запрещен.</emphasis>	- No entry.</p>
+<p><emphasis>Движение запрещено.</emphasis>	- No thoroughfare.</p>
+<p><emphasis>Обгон запрещен.</emphasis>	- No passing.</p>
+<p><emphasis>Въезд запрещен — одностороннее движение.</emphasis>	- Do not enter: one way.</p>
+<p><emphasis>Стоянка запрещена.</emphasis>	- No parking.</p>
+<p><emphasis>Въезд бесплатный.</emphasis>	- Free admission.</p>
+<p><emphasis>Одностороннее движение.</emphasis>	- One-way traffic.</p>
+<p><emphasis>Опасный поворот.</emphasis>	- Dangerous bend.</p>
+<p><emphasis>Дорожные работы.</emphasis>	- Men at work.</p>
+<p><emphasis>Сужение дороги.</emphasis>	- Road narrows.</p>
+</section>
+</section>
+<section>
+<title><p>Здоровье</p>
+</title>
+<section>
+<title><p>Симптомы</p>
+</title>
+<p><emphasis>Я чувствую себя неважно.</emphasis>	- I don’t feel well.</p>
+<p><emphasis>У меня болит спина.</emphasis>	- I have pain in my back.</p>
+<p><emphasis>Меня знобит.</emphasis>	- I have chills.</p>
+<p><emphasis>У меня кружится голова.</emphasis>	- I feel dizzy.</p>
+<p><emphasis>У меня сильное головокружение.</emphasis>	- My head is spinning.</p>
+<p><emphasis>Мне плохо.</emphasis>	- I feel faint.</p>
+<p><emphasis>У меня болит голова.</emphasis>	- I have a headache.</p>
+<p><emphasis>У меня аллергия на пенициллин.</emphasis>	- I’m allergic to penicillin.</p>
+<p><emphasis>У меня высокое давление.</emphasis>	- I have high blood pressure.</p>
+<p><emphasis>У меня болит здесь.</emphasis>	- I have a pain here.</p>
+<p><emphasis>У меня температура.</emphasis>	- I have a fever.</p>
+<p><emphasis>Я простыл (у меня насморк).</emphasis>	- I have a cold.</p>
+<p><emphasis>У меня сильно болит зуб.</emphasis>	- I have a severe toothache.</p>
+<p><emphasis>Что-то попало в глаз.</emphasis>	- I have something in my eye.</p>
+<p><emphasis>Меня тошнит.</emphasis>	- I feel like throwing up.</p>
+<p><emphasis>Мне плохо.</emphasis>	- I feel sick.</p>
+<p><emphasis>У меня проблемы с сердцем.</emphasis>	- I’ve got a heart problem.</p>
+<p><emphasis>Я растянул связки на ноге.</emphasis>	- My ankle is sprained.</p>
+<p><emphasis>У меня болит горло.</emphasis>	- I’ve got a sore throat.</p>
+<p><emphasis>Я страдаю от бессонницы.</emphasis>	- I’m suffering from insomnia.</p>
+<p><emphasis>У меня заложен нос.</emphasis>	- I have a stuffy nose.</p>
+<p><emphasis>Я чувствую себя немного лучше.</emphasis>	- I fell a little better.</p>
+<p><emphasis>У меня насморк</emphasis>	- My nose is running.</p>
+</section>
+<section>
+<title><p>На приеме у врача</p>
+</title>
+<p><emphasis>Я хотел бы попасть на прием завтра в...</emphasis>	- I’d like an appointment for 10 (ten) a.m. tomorrow.</p>
+<p><emphasis>У меня сильный приступ морской болезни.</emphasis>	- I’ m very seasick.</p>
+<p><emphasis>Вызовите врача, пожалуйста.</emphasis>	- Can you get a doctor, please?</p>
+<p><emphasis>Вызовите скорую помощь.</emphasis>	- Would you please call an ambulance?</p>
+<p><emphasis>Отвезите меня в больницу, пожалуйста.</emphasis>	- Please take me to the hospital.</p>
+<p><emphasis>Это срочно.</emphasis>	- It’s urgent.</p>
+<p><emphasis>Я должен остаться в больнице?</emphasis>	- Do I have to stay in the hospital?</p>
+<p><emphasis>Думаете это надолго?</emphasis>	- Do you think it will be prolonged?</p>
+<p><emphasis>Как это случилось?</emphasis>	- How did that happen?</p>
+<p><emphasis>Я споткнулся на лестнице.</emphasis>	- I tripped on the stairs.</p>
+<p><emphasis>Вы считает это серьезно?</emphasis>	- Do you think it is serious?</p>
+<p><emphasis>Это заразно?</emphasis>	- Is it contagious?</p>
+<p><emphasis>Можете дать мне что-нибудь болеутоляющее?</emphasis>	- Can you give me something to stop the pain?</p>
+<p><emphasis>Мне нужна операция?</emphasis>	- Do I need an operation?</p>
+<p><emphasis>У меня первая группа крови, резус положительный.</emphasis>	- My blood type is A positive.</p>
+<p><emphasis>Какая у меня температура?</emphasis>	- What’s my temperature?</p>
+<p><emphasis>Сколько мне нужно отдыхать?</emphasis>	- How long must I rest?</p>
+<p><emphasis>Долго я буду выздоравливать?</emphasis>	- How long will it take to recover?</p>
+<p><emphasis>Сколько времени займет лечение?</emphasis>	- How long will the treatment take?</p>
+<p><emphasis>Мне можно продолжать путешествие?</emphasis>	- Can I continue my trip?</p>
+<p><emphasis>Сообщите моей семье, пожалуйста.</emphasis>	- Would you inform my family, please?</p>
+<p><emphasis>Сколько раз в день мне принимать это лекарство?</emphasis>	- How often do I take this medicine?</p>
+<p><emphasis>Можно попросить что-нибудь от кашля?</emphasis>	- can I have something for a cough?</p>
+<p><emphasis>Я хотел бы запломбировать зуб.</emphasis>	- I would like to have a tooth filled.</p>
+<p><emphasis>Нужно удалять?</emphasis>	- Is it necessary to pull it out?</p>
+</section>
+</section>
+<section>
+<title><p>И ещё...</p>
+</title>
+<section>
+<title><p>Спорт</p>
+</title>
+<p><emphasis>Тут есть поблизости кемпинг?</emphasis>	- Is there a camp site nearby?</p>
+<p><emphasis>Мы можем расположиться здесь?</emphasis>	- May we camp here?</p>
+<p><emphasis>Мы можем остаться здесь на ночь?</emphasis>	- Can we spend the night here?</p>
+<p><emphasis>Город далеко отсюда?</emphasis>	- Is the town far from here?</p>
+<p><emphasis>Где можно набрать воды?</emphasis>	- Is there a place where we can get water?</p>
+<p><emphasis>Я хотел бы половить рыбу.</emphasis>	- I am interested in fishing.</p>
+<p><emphasis>Можно здесь ловить рыбу?</emphasis>	- Is fishing allowed here?</p>
+<p><emphasis>Могу я здесь покататься на водных лыжах?</emphasis>	- Can I go water-skiing there?</p>
+</section>
+<section>
+<title><p>Салон красоты</p>
+</title>
+<p><emphasis>Я бы хотел постричься.</emphasis>	- I would like to have a haircut.</p>
+<p><emphasis>Стригите покороче, пожалуйста.</emphasis>	- Cut it short, please.</p>
+<p><emphasis>Только подровняйте, пожалуйста.</emphasis>	- Just trim it, please.</p>
+<p><emphasis>Не слишком коротко.</emphasis>	- Not too short.</p>
+<p><emphasis>Я хотел бы побриться.</emphasis>	- I would like to have a shave.</p>
+<p><emphasis>Постригите и побрейте, пожалуйста.</emphasis>	- Haircut and shave, please.</p>
+<p><emphasis>Я бы хотела помыть голову.</emphasis>	- I would like to have a shampoo.</p>
+<p><emphasis>Я бы хотела покрасить волосы.</emphasis>	- I would like to have my hair colored.</p>
+<p><emphasis>Сделайте мне пробор на левой (правой) стороне.</emphasis>	- Would you please part my hair on the left (right) side?</p>
+<p><emphasis>Зачешите мне волосы назад.</emphasis>	- Would you please comb my hair back from the forehead?</p>
+<p><emphasis>Я хотела бы сделать маникюр.</emphasis>	- I would like to have a manicure.</p>
+<p><emphasis>Здесь можно где-нибудь отдохнуть?</emphasis>	- Is there a place to rest?</p>
+</section>
+<section>
+<title><p>Вызов полиции</p>
+</title>
+<p><emphasis>Это срочно !</emphasis>	- It’s an emergency!</p>
+<p><emphasis>Немедленно вызовите полицию.</emphasis>	- Please call the police immediately.</p>
+<p><emphasis>Пожалуйста, заполните протокол о краже.</emphasis>	- Please make out a theft report.</p>
+<p><emphasis>Я потерял паспорт.</emphasis>	- I lost my passport.</p>
+<p><emphasis>Мой паспорт пропал.</emphasis>	- My passport is missing.</p>
+<p><emphasis>У меня украли бумажник.</emphasis>	- My wallet was stolen.</p>
+<p><emphasis>У меня украли бумажник в метро.</emphasis>	- I was robbed of my wallet on the subway.</p>
+<p><emphasis>Кому я должен сообщить?</emphasis>	- Whom should I inform?</p>
+<empty-line/>
+</section>
+</section>
+</section>
+
+</body>
+</FictionBook>
