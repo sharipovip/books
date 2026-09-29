@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "repo": "sharipovip/books",
   "branch": "main",
   "categories": [
@@ -406,13 +406,31 @@
       ]
     },
     {
-      "id": "biologiya",
-      "name": "Биология",
-      "folder_raw": "Биология",
+      "id": "asarhoi_talimii_horiji",
+      "name": "Асарҳои таълимии хориҷӣ",
+      "folder_raw": "Асарҳои таълимии хориҷӣ",
       "emoji": "📚",
       "color1": "#d97706",
       "color2": "#fbbf24",
       "sort_order": 112,
+      "subs": [
+        {
+          "id": "asarhoi_talimii_horiji",
+          "name": "Асарҳои таълимии хориҷӣ",
+          "folder_raw": "Асарҳои таълимии хориҷӣ",
+          "folder": "books/Асарҳои таълимии хориҷӣ",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "biologiya",
+      "name": "Биология",
+      "folder_raw": "Биология",
+      "emoji": "📚",
+      "color1": "#dc2626",
+      "color2": "#f87171",
+      "sort_order": 113,
       "subs": [
         {
           "id": "biologiya",
@@ -428,9 +446,9 @@
       "name": "Илмӣ",
       "folder_raw": "Илмӣ",
       "emoji": "🔬",
-      "color1": "#dc2626",
-      "color2": "#f87171",
-      "sort_order": 113,
+      "color1": "#0891b2",
+      "color2": "#22d3ee",
+      "sort_order": 114,
       "subs": [
         {
           "id": "ilmi",
@@ -523,9 +541,9 @@
       "name": "Информатика",
       "folder_raw": "Информатика",
       "emoji": "📚",
-      "color1": "#0891b2",
-      "color2": "#22d3ee",
-      "sort_order": 114,
+      "color1": "#16a34a",
+      "color2": "#86efac",
+      "sort_order": 115,
       "subs": [
         {
           "id": "informatika",
@@ -541,9 +559,9 @@
       "name": "Исломӣ",
       "folder_raw": "Исломӣ",
       "emoji": "📚",
-      "color1": "#16a34a",
-      "color2": "#86efac",
-      "sort_order": 115,
+      "color1": "#be185d",
+      "color2": "#f472b6",
+      "sort_order": 116,
       "subs": [
         {
           "id": "islomi",
@@ -594,9 +612,9 @@
       "name": "КИТОБҲО БАРОИ ПЕШВОИ МИЛЛАТ",
       "folder_raw": "КИТОБҲО БАРОИ ПЕШВОИ МИЛЛАТ",
       "emoji": "👑",
-      "color1": "#be185d",
-      "color2": "#f472b6",
-      "sort_order": 116,
+      "color1": "#64748b",
+      "color2": "#94a3b8",
+      "sort_order": 117,
       "subs": [
         {
           "id": "kitobho_baroi_peshvoi_millat",
@@ -612,9 +630,9 @@
       "name": "Педагогика",
       "folder_raw": "Педагогика",
       "emoji": "📚",
-      "color1": "#64748b",
-      "color2": "#94a3b8",
-      "sort_order": 117,
+      "color1": "#2563eb",
+      "color2": "#60a5fa",
+      "sort_order": 118,
       "subs": [
         {
           "id": "pedagogika",
@@ -630,9 +648,9 @@
       "name": "Пешвои Миллат",
       "folder_raw": "Пешвои Миллат",
       "emoji": "👑",
-      "color1": "#2563eb",
-      "color2": "#60a5fa",
-      "sort_order": 118,
+      "color1": "#7c3aed",
+      "color2": "#a78bfa",
+      "sort_order": 119,
       "subs": [
         {
           "id": "peshvoi_millat",
@@ -648,9 +666,9 @@
       "name": "Сиёсат, Сиёсатшиносӣ",
       "folder_raw": "Сиёсат, Сиёсатшиносӣ",
       "emoji": "📚",
-      "color1": "#7c3aed",
-      "color2": "#a78bfa",
-      "sort_order": 119,
+      "color1": "#0d9488",
+      "color2": "#5eead4",
+      "sort_order": 120,
       "subs": [
         {
           "id": "siyosat_siyosatshinosi",
@@ -666,9 +684,9 @@
       "name": "Таърих",
       "folder_raw": "Таърих",
       "emoji": "🏛",
-      "color1": "#0d9488",
-      "color2": "#5eead4",
-      "sort_order": 120,
+      "color1": "#d97706",
+      "color2": "#fbbf24",
+      "sort_order": 121,
       "subs": [
         {
           "id": "tarih",
@@ -691,9 +709,9 @@
       "name": "Фарҳангшиносӣ",
       "folder_raw": "Фарҳангшиносӣ",
       "emoji": "🎨",
-      "color1": "#d97706",
-      "color2": "#fbbf24",
-      "sort_order": 121,
+      "color1": "#dc2626",
+      "color2": "#f87171",
+      "sort_order": 122,
       "subs": [
         {
           "id": "farhangshinosi",
@@ -709,9 +727,9 @@
       "name": "Физика",
       "folder_raw": "Физика",
       "emoji": "📚",
-      "color1": "#dc2626",
-      "color2": "#f87171",
-      "sort_order": 122,
+      "color1": "#0891b2",
+      "color2": "#22d3ee",
+      "sort_order": 123,
       "subs": [
         {
           "id": "fizika",
@@ -727,9 +745,9 @@
       "name": "Ҷуғрофия",
       "folder_raw": "Ҷуғрофия",
       "emoji": "📚",
-      "color1": "#0891b2",
-      "color2": "#22d3ee",
-      "sort_order": 123,
+      "color1": "#16a34a",
+      "color2": "#86efac",
+      "sort_order": 124,
       "subs": [
         {
           "id": "jughrofiya",
