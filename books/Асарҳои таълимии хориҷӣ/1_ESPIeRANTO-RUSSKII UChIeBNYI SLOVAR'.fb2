@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <book-title>ЭСПЕРАНТО-РУССКИЙ УЧЕБНЫЙ СЛОВАРЬ</book-title>
+   <author><nickname>Lykas</nickname></author>
+   <genre>sci_linguistic</genre>
+   <date/>
+   <lang>ru</lang>
+   </title-info>
+  <document-info>
+   <author>
+    <nickname>Lykas</nickname>
+   </author>
+   <program-used>FictionBook Editor Release 2.6</program-used>
+   <date value="2011-08-30">30 August 2011</date>
+   <id>275A30CF-729A-4F84-B8C0-464F4FF61C24</id>
+   <version>1.0</version>
+   <history>
+    <p>1.0 — создание файла Lykas</p>
+   </history>
+  </document-info>
+ </description>
+ <body>
+  <section>
+   <title>
+    <p>ЭСПЕРАНТО-РУССКИЙ УЧЕБНЫЙ СЛОВАРЬ</p>
+   </title>
+   <section>
+    <p>Жирным шрифтом выделены слова понятные без перевода. В косых скобках даются слова для сравнения — русские слова, корни которых имеют общее происхождение со словами эсперанто. Те звуки, которые полностью совпадают, напечатаны заглавными. Напоминаю, что эсперантская буква "е" читается как "э" в любой позиции и поэтому не совпадает с русской "е".</p>
+    <p>В словаре около 1000 корней.</p>
+   </section>
+   <section>
+    <title>
+     <p>A</p>
+    </title>
+    <p>absoluta, abstrakta, adekvata, administracio, adreso, afiso, agento, akademio, aktiva, aktoro, aktuala, alternativo, altruismo, ananaso, anekdoto, anonco, аnonima, aparato, apartamento, apetito, aresti, argumento, aromo, artisto, atako, atleto, atmosfero, asocio, autoro, avangardo.</p>
+    <p>aboni — подписываться (на услугу)</p>
+    <p>aceti — покупать</p>
+    <p>afero — /АФЕРист/ дело</p>
+    <p>agi — /АГент/ действовать</p>
+    <p>akcepti — /АКЦЕПТовать/ принимать</p>
+    <p>akvo — /АКВариум/ вода</p>
+    <p>alia — /АЛИби/ другой</p>
+    <p>alta — /АЛЬТиметр/ высокий</p>
+    <p>ami — /АМур/ любить</p>
+    <p>amiko — /АМИКошонство/ друг</p>
+    <p>amuzi — забавлять</p>
+    <p>aparta — /АПАРТеид/ отдельный</p>
+    <p>aperi — появляться</p>
+    <p>arango — мероприятие</p>
+    <p>arbo — дерево</p>
+    <p>arto — /АРТист/ искусство</p>
+    <p>artikolo — /АРТИКуЛ/ статья</p>
+    <p>aspekti — /АСПеКТ/ выглядеть</p>
+    <p>atendi — ждать</p>
+    <p>audi — /АУДирование/ слышать</p>
+    <p>auskulti — слушать</p>
+    <p>auto — автомобиль</p>
+    <p>autuno — осень</p>
+   </section>
+   <section>
+    <title>
+     <p>B</p>
+    </title>
+    <p>baleto, balkono, balo, banala, banano, banderolo, bandito, banko, bariero, bazaro, bazo, benzino, betono, biblioteko, bileto, binoklo, biologio, biskvito, bivako, bojkoto, bombo, botaniko, brava, brigado, brosuro, bugeto, bufedo, bukedo, bulteno, burokrato.</p>
+    <p>bati — бить</p>
+    <p>bela — /БЭЛла/ красивый</p>
+    <p>besto — /БеСТия/ животное</p>
+    <p>bezoni — нуждаться</p>
+    <p>bildo — /герм. журнал "БИЛЬД"/ картинка</p>
+    <p>birdo — птица</p>
+    <p>bombono — /БОнБОНьерка/ конфета</p>
+    <p>bona — /БОНифаций/ хороший</p>
+    <p>brili — /БРИЛлиант/ блестеть</p>
+    <p>buso — автобус</p>
+   </section>
+   <section>
+    <title>
+     <p>C</p>
+    </title>
+    <p>celo, cemento, centimentro, centro, ceremonio, cifero, cigaredo, cinika, cirko, cirkulero, cisterno, citadelo, civilizacio.</p>
+    <p>certa — /сеРТификат/ уверенный</p>
+   </section>
+   <section>
+    <title>
+     <p>C</p>
+    </title>
+    <p>campiono, ceko, cokolado.</p>
+    <p>cambro — /швАМБРания/ комната</p>
+    <p>car — потому что</p>
+    <p>carma — /шАРМ/ очаровательный</p>
+    <p>cefa — /шЕФ/ главный</p>
+    <p>cielo — небо</p>
+   </section>
+   <section>
+    <title>
+     <p>D</p>
+    </title>
+    <p>dato, so.</p>
+    <p>danci — танцевать</p>
+    <p>danki — /ДАНКо/ благодарить</p>
+    <p>dankon — спасибо</p>
+    <p>dauri — продолжаться</p>
+    <p>decidi — решать</p>
+    <p>dekstra — правый</p>
+    <p>demandi — /МАНДат/ спрашивать</p>
+    <p>devi — /ДЕбет/ быть должным</p>
+    <p>deziri — желать</p>
+    <p>dika — толстый</p>
+    <p>diri — /ДИктор/ сказать</p>
+    <p>direkto — /ДИРеКТор/ направление</p>
+    <p>diversa — /ВеРСия/ различный</p>
+    <p>do — итак</p>
+    <p>donaci — дарить</p>
+    <p>doni — /ДОНор/ дать</p>
+    <p>dolca — /ДуЛьсинея/ сладкий</p>
+    <p>dormi — /ДРеМать/ спать</p>
+   </section>
+   <section>
+    <title>
+     <p>E</p>
+    </title>
+    <p>efekto, efemera, egoisto, eho, ekonomio, ekrano, ekskurso, ekspedicio, ekspluati, ekstazo, ekvatoro, ekvivalenta, ekzameno, ekzemplero, ekzotika, elasta, eleganta, elektro, elektroniko, emblemo, emocio, enciklopedio, energio, entuziasmo, epidemio, epigramo, epilogo, epiteto, epizodo, epoko, erotiko, erudicio, estetiko, etago, etapo, etiko, etnografio.</p>
+    <p>ec — даже</p>
+    <p>eduki — воспитывать</p>
+    <p>edzo — муж</p>
+    <p>ekzemplo — /ЭКЗЕМПЛяр/ пример</p>
+    <p>ekzisti — /ЭКЗИСТенциализм/ существовать</p>
+    <p>elekti — /ЭЛЕКТорат/ выбирать</p>
+    <p>esperi — /ЭСПеРанто/ надеяться</p>
+    <p>esti — /еСТь/ быть</p>
+   </section>
+   <section>
+    <title>
+     <p>F</p>
+    </title>
+    <p>fabriko, fakto, fakultato, fanatika, fantazio, farso, fasisto, fatala, — /ФАсИЛитатор/ легкий</p>
+    <p>fako — /ФАКультет/ отдел</p>
+    <p>fali — падать</p>
+    <p>familio — /ФАМИЛия/ семья</p>
+    <p>fari — /ФАкт/ делать</p>
+    <p>felica — счастливый</p>
+    <p>fenestro — окно</p>
+    <p>fermi — /ФеРМа/ закрыть</p>
+    <p>festo — /ФеСТиваль/ праздник</p>
+    <p>fidela — /ФИДеЛь/ верный</p>
+    <p>filo — /ФИЛиал/ сын</p>
+    <p>filmo — плёнка</p>
+    <p>fini — /ФИНал/ заканчивать</p>
+    <p>fiso — рыба</p>
+    <p>flanko — /ФЛАНг/ бок, сторона</p>
+    <p>floro — /ФЛОРистика/ цветок</p>
+    <p>flugi — /ФЛЮГер/ лететь</p>
+    <p>fojo — раз</p>
+    <p>for — /ФОРпост/ прочь</p>
+    <p>forgesi — забыть</p>
+    <p>forta — /ФОРТ/ сильный</p>
+    <p>frapi — стучать</p>
+    <p>frato — /бРАТ/ брат</p>
+    <p>frua — ранний</p>
+    <p>funkcii — действовать</p>
+   </section>
+   <section>
+    <title>
+     <p>G</p>
+    </title>
+    <p>garantio, garago, gaso, generalo, genio, geografio, geologio, geometrio, giganto, gimnastiko, gimnazio, gitaro, gnomo, grafiko, gramo, gramatiko, grandioza, granito, grimaco, gripo, grupo, gubernatoro, gvardio.</p>
+    <p>gazeto — журнал</p>
+    <p>glaso — стакан</p>
+    <p>granda — /ГРАНДиозный/ большой</p>
+    <p>gratuli — поздравлять</p>
+    <p>grava — /ГРАВитация/ важный</p>
+   </section>
+   <section>
+    <title>
+     <p>G</p>
+    </title>
+    <p>gazo, gendarmo, ginzo (джинсы), girafo.</p>
+    <p>generala — /геНеРальный/ общий, всеобщий</p>
+    <p>gusta — /юСТиция/ точный</p>
+   </section>
+   <section>
+    <title>
+     <p>H</p>
+    </title>
+    <p>harmonio, helikoptero, heroo, higieno, himno, hipopotamo, historio, hokeo, horizonto, horizontala, horoskopo, hospitalo, humana.</p>
+    <p>havi — иметь</p>
+    <p>hejmo — дом (очаг)</p>
+    <p>helpi — помогать</p>
+    <p>homo — /хОМо сапиенс/ человек</p>
+    <p>horo — /гОРоскоп/ час</p>
+   </section>
+   <section>
+    <title>
+     <p>H</p>
+    </title>
+    <p>halato, haoso, horo</p>
+   </section>
+   <section>
+    <title>
+     <p>I</p>
+    </title>
+    <p>ideo, idealo, identa, idilio, idioto, ignori, ilustri, iluzio, imiti, imperio, imponi, improvizo, impulso, indekso, indiferenta, individuo, industrio, inercio, inflacio, ingeniero, iniciato, inspektoro, instanco, instinkto, instituto, instrukcio, instrumento, integralo, intelekto, informi, intereso, intervalo, intervjuo, intrigo, intuicio, invalido, ironio, islamo, izotopo.</p>
+    <p>infano — /ИНФАНтильный/ ребенок</p>
+    <p>instrui — /ИНСТРУкция/ обучать</p>
+    <p>inviti — приглашать</p>
+    <p>iri — идти</p>
+   </section>
+   <section>
+    <title>
+     <p>J</p>
+    </title>
+    <p>jaguaro, jodo, jubileo, juna, juristo.</p>
+    <p>ja — ведь</p>
+    <p>jaro — /ЯРмарка/ год</p>
+    <p>jen — вот</p>
+   </section>
+   <section>
+    <title>
+     <p>J</p>
+    </title>
+    <p>jargono, jongli,</p>
+    <p>jeti — /ЖЕТон/ бросать</p>
+   </section>
+   <section>
+    <title>
+     <p>K</p>
+    </title>
+    <p>kabineto, kakao, kalendaro, kalsono, kanalo, kandidato, kapitalo, kapitano, kapitulacii, karaktero, karakterizi, karamelo, karavano, kardinalo, kariero, karikaturo, karnavalo, karto, karuselo, kaso, katalogo, kti, koridoro, kosmo, kostumo, kotleto, krabo, kredito, kritiki, krokodilo, kubo, kulinara, kulturo, kurioza, kurso, kvadrato, kvartalo, kvitanco.</p>
+    <p>kalkuli — /КАЛЬКУЛятор/ считать</p>
+    <p>kampo — /КеМПинг/ поле</p>
+    <p>kanti — /КАНТата/ петь</p>
+    <p>kapo — /КАПюшон/ голова</p>
+    <p>kapti — ловить</p>
+    <p>kasedo — кассета</p>
+    <p>kasi — /КоШелёк/ прятать</p>
+    <p>kauzo — /КАЗуистика/ причина</p>
+    <p>ke — что (союз)</p>
+    <p>kelkaj — несколько</p>
+    <p>kisi — целовать</p>
+    <p>klara — /КЛАРа/ ясный</p>
+    <p>knabo — мальчик</p>
+    <p>kolekti — /КОЛлеКция/ собирать</p>
+    <p>koloro — /КОЛОРит/ цвет</p>
+    <p>komenci — начинать</p>
+    <p>komerco — торговля</p>
+    <p>kompreni — понимать</p>
+    <p>komuna — /КОМмУНизм/ общий</p>
+    <p>koni — /инКОгНито/ быть знакомым</p>
+    <p>konsenti — /КОНСеНсус/ соглашаться</p>
+    <p>konsili — /КОНСИЛиум/ советовать</p>
+    <p>konstrui — /КОНСТРУкция/ строить</p>
+    <p>kontenta — довольный</p>
+    <p>korespondi — /КОРреСПОНДенция/ переписываться</p>
+    <p>kosti — /КОшТ/ стоить</p>
+    <p>kredi — /КРеДит/ верить</p>
+    <p>kreski — /КРЕщендо/ расти</p>
+    <p>krom — кроме</p>
+    <p>kuiri — /КУлинар/ готовить (пищу)</p>
+    <p>kuraci — /КУРорт/ лечить</p>
+    <p>kuri — /КУРьер/ бежать</p>
+    <p>kusi — /КУШетка/ лежать</p>
+   </section>
+   <section>
+    <title>
+     <p>L</p>
+    </title>
+    <p>labirinto, laboratorio, lako, lakona, lampo, legendo, leopardo, liano, lifto, likvidi, lingvistiko, linio, liriko, liro, literaturo, litro, logiko, lojala, lokomotivo, luno, lustro.</p>
+    <p>labori — /ЛАБОРант/ работать</p>
+    <p>lago — /ЛАГуна/ озеро</p>
+    <p>lakto — /ЛАКТоза/ молоко</p>
+    <p>lando — /ЛАНДшафт/ страна</p>
+    <p>larga — широкий</p>
+    <p>lasi — /реЛАкСация/ оставлять</p>
+    <p>lasta — последний</p>
+    <p>laudi — /ЛАвр/ хвалить</p>
+    <p>lauta — громкий</p>
+    <p>lavi — мыть</p>
+    <p>leciono — /ЛекЦия/ урок</p>
+    <p>legi — /Лектор/ читать</p>
+    <p>lerni — учиться</p>
+    <p>letero — /ЛиТЕРатура/ письмо</p>
+    <p>levi — /эЛеВатор/ поднимать</p>
+    <p>libero — /ЛИБеРал/ свобода</p>
+    <p>libro — /ЛИБРетто/ книга</p>
+    <p>vo — /ЛИНГВистика/ язык</p>
+    <p>logi — /ЛОДЖия/ проживать</p>
+    <p>loko — /ЛОКальный/ место</p>
+    <p>longa — /шезЛОНГ/ длинный</p>
+    <p>ludi — /преЛЮДия/ играть</p>
+   </section>
+   <section>
+    <title>
+     <p>M</p>
+    </title>
+    <p>mafio, magio, magneto, magnetofono, majoro, maksimumo, manipuli, manovri, manuskripto, margarino, marko, marmelado, marsi, marto, maso, masko, masino, matematiko, materialo, materio, matraco, medalo, medicino, medikamento, meduzo, mekaniko, melodio, menuo, metalo, metodo, metro, metroo (metropoliteno), mikrofono, milimetro, miliono, mineralo, minimumo, ministro, minuso, minuto, mitingo, modelo, monumento, moralo, motivo, motoro, mozaiko, muskolo, muzeo, muzo, muziko.</p>
+    <p>mano — /МАНжет/ рука</p>
+    <p>mangi — есть</p>
+    <p>maniero — /МАНеРа/ способ</p>
+    <p>manki — /МАНКировать/ не хватать</p>
+    <p>maro — море</p>
+    <p>mateno — /фр. газета "МАТЭН"/ утро</p>
+    <p>mem — сам</p>
+    <p>memori — /МеМОРиал/ помнить</p>
+    <p>meti — класть</p>
+    <p>mezo — /МеЗозой/ середина</p>
+    <p>milito — /МИЛИТаризм/ война</p>
+    <p>miri — /МИРинда/ удивляться</p>
+    <p>mono — /МОНета/ деньги</p>
+    <p>monato — месяц</p>
+    <p>mondo — мир (планета)</p>
+    <p>monto — /МОНТана/ гора</p>
+    <p>montri — /деМОНсТРировать/ показывать</p>
+    <p>morti — /натюрМОРТ/ умирать</p>
+    <p>movi — /МОтор/ двигать</p>
+    <p>multe — /МУЛЬТипликация/ много</p>
+    <p>muro — /заМУРовать/ стена</p>
+   </section>
+   <section>
+    <title>
+     <p>N</p>
+    </title>
+    <p>nacio, naiva, negativa, nepre (непременно), nervo, neutrala, nico, nikotino, noto, nova, novelo, nuanco, nulo, numero.</p>
+    <p>naski — /реНеСсанс/ рождать</p>
+    <p>naturo — /НАТУРа/ природа</p>
+    <p>ne — нет</p>
+    <p>necesa — /НЕсеСсер/ необходимый</p>
+    <p>nokto — /НОКТюрн/ ночь</p>
+    <p>nomo — /НОМинальный/ имя</p>
+    <p>nun — /НыНе/ теперь</p>
+    <p>nur — только</p>
+   </section>
+   <section>
+    <title>
+     <p>O</p>
+    </title>
+    <p>objekto, oceano, odo, oficiala, oficiro, operacio, opero, opozicio, optiko, optimismo, oratoro, orbito, ordeno, ordinara, organizi, originala, orkestro, ovalo, ozono.</p>
+    <p>ofico — /ОФИЦер/ должность</p>
+    <p>ofte — часто</p>
+    <p>okazi — /ОКАЗия/ случиться</p>
+    <p>okupi — /ОКкУПант/ занимать</p>
+    <p>opinio — мнение</p>
+    <p>ordinara — /неОРДИНАРный/ обычный</p>
+   </section>
+   <section>
+    <title>
+     <p>P</p>
+    </title>
+    <p>paciento, pakto, palmo, paniko, panoramo, pantero, pantomimo, parado, paradokso, paralela, parasuto, parko, parlamento, parodio, partio, pasagero, pasiva, pasporto, patrioto, pauzo, pedagogo, pensio, persono, pesimisto, pijamo, pikniko, pioniro, piramido, pirato, plakato, planedo, plano, plastiko, pluso, poemo, poeto, poezio, politiko, populara, porcio, portreto, pozicio, pozitiva, praktiko, premio, pretendi, primitiva, principo, problemo, produkti, profesio, profesoro, programo, progreso, projekto, propagando, protesto, prozo, psikologo, publiko, pulso.</p>
+    <p>paco — /ПАЦифист/ мир, покой</p>
+    <p>pagi — платить</p>
+    <p>pago — страница</p>
+    <p>pano — /комПАНьон/ хлеб</p>
+    <p>papero — /ПАПиРус/ бумага</p>
+    <p>pardoni — /ПАРДОН/ извинять</p>
+    <p>paroli — /ПАРОЛь/ разговаривать</p>
+    <p>parto — /ПАРТер/ часть</p>
+    <p>pendi — /перПЕНДикуляр/ висеть</p>
+    <p>pensi — думать</p>
+    <p>pentri — рисовать (красками)</p>
+    <p>perdi — потерять</p>
+    <p>permesi — разрешать</p>
+    <p>peti — /ПеТиция/ просить</p>
+    <p>piedo — /ПеДаль/ нога (ступня)</p>
+    <p>placi — нравиться</p>
+    <p>plena — /ПЛеНум/ полный</p>
+    <p>plezuro — /дворец МонПЛЕЗиР/ удовольствие</p>
+    <p>plori — плакать</p>
+    <p>pluraj — /ПЛЮРализм/ довольно многие</p>
+    <p>poemo — /ПОЭМа/ стихотворение</p>
+    <p>popolo — /ПОПУЛяция/ народ</p>
+    <p>pordo — /ПОРтье/ дверь</p>
+    <p>porti — /трансПОРТ/ нести</p>
+    <p>posto — почта</p>
+    <p>povi — /ПОтенциал/ мочь</p>
+    <p>preferi — /ПРЕФЕРанс/ предпочитать</p>
+    <p>preni — /ПРиз/ взять</p>
+    <p>premi — давить, нажимать</p>
+    <p>prepari — /ПРеПАРат/ подготавливать</p>
+    <p>presi — /ПРеСса/ печатать</p>
+    <p>preta — /ПРЕТ-а-порте/ готовый</p>
+    <p>prezenti — /ПРеЗеНТ/ представлять</p>
+    <p>prezidi — /ПРеЗИДент/ председательствовать</p>
+    <p>printempo — весна</p>
+    <p>proksima — /звезда ПРОКСИМа Центавра/ близкий</p>
+    <p>promeni — /ПРОМеНАД/ гулять</p>
+    <p>promesi — /комПРОМиСс/ обещать</p>
+    <p>propra — собственный</p>
+    <p>provi — /ПРОбовать/ пробовать</p>
+    <p>pura — /ПУРист/ чистый</p>
+   </section>
+   <section>
+    <title>
+     <p>R</p>
+    </title>
+    <p>radaro, radikala, raketo, reala, recenzo, redakcio, redakti, redaktoro, reformo, regisoro, reklamo, rekomendi, rekordo, rektoro, religio, repertuaro, reputacio, respubliko, restoracio, retoriko, revizoro, revolucio, revolvero, rezervo, rezolucio, roboto, rolo, romano, romantiko, rozo, rublo.</p>
+    <p>radio — луч, радио</p>
+    <p>rajto — право</p>
+    <p>rakonti — рассказывать</p>
+    <p>rapida — быстрый</p>
+    <p>raporti — /РАПОРТ/ докладывать</p>
+    <p>regulo — /РеГУЛировать/ правило</p>
+    <p>renkonti — встречать</p>
+    <p>respondi — /РеСПОНДент/отвечать</p>
+    <p>resti — /аРеСТ/ оставаться</p>
+    <p>revi — мечтать</p>
+    <p>revuo — /РеВю/ обозрение, журнал</p>
+    <p>ricevi — /РеЦепт/ получать</p>
+    <p>rica — /нувоРИш/ богатый</p>
+    <p>ridi — /РИДикюль/ смеяться</p>
+    <p>rigardi — смотреть</p>
+    <p>rilato — /РеЛяТивизм/ отношение</p>
+    <p>rimarki — /РеМАРКа/ замечать</p>
+    <p>ripeti — /РеПЕТиция/ повторять</p>
+    <p>ripozi — /ПОЗа/ отдыхать</p>
+    <p>rivero — /РИВьеРА/ река</p>
+    <p>rompi — ломать</p>
+   </section>
+   <section>
+    <title>
+     <p>S</p>
+    </title>
+    <p>salono, samovaro, sarkasmo, satano, satelito, satiro, sceno, sekcio, sektoro, sekundo, seminario, sensacio, sentimentala, serenado, serio, serioza, sesio, sezono, sfero, sidi, signalo, silueto, simbolo, simetrio, simfonio, simpatia, simptomo, sistemo, situacio, skeleto, skeptika, sociala, sodo, soldato, solidara, soneto, spektaklo, sporto, stabila, stacio, stilo, stipendio, strukturo, studento, sumo, surprizo.</p>
+    <p>saluti — /САЛЮТ/ приветствовать</p>
+    <p>salti — /САЛЬТо/ прыгать</p>
+    <p>sama — тот же самый</p>
+    <p>sano — /САНаторий/ здоровье</p>
+    <p>savi — спасать</p>
+    <p>scii — знать</p>
+    <p>scienco — наука</p>
+    <p>sego — стул</p>
+    <p>sekva — /СеКвенсер/ следующий</p>
+    <p>semajno — /СеМь/ неделя</p>
+    <p>sendi — посылать</p>
+    <p>senti — чувствовать</p>
+    <p>serci — /шЕРше ля фам/ искать</p>
+    <p>servi — /СеРВис/ служить</p>
+    <p>signifi — означать</p>
+    <p>simila — /асСИМИЛяция/ похожий</p>
+    <p>simpla — простой</p>
+    <p>sinjoro — господин</p>
+    <p>skatolo — /шКАТуЛка/ коробка</p>
+    <p>skribi — /мануСКРИпт/ писать</p>
+    <p>sola — /СОЛо/ единственный</p>
+    <p>somero — лето</p>
+    <p>soni — /СОНата/ звучать</p>
+    <p>speciala — особенный</p>
+    <p>spegulo — зеркало</p>
+    <p>sperto — /экСПеРТ/ опыт</p>
+    <p>stari — стоять</p>
+    <p>strato — /автоСТРАда/ улица</p>
+    <p>studi — /СТУДент/ изучать</p>
+    <p>sufice — достаточно</p>
+    <p>sukceso — успех</p>
+    <p>suno — солнце</p>
+    <p>supra — /СУПер/ верхний</p>
+   </section>
+   <section>
+    <title>
+     <p>S</p>
+    </title>
+    <p>sanco, snuro, soforo, soseo, stormo.</p>
+    <p>sajni — казаться</p>
+    <p>sango — изменение</p>
+    <p>sati — ценить, любить</p>
+    <p>serci — шутить</p>
+    <p>sipo — /ШкИПер/ корабль</p>
+    <p>slosi — /ШЛиСсельбург/ запирать</p>
+    <p>stato — /ШТАТ/ государство</p>
+   </section>
+   <section>
+    <title>
+     <p>T</p>
+    </title>
+    <p>tabako, taksio, taktiko, teatro, tekniko, teksto, telefono, telegrafo, telegramo, temo, temperaturo, teniso, teorio, terapio, teritorio, tigro, tipo, tono, torto, tosto, triumfo, triviala, trotuaro, tundro, tunelo, turisto, turniro.</p>
+    <p>tablo — /ТАБЛетка/ стол</p>
+    <p>tago — /гутен ТАГ/ день</p>
+    <p>tamen — однако</p>
+    <p>televido — телевидение</p>
+    <p>tempo — /ТеМПоральный/ время</p>
+    <p>teni — /конТейНер/ держать</p>
+    <p>tero — /ТеРритория/ земля</p>
+    <p>timi — /ТИМофей/ бояться</p>
+    <p>traduki — /аквеДУК/ переводить</p>
+    <p>tranci — /ТРАНшея/ резать</p>
+    <p>tre — очень</p>
+    <p>trinki — пить</p>
+    <p>tro — слишком</p>
+    <p>trovi — найти</p>
+    <p>tuj — тотчас, сразу же</p>
+    <p>turni — /ТУРНикет/ повернуть</p>
+    <p>tuta — /ТоТальный/ весь, целый</p>
+   </section>
+   <section>
+    <title>
+     <p>U</p>
+    </title>
+    <p>unika, universitato, uragano, urno, utopio.</p>
+    <p>universala — всеобщий</p>
+    <p>urbo — /УРБанизация/ город</p>
+    <p>utila — /УТИЛь/ полезный</p>
+    <p>uzi — использовать</p>
+   </section>
+   <section>
+    <title>
+     <p>V</p>
+    </title>
+    <p>vagono, valso, valuto, vazo, vertikala, veterano, vidi, vino, virtuozo, viruso, vitamino, vizito, vizo, vualo, vulgara, vulkano.</p>
+    <p>Valoro — ценность</p>
+    <p>varma — теплый</p>
+    <p>veni — /ВеНиамин/ приходить</p>
+    <p>vendi — продавать</p>
+    <p>vento — /ВеНТилятор/ ветер</p>
+    <p>vero — /ВеРно/ правда</p>
+    <p>verki — сочинять</p>
+    <p>vespero — вечер</p>
+    <p>vesto — одежда</p>
+    <p>veturi — ехать</p>
+    <p>viando — мясо</p>
+    <p>vilago — деревня</p>
+    <p>vintro — зима</p>
+    <p>viro — /триумВИРат/ мужчина</p>
+    <p>vivo — /ВИВарий/ жизнь</p>
+    <p>vojo — /конВОЙ/ путь</p>
+    <p>vojago — /ВОЯж/ путешествие</p>
+    <p>voli — /ВОЛя/ хотеть</p>
+    <p>vorto — /кроссВОРд/ слово</p>
+   </section>
+   <section>
+    <title>
+     <p>Z</p>
+    </title>
+    <p>zebro, zenito, zigzago, zodiako, zono, zoologio.</p>
+    <p>zorgo — /ЗОРГе/ забота</p>
+   </section>
+  </section>
+ </body>
+</FictionBook>

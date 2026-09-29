@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+<book-title>Новое платье короля (по-эстонски)</book-title>
+<author><first-name>Ганс</first-name><middle-name>Христиан</middle-name><last-name>Андерсен</last-name></author>
+<genre>sci_linguistic</genre>
+<genre>child_tale</genre>
+<sequence name="English with w_cat" number="1"/>
+<annotation><p>Вниманию читателей предлагается сказка Ганса Христиана Андерсена «Новое платье короля». Каждый абзац текста, на эстонском языке, снабжен ссылкой на литературный перевод.</p><empty-line/></annotation>
+<lang>ru</lang>
+</title-info>
+  <document-info>
+  <author>
+    <nick>w_cat</nick>
+    </author>  
+   <program-used>my_Make_FB2</program-used>
+   <date value="2011-11-05">05.11.2011</date>
+    <version>1.0</version>
+  </document-info>
+<custom-info info-type="w_cat">It's project w_cat</custom-info>
+ </description>
+<body>
+<title>
+<p>Ганс Христиан Андерсен.</p>
+<p>Новое платье короля</p>
+</title>
+<section>
+<title>
+<p>Предуведомление.</p>
+</title>
+<p>Каждый  абзац текста, на эстонском языке, снабжен ссылкой на литературный перевод.</p>
+<p>Параллельный текст подготовил Леонид Бродский (www.hot.ee/bclogic).</p>
+<p>Текст взят с сайта www.booksbooksbooks.ru</p>
+<p>Полноценно работать с данным пособием можно на устройстве, поддерживающем гиперссылки: компьютер или различные «читалки» с сенсорным экраном, желательно со словарем.</p>
+<p>Успехов!</p>
+<p>W_cat</p>
+</section>
+<section>
+<title>
+<p>[<a l:href="#a1" type="note">a</a>] Hans Christian Andersen</p>
+<p>[<a l:href="#a2" type="note">b</a>] Keisri uued rõivad</p>
+</title>
+<p>[<a l:href="#z1" type="note">1</a>] Palju aastaid tagasi   elas üks keiser, kes nii kangesti armastas uusi rõivaid, et   kulutas kogu oma raha nende peale. Oma sõduritest ta aga ei hoolinud   üldse; ei hoolinud ta ka teatrist. Tõllaga sõitis ta ringi   ka üksnes selleks, et oma uusi riideid näidata.</p>
+<p>[<a l:href="#z2" type="note">2</a>] Iga tunni tagant   riietus keiser ümber. Kui kuninga või keisri kohta tavaliselt   öeldakse, et ta on koos oma nõuandjatega troonisaalis, siis meie   keisri puhul tähendati: “Tema kõrgeausus viibib oma riietusruumis!”</p>
+<p>[<a l:href="#z3" type="note">3</a>] Keisri pealinn oli   väga lustakas paik; päevast päeva käis seal palju   külalisi. Kord tulid sinna kaks kelmi.</p>
+<p>[<a l:href="#z4" type="note">4</a>] Nad ütlesid, et on kangrud, kes oskavad kududa kõige kaunimat kangast, mida võib   üldse ette kujutada. Selle kanga värvid ja muster olevat   sõnulseletamatult ilusad, ja sellest õmmeldud rõivastel   olevat ka veel niisugune imelik omadus, et nad jäävad   nähtamatuks kõigile neile, kes oma ametisse ei kõlba,   või kes on hirmus rumalad.</p>
+<p>[<a l:href="#z5" type="note">5</a>] “Vaat need oleksid   alles paslikud riided!” arvas keiser. “Panen need selga ja saan jalamaid   teada, kes minu riigis oma ametisse ei sobi! Saan kohe teada, kes on rumalad   ja kes targad! Silmapilk annan käsu, et mulle seda riiet kootaks!”</p>
+<p>[<a l:href="#z6" type="note">6</a>] Ta maksis kahele   petisele suure hulga raha ette ära, et need aga kähku tööle   hakkaksid.</p>
+<p>[<a l:href="#z7" type="note">7</a>] Kelmid panidki   kangasteljed üles ja tegid nagu töötaksid nad mis hirmus.   Tegelikult polnud neil lõngagi lõimeks seatud.</p>
+<p>[<a l:href="#z8" type="note">8</a>] Nad nõudsid   muudkui kuld- ja hõbelõnga juurde, pistsid selle kotti ja   kõlistasid tühje telgi hilise öötunnini.</p>
+<p>[<a l:href="#z9" type="note">9</a>] “Ei tea, kui kaugele   kangrud oma tööga on ka jõudnud?” mõtles keiser. Aga   teadmine, et kangast ei näe see, kes on rumal või oma ametisse   kõlbmatu, ajas talle väheke hirmu peale. Ta uskus muidugi, et ega   iseenda pärast ei ole tal midagi karta. Aga ikkagi pidas ta paremaks   saata kedagi teist asja uurima. Linnas oli lugu imelisest kangast   kõigile teada, ja igaüht huvitas, kui rumal on tema naaber.</p>
+<p>[<a l:href="#z10" type="note">10</a>] “Saadan oma truu vana   ministri kangrute juurde,” arvas keiser. “Tema näeb kindlasti, missugune   see riie on, sest ta on tark mees ja keegi ei täida oma kohust temast   paremini.”</p>
+<p>[<a l:href="#z11" type="note">11</a>] Ja vana minister   läkski töötuppa, kus tühjad kangaspuud kõlksusid.</p>
+<p>[<a l:href="#z12" type="note">12</a>] “Tule, taevas, appi!”   pomises minister ja ajas silmad pärani. “Mina ei näe küll   mingit riiet!” Aga ta ei öelnud midagi.</p>
+<p>[<a l:href="#z13" type="note">13</a>] Sulid palusid ministrit   lahkesti lähemale astuda ja tundsid suurt huvi selle vastu, kuidas   muster ja värvid isandale meeldivad. Telgedel aga ei olnud ju kangast;   vaene minister teritas pilku nii kuidas sai - aga ei midagi!</p>
+<p>[<a l:href="#z14" type="note">14</a>] “Armuline taevas! Kas   mina olen siis rumal?” oli ministri ainuke mõte. “Ma ei oleks osanud   seda küll iialgi arvata! Ükski inimene ei tohi sellest teada saada!   Kas mina siis ei sobi oma ametisse? Ei, ma ei või kellelgi   rääkida, et ma seda riiet ei näe!”</p>
+<p>[<a l:href="#z15" type="note">15</a>] “Aulik isand, te ei   lausu riide kohta ühtki sõna!” pani üks kudujatest imeks.</p>
+<p>[<a l:href="#z16" type="note">16</a>] “Oo, riie on imeline!   Võrratu!” kostis minister vastuseks. “Milline muster, millised   värvid! Annan tema kõrgeaususele teada, et riie mulle väga   meeldis!”</p>
+<p>[<a l:href="#z17" type="note">17</a>] “Seda on meil   rõõm kuulda,” sõnasid sulid ja lugesid üles   kõik kanga hunnitud värvid ja kirjeldasid imelisi mustreid.   Minister jättis kõik kuuldu hoolega meelde, et seda kuningale   edasi rääkida.</p>
+<p>[<a l:href="#z18" type="note">18</a>] “See riie on enam kui   kaunis,” teatas ta keisrile.</p>
+<p>[<a l:href="#z19" type="note">19</a>] Petised nõudsid   raha, siidi ja kulda veel juurde - ikka kudumistöö tarvis.   Kõik see läks endistviisi nende enda tasku ja nad   lõgistasid tühjadel telgedel edasi.</p>
+<p>[<a l:href="#z20" type="note">20</a>] Varsti saatis keiser   ühe truu teenri vaatama, kuidas kudumine edeneb. Ja jälle kordus   sama lugu: teener vaatas ja vaatas, aga peale tühjade kangaspuude ei   olnud näha midagi.</p>
+<p>[<a l:href="#z21" type="note">21</a>] “Eks ole kaunis   kangas?” küsisid petised, näitasid olematut riiet ja kiitsid selle  ilu.</p>
+<p>[<a l:href="#z22" type="note">22</a>] “No mina küll   rumal ei ole!” mõtles mees. “Kas ma ei sobi siis oma ametisse? Aga see   on enam kui imelik! Kuid ma ei tohi välja näidata, mida ma   mõtlen”. Ta kiitis kangast ja tegi, nagu tunneks rõõmu   kaunitest värvidest ja kenadest mustritest.</p>
+<p>[<a l:href="#z23" type="note">23</a>] “See riie on enam kui   kaunis,” teatas ta keisrile.</p>
+<p>[<a l:href="#z24" type="note">24</a>] Linnas ei räägitudki muust kui imeilusast riidest.</p>
+<p>[<a l:href="#z25" type="note">25</a>] Nüüd tuli ka   keisrile tahtmine kangast näha. Ta võttis endaga kaasa suure   hulga valitud aukandjaid ja ka need kaks truud ametnikku, kes olid   nähtamatut kangast juba näinud. Sulid töötasid täie   hooga ikka veel tühjadel kangaspuudel.</p>
+<p>[<a l:href="#z26" type="note">26</a>] “Eks ole imeline!”   ütlesid mõlemad ametimehed. “Teie Kõrgeausus, vaadake,   millised mustrid! Missugused värvid!” Ja nad osutasid tühjadele   telgedele, sest nad uskusid, et teised kindlasti näevad kõike.   “Tohoh!” mõtles keiser. “Ma ei näe mitte kui midagi! Kui hirmus!   Kas ma olen siis rumal? Või ei kõlba ma keisriks? Midagi   koledamat oleks raske välja mõelda!”</p>
+<p>[<a l:href="#z27" type="note">27</a>] “Oo jaa! Kangas on   taevalik! Hindan teie tööd väga kõrgelt! “ Ja   tühje kangaspuid silmitsedes noogutas ta heakskiitvalt. Mitte mingi   hinna eest ei olnud ta nõus tunnistama, et ta kangast ei näe.   Kogu saatjaskond vaatas ja vaatas, aga keegi ei näinud enamat kui   teised. Aga ikkagi hüüdsid kõik koos: “Erakordne!”. Ja   aukandjad andsid Tema Kõrgusele nõu lasta sellest imelisest   riidest endale ülikond õmmelda ja suure rongkäigu puhuks   selga panna!</p>
+<p>[<a l:href="#z28" type="note">28</a>] “Enneolematu!   Ennenägematu!” kostsid hüüded. Kõik olid vaimustuses.</p>
+<p>[<a l:href="#z29" type="note">29</a>] Mõlemale   petisest kangrule andis keiser ordeni, mida rüütliseisuse   tõendamiseks nööpaugus kantakse.</p>
+<p>[<a l:href="#z30" type="note">30</a>] Enne rongkäiku   tegid kavalpead öö otsa tööd. Põles kuusteist   küünalt, ja igaüks nägi, et neil on keisri riietega   tuline kiire. Nad tegid, nagu võtaksid kanga telgedelt maha... Nad   lõikasid kääridega paljast õhku, nad õmblesid   nõelaga, millel niiti taga ei olnud, ning viimaks nad ütlesid:   “Tema Kõrguse riided on valmis!”</p>
+<p>[<a l:href="#z31" type="note">31</a>] Keiser läks uusi   rõivaid vastu võtma koos oma kõige valitumate   ülikutega. Mõlemad petised tõstsid ühe käe   üles, justkui hoiaksid nad midagi, ja ütlesid:</p>
+<p>[<a l:href="#z32" type="note">32</a>] “Siin on püksid!   Ning kuub! Kerged nagu ämblikuvõrk! Neid kandes tundub, nagu ei   olekski midagi seljas! Aga selles ongi nende riiete omapära!”</p>
+<p>[<a l:href="#z33" type="note">33</a>] “Just nimelt!”   kinnitasid kõik õukondlased, aga näha ei võinud nad   midagi, sest midagi ei olnudki näha!</p>
+<p>[<a l:href="#z34" type="note">34</a>] “Kas teie keiserlik   kõrgus võiks lahkesti riided seljast võtta, et me   saaksime teile siin suure peegli ees uued rõivad selga panna?”   küsisid petised.</p>
+<p>[<a l:href="#z35" type="note">35</a>] Keiser võttis   kõik riided seljast ära, ja petturid tegid nii, nagu annaksid   talle üksteise järel riideesemeid, mis olid justkui päriselt   olemas. Relvameistrid tegid, nagu sätiksid nad midagi vöökohta   ja seoksid kinni. See oli slepp; keiser pööras end peegli ees sinna   ja tänna.</p>
+<p>[<a l:href="#z36" type="note">36</a>] “Kui hästi need   riided teie kõrgusele sobivad! Kui suurepärane teie majesteet   nendega välja näeb!” hüüdis rahvahulk. “Milline muster!   Millised värvid! Ei ole kaunimat ülikonda ilmapeal!”</p>
+<p>[<a l:href="#z37" type="note">37</a>] “Õues ootab   baldahhiin, mida rongkäigus kõrgeaususe pea kohal kantakse!”   teatas tseremooniameister.</p>
+<p>[<a l:href="#z38" type="note">38</a>] “Ma olengi valmis,”   vastas keiser. “Eks ole mu uued rõivad toredad?” ja ta keerutas end   muudkui peegli ees, nii et kõik pidid märkama, kui väga ta   oma riietest lugu peab.</p>
+<p>[<a l:href="#z39" type="note">39</a>] Kammerteenrid, kes   pidid sleppi kandma, tegid, nagu tõstaksid midagi kahe käega ja   liikusid edasi, käed õhus. Nad ei tahtnud, et keegi saaks aru, et   nad tegelikult sleppi ei näe.</p>
+<p>[<a l:href="#z40" type="note">40</a>] Keiser kõndis   rongkäigus baldahhiini all, ja kõik inimesed ütlesid:   “Küll on keisril ilusad riided! Ja mis ilus slepp! Kõik sobib nii   hästi!”</p>
+<p>[<a l:href="#z41" type="note">41</a>] Keegi ei võinud   lasta teistel aimata, et ta ei näe midagi, sest siis oleks   mõeldud, et ta on rumal või ei sobi oma ametisse. Keisri   riietel oli enneolematu menu.</p>
+<p>[<a l:href="#z42" type="note">42</a>] “Aga tal ei ole ju   midagi seljas!” hüüdis üks laps.</p>
+<p>[<a l:href="#z43" type="note">43</a>] “Kuulake, mis laps   räägib!” ütles ta isa. Ja sosinal räägiti   üksteisele, mida laps oli öelnud.</p>
+<p>[<a l:href="#z44" type="note">44</a>] “Laps ütleb, et   tal ei ole midagi seljas!” “Aga tal ei olegi midagi seljas!” hüüdis   viimaks kogu rahvas.</p>
+<p>[<a l:href="#z45" type="note">45</a>] Keiser võpatas,   sest ta teadis, et see on õige. Ent ta mõtles: “Rongkäik peab   edasi minema!” ja ta astus veelgi uhkemalt ning kammerhärrad kandsid   tema olematut sleppi.</p>
+</section>
+</body>
+<body name="notes"><title><p>Примечания</p></title>
+<section id="a1"><title><p>a</p></title>
+<p>Ганс Христиан Андерсен.</p>
+</section>
+<section id="a2"><title><p>b</p></title>
+<p>Новое платье короля</p>
+</section>
+<section id="z1"><title><p>1</p></title>
+<p>Много лет назад жил-был на   свете король; он так любил наряжаться, что тратил на новые платья все свои   деньги, и парады, театры, загородные прогулки занимали его только потому, что   он мог тогда показаться в новом наряде.</p>
+</section>
+<section id="z2"><title><p>2</p></title>
+<p>На каждый час дня у него был   особый наряд, и как про других королей часто говорят: Король в   совете, так про него говорили: Король в гардеробной.</p>
+</section>
+<section id="z3"><title><p>3</p></title>
+<p>В столице этого короля жилось   очень весело; почти каждый день приезжали иностранные гости, и вот раз   явилось двое обманщиков.</p>
+</section>
+<section id="z4"><title><p>4</p></title>
+<p>Они выдали себя за ткачей и  сказали, что могут изготовлять такую чудесную ткань, лучше которой ничего и   представить себе нельзя: кроме необыкновенно красивого рисунка и расцветки,   она отличается еще удивительным свойством - становиться невидимой для всякого   человека, который не на своём месте или непроходимо глуп.</p>
+</section>
+<section id="z5"><title><p>5</p></title>
+<p>Да, вот это будет платье!   - подумал король. - Тогда ведь я могу узнать, кто из моих сановников не на   своём месте и кто умен, а кто глуп. Пусть поскорее изготовят для меня такую   ткань.</p>
+</section>
+<section id="z6"><title><p>6</p></title>
+<p>И он дал обманщикам большой   задаток, чтобы они сейчас же принялись за дело.</p>
+</section>
+<section id="z7"><title><p>7</p></title>
+<p>Те поставили два ткацких станка   и стали делать вид, будто усердно работают, а у самих на станках ровно ничего   не было.</p>
+</section>
+<section id="z8"><title><p>8</p></title>
+<p>Нимало не стесняясь, они   требовали для работы тончайшего шелку и чистейшего золота, все это   припрятывали в карманы и просиживали за пустыми станками с утра до поздней   ночи.</p>
+</section>
+<section id="z9"><title><p>9</p></title>
+<p>Хотелось бы мне   посмотреть, как подвигается дело! - думал король. Но тут он вспоминал о   чудесном свойстве ткани, и ему становилось как-то не по себе. Конечно, ему   нечего бояться за себя, но... все-таки лучше сначала пошел бы кто-нибудь   другой! А между тем молва о диковинной ткани облетела весь город, и всякий   горел желанием поскорее убедиться в глупости или непригодности своего   ближнего.</p>
+</section>
+<section id="z10"><title><p>10</p></title>
+<p>"Пошлю-ка я к ним своего   честного старика министра, - подумал король. - Уж он-то рассмотрит ткань: он   умен и с честью занимает своё место".</p>
+</section>
+<section id="z11"><title><p>11</p></title>
+<p>И вот старик министр вошел в   залу, где за пустыми станками сидели обманщики.</p>
+</section>
+<section id="z12"><title><p>12</p></title>
+<p>Господи помилуй! -   подумал министр, тараща глаза. - Да ведь я ничего не вижу! Только он не   сказал этого вслух.</p>
+</section>
+<section id="z13"><title><p>13</p></title>
+<p>Обманщики почтительно попросили   его подойти поближе и сказать, как нравятся ему узор и краски. При этом они   указывали на пустые станки, а бедный министр, как ни таращил глаза, всё-таки   ничего не видел.</p>
+</section>
+<section id="z14"><title><p>14</p></title>
+<p>Да и видеть было нечего.   Ах ты господи! - думал он. - Неужели я глуп? Вот уж чего никогда не   думал! Упаси господь, кто-нибудь узнает!.. А может, я не гожусь для своей   должности?.. Нет, нет, никак нельзя признаваться, что я не вижу ткани!</p>
+</section>
+<section id="z15"><title><p>15</p></title>
+<p>- Что ж вы ничего не скажете   нам? - спросил один из ткачей.</p>
+</section>
+<section id="z16"><title><p>16</p></title>
+<p>- О, это премило! - ответил   старик министр, глядя сквозь очки. - Какой узор, какие краски! Да, да, я   доложу королю, что мне чрезвычайно понравилась ваша работа!</p>
+</section>
+<section id="z17"><title><p>17</p></title>
+<p>- Рады стараться! - сказали   обманщики и принялись расписывать, какой тут необычайный узор и сочетания   красок. Министр слушал очень внимательно, чтобы потом повторить всё это   королю.</p>
+</section>
+<section id="z18"><title><p>18</p></title>
+<p>Так он и сделал.</p>
+</section>
+<section id="z19"><title><p>19</p></title>
+<p>Теперь обманщики стали   требовать ещё больше денег, шёлку и золота; но они только набивали себе   карманы, а на работу не пошло ни одной нитки. Как и прежде, они сидели у   пустых станков и делали вид, что ткут.</p>
+</section>
+<section id="z20"><title><p>20</p></title>
+<p>Потом король послал к ткачам   другого достойного сановника. Он должен был посмотреть, как идёт дело, и   узнать, скоро ли работа будет закончена. С ним было то же самое, что и с   первым. Уж он смотрел, смотрел, а все равно ничего, кроме пустых станков, не   высмотрел.</p>
+</section>
+<section id="z21"><title><p>21</p></title>
+<p>- Ну, как вам нравится? -   спросили его обманщики, показывая ткань и объясняя узоры, которых и в помине  не было.</p>
+</section>
+<section id="z22"><title><p>22</p></title>
+<p>Я не глуп, - думал   сановник. - Значит, я не на своем месте? Вот тебе раз! Однако нельзя и виду   подавать! И он стал расхваливать ткань, которой не видел, восхищаясь   красивым рисунком и сочетанием красок.</p>
+</section>
+<section id="z23"><title><p>23</p></title>
+<p>- Премило, премило! - доложил   он королю.</p>
+</section>
+<section id="z24"><title><p>24</p></title>
+<p>Скоро весь город заговорил о   восхитительной ткани.</p>
+</section>
+<section id="z25"><title><p>25</p></title>
+<p>Наконец и сам король пожелал   полюбоваться диковинкой, пока она еще не снята со станка. С целою свитой   избранных придворных и сановников, в числе которых находились и первые два,   уже видевшие ткань, явился король к хитрым обманщикам, ткавшим изо всех сил   на пустых станках.</p>
+</section>
+<section id="z26"><title><p>26</p></title>
+<p>- Magnifique! [Чудесно! (франц.)] Не правда ли?   - вскричали уже побывавшие здесь сановники. - Не угодно ли полюбоваться?   Какой рисунок... а краски! И они тыкали пальцами в пространство, воображая,   что все остальные видят ткань. Что за ерунда! - подумал король. - Я   ничего не вижу! Ведь это ужасно! Глуп я, что ли? Или не гожусь в короли? Это   было бы хуже всего!</p>
+</section>
+<section id="z27"><title><p>27</p></title>
+<p>- О да, очень, очень мило! -   сказал наконец король. - Вполне заслуживает моего одобрения! И он с довольным   видом кивал головой, рассматривая пустые станки, - он не хотел признаться,   что ничего не видит. Свита короля глядела во все глаза, но видела не больше,   чем он сам; и тем не менее все в один голос повторяли: Очень, очень   мило! - и советовали королю сделать себе из этой ткани наряд для   предстоящей торжественной процессии.</p>
+</section>
+<section id="z28"><title><p>28</p></title>
+<p>- Magnifique! Чудесно!   Excellent! [Превосходно! (франц.)] - только и слышалось со всех сторон; все были в таком   восторге!</p>
+</section>
+<section id="z29"><title><p>29</p></title>
+<p>Король наградил обманщиков   рыцарским крестом в петлицу и пожаловал им звание придворных ткачей.</p>
+</section>
+<section id="z30"><title><p>30</p></title>
+<p>Всю ночь накануне торжества   просидели обманщики за работой и сожгли больше шестнадцати свечей, - всем   было ясно, что они очень старались кончить к сроку новое платье короля. Они   притворялись, что снимают ткань со станков, кроят ее большими ножницами и   потом шьют иголками без ниток. Наконец они объявили: - Готово!</p>
+</section>
+<section id="z31"><title><p>31</p></title>
+<p>Король в сопровождении свиты   сам пришел к ним одеваться. Обманщики поднимали кверху руки, будто держали   что-то, приговаривая:</p>
+</section>
+<section id="z32"><title><p>32</p></title>
+<p>- Вот панталоны, вот камзол,   вот кафтан! Чудесный наряд! Лёгок, как паутина, и не почувствуешь его на   теле! Но в этом-то и вся прелесть!</p>
+</section>
+<section id="z33"><title><p>33</p></title>
+<p>- Да, да! - говорили   придворные, но они ничего не видали - нечего ведь было и видеть.</p>
+</section>
+<section id="z34"><title><p>34</p></title>
+<p>- А теперь, ваше королевское   величество, соблаговолите раздеться и стать вот тут, перед большим зеркалом!   - сказали королю обманщики. - Мы оденем вас!</p>
+</section>
+<section id="z35"><title><p>35</p></title>
+<p>Король разделся догола, и   обманщики принялись наряжать его: они делали вид, будто надевают на него одну   часть одежды за другой и наконец прикрепляют что-то в плечах и на талии, -   это они надевали на него королевскую мантию! А король поворачивался перед   зеркалом во все стороны.</p>
+</section>
+<section id="z36"><title><p>36</p></title>
+<p>- Боже, как идёт! Как чудно   сидит! - шептали в свите. - Какой узор, какие краски! Роскошное платье!</p>
+</section>
+<section id="z37"><title><p>37</p></title>
+<p>- Балдахин ждёт! - доложил   обер-церемониймейстер.</p>
+</section>
+<section id="z38"><title><p>38</p></title>
+<p>- Я готов! - сказал король. -   Хорошо ли сидит платье? И он ещё раз повернулся перед зеркалом: надо ведь   было показать, что он внимательно рассматривает свой наряд.</p>
+</section>
+<section id="z39"><title><p>39</p></title>
+<p>Камергеры, которые должны были   нести шлейф королевской мантии, сделали вид, будто приподняли что-то с пола,   и пошли за королем, вытягивая перед собой руки, - они не смели и виду подать,   что ничего не видят.</p>
+</section>
+<section id="z40"><title><p>40</p></title>
+<p>И вот король шествовал по   улицам под роскошным балдахином, а люди, собравшиеся на улицах, говорили: -   Ах, какое красивое это новое платье короля! Как чудно сидит! Какая роскошная   мантия!</p>
+</section>
+<section id="z41"><title><p>41</p></title>
+<p>Ни единый человек не сознался,   что ничего не видит, никто не хотел признаться, что он глуп или сидит не на   своем месте. Ни одно платье короля не вызывало ещё таких восторгов.</p>
+</section>
+<section id="z42"><title><p>42</p></title>
+<p>- Да ведь он голый! - закричал   вдруг какой-то маленький мальчик.</p>
+</section>
+<section id="z43"><title><p>43</p></title>
+<p>- Послушайте-ка, что говорит   невинный младенец! - сказал его отец, и все стали шёпотом передавать друг   другу слова ребёнка.</p>
+</section>
+<section id="z44"><title><p>44</p></title>
+<p>- Да ведь он совсем голый! Вот   мальчик говорит, что он совсем не одет! - закричал наконец весь народ.</p>
+</section>
+<section id="z45"><title><p>45</p></title>
+<p>И королю стало жутко: ему   казалось, что они правы, и надо же было довести церемонию до конца! И он   выступал под своим балдахином ещё величавее, и камергеры шли за ним,   поддерживая мантию, которой не было.</p>
+</section>
+</body>
+</FictionBook>

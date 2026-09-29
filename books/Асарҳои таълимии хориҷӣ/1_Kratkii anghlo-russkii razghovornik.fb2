@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+<book-title>Краткий англо-русский разговорник</book-title>
+<author><first-name>Е.</first-name><middle-name>Г.</middle-name><last-name>Водичев</last-name></author>
+<genre>sci_linguistic</genre>
+<annotation><p>Водичев Е.Г. Англо-русский, русско-английский словарь для начинающих. - Новосибирск, 1993. - c. 289-322</p><empty-line/></annotation>
+<lang>ru</lang>
+</title-info>
+  <document-info>
+   <program-used>my_Make_FB2</program-used>
+   <date value="2011-05-29">29.05.2011</date>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+    <book-name>Краткий англо-русский разговорник</book-name>
+  </publish-info>
+ </description>
+<body>
+
+<section>
+<title><p>АНГЛО-РУССКИЙ РАЗГОВОРНИК</p>
+</title>
+<section>
+<title>
+<p>1. Повседневные выражения</p>
+</title>
+<section>
+<title>
+<p>а) Приветствие</p>
+</title>
+<p><emphasis>Good morning!</emphasis> -- Доброе утро! (до обеда)</p>
+<p><emphasis>Good afternoon!</emphasis> -- Добрый день! (после обеда)</p>
+<p><emphasis>Good evening!</emphasis> -- Добрый вечер!</p>
+<p><emphasis>How do you do?</emphasis> -- Здравствуйте!</p>
+<p><emphasis>Hallo!</emphasis> -- Привет!</p>
+<p><emphasis>Hi!</emphasis> -- Привет!</p>
+<p><emphasis>(I'm) glad to see you!</emphasis> -- (Я) рад Вас видеть!</p>
+<p><emphasis>I haven't seen you for weeks.</emphasis> -- Я не видел Вас несколько недель.</p>
+<p><emphasis>How are you?</emphasis> -- Как дела?</p>
+<p><emphasis>How are you doing?</emphasis> -- Как дела?</p>
+<p><emphasis>Thank you, very well.</emphasis> -- Спасибо, очень хорошо.</p>
+<p><emphasis>Thank you, not so bad.</emphasis> -- Спасибо, неплохо.</p>
+<p><emphasis>How are you feeling?</emphasis> -- Как самочувствие?</p>
+<p><emphasis>I'm all right.</emphasis> -- Все в порядке.</p>
+<p><emphasis>How's your family?</emphasis> -- Как семья?</p>
+</section>
+<section>
+<title>
+<p>б) Прощание</p>
+</title>
+<p><emphasis>Good-bye!</emphasis> -- До свидания!</p>
+<p><emphasis>So long!</emphasis> -- Пока!</p>
+<p><emphasis>Bye-bye!</emphasis> -- Пока!</p>
+<p><emphasis>Good night!</emphasis> -- Спокойной ночи!</p>
+<p><emphasis>See you soon!</emphasis> -- До скорой встречи!</p>
+<p><emphasis>See you tomorrow!</emphasis> -- До завтра!</p>
+<p><emphasis>See you later!</emphasis> -- До встречи!</p>
+<p><emphasis>I must go now.</emphasis> -- Я должен идти</p>
+<p><emphasis>I'm sorry to see you go.</emphasis> -- Жаль, что Вы уходите.</p>
+<p><emphasis>You're not in a hurry, are you?</emphasis> -- Вы ведь не торопитесь?</p>
+<p><emphasis>I hope we'll meet again.</emphasis> -- Надеюсь, мы еще встретимся.</p>
+<p><emphasis>I've enjoyed seeing you</emphasis> -- Рад был Вас видеть.</p>
+<p><emphasis>Come back soon.</emphasis> -- Возвращайтесь поскорее.</p>
+<p><emphasis>Remember me to your wife.</emphasis> -- Передавайте привет Вашей жене.</p>
+<p><emphasis>Give my regards to your sister.</emphasis> -- Передавайте привет Вашей сестре.</p>
+</section>
+<section>
+<title><p>в) Пожелания</p>
+</title>
+<p><emphasis>Have a good time!</emphasis> -- Счастливо!</p>
+<p><emphasis>Good luck!</emphasis> -- Удачи!</p>
+<p><emphasis>All the best!</emphasis> -- Всего доброго!</p>
+<p><emphasis>Happy birthday to you!</emphasis> -- С днем рождения!</p>
+<p><emphasis>A merry Christmas!</emphasis> -- Счастливого Рождества!</p>
+<p><emphasis>Happy New Year!</emphasis> -- С Новым Годом!</p>
+<p><emphasis>Here's to you!</emphasis> -- Ваше здоровье! (тост)</p>
+<p><emphasis>My congratulations to you!</emphasis> -- Поздравляю Вас!</p>
+<p><emphasis>Have a good journey!</emphasis> -- Счастливого пути!</p>
+</section>
+<section>
+<title><p>г) Начало разговора</p>
+</title>
+<p><emphasis>Excuse me...</emphasis> -- Извините...</p>
+<p><emphasis>Sorry for interrupting you...</emphasis> -- Извините за то, что вмешиваюсь...</p>
+<p><emphasis>I would like to speak to you.</emphasis> -- Я хотел бы с Вами поговорить.</p>
+<p><emphasis>Are you very busy at the moment?</emphasis> -- Вы сейчас очень заняты?</p>
+<p><emphasis>Could you spare me a moment?</emphasis> -- Не уделите мне минутку?</p>
+<p><emphasis>Can I have a word with you?</emphasis> -- Можно сказать Вам одно слово?</p>
+<p><emphasis>I'll just like to tell you that...</emphasis> -- Я лишь хотел сказать Вам, что...</p>
+<p><emphasis>May I ask you a question?</emphasis> -- Могу я у Вас спросить?</p>
+</section>
+<section>
+<title><p>д) Знакомство</p>
+</title>
+<p><emphasis>Allow me to introduce Mr. T. to you.</emphasis> -- Разрешите мне представить Вам мистера Т.</p>
+<p><emphasis>Let me introduce you to him.</emphasis> -- Разрешите Вас ему представить.</p>
+<p><emphasis>May I introduce myself.</emphasis> -- Разрешите представиться.</p>
+<p><emphasis>I want you to meet Mrs. A.</emphasis> -- Я хочу познакомить Вас с миссис А.</p>
+<p><emphasis>Have you meet Mrs. R.?</emphasis> -- Вы уже знакомы с миссис Р.?</p>
+<p><emphasis>Pleased to meet you.</emphasis> -- Приятно с Вами познакомиться.</p>
+<p><emphasis>Glad to meet you.</emphasis> -- Очень приятно.</p>
+<p><emphasis>Mister Brown, I believe?</emphasis> -- Вы мистер Браун?</p>
+<p><emphasis>I don't think we have met before.</emphasis> -- По-моему, мы раньше не встречались.</p>
+<p><emphasis>My name is...</emphasis> -- Меня зовут...</p>
+</section>
+<section>
+<title><p>е) Вопросы</p>
+</title>
+<p><emphasis>What do you want?</emphasis> -- Что Вы хотите?</p>
+<p><emphasis>Who do you want?</emphasis> -- Кого Вам нужно?</p>
+<p><emphasis>Who are you looking for?</emphasis> -- Кого Вы ищете?</p>
+<p><emphasis>Who can I ask?</emphasis> -- Кого я могу спросить?</p>
+<p><emphasis>Where can I find him?</emphasis> -- Где я могу его найти?</p>
+<p><emphasis>Who told you that?</emphasis> -- Кто Вам это сказал?</p>
+<p><emphasis>What's happened?</emphasis> -- Что случилось?</p>
+<p><emphasis>What do you mean?</emphasis> -- Что Вы имеете в виду?</p>
+<p><emphasis>What's the matter?</emphasis> -- В чем дело?</p>
+<p><emphasis>Don't you like it?</emphasis> -- Вам это не нравится?</p>
+<p><emphasis>Could you do me a favor?</emphasis> -- Не могли бы Вы оказать мне услугу?</p>
+<p><emphasis>Can you tell me?</emphasis> -- Не скажете мне...?</p>
+<p><emphasis>May I have your pen?</emphasis> -- Не дадите мне Вашу ручку?</p>
+<p><emphasis>May I have a cigarette, please?</emphasis> -- У Вас не найдется сигареты?</p>
+<p><emphasis>Do you smoke?</emphasis> -- Вы курите?</p>
+<p><emphasis>May I trouble you for a light?</emphasis> -- Пазрешите прикурить?</p>
+<p><emphasis>Do you mind if I smoke?</emphasis> -- Вы не против, если я закурю?</p>
+<p><emphasis>Would you, please, keep an eye on my baggage?</emphasis> -- Вы не посмотрите за моим багажом?</p>
+<p><emphasis>Allow me to help you?</emphasis> -- Разрешите помочь Вам?</p>
+</section>
+<section>
+<title><p>ж) Согласие</p>
+</title>
+<p><emphasis>Yes.</emphasis> -- Да.</p>
+<p><emphasis>Yes, indeed.</emphasis> -- Да, действительно.</p>
+<p><emphasis>Yes, that's true.</emphasis> -- Да, верно.</p>
+<p><emphasis>That's right.</emphasis> -- Верно.</p>
+<p><emphasis>That's alright.</emphasis> -- Все в порядке.</p>
+<p><emphasis>I'm sure of that.</emphasis> -- Я в этом уверен.</p>
+<p><emphasis>I'm absolutely certain of that.</emphasis> -- Я в этом абсолютно уверен.</p>
+<p><emphasis>I see.</emphasis> -- Понятно.</p>
+<p><emphasis>O.K.</emphasis> -- Хорошо.</p>
+<p><emphasis>Very well.</emphasis> -- Очень хорошо.</p>
+<p><emphasis>That's a good idea.</emphasis> -- Это хорошая идея.</p>
+<p><emphasis>I quite agree with you.</emphasis> -- Я с Вами полностью согласен.</p>
+<p><emphasis>There's something in that.</emphasis> -- В этом что-то есть.</p>
+<p><emphasis>Of course.</emphasis> -- Конечно.</p>
+</section>
+<section>
+<title><p>з) Несогласие, отказ</p>
+</title>
+<p><emphasis>No.</emphasis> -- Нет.</p>
+<p><emphasis>Certainly not.</emphasis> -- Конечно нет.</p>
+<p><emphasis>That isn't true.</emphasis> -- Это не так.</p>
+<p><emphasis>No, I can't tell you.</emphasis> -- Нет, я не смогу сказать Вам.</p>
+<p><emphasis>I have no idea.</emphasis> -- Не знаю.</p>
+<p><emphasis>I think you're wrong.</emphasis> -- По-моему, Вы ошибаетесь.</p>
+<p><emphasis>That's not the question.</emphasis> -- Не в этом дело.</p>
+<p><emphasis>I can't see much sense in it.</emphasis> -- Не вижу в этом смысла.</p>
+<p><emphasis>I object to that.</emphasis> -- Я против.</p>
+</section>
+<section>
+<title><p>и) Приглашение</p>
+</title>
+<p><emphasis>Come and see me on Sunday.</emphasis> -- Приходите ко мне в воскресенье.</p>
+<p><emphasis>I want to invite you to lunch.</emphasis> -- Хочу пригласить Вас на обед.</p>
+<p><emphasis>Call any day you like.</emphasis> -- Звоните, когда угодно.</p>
+<p><emphasis>Would you like to have some coffee?</emphasis> -- Не хотите выпить кофе?</p>
+<p><emphasis>Would you like to come for a walk?</emphasis> -- Не хотите ли прогуляться?</p>
+<p><emphasis>Would you care to come to my place and have a drink?</emphasis> -- Не хотите зайти ко мне и выпить?</p>
+</section>
+<section>
+<title><p>й) Визит</p>
+</title>
+<p><emphasis>Excuse me, is Mr. L. in?</emphasis> -- Извините, мистер Л. дома?</p>
+<p><emphasis>I'm sorry, Mr. L. is out.</emphasis> -- К сожалению, мистера Л. нет.</p>
+<p><emphasis>He went out about an hour ago.</emphasis> -- Он вышел час назад.</p>
+<p><emphasis>Do you know when he'll be back?</emphasis> -- Вы не знаете, когда он вернется?</p>
+<p><emphasis>Any idea where he's at the moment?</emphasis> -- Как Вы думаете, где он сейчас?</p>
+<p><emphasis>Would you mind waiting outside?</emphasis> -- Подождите, пожалуйста, за дверью.</p>
+<p><emphasis>Come in, please!</emphasis> -- Входите, пожалуйста!</p>
+<p><emphasis>Sit down, please!</emphasis> -- Садитесь, пожалуйста!</p>
+<p><emphasis>Make yourself at home!</emphasis> -- Устраивайтесь поудобнее!</p>
+</section>
+<section>
+<title><p>к) Благодарность</p>
+</title>
+<p><emphasis>Thank you.</emphasis> -- Спасибо.</p>
+<p><emphasis>Thank you very much.</emphasis> -- Большое спасибо.</p>
+<p><emphasis>Thanks.</emphasis> -- Спасибо.</p>
+<p><emphasis>Many thanks.</emphasis> -- Большое спасибо.</p>
+<p><emphasis>I'm very much obliged to you.</emphasis> -- Я Вам очень обязан.</p>
+<p><emphasis>I'm very thankful to you.</emphasis> -- Я Вам очень благодарен.</p>
+<p><emphasis>Please, thank your sister for me.</emphasis> -- Пожалуйста, поблагодарите за меня Вашу сестру.</p>
+</section>
+</section>
+<section>
+<title><p>2. Язык</p>
+</title>
+<p><emphasis>Do you speak English?</emphasis> -- Вы говорите по-английски?</p>
+<p><emphasis>German?</emphasis> -- по немецки?</p>
+<p><emphasis>French?</emphasis> -- по-французски?</p>
+<p><emphasis>Spanish?</emphasis> -- по-испански?</p>
+<p><emphasis>Russian?</emphasis> -- по-русски?</p>
+<p><emphasis>Can you speak Japanese?</emphasis> -- Вы можете говорить по-японски?</p>
+<p><emphasis>Chinese?</emphasis> -- по-китайски?</p>
+<p><emphasis>Hindi?</emphasis> -- на хинди?</p>
+<p><emphasis>Just a little.</emphasis> -- Немного.</p>
+<p><emphasis>I only know few words.</emphasis> -- Я знаю лишь несколько слов.</p>
+<p><emphasis>I don't speak English.</emphasis> -- Я не говорю по-английски.</p>
+<p><emphasis>My English is very poor.</emphasis> -- Мой английский очень плохой.</p>
+<p><emphasis>I speak English badly.</emphasis> -- Я плохо говорю по-английски.</p>
+<p><emphasis>You speak good English.</emphasis> -- Вы хорошо говорите по-английски.</p>
+<p><emphasis>You speak English with a slight (strong) Russian accent.</emphasis> -- Вы говорите по-английски с легким (сильным) русским акцентом.</p>
+<p><emphasis>You pronunciacion of English is practically faultless.</emphasis> -- Ваше английское произношение почти без ошибок.</p>
+<p><emphasis>What languages can you speak?</emphasis> -- На каких языках Вы говорите?</p>
+<p><emphasis>Where did you learn English?</emphasis> -- Где Вы изучали английский язык?</p>
+<p><emphasis>How long have you been learning English?</emphasis> -- Как долго Вы изучали английский?</p>
+<p><emphasis>I've been learning it for almost three years.</emphasis> -- Я изучал его почти три года.</p>
+<p><emphasis>Let's talk Russian.</emphasis> -- Давайте поговорим по-русски.</p>
+<p><emphasis>What's that called in Russian?</emphasis> -- Как это называется по-русски?</p>
+<p><emphasis>What's the Russian word for 'hot'?</emphasis> -- Что значит по-русски 'hot'?</p>
+<p><emphasis>I can't remember the Russian word for 'grass'.</emphasis> -- Я не могу вспомнить, как по-русски будет 'grass'.</p>
+<p><emphasis>Let's look up this word in my dictionary.</emphasis> -- Давайте поищем это слово в моем словаре.</p>
+<p><emphasis>How do you spell it?</emphasis> -- Как оно пишется?</p>
+<p><emphasis>Would you speak a little slower.</emphasis> -- Говорите немного помедленнее.</p>
+<p><emphasis>What does this word mean?</emphasis> -- Что значит это слово?</p>
+<p><emphasis>How do you pronounce it?</emphasis> -- Как Вы его произносите?</p>
+<p><emphasis>This is a slang word.</emphasis> -- Это жаргонное слово.</p>
+</section>
+<section>
+<title><p>3. Страна и национальность</p>
+</title>
+<p><emphasis>What country do you come from?</emphasis> -- Из какой страны Вы приехали?</p>
+<p><emphasis>I come from the U.S.A.</emphasis> -- Я приехал из США.</p>
+<p><emphasis>Canada.</emphasis> -- Канады.</p>
+<p><emphasis>England.</emphasis> -- Англии.</p>
+<p><emphasis>Spain.</emphasis> -- Испании.</p>
+<p><emphasis>South Africa.</emphasis> -- Южной Африки.</p>
+<p><emphasis>Russia.</emphasis> -- России.</p>
+<p><emphasis>I'm from Italia.</emphasis> -- Я из Италии.</p>
+<p><emphasis>Japan.</emphasis> -- Японии.</p>
+<p><emphasis>China.</emphasis> -- Китая.</p>
+<p><emphasis>I live in Novosibirsk.</emphasis> -- Я живу в Новосибирске.</p>
+<p><emphasis>This is my first visit to the U.S.A.</emphasis> -- Это моя первая поездка в США.</p>
+<p><emphasis>I've never visited other countries.</emphasis> -- Я никогде не был за границей.</p>
+<p><emphasis>How long are you going to stay in the U.S.A.?</emphasis> -- Как долго Вы собираетесь быть в США.</p>
+<p><emphasis>I hope to stay here for a few weeks.</emphasis> -- Я надеюсь остаться здесь на несколько недель.</p>
+<p><emphasis>What nationality are you?</emphasis> -- Вы кто по национальности?</p>
+<p><emphasis>Are you Russian or Ukrainian?</emphasis> -- Вы русский или украинец?</p>
+<p><emphasis>I'm Russian.</emphasis> -- Я русский.</p>
+<p><emphasis>My mother is German by nationality.</emphasis> -- Моя мать - немка по национальности.</p>
+<p><emphasis>He is an American subject.</emphasis> -- Он - гражданин США.</p>
+</section>
+<section>
+<title><p>4. Время</p>
+</title>
+<p><emphasis>What's the time, please?</emphasis> -- Скажите, пожалуйста, который час.</p>
+<p><emphasis>It's five o'clock.</emphasis> -- Пять часов.</p>
+<p><emphasis>It's exactly six.</emphasis> -- Ровно шесть часов.</p>
+<p><emphasis>It's half past three.</emphasis> -- Половина четвертого.</p>
+<p><emphasis>It's a quarter past two.</emphasis> -- Пятнадцать минут третьего.</p>
+<p><emphasis>It's five to seven.</emphasis> -- Без пяти семь.</p>
+<p><emphasis>It's five past seven.</emphasis> -- Пять минут восьмого.</p>
+<p><emphasis>Could you tell me the right time, please?</emphasis> -- Не скажете мне точное время?</p>
+<p><emphasis>What time is it?</emphasis> -- Сколько времени?</p>
+<p><emphasis>It's twelve noon (midnight).</emphasis> -- Двенадцать часов дня (ночи).</p>
+<p><emphasis>Oh, is it as late as that?</emphasis> -- Ох, уже так поздно!</p>
+<p><emphasis>Is it nine already?</emphasis> -- Уже девять часов?</p>
+<p><emphasis>My watch is ten minutes slow (fast).</emphasis> -- Мои часы отстают (спешат) на десять минут</p>
+<p><emphasis>My watch has stopped.</emphasis> -- Мои часы остановились.</p>
+<p><emphasis>We have plenty of time.</emphasis> -- У нас много времени.</p>
+<p><emphasis>He's late today.</emphasis> -- Сегодня он опаздывает.</p>
+<p><emphasis>Am I too early?</emphasis> -- Я не слишком рано?</p>
+<p><emphasis>You're late.</emphasis> -- Вы опоздали.</p>
+<p><emphasis>Hurry up!</emphasis> -- Поторопитесь!</p>
+<p><emphasis>Be quick!</emphasis> -- Быстрее!</p>
+<p><emphasis>What's the date today?</emphasis> -- Какое сегодня число?</p>
+<p><emphasis>What was the date yesterday?</emphasis> -- ;Какое вчера было число?</p>
+<p><emphasis>Today is the third of May.</emphasis> -- Сегодня - третье мая.</p>
+<p><emphasis>What's today?</emphasis> -- Какой сегодня день недели?</p>
+<p><emphasis>Today is Monday.</emphasis> -- Сегодня понедельник.</p>
+</section>
+<section>
+<title><p>5. Погода</p>
+</title>
+<p><emphasis>What's the weather like today?</emphasis> -- Какая сегодня погода?</p>
+<p><emphasis>It's a nice morning!</emphasis> -- Прекрасное утро!</p>
+<p><emphasis>It's a fine day, isn't it?</emphasis> -- Хороший день, не правда ли?</p>
+<p><emphasis>It was cloudy this morning.</emphasis> -- Сегодня утром было облачно.</p>
+<p><emphasis>The sky is clear.</emphasis> -- Небо чистое.</p>
+<p><emphasis>The sun is coming out.</emphasis> -- Выглянуло солнце.</p>
+<p><emphasis>The weather is getting warmer.</emphasis> -- Погода становится теплее.</p>
+<p><emphasis>It's splendid weather, isn't it?</emphasis> -- Прекрасная погода, не так ли?</p>
+<p><emphasis>I'm hot.</emphasis> -- Мне жарко.</p>
+<p><emphasis>It's raining very hard.</emphasis> -- Идет сильный дождь.</p>
+<p><emphasis>I'm wet through.</emphasis> -- Я совсем промок.</p>
+<p><emphasis>It's cold today.</emphasis> -- Сегодня холодно.</p>
+<p><emphasis>I feel terribly cold.</emphasis> -- Я ужасно замерз.</p>
+<p><emphasis>What's the forecast for today?</emphasis> -- Каков прогноз на сегодня?</p>
+</section>
+<section>
+<title><p>6. Питание, рестораны, кафе</p>
+</title>
+<p><emphasis>I've no appetite today.</emphasis> -- У меня сегодня нет аппетита.</p>
+<p><emphasis>I'm hungry / thirsty.</emphasis> -- Я хочу есть / пить.</p>
+<p><emphasis>I feel like eating something.</emphasis> -- Я бы что-нибудь съел.</p>
+<p><emphasis>When did you have breakfast?</emphasis> -- Когда Вы завтракали?</p>
+<p><emphasis>Tell me what you want to eat?</emphasis> -- Скажите, что бы Вы хотели на обед, завтрак и т.п.</p>
+<p><emphasis>Do you like tea or coffee?</emphasis> -- Вы будете пить чай или кофе?</p>
+<p><emphasis>I prefer a cup of tea.</emphasis> -- Я предпочитаю чашку чая.</p>
+<p><emphasis>Do you take sugar / milk in your tea?</emphasis> -- Не хотите ли положить в чай сахар / добавить молока.</p>
+<p><emphasis>Pass me the salt please.</emphasis> -- Передайте мне, пожалуйста, соль.</p>
+<p><emphasis>Won't you have some more coffee.</emphasis> -- Не хотите ли еще немного кофе,</p>
+<p><emphasis>Yes, please.</emphasis> -- Да, пожалуйста.</p>
+<p><emphasis>No, thank you. I've had enough.</emphasis> -- Спасибо, нет. Мне достаточно.</p>
+<p><emphasis>No, thank you. I'm not hungry.</emphasis> -- Нет, спасибо. Я не голоден.</p>
+<p><emphasis>What are we going to have for dinner today?</emphasis> -- Что у нас сегодня на обед?</p>
+<p><emphasis>I hope this seat isn't taken?</emphasis> -- Надеюсь, что это место не занято?</p>
+<p><emphasis>Waiter, can I have the menu?</emphasis> -- Официант, дайте мне, пожалуйста, меню.</p>
+<p><emphasis>Have you made your choice?</emphasis> -- Вы уже выбрали?</p>
+<p><emphasis>What would you like to eat?</emphasis> -- Что бы Вы хотели на обед?</p>
+<p><emphasis>Bring me...</emphasis> -- Принесите мне...</p>
+<p><emphasis>I'll take the same.</emphasis> -- Я закажу то же самое.</p>
+<p><emphasis>What do you want for desert?</emphasis> -- Что бы Вы хотели на десерт?</p>
+<p><emphasis>Bring me the bill, please.</emphasis> -- Дайте мне, пожалуйста, счет.</p>
+</section>
+<section>
+<title><p>8. Здоровье, самочувствие</p>
+</title>
+<p><emphasis>How are you?</emphasis> -- Как Ваши дела?</p>
+<p><emphasis>I'm better today, thank you.</emphasis> -- Спасибо, мне сегодня лучше.</p>
+<p><emphasis>I don't feel well.</emphasis> -- Я не очень хорошо себя чувствую.</p>
+<p><emphasis>You look pale.</emphasis> -- Вы бледны.</p>
+<p><emphasis>I feel sick.</emphasis> -- Я чувствую себя больным.</p>
+<p><emphasis>I'm tired. I didn't sleep enough last night.</emphasis> -- Я чувствую себя усталым. Я мало спал сегодня ночью.</p>
+<p><emphasis>I have a cold.</emphasis> -- Я простужен.</p>
+<p><emphasis>I have a headache / toothache.</emphasis> -- У меня болит голова / болят зубы.</p>
+<p><emphasis>I've fever.</emphasis> -- У меня высокая температура.</p>
+<p><emphasis>I broke my leg.</emphasis> -- Я сломал ногу.</p>
+<p><emphasis>You have to go to see your doctor.</emphasis> -- Вам следует пойти к врачу.</p>
+<p><emphasis>What's wrong, Mr. B.?</emphasis> -- Что случилось, мистер Б.?</p>
+<p><emphasis>I think there's nothing serious.</emphasis> -- Думаю, что ничего серьезного.</p>
+<p><emphasis>I'm going to make out a prescription for you for some pills.</emphasis> -- Я собираюсь выписать Вам рецепт на таблетки.</p>
+<p><emphasis>Take it three times a day after meals.</emphasis> -- Принимайте это три раза в день после еды.</p>
+</section>
+<section>
+<title><p>9. Возраст, внешность</p>
+</title>
+<p><emphasis>How old are you?</emphasis> -- Сколько Вам лет?</p>
+<p><emphasis>I'm thirty.</emphasis> -- Мне тридцать лет.</p>
+<p><emphasis>You certainly don't look your age.</emphasis> -- Вы не выглядите на свои годы.</p>
+<p><emphasis>When were you born?</emphasis> -- Когда Вы родились?</p>
+<p><emphasis>I was born in 1960.</emphasis> -- Я родился в 1960-м году.</p>
+<p><emphasis>Who's that olderly lady?</emphasis> -- Кто эта пожилая дама?</p>
+<p><emphasis>What does he look like?</emphasis> -- Как он выглядит?</p>
+<p><emphasis>He is good-looking man.</emphasis> -- У него приятная внешность.</p>
+<p><emphasis>She is a pretty girl.</emphasis> -- Она - милая девушка.</p>
+<p><emphasis>How tall are you?</emphasis> -- Каков Ваш рост?</p>
+<p><emphasis>What do you weight?</emphasis> -- Сколько Вы весите?</p>
+<p><emphasis>He has fair / dark hair.</emphasis> -- У него светлые / темные волосы.</p>
+<p><emphasis>You are quite sunburnt.</emphasis> -- У Вас сильный загар.</p>
+<p><emphasis>She has brown / blue eyes.</emphasis> -- У нее карие / голубые глаза.</p>
+</section>
+<section>
+<title><p>10. Семья. Родственные отношения</p>
+</title>
+<p><emphasis>Are you married?</emphasis> -- Вы женаты (замужем)?</p>
+<p><emphasis>No, I'm single.</emphasis> -- Нет, я не женат (незамужем).</p>
+<p><emphasis>My wife is a teacher.</emphasis> -- Моя жена - учительница.</p>
+<p><emphasis>She divorced her husband.</emphasis> -- Она развелась со своим мужем.</p>
+<p><emphasis>How many children do they have?</emphasis> -- Сколько у них детей?</p>
+<p><emphasis>The have two children: a daughter and a son.</emphasis> -- У них двое детей: дочь и сын.</p>
+<p><emphasis>I have many relatives: two brothers and a sister, several cousins. </emphasis> -- У меня много родственников: два брата и сестра, несколько двоюродных братьев и сестер.</p>
+<p><emphasis>They are my near / distant relatives.</emphasis> -- Они мои близкие / дальние родственники.</p>
+</section>
+<section>
+<title><p>11. Работа, профессия</p>
+</title>
+<p><emphasis>I have a lot to do.</emphasis> -- У меня много работы.</p>
+<p><emphasis>I have nothing to do.</emphasis> -- Мне нечего делать.</p>
+<p><emphasis>I must work hard.</emphasis> -- Я вынужден упорно работать.</p>
+<p><emphasis>What time do you get to work?</emphasis> -- В какое время Вы начинаете работу?</p>
+<p><emphasis>I start work at 8 o'clock in the morning.</emphasis> -- Моя работы начинается в 8 часов утра.</p>
+<p><emphasis>How many hours a day do you work?</emphasis> -- Сколько часов в день Вы работаете?</p>
+<p><emphasis>I have an 8-hour working day.</emphasis> -- У меня восьмичасовой рабочий день.</p>
+<p><emphasis>I've break at noon to have a lunch.</emphasis> -- В полдень у меня обеденный перерыв.</p>
+<p><emphasis>He's at work. He won't be back before 6 o'clock.</emphasis> -- Он на работе. Он должен вернуться около шести часов.</p>
+<p><emphasis>Today is my day off.</emphasis> -- Сегодня у меня выходной.</p>
+<p><emphasis>Do you get paid vacation?</emphasis> -- У Вас оплачиваемый отпуск?</p>
+<p><emphasis>When do you get your wages?</emphasis> -- Когда Вы получаете зарплату?</p>
+<p><emphasis>I get paid once a week.</emphasis> -- Мне платят раз в неделю.</p>
+<p><emphasis>I have quite a well-paid job.</emphasis> -- У меня хорошо оплачиваемая работа.</p>
+<p><emphasis>I'm not working at present.</emphasis> -- В настоящее время я не работаю.</p>
+<p><emphasis>What are you?</emphasis> -- Кто Вы по профессии?</p>
+<p><emphasis>What is your occupation?</emphasis> -- Чем Вы занимаетесь?</p>
+<p><emphasis>He's an expert in economics.</emphasis> -- Он специалист в области экономики.</p>
+<p><emphasis>I'm a railroad worker.</emphasis> -- Я - железнодорожный рабочий.</p>
+</section>
+<section>
+<title><p>12. Покупки</p>
+</title>
+<p><emphasis>Do you want to go shopping?</emphasis> -- Не хотите ли пойти за покупками?</p>
+<p><emphasis>I must buy a lot of things.</emphasis> -- Мне нужно сделать множество покупок.</p>
+<p><emphasis>At what time do you open / close?</emphasis> -- В какое время вы открываетесь / закрываетесь?</p>
+<p><emphasis>Sorry, we are short of it at the moment.</emphasis> -- К сожалению, в настоящий момент у нас этого нет в продаже.</p>
+<p><emphasis>What is the price of this...?</emphasis> -- Сколько стоит этот...?</p>
+<p><emphasis>It's very expensive / cheap.</emphasis> -- Это очень дорого / дешево.</p>
+<p><emphasis>The Spring sales are on.</emphasis> -- Идут весенние распродажи.</p>
+<p><emphasis>I want a packet of cigarettes.</emphasis> -- Мне нужнапачка сигарет.</p>
+<p><emphasis>What brand do you take, sir?</emphasis> -- Какие сигареты Вам нужны?</p>
+<p><emphasis>What size do you wear, please?</emphasis> -- Какой размер Вы носите?</p>
+<p><emphasis>What size, please?</emphasis> -- Какой размер?</p>
+<p><emphasis>This is not my size.</emphasis> -- Это не мой размер.</p>
+<p><emphasis>Does it fit all right?</emphasis> -- Это Вам подойдет?</p>
+<p><emphasis>May I try it on?</emphasis> -- Я могу это померить?</p>
+<p><emphasis>It seems to fit well.</emphasis> -- Кажется, это подойдет.</p>
+<p><emphasis>Do you want to take it?</emphasis> -- Будуте брать?</p>
+<p><emphasis>I'd like to pay cash.</emphasis> -- Мне бы хотелось заплатить наличными.</p>
+</section>
+<section>
+<title><p>13. Деньги</p>
+</title>
+<p><emphasis>I'm in money difficulties.</emphasis> -- У меня трудности в деньгами.</p>
+<p><emphasis>I'm short of money.</emphasis> -- У меня очень мало денег.</p>
+<p><emphasis>I have spent all my money.</emphasis> -- Я истратил все свои деньги.</p>
+<p><emphasis>I have only 10 dollars on me.</emphasis> -- У меня с собой только 10 долларов.</p>
+<p><emphasis>I have no change.</emphasis> -- У меня нет мелочи.</p>
+<p><emphasis>I have to borrow some money.</emphasis> -- Мне придется взять взаймы немного денег.</p>
+<p><emphasis>i'm not prepared to pay such a large sum.</emphasis> -- Я не готов платить такие большие деньги.</p>
+<p><emphasis>Unfortunately, I've left my all money at home.</emphasis> -- К несчастью, я оставил дома все свои деньги.</p>
+<p><emphasis>I'll try to save up some money.</emphasis> -- Я постараюсь сэкономить кое-какие деньги.</p>
+</section>
+<section>
+<title><p>14. Разговор по телефону</p>
+</title>
+<p><emphasis>I have to give a phone call.</emphasis> -- Мне нужно позвонить.</p>
+<p><emphasis>Please, may I use your phone?</emphasis> -- Я могу воспользоваться Вашим телефоном?</p>
+<p><emphasis>Hello, may I speak to Mr. Brown, please?</emphasis> -- Алло, я мог бы переговорить с мистером Брауном?</p>
+<p><emphasis>Yes, sir. Hold on, please.</emphasis> -- Да, одну минутку.</p>
+<p><emphasis>What's the minimum charge for calls to Moscow, please?</emphasis> -- Скажите, пожалуйста, каков минимальнгый тариф за звонок в Москву?</p>
+<p><emphasis>It's about 6 dollars for a three minute call.</emphasis> -- Это Вам будет стоить около 6 долларов за трехминутный разговор.</p>
+</section>
+<section>
+<title><p>15. В гостинице</p>
+</title>
+<p><emphasis>I'm looking for a clean and cheap hotel room.</emphasis> -- Мне нужен чистый и недорогой номер в гостинице.</p>
+<p><emphasis>Have you any accommodations?</emphasis> -- У вас есть свободные номера?</p>
+<p><emphasis>Have you booked a room, sir?</emphasis> -- Вы заказывали номер заранее,</p>
+<p><emphasis>I'm afraid, every room is taken.</emphasis> -- Боюсь, что у нас все занято.</p>
+<p><emphasis>What kind of room do you want?</emphasis> -- Какой номер Вам нужен?</p>
+<p><emphasis>I want a single / double room.</emphasis> -- Мне нужен номер из одной / двух комнат.</p>
+<p><emphasis>Will that suit you?</emphasis> -- Этот Вам подойдет?</p>
+<p><emphasis>How long do you want to stay?</emphasis> -- Как долго Вы собираетесь здесь оставаться?</p>
+<p><emphasis>May I ask what the charge is?</emphasis> -- Сколько стоит этот номер?</p>
+<p><emphasis>Will you, please, fill in this form?</emphasis> -- Будьте любезны, заполните этот бланк.</p>
+<p><emphasis>Your room is number 25, and here is your key.</emphasis> -- Номер Вашей комнаты 25. Вот Ваши ключи.</p>
+<p><emphasis>Will you show me up to my room, please?</emphasis> -- Не могли бы Вы проводить меня в номер?</p>
+</section>
+<section>
+<title><p>16. Ситуации в городе</p>
+</title>
+<p><emphasis>Excise me, could you tell me how to get to ...?</emphasis> -- Извините, могу я у Вас спросить, как мне пройти к ...?</p>
+<p><emphasis>Am I right for ...?</emphasis> -- Я иду по направлению к ...?</p>
+<p><emphasis>Which way is it to ...?</emphasis> -- Как пройти к ...?</p>
+<p><emphasis>I've lost my way.</emphasis> -- Я заблудился.</p>
+<p><emphasis>You're going in the wrong direction.</emphasis> -- Вы идете неправильно.</p>
+<p><emphasis>I'm afraid, I've no idea.</emphasis> -- Боюсь, что я не знаю.</p>
+<p><emphasis>Which is the shortest way?</emphasis> -- Как пройти самым коротким путем?</p>
+<p><emphasis>How far do you think it is?</emphasis> -- Как далеко это, на ваш взгляд?</p>
+<p><emphasis>It's a very long way from here.</emphasis> -- Это очень далеко отсюда.</p>
+<p><emphasis>It's over two miles, I think.</emphasis> -- Я полагаю, что это не менее двух миль.</p>
+<p><emphasis>Which is the best way to get there?</emphasis> -- Как лучше всего туда добраться?</p>
+<p><emphasis>What bus must I take?</emphasis> -- На какой автобус я должен сесть?</p>
+<p><emphasis>Let me show you the way to the bus stop.</emphasis> -- Давайте я провожу Вас до автобусной остановки.</p>
+<p><emphasis>What's the name of this street?</emphasis> -- Как называется эта улица?</p>
+<p><emphasis>Where's the bus stop, please?</emphasis> -- Скажите пожалуйста, где находится остановка автобуса?</p>
+<p><emphasis>Does number 10 stop here?</emphasis> -- Десятый автобус здесь останавливается?</p>
+<p><emphasis>Which bus must I take to ...?</emphasis> -- На каком автобусе я мог бы добраться до ...?</p>
+<p><emphasis>How often do buses run from here?</emphasis> -- Как часто здесь ходят автобусы?</p>
+</section>
+<section>
+<title><p>17. Путешествия</p>
+</title>
+<p><emphasis>What trains are there to ...?</emphasis> -- Какие поезда идут до ...?</p>
+<p><emphasis>What time does train number ... leave / arrive?</emphasis> -- Когда отходит / прибывает поезд номер ...?</p>
+<p><emphasis>When does the train arrive to ...?</emphasis> -- Когда поезд прибывает в ...?</p>
+<p><emphasis>Where do I have to change?</emphasis> -- Где надо делать пересадку?</p>
+<p><emphasis>Where's the ticketing?</emphasis> -- Где касса?</p>
+<p><emphasis>What platform does train number ... leave from?</emphasis> -- От какой платформы отходит поезд номер ...?</p>
+<p><emphasis>How much does a ticket to ... cost?</emphasis> -- Сколько стоит билет до ...?</p>
+<p><emphasis>How many days is my ticket valid?</emphasis> -- Сколько суток действителен мой билет?</p>
+<p><emphasis>Call the porter, please.</emphasis> -- Позовите, пожалуйста, носильщика.</p>
+<p><emphasis>Here's my baggage.</emphasis> -- Вот мой багаж.</p>
+<p><emphasis>When does the next plane leave for ...?</emphasis> -- Когда следующий самолет на ...?</p>
+<p><emphasis>Where does the plane stop on the way?</emphasis> -- Где самолет делает посадку?</p>
+<p><emphasis>What's the fare to ...?</emphasis> -- Сколько стоит билет до ...?</p>
+<p><emphasis>Please, give me two economy class tickets to ...</emphasis> -- Дайте мне, пожалуйста, два билета до ... в экономическом классе.</p>
+<p><emphasis>What's the charge for excess baggage?</emphasis> -- Сколько я должен заплатить за лишний багаж?</p>
+<p><emphasis>How long does the flight take?</emphasis> -- Сколько продлится полет?</p>
+<p><emphasis>I feel sick.</emphasis> -- Мне плохо.</p>
+<p><emphasis>Please, give me some mineral water / paper bag.</emphasis> -- Дайте мне, пожалуйста, минеральной воды / гигиенический пакет.</p>
+</section>
+<section>
+<title><p>18. Ситуации на таможне</p>
+</title>
+<p><emphasis>Show me your passport, please.</emphasis> -- Покажите, пожалуйста, Ваш паспорт.</p>
+<p><emphasis>What is the purpose of your visit to this country?</emphasis> -- Какова цель Вашего приезда?</p>
+<p><emphasis>How long do you intend to stay?</emphasis> -- Как долго Вы предполагаете здесь находиться?</p>
+<p><emphasis>How much dollars have you gotten?</emphasis> -- Сколько долларов Вы имеете при себе?</p>
+<p><emphasis>Any foreign money?</emphasis> -- Есть ли у Вас иностранная валюта?</p>
+<p><emphasis>Have you anything to declare?</emphasis> -- Имеется ли у Вас что-нибудь, подлежащее декларированию?</p>
+<p><emphasis>Have you any dutiable goods?</emphasis> -- Есть ли у Вас вещи, подлежащие обложению таможенной пошлиной?</p>
+<p><emphasis>I have only personal belongings?</emphasis> -- У меня имеются только личные вещи?</p>
+<p><emphasis>I have only gotten some presents.</emphasis> -- Я захватил с собой всего лишь несколько подарков.</p>
+<p><emphasis>Open your case for examination, please.</emphasis> -- Пожалуйста, откройте свой чемодан для досмотра.</p>
+<p><emphasis>You'll have to pay duty on this.</emphasis> -- За это Вы должны заплатить пошлину.</p>
+<p><emphasis>I must confiscate these goods.</emphasis> -- Я вынужден конфисковать эти вещи.</p>
+<p><emphasis>That's all right! You may pass on.</emphasis> -- Все в порядке. Вы можете проходить.</p>
+</section>
+</section>
+
+</body>
+</FictionBook>
