@@ -759,13 +759,31 @@
       ]
     },
     {
+      "id": "falsafa",
+      "name": "Фалсафа",
+      "folder_raw": "Фалсафа",
+      "emoji": "🤔",
+      "color1": "#be185d",
+      "color2": "#f472b6",
+      "sort_order": 125,
+      "subs": [
+        {
+          "id": "falsafa",
+          "name": "Фалсафа",
+          "folder_raw": "Фалсафа",
+          "folder": "books/Фалсафа",
+          "emoji": "🤔"
+        }
+      ]
+    },
+    {
       "id": "farhangshinosi",
       "name": "Фарҳангшиносӣ",
       "folder_raw": "Фарҳангшиносӣ",
       "emoji": "🎨",
-      "color1": "#be185d",
-      "color2": "#f472b6",
-      "sort_order": 125,
+      "color1": "#64748b",
+      "color2": "#94a3b8",
+      "sort_order": 126,
       "subs": [
         {
           "id": "farhangshinosi",
@@ -781,9 +799,9 @@
       "name": "Физика",
       "folder_raw": "Физика",
       "emoji": "📚",
-      "color1": "#64748b",
-      "color2": "#94a3b8",
-      "sort_order": 126,
+      "color1": "#2563eb",
+      "color2": "#60a5fa",
+      "sort_order": 127,
       "subs": [
         {
           "id": "fizika",
@@ -799,9 +817,9 @@
       "name": "Ҷуғрофия",
       "folder_raw": "Ҷуғрофия",
       "emoji": "📚",
-      "color1": "#2563eb",
-      "color2": "#60a5fa",
-      "sort_order": 127,
+      "color1": "#7c3aed",
+      "color2": "#a78bfa",
+      "sort_order": 128,
       "subs": [
         {
           "id": "jughrofiya",
