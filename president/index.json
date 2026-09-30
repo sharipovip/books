@@ -1,9 +1,17 @@
 {
  "version": 1,
- "updatedAt": "2026-09-29",
+ "updatedAt": "2026-09-30",
  "source": "prezident.tj",
  "cats": {
   "news": [
+   {
+    "id": 57511,
+    "title": "Маҷлиси Ҳукумати Ҷумҳурии Тоҷикистон",
+    "publish": "2026-09-30 18:33:00",
+    "thumb": "https://live.staticflickr.com/65535/55560835114_f2621ee830.jpg",
+    "photos_count": 27,
+    "site_path": ""
+   },
    {
     "id": 57509,
     "title": "Фармони Президенти Ҷумҳурии Тоҷикистон дар бораи аз вазифаи судяи суди шаҳри Истиқлоли вилояти Суғд озод намудани Ғафурзода Ф.А.",
@@ -90,14 +98,6 @@
     "publish": "2026-09-27 11:07:00",
     "thumb": "https://live.staticflickr.com/65535/55552714707_0aeb2a5633.jpg",
     "photos_count": 12,
-    "site_path": ""
-   },
-   {
-    "id": 57425,
-    "title": "Муаррифии лоиҳаи сохтмони Маркази агрологистикӣ дар шаҳри Хоруғ",
-    "publish": "2026-09-27 10:18:00",
-    "thumb": "https://live.staticflickr.com/65535/55553647726_e35736ecc2.jpg",
-    "photos_count": 4,
     "site_path": ""
    }
   ],
