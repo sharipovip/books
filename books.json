@@ -263,6 +263,13 @@
       "sort_order": 61,
       "subs": [
         {
+          "id": "tib",
+          "name": "Тиб",
+          "folder_raw": "Тиб",
+          "folder": "books/Тиб",
+          "emoji": "⚕️"
+        },
+        {
           "id": "tib_tibbi_ananavi",
           "name": "Тибби анъанавӣ",
           "folder_raw": "Тибби анъанавӣ",
