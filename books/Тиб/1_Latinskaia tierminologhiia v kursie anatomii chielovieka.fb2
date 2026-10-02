@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <book-title>Латинская терминология в курсе анатомии человека</book-title>
+   <author><first-name>Б.</first-name><middle-name>Г.</middle-name><last-name>Плитниченко</last-name></author>
+   <author><first-name>М.</first-name><middle-name>А.</middle-name><last-name>Бондаренко</last-name></author>
+   <genre>sci_textbook</genre>
+   <genre>foreign_language</genre>
+   <genre>sci_medicine</genre>
+   <annotation><p>Учебное пособие предназначено для студентов медицинских вузов, лечебных факультетов университетов, изучающих анатомию человека, топографическую анатомию, клинические дисциплины. Прежде всего, оно будет полезным при подготовке к экзамену по нормальной анатомии. Пособие содержит перечень русских и латинских терминов, насчитывающий 1022 наименования анатомических образований, рекомендованных для подготовки к экзамену по анатомии человека.</p><empty-line/></annotation>
+   <keywords>терминология</keywords>
+   <date/>
+   <lang>ru</lang>
+   </title-info>
+  <document-info>
+   <author>
+    <first-name>Isais</first-name>
+    <last-name/>
+    <home-page>lib.rus.ec</home-page>
+   </author>
+   <program-used>OOoFBTools-2.3 (ExportToFB21), FictionBook Editor 2.4</program-used>
+   <date value="2014-01-24">24.01.2014</date>
+   <src-url>http://vk.com/latina_medica</src-url>
+   <src-ocr>Александр</src-ocr>
+   <id>AA11DB2B-0C8B-4BEB-9C40-4E1ECA62AF63</id>
+   <version>1.0</version>
+   <history>
+    <p>1.0 — конвертация в fb2, скрипты — Isais.</p>
+   </history>
+  </document-info>
+  <custom-info info-type="">ТРЕБУЕТСЯ ПРОВЕРКА OCR ЛАТИНСКИХ ТЕРМИНОВ!!!</custom-info>
+ </description>
+ <body>
+  <title>
+   <p>Б.Г. Плитниченко, М.А. Бондаренко</p>
+   <p>Латинская терминология в курсе анатомии человека</p>
+  </title>
+  <section>
+   <subtitle>учебное пособие для подготовки к экзамену</subtitle>
+   <empty-line/>
+   <image l:href="#i_001.png"/>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>Предисловие</p>
+   </title>
+   <p>Учебное пособие предназначено для студентов медицинских вузов, лечебных факультетов университетов, изучающих анатомию человека, топографическую анатомию, клинические дисциплины. Прежде всего, оно будет полезным при подготовке к экзамену по нормальной анатомии.</p>
+   <p>Пособие содержит перечень русских и латинских терминов, насчитывающий 1022 наименования анатомических образований, рекомендованных для подготовки к экзамену по анатомии человека.</p>
+   <p>В соответствии с требованиями государственного образовательного стандарта и общепринятой анатомической классификацией терминологический перечень представлен по разделам: остеология, артрология, миология, спланхнология (пищеварительная система, дыхательная система, мочеполовой аппарат), ангиология, лимфатическая система, иммунная система, центральная нервная система периферическая нервная система, органы чувств.</p>
+   <p>Для удобства пользователей пособие снабжено подробным латинско-русским словарем анатомических терминов.</p>
+   <p>В целях повышения мотивации к изучению нормальной анатомии человека пособие содержит краткий очерк из истории анатомических терминов.</p>
+  </section>
+  <section>
+   <title>
+    <p>Остеология</p>
+   </title>
+   <p>Тело позвонка<emphasis> — corpus vertebrae</emphasis></p>
+   <p>Дуга позвонка — <emphasis>arcus vertebrae</emphasis></p>
+   <p>Верхняя позвоночная вырезка — <emphasis>incisura vertebralis superior</emphasis></p>
+   <p>Нижняя позвоночная вырезка — <emphasis>incisura vertebralis inferior</emphasis></p>
+   <p>Позвоночное отверстие — <emphasis>foramen vertebrale</emphasis></p>
+   <p>Остистый отросток — <emphasis>processus spinosus</emphasis></p>
+   <p>Поперечный отросток — <emphasis>processus transversus</emphasis></p>
+   <p>Верхний суставной отросток — <emphasis>processus articularis superior</emphasis></p>
+   <p>Нижний сyставной отросток — <emphasis>processus articularis inferiоr</emphasis></p>
+   <p>Передняя дуга 1 шейного позвонка<emphasis> — arcus anterior atlantis</emphasis></p>
+   <p>Ямка зуба 1 шейного позвонка<emphasis> — fovea dentis atlantis</emphasis></p>
+   <p>Задняя дуга 1 шейного позвонка — <emphasis>arcus posterior atlantis</emphasis></p>
+   <p>Зуб осевого позвонка — <emphasis>dens axis</emphasis></p>
+   <p>Сонный бугорок VI шейного позвонка — <emphasis>tuberculum caroticum</emphasis></p>
+   <p>Основание крестца<emphasis> — basis ossis sacri</emphasis></p>
+   <p>Ушковидная поверхность крестца — <emphasis>facies auricularis ossis sacri</emphasis></p>
+   <p>Верхушка крестца — <emphasis>apex ossis sacri</emphasis></p>
+   <p>Тазовые крестцовые отверстия — <emphasis>foramina sacralia pelvina</emphasis></p>
+   <p>Дорсальные крестцовые отверстия — <emphasis>foramina sacralia dorsalia</emphasis></p>
+   <p>Крестцовый канал — <emphasis>canalis sacralis</emphasis></p>
+   <p>Головка ребра — <emphasis>caput costae</emphasis></p>
+   <p>Шейка ребра — <emphasis>collum costae</emphasis></p>
+   <p>Бугорок ребра — <emphasis>tuberculum costae</emphasis></p>
+   <p>Борозда ребра — <emphasis>sulcus costae</emphasis></p>
+   <p>Бугорок передней лестничной мышцы — <emphasis>tuberculum musculi scaleni anterioris</emphasis></p>
+   <p>Борозда подключичной артерии (1 ребро) — <emphasis>sulcus arteriae subclaviae</emphasis></p>
+   <p>Борозда подключичной вены (1 ребро) — <emphasis>sulcus venae subclaviae</emphasis></p>
+   <p>Рукоятка грудины — <emphasis>manubrium sterni</emphasis></p>
+   <p>Яремная вырезка грудины — <emphasis>incisura jugularis sterni</emphasis></p>
+   <p>Тело грудины — <emphasis>corpus sterni</emphasis></p>
+   <p>Мечевидный отросток — <emphasis>processus xiphoideus</emphasis></p>
+   <p>Угол грудины — <emphasis>angulus sterni</emphasis></p>
+   <p>Лобный бугор лобной кости — <emphasis>tuber frontale ossis frontalis</emphasis></p>
+   <p>Глабелла лобной кости — <emphasis>glabella ossis frontalis</emphasis></p>
+   <p>Надглазничное отверстие (вырезка) лобной кости — <emphasis>foramen</emphasis> (<emphasis>incisura) supraorbitale ossis frontalis</emphasis></p>
+   <p>Скуловой отросток лобной кости — <emphasis>processus zygomaticus ossis frontalis</emphasis></p>
+   <p>Ямка слезной железы лобной кости — <emphasis>fossa glandulae lacrimalis ossis frontalis</emphasis></p>
+   <p>Тело клиновидной кости — <emphasis>corpus ossis sphenoidalis</emphasis></p>
+   <p>Турецкое седло — <emphasis>sella turcica</emphasis></p>
+   <p>Гипофизарная ямка — <emphasis>fossa hypophysialis</emphasis></p>
+   <p>Спинка седла клиновидной кости — <emphasis>dorsum sellae ossis sphenoidalis</emphasis></p>
+   <p>Малое крыло клиновидной кости — <emphasis>ala minor ossis sphenoidalis</emphasis></p>
+   <p>Зрительный канал — <emphasis>canalis opticus</emphasis></p>
+   <p>Большое крыло клиновидной кости — <emphasis>ala major ossis sphenoidalis</emphasis></p>
+   <p>Круглое отверстие — <emphasis>foramen rotundum</emphasis></p>
+   <p>Овальное отверстие — <emphasis>foramen ovale</emphasis></p>
+   <p>Остистое отверстие — <emphasis>foramen spinosum</emphasis></p>
+   <p>Слезная кость — <emphasis>os lacrimale</emphasis></p>
+   <p>Сошник — <emphasis>vomer</emphasis></p>
+   <p>Носовая кость — <emphasis>os nasale</emphasis></p>
+   <p>Крыловидный отросток клиновидной кости — <emphasis>processus pterygoideus ossis sphenoidalis</emphasis></p>
+   <p>Крыловидный канал клиновидный кости — <emphasis>canalis pterygoideus ossis sphenoidalis</emphasis></p>
+   <p>Крыловидная ямка крыловидного отростка клиновидной кости — <emphasis>fossa pterygoidea processus pterygoidei</emphasis></p>
+   <p>Базилярная часть затылочной кости — <emphasis>pars basilaris ossis occipitalis</emphasis></p>
+   <p>Глоточный бугорок затылочной кости — <emphasis>tuberculum pharyngeum ossis occipitalis</emphasis></p>
+   <p>Латеральная часть затылочной кости<emphasis> — pars lateralis ossis occipitalis</emphasis></p>
+   <p>Затылочный мыщелок<emphasis> — condylus occipitalis</emphasis></p>
+   <p>Канал подъязычного нерва — <emphasis>canalis hypoglоssalis</emphasis></p>
+   <p>Наружный затылочный выступ — <emphasis>protuberantia occipitalis externa</emphasis></p>
+   <p>Внутренний затылочный выступ — <emphasis>protuberantia occipitalis interna</emphasis></p>
+   <p>Большое затылочное отверстие — <emphasis>foramen occipitale magnum</emphasis></p>
+   <p>Пирамида (каменистая часть) височной кости — <emphasis>pyramis(pars petrоsa) ossis temporalis</emphasis></p>
+   <p>Сосцевидный отросток височной кости — <emphasis>processus mastoideus ossis temporalis</emphasis></p>
+   <p>Крыша барабанной полости височной кости — <emphasis>tegmeni tympani ossis temporalis</emphasis></p>
+   <p>Тройничное вдавление пирамиды височной кости — <emphasis>impressio trigemini partis petrosae ossis temporalis</emphasis></p>
+   <p>Внутреннее слуховое отверстие и внутренний слуховой проход — <emphasis>porus acusticus internus et meatus acusticus internus</emphasis></p>
+   <p>Скуловой отросток височной кости — <emphasis>processus zygomaticus ossis temporalis</emphasis></p>
+   <p>Нижнечелюстная ямка височной кости — <emphasis>fossa mandibularis ossis temporalis</emphasis></p>
+   <p>Сонный канал височной кости — <emphasis>canalis caroticus ossis temporalis</emphasis></p>
+   <p>Наружное отверстие сонного канала — <emphasis>foramen caroticum externum</emphasis></p>
+   <p>Внутреннее отверстие сонного канала — <emphasis>foramen caroticum internum</emphasis></p>
+   <p>Мышечно-трубный канал височной кости — <emphasis>canalis musculotubarius ossis temporalis</emphasis></p>
+   <p>Глазничная пластина решетчатой кости — <emphasis>lamina orbitalis ossis ethmoidalis</emphasis></p>
+   <p>Верхняя глазничная щель — <emphasis>fissura orbitalis superior</emphasis></p>
+   <p>Нижняя глазничная щель — <emphasis>fissura orbitalis inferior</emphasis></p>
+   <p>Тело верхней челюсти — <emphasis>corpus maxillae</emphasis></p>
+   <p>Глазничная поверхность верхней челюсти — <emphasis>facies orbitalis maxillae</emphasis></p>
+   <p>Подглазничная борозда верхней челюсти — <emphasis>sulcus infraorbitalis maxillae</emphasis></p>
+   <p>Подглазничное отверстие верхней челюсти — <emphasis>foramen infraorbitale maxillae</emphasis></p>
+   <p>Бугор верхней челюсти — <emphasis>tuber maxillae</emphasis></p>
+   <p>Слезная борозда верхней челюсти — <emphasis>sulcus lacrimalis maxillae</emphasis></p>
+   <p>Расщелина верхнечелюстной пазухи (вход в Гайморову пазуху) — <emphasis>hiatus maxillae</emphasis></p>
+   <p>Лобный отросток верхней челюсти — <emphasis>processus frontalis maxillae</emphasis></p>
+   <p>Скуловой отросток верхней челюсти — <emphasis>processus zygomaticus maxillae</emphasis></p>
+   <p>Небный отросток верхней челюсти — <emphasis>processus palatinus maxillae</emphasis></p>
+   <p>Перпендикулярная пластина небной кости (на черепе) — <emphasis>lamina perpendicularis ossis palatini</emphasis></p>
+   <p>Горизонтальная пластинка небной кости на черепе — <emphasis>lamina horizontalis ossis palatini</emphasis></p>
+   <p>Тело нижней челюсти — <emphasis>corpus mandibulae</emphasis></p>
+   <p>Подбородочный выступ нижней челюсти — <emphasis>protuberantia mentalis mandibulae</emphasis></p>
+   <p>Двубрюшная ямка нижней челюсти — <emphasis>fossa digastrica mandibulae</emphasis></p>
+   <p>Челюстно-подъязычная линия нижней челюсти — <emphasis>linea mylohyoidea mandibulae</emphasis></p>
+   <p>Альвеолярная дуга нижней челюсти — <emphasis>arcus alveolaris mandibulae</emphasis></p>
+   <p>Зубные альвеолы нижней челюсти — <emphasis>alveoli dentales mandibulae</emphasis></p>
+   <p>Угол нижней челюсти — <emphasis>angulus mandibulae</emphasis></p>
+   <p>Ветвь нижней челюсти — <emphasis>ramus mandibulae</emphasis></p>
+   <p>Жевательная бугристость нижней челюсти — <emphasis>tuberositas masseterica mandibulae</emphasis></p>
+   <p>Крыловидная бугристость нижней челюсти — <emphasis>tuberositas pterygoidea mandibulae</emphasis></p>
+   <p>Вырезка нижней челюсти — <emphasis>incisura mandibulae</emphasis></p>
+   <p>Мыщелковый отросток нижней челюсти — <emphasis>processus condylaris mandibulae</emphasis></p>
+   <p>Крыловидная ямочка нижней челюсти — <emphasis>fovea pterygoidea mandibulae</emphasis></p>
+   <p>Венечный отросток нижней челюсти- <emphasis>processus coronoideus mandibulae</emphasis></p>
+   <p>Отверстие нижней челюсти — <emphasis>foramen mandibulae</emphasis></p>
+   <p>Тело подъязычной кости — <emphasis>corpus ossis hyoidei</emphasis></p>
+   <p>Малый рог подъязычной кости — <emphasis>cornu minus ossis hyoidei</emphasis></p>
+   <p>Большой рог подъязычной кости — <emphasis>cornu majus ossis hyoidei</emphasis></p>
+   <p>Рваное отверстие на черепе — <emphasis>foramen lacerum</emphasis></p>
+   <p>Яремное отверстие на черепе — <emphasis>foramen jugulare</emphasis></p>
+   <p>Передняя черепная ямка — <emphasis>fossa cranii anterior</emphasis></p>
+   <p>Пальцевое вдавление на черепе — <emphasis>impressio digitata</emphasis></p>
+   <p>Средняя черепная ямка — <emphasis>fossa cranii media</emphasis></p>
+   <p>Задняя черепная ямка — <emphasis>fossa cranii posterior</emphasis></p>
+   <p>Скат на черепе — <emphasis>clivus</emphasis></p>
+   <p>Борозда верхнего сагиттального синуса — <emphasis>sulcus sinus sagittalis superioris</emphasis></p>
+   <p>Борозда поперечного синуса — <emphasis>sulcus sinus transversi</emphasis></p>
+   <p>Борозда сигмовидного синуса — <emphasis>sulcus sinus sigmoidei</emphasis></p>
+   <p>Хоаны — <emphasis>choanae</emphasis></p>
+   <p>Твердое небо — <emphasis>palatum (durum) osseum</emphasis></p>
+   <p>Резцовый канал — <emphasis>canalis incisivus</emphasis></p>
+   <p>Крыловидно-небная ямка — <emphasis>fossa pterygopalatina</emphasis></p>
+   <p>Подвисочная ямка — <emphasis>fossa infratemporalis</emphasis></p>
+   <p>Височная ямка — <emphasis>fossa temporalis</emphasis></p>
+   <p>Акромио<emphasis>н — acromion</emphasis></p>
+   <p>Суставная впадина лопатки — <emphasis>cavitas glenoidalis scapulae</emphasis></p>
+   <p>Надсуставной бугорок лопатки — t<emphasis>uberculum supraglenoidale</emphasis></p>
+   <p>Подсуставной бугорок лопатки — <emphasis>tuberculum infraglenoidale</emphasis></p>
+   <p>Шейка лопатки — <emphasis>collum scapulae</emphasis></p>
+   <p>Клювовидный отросток лопатки — <emphasis>processus coracoideus scapulae</emphasis></p>
+   <p>Анатомическая шейка плечевой кости — <emphasis>collum anatomicum humeri</emphasis></p>
+   <p>Большой бугорок плечевой кости — <emphasis>tuberculum majus humeri</emphasis></p>
+   <p>Малый бугорок плечевой кости — <emphasis>tuberculum minus humeri</emphasis></p>
+   <p>Межбугорковая борозда плечевой кости — <emphasis>sulcus intertubercularis humeri</emphasis></p>
+   <p>Хирургическая шейка плечевой кости — <emphasis>collum chirurgicum humeri</emphasis></p>
+   <p>Дельтовидная бугристость плечевой кости — <emphasis>tuberositas deltoidea humeri</emphasis></p>
+   <p>Борозда лучевого нерва плечевой кости — <emphasis>sulcus nervi radialis humeri</emphasis></p>
+   <p>Латеральный надмыщелок плечевой кости — <emphasis>epicondylus lateralis humeri</emphasis></p>
+   <p>Медиальный надмыщелок плечевой кости — <emphasis>epicondylus medialis humeri</emphasis></p>
+   <p>Борозда локтевого нерва плечевой кости — <emphasis>sulcus nervi ulnaris humeri</emphasis></p>
+   <p>Блок плечевой кости — <emphasis>trochlea humeri</emphasis></p>
+   <p>Ямка локтевого отростка плечевой кости — <emphasis>fossa olecrani humeri</emphasis></p>
+   <p>Венечная ямка плечевой кости — <emphasis>fossa coronoidea humeri</emphasis></p>
+   <p>Головка лучевой кости<emphasis> — caput radii</emphasis></p>
+   <p>Суставная окружность лучевой кости — <emphasis>circumferentia articularis radii</emphasis></p>
+   <p>Шейка лучевой кости<emphasis> — collum radii</emphasis></p>
+   <p>Шиловидный отросток лучевой кости — <emphasis>processus styloideus radii</emphasis></p>
+   <p>Локтевой отросток локтевой кости — <emphasis>olecranon ulnae</emphasis></p>
+   <p>Венечный отросток локтевой кости — <emphasis>processus coronoideus ulnae</emphasis></p>
+   <p>Бугристость локтевой кости — <emphasis>tuberositas ulnae</emphasis></p>
+   <p>Головка локтевой кости — <emphasis>caput ulnae</emphasis></p>
+   <p>Шиловидный отросток локтевой кости — <emphasis>processus styloideus ulnae</emphasis></p>
+   <p>Кости запястья: — <emphasis>ossa carpi</emphasis></p>
+   <p>— ладьевидная кость <emphasis>— os scaphoideum</emphasis></p>
+   <p>— полулунная кость — <emphasis>os lunatum</emphasis></p>
+   <p>— трехгранная кость — <emphasis>os triquetrum</emphasis></p>
+   <p>— кость-трапеция — <emphasis>os trapezium</emphasis></p>
+   <p>— гороховидная кость — <emphasis>os pisiforme</emphasis></p>
+   <p>— трапецивидная кость — <emphasis>os trapezoideum</emphasis></p>
+   <p>— головчатая кость — <emphasis>os capitatum</emphasis></p>
+   <p>— крючковидная кость — <emphasis>os hamatum</emphasis></p>
+   <p>Основание, тело и головка пястной кости — <emphasis>basis, corpus et caput ossis metacarpalis</emphasis></p>
+   <p>Проксимальная, средняя и дистальная фаланги пальцев кисти — <emphasis>phalanx proximalis, phalanx media, phalanx distalis</emphasis></p>
+   <p>Запирательное отверстие тазовой кости — <emphasis>foramen obturatum ossis coxae</emphasis></p>
+   <p>Вертлужная впадина тазовой кости — <emphasis>acetabulum ossis coxae</emphasis></p>
+   <p>Полулунная поверхность тазовой кости — <emphasis>facies lunata ossis coxae</emphasis></p>
+   <p>Вырезка вертлужной впадины тазовой кости — <emphasis>incisura acetabuli ossis coxae</emphasis></p>
+   <p>Подвздошный гребень — <emphasis>crista iliaca</emphasis></p>
+   <p>Верхняя передняя подвздошная ость — <emphasis>spina iliaca anterior superior</emphasis></p>
+   <p>Нижняя передняя подвздошная ость — <emphasis>spina iliaca anterior inferior</emphasis></p>
+   <p>Верхняя задняя подвздошная ость — <emphasis>spina iliaca posterior superior</emphasis></p>
+   <p>Нижняя задняя подвздошная ость<emphasis> — spina iliaca posterior inferior</emphasis></p>
+   <p>Большая седалищная вырезка <emphasis>— incisura ischiadica major</emphasis></p>
+   <p>Малая седалищная вырезка — <emphasis>incisura ischiadica minor</emphasis></p>
+   <p>Седалищный бугор <emphasis>— tuber ischiadicum</emphasis></p>
+   <p>Седалищная ость — <emphasis>spina ischiadica</emphasis></p>
+   <p>Лобковый бугорок — <emphasis>tuberculum pubicum</emphasis></p>
+   <p>Подвздошно — лобковое возвышение — <emphasis>eminentia iliopubica</emphasis></p>
+   <p>Запирательная борозда — <emphasis>sulcus obturatorius</emphasis></p>
+   <p>Головка бедренной кости — <emphasis>caput ossis femoris</emphasis></p>
+   <p>Шейка бедренной кости — <emphasis>collum ossis femoris</emphasis></p>
+   <p>Малый вертел бедренной кости — <emphasis>trochanter minor ossis femoris</emphasis></p>
+   <p>Большой вертел бедренной кости — <emphasis>trochanter major ossis femoris</emphasis></p>
+   <p>Межвертельный гребень — <emphasis>crista intertrochanterica</emphasis></p>
+   <p>Межвертельная линия — <emphasis>linea intertrochanterica</emphasis></p>
+   <p>Шероховатая линия бедренной кости — <emphasis>linea aspera ossis femoris</emphasis></p>
+   <p>Медиальный мыщелок бедренной кости — <emphasis>condylus medialis ossis femoris</emphasis></p>
+   <p>Медиальный надмыщелок бедренной кости — <emphasis>epicondylus medialis ossis femoris</emphasis></p>
+   <p>Латеральный мыщелок бедренной кости- <emphasis>condylus lateralis ossis femoris</emphasis></p>
+   <p>Латеральный надмыщелок бедренной кости — <emphasis>epicondylus lateralis ossis femoris</emphasis></p>
+   <p>Надколенник — <emphasis>patella</emphasis></p>
+   <p>Медиальный мыщелок большеберцовой кости — <emphasis>condylus medialis tibiae</emphasis></p>
+   <p>Латеральный мыщелок большеберцовой кости — <emphasis>condylus lateralis tibiae</emphasis></p>
+   <p>Бугристость большеберцовой кости — <emphasis>tuberositas tibiae</emphasis></p>
+   <p>Медиальная лодыжка большеберцовой кости — <emphasis>malleolus medialis tibiae</emphasis></p>
+   <p>Латеральная лодыжка малоберцовой кости — <emphasis>malleolus lateralis fibulae</emphasis></p>
+   <p>Пяточный бугор <emphasis>— tuber calcanei</emphasis></p>
+   <p>Головка таранной кости — <emphasis>caput tali</emphasis></p>
+   <p>Опора таранной кости — <emphasis>sustentaculum tali</emphasis></p>
+   <p>Ладьевидная кость предплюсны — <emphasis>os naviculare tarsi</emphasis></p>
+   <p>Кубовидная кость — <emphasis>os cuboideum</emphasis></p>
+   <p>Медиальная клиновидная кость — <emphasis>os cuneiforme mediale</emphasis></p>
+   <p>Промежуточная клиновидная кость<emphasis> — os cuneiforme intermedium</emphasis></p>
+   <p>Латеральная клиновидная кость — <emphasis>os cuneiforme laterale</emphasis></p>
+   <p>Основание, тело и головка плюсневой кости — <emphasis>basis, corpus et caput ossis metatarsalis</emphasis></p>
+   <p>Проксимальная, средняя и дистальная фаланги пальцев стопы — <emphasis>phalanx proximalis, phalanx media, phalanx distalis</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Артрология</p>
+   </title>
+   <p>Венечный шов (черепа) — <emphasis>sutura coronalis</emphasis></p>
+   <p>Сагиттальный шов (черепа) — <emphasis>sutura sagittalis</emphasis></p>
+   <p>Ламбдовидный шов (черепа) — <emphasis>sutura lambdoidea</emphasis></p>
+   <p>Межпозвоночный диск — <emphasis>discus intervertebralis</emphasis></p>
+   <p>Фиброзное кольцо (межпозвоночного диска) — <emphasis>anulus fibrosus</emphasis></p>
+   <p>Студенистое ядро (межпозвоночного диска) — <emphasis>nucleus pulposus</emphasis></p>
+   <p>Передняя продольная связка (позвоночника) — <emphasis>ligamentum longitudinale anterius</emphasis></p>
+   <p>Задняя продольная связка (позвоночника) — <emphasis>ligamentum longitudinale posterius</emphasis></p>
+   <p>Межостистая связка — <emphasis>ligamentum interspinale</emphasis></p>
+   <p>Желтая связка (позвоночника) — <emphasis>ligamentum flavum</emphasis></p>
+   <p>Надостная связка (позвоночника) — <emphasis>ligamentum supraspinale</emphasis></p>
+   <p>Сустав головки ребра — <emphasis>articulatio capitis costae</emphasis></p>
+   <p>Реберно-поперечний сустав — <emphasis>articulatio costotransversaria</emphasis></p>
+   <p>Грудино-рёберный сустав — <emphasis>articulatio sternocostalis</emphasis></p>
+   <p>Акромиально-ключичный сустав — <emphasis>articulatio acromioclavicularis</emphasis></p>
+   <p>Межключичная связка — <emphasis>ligamentum interclaviculare</emphasis></p>
+   <p>Клювовидно — акромиальная связка — <emphasis>ligamentum coracoacromiale</emphasis></p>
+   <p>Суставная капсула плечевого сустава — <emphasis>capsula articularis articulationis humeri</emphasis></p>
+   <p>Суставная губа плечевого сустава — <emphasis>labrum glenoidale articulationis humeri</emphasis></p>
+   <p>Клювовидно-плечевая связка — <emphasis>ligamentum coracohumerale</emphasis></p>
+   <p>Локтевая коллатеральная связка — <emphasis>ligamentum collaterale ulnare</emphasis></p>
+   <p>Лучевая коллатеральная связка — <emphasis>ligamentum collaterale radiale</emphasis></p>
+   <p>Кольцевая связка лучевой кости — <emphasis>ligamentum anulare radii</emphasis></p>
+   <p>Межкостная перепонка предплечья — <emphasis>membrana interossea antebrachii</emphasis></p>
+   <p>Лучезапястный сустав — <emphasis>articulatio radiocarpea</emphasis></p>
+   <p>Среднезапястный сустав — <emphasis>articulatio mediocarpea</emphasis></p>
+   <p>Лучевая коллатеральная связка запястья — <emphasis>ligamentum collaterale carpi radiale</emphasis></p>
+   <p>Локтевая коллатеральная связка запястья — <emphasis>ligamentum collaterale carpi ulnare</emphasis></p>
+   <p>Канал запястья — <emphasis>canalis carpi</emphasis></p>
+   <p>Запирательная мембрана — <emphasis>membrana obturatoria</emphasis></p>
+   <p>Запирательный канал — <emphasis>canalis obturatorius</emphasis></p>
+   <p>Крестцово-бугорная связка — <emphasis>ligamentum sacrotuberale</emphasis></p>
+   <p>Крестцово-остистая связка — <emphasis>ligamentum sacrospinale</emphasis></p>
+   <p>Большое седалищное отверстие — <emphasis>foramen ischiadicum majus</emphasis></p>
+   <p>Малое седалищное отверстие — <emphasis>foramen ischiadicum minus</emphasis></p>
+   <p>Лобковый симфиз — <emphasis>symphysis pubica</emphasis></p>
+   <p>Верхняя лобковая связка — <emphasis>ligamentum pubicum superius</emphasis></p>
+   <p>Вертлужная губа тазобедренного сустава — <emphasis>labrum acetabulare articulationis coxae</emphasis></p>
+   <p>Подвздошно-бедренная связка — <emphasis>ligamentum iliofemorale</emphasis></p>
+   <p>Связка головки бедренной кости — <emphasis>ligamentum capitis femoris</emphasis></p>
+   <p>Малоберцовая коллатеральная связка (коленного сустава) — <emphasis>ligamentum collaterale fibulare (articulationis genus)</emphasis></p>
+   <p>Большеберцовая коллатеральная связка (коленного сустава) — <emphasis>ligamentum collaterale tibiale (articulationis genus)</emphasis></p>
+   <p>Связка надколенника — <emphasis>ligamentum patellae</emphasis></p>
+   <p>Поперечная связка колена — <emphasis>ligamentum transversum genus</emphasis></p>
+   <p>Латеральный мениск коленного сустава — <emphasis>meniscus lateralis articulationis genus</emphasis></p>
+   <p>Медиальный мениск коленного сустава — <emphasis>meniscus medialis articulationis genus</emphasis></p>
+   <p>Передняя крестообразная связка колена — <emphasis>ligamentum cruciatum anterius genus</emphasis></p>
+   <p>Задняя крестообразная связка колена — <emphasis>ligamentum cruciatum posterius genus</emphasis></p>
+   <p>Межкостная перепонка голени — <emphasis>membrana interossea cruris</emphasis></p>
+   <p>Большеберцово — малоберцовая передняя/задняя связка — <emphasis>ligamentum tibiofibulare anterius/ posterius</emphasis></p>
+   <p>Медиальная связка голеностопного сустава — <emphasis>ligamentum mediale (deltoideum) articulationis talocruralis</emphasis></p>
+   <p>Латеральная связка голеностопного сустава — <emphasis>ligamentum laterale articulationis talocruralis</emphasis></p>
+   <p>Поперечный сустав предплюсны (Шопаров сустав) — <emphasis>articulatio tarsi transversa</emphasis></p>
+   <p>Раздвоенная связка стопы — <emphasis>ligamentum bifurcatum pedis</emphasis></p>
+   <p>Предплюсно-плюсневые суставы (Лисфранков сустав) <emphasis>— articulationes tarsometatarsales</emphasis></p>
+   <p>Длинная подошвенная связка — <emphasis>ligamentum plantare longum</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Миология</p>
+   </title>
+   <p>Трапециевидная мышца — <emphasis>musculus trapezius</emphasis></p>
+   <p>Широчайшая мышца спины — <emphasis>musculus latissimus dorsi</emphasis></p>
+   <p>Ромбовидная мышца — <emphasis>musculus rhomboideus</emphasis></p>
+   <p>Мышца поднимающая лопатку — <emphasis>musculus levator scapulae</emphasis></p>
+   <p>Мышца выпрямляющая позвоночник — <emphasis>musculus erector spinae</emphasis></p>
+   <p>Большая грудная мышца — <emphasis>musculus pectoralis mаjor</emphasis></p>
+   <p>Малая грудная мышца — <emphasis>musculus pectoralis minor</emphasis></p>
+   <p>Передняя зубчатая мышца — <emphasis>musculus serratus anterior</emphasis></p>
+   <p>Наружные, внутренние межреберные мышцы — <emphasis>musculi intercostales externi, interni</emphasis></p>
+   <p>Поясничная часть диафрагмы — <emphasis>pars lumbalis diaphragmatis</emphasis></p>
+   <p>Реберная часть диафрагмы — <emphasis>pars costalis diaphragmatis</emphasis></p>
+   <p>Грудинная часть диафрагмы — <emphasis>pars sternalis diaphragmatis</emphasis></p>
+   <p>Аортальное отверстие диафрагмы — <emphasis>hiatus</emphasis> aorticus <emphasis>diaphragmatis</emphasis></p>
+   <p>Пищеводное отверстие диафрагмы — <emphasis>hiatus оesophagеus diaphragmatis</emphasis></p>
+   <p>Отверстие нижней полой вены — <emphasis>foramen venae cavae inferioris</emphasis></p>
+   <p>Передняя пластинка влагалища прямой мышцы живота — <emphasis>lamina anterior vaginae musculi recti abdominis</emphasis></p>
+   <p>Прямая мышца живота — <emphasis>musculus rectus abdominis</emphasis></p>
+   <p>Паховая связка — <emphasis>ligamentum inguinale</emphasis></p>
+   <p>Поверхностное кольцо пахового канала — <emphasis>anulus inguinalis superficialis</emphasis></p>
+   <p>Наружная косая мышца живота — <emphasis>musculus obliquus externus abdominis</emphasis></p>
+   <p>Внутренняя косая мышца живота — <emphasis>musculus obliquus internus abdominis</emphasis></p>
+   <p>Поперечная мышца живота — <emphasis>musculus transversus abdominis</emphasis></p>
+   <p>Грудино-ключично-сосцевидная мышца — <emphasis>musculus sternocleidomastoideus</emphasis></p>
+   <p>Поднижнечелюстной треугольник — <emphasis>trigonum submandibulare</emphasis></p>
+   <p>Челюстно-подъязычная мышца — <emphasis>musculus mylohyoideus</emphasis></p>
+   <p>Шилоподъязычная мышца — <emphasis>musculus stylohyoideus</emphasis></p>
+   <p>Двубрюшная мышца — <emphasis>musculus digastricus</emphasis></p>
+   <p>Грудино-подъязычная мышца — <emphasis>musculus sternohyoideus</emphasis></p>
+   <p>Грудино-щитовидная мышца — <emphasis>musculus sternothyreoideus</emphasis></p>
+   <p>Щито-подъязычная мышца — <emphasis>musculus thyreohyoideus</emphasis></p>
+   <p>Лопаточно-подъязычная мышца — <emphasis>musculus omohyoideus</emphasis></p>
+   <p>Сонный треугольник — <emphasis>trigonum caroticum</emphasis></p>
+   <p>Лопаточно-трахеальный треугольник — <emphasis>trigonum omotracheale</emphasis></p>
+   <p>Передняя лестничная мышца — <emphasis>musculus scalenus anterior</emphasis></p>
+   <p>Средняя лестничная мышца — <emphasis>musculus scalenus medius</emphasis></p>
+   <p>Задняя лестничная мышца — <emphasis>musculus scalenus posterior</emphasis></p>
+   <p>Лобное брюшко затылочно-лобной мышцы — <emphasis>venter frontalis musculi occipitofrontalis</emphasis></p>
+   <p>Надчерепной апоневроз (сухожильный шлем) — <emphasis>aponeurosis epicranialis (galea aponeurotica)</emphasis></p>
+   <p>Круговая мышца глаза — <emphasis>musculus orbicularis oculi</emphasis></p>
+   <p>Большая скуловая мышца — <emphasis>musculus zygomaticus major</emphasis></p>
+   <p>Мышца, поднимающая верхнюю губу — <emphasis>musculus levator labii superioris</emphasis></p>
+   <p>Щёчная мышца — <emphasis>musculus buccinator</emphasis></p>
+   <p>Височная мышца — <emphasis>musculus temporalis</emphasis></p>
+   <p>Жевательная мышца — <emphasis>musculus masseter</emphasis></p>
+   <p>Латеральная крыловидная мышца — <emphasis>musculus pterygoideus lateralis</emphasis></p>
+   <p>Медиальная крыловидная мышца — <emphasis>musculus pterygoideus medialis</emphasis></p>
+   <p>Дельтовидная мышца — <emphasis>musculus deltoideus</emphasis></p>
+   <p>Надостная мышца — <emphasis>musculus supraspinatus</emphasis></p>
+   <p>Подостная мышца — <emphasis>musculus infraspinatus</emphasis></p>
+   <p>Подлопаточная мышца — <emphasis>musculus subscapularis</emphasis></p>
+   <p>Малая круглая мышца — <emphasis>musculus teres minor</emphasis></p>
+   <p>Большая круглая мышца — <emphasis>musculus teres major</emphasis></p>
+   <p>Длинная головка двухглавой мышцы плеча — <emphasis>caput longum musculi bicipitis brachii</emphasis></p>
+   <p>Клювовидно-плечевая мышца — <emphasis>musculus coracobrachialis</emphasis></p>
+   <p>Подмышечная полость — <emphasis>cavum axillare</emphasis></p>
+   <p>Трехстороннее отверстие — <emphasis>foramen trilaterum</emphasis></p>
+   <p>Четырехстороннее отверстие — <emphasis>foramen quadrilaterum</emphasis></p>
+   <p>Плече-мышечный канал (лучевого нерва) — <emphasis>canalis humeromuscularis (nervi radialis)</emphasis></p>
+   <p>Локтевая ямка <emphasis>— fossa cubiti</emphasis></p>
+   <p>Локтевая мышца — <emphasis>musculus anconeus</emphasis></p>
+   <p>Лучевой сгибатель запястья — <emphasis>musculus flexor carpi radialis</emphasis></p>
+   <p>Круглый пронатор — <emphasis>musculus pronator teres</emphasis></p>
+   <p>Локтевой сгибатель запястья — <emphasis>musculus flexor carpi ulnaris</emphasis></p>
+   <p>Поверхностный сгибатель пальцев (кисти) — <emphasis>musculus flexor digitorum superficialis</emphasis></p>
+   <p>Глубокий сгибатель пальцев (кисти) — <emphasis>musculus flexor digitorum profundus</emphasis></p>
+   <p>Длинный сгибатель большого пальца — <emphasis>musculus flexor pollicis longus</emphasis></p>
+   <p>Квадратный пронатор — <emphasis>musculus pronator quadratus</emphasis></p>
+   <p>Удерживатель сгибателей — <emphasis>retinaculum flexorum</emphasis></p>
+   <p>Длинный лучевой разгибатель запястья — <emphasis>musculus extensor carpi radialis longus</emphasis></p>
+   <p>Короткий лучевой разгибатель запястья — <emphasis>musculus extensor carpi radialis brevis</emphasis></p>
+   <p>Разгибатель пальцев (кисти) — <emphasis>musculus extensor digitorum (manus)</emphasis></p>
+   <p>Локтевой разгибатель запястья — <emphasis>musculus extensor carpi ulnaris</emphasis></p>
+   <p>Супинатор — <emphasis>musculus supinator</emphasis></p>
+   <p>Длинная мышца, отводящая большой палец (кисти) — <emphasis>musculus abductor pollicis longus</emphasis></p>
+   <p>Короткий разгибатель большого пальца (кисти) — <emphasis>musculus extensor pollicis brevis</emphasis></p>
+   <p>Длинный разгибатель большого пальца (кисти) — <emphasis>musculus extensor pollicis longus</emphasis></p>
+   <p>Короткая мышца, отводящая большой палец (кисти) — <emphasis>musculus abductor pollicis brevis</emphasis></p>
+   <p>Короткий сгибатель большого пальца (кисти) — <emphasis>musculus flexor pollicis brevis</emphasis></p>
+   <p>Мышца, приводящая большой палец (кисти) — <emphasis>musculus adductor pollicis</emphasis></p>
+   <p>Короткий сгибатель мизинца (кисти) — <emphasis>musculus flexor digiti minimi brevis</emphasis></p>
+   <p>Мышца, противопоставляющая мизинец (кисти) — <emphasis>musculus opponens digiti minimi</emphasis></p>
+   <p>Червеобразные мышцы — <emphasis>musculi lumbricales</emphasis></p>
+   <p>Межкостные мышцы — <emphasis>musculi interossei</emphasis></p>
+   <p>Удерживатель разгибателей — <emphasis>retinaculum extensorum</emphasis></p>
+   <p>Подвздошно-поясничная мышца — <emphasis>musculus iliopsoas</emphasis></p>
+   <p>Мышечная лакуна (на бедре) — <emphasis>lacuna musculorum</emphasis></p>
+   <p>Сосудистая лакуна (на бедре) — <emphasis>lacuna vasorum</emphasis></p>
+   <p>Бедренный канал — <emphasis>canalis femoralis</emphasis></p>
+   <p>Мышца, напрягающая широкую фасцию — <emphasis>musculus tensor fasciae latae</emphasis></p>
+   <p>Большая ягодичная мышца — <emphasis>musculus gluteus maximus</emphasis></p>
+   <p>Средняя ягодичная мышца — <emphasis>musculus gluteus medius</emphasis></p>
+   <p>Малая ягодичная мышца — <emphasis>musculus gluteus minimus</emphasis></p>
+   <p>Грушевидная мышца — <emphasis>musculus piriformis</emphasis></p>
+   <p>Надгрушевидное отверстие — <emphasis>foramen suprapiriforme</emphasis></p>
+   <p>Подгрушевидное отверстие — <emphasis>foramen infrapiriforme</emphasis></p>
+   <p>Портняжная мышца — <emphasis>musculus sartorius</emphasis></p>
+   <p>Прямая мышца (четырехглавая мышца) — <emphasis>musculus rectus femoris (musculus quadriceps femoris)</emphasis></p>
+   <p>Длинная приводящая мышца бедра — <emphasis>musculus adductor longus (pedis)</emphasis></p>
+   <empty-line/>
+   <p>Тонкая мышца — <emphasis>musculus gracilis</emphasis></p>
+   <p>Большая приводящая мышца бедра — <emphasis>musculus adductor magnus femoris</emphasis> Гребенчатая мышца — <emphasis>musculus pectineus</emphasis></p>
+   <p>Широкая фасция бедра — <emphasis>fascia lata femoris</emphasis></p>
+   <p>Подвздошно-большеберцовый тракт — <emphasis>tractus iliotibialis</emphasis></p>
+   <p>Приводящий канал — <emphasis>canalis adductorius</emphasis></p>
+   <p>Подкожная щель (бедренного канала) — <emphasis>hiatus saphenus</emphasis></p>
+   <p>Двуглавая мышца бедра — <emphasis>musculus biceps femoris</emphasis></p>
+   <p>Полусухожильная мышца — <emphasis>musculus semitendinosus</emphasis></p>
+   <p>Полуперепончатая мышца — <emphasis>musculus semimembranosus</emphasis></p>
+   <p>Передняя большеберцовая мышца — <emphasis>musculus tibialis anterior</emphasis></p>
+   <p>Длинный разгибатель пальцев (стопы) — <emphasis>musculus extensor digitorum longus (pedis)</emphasis></p>
+   <p>Длинный разгибатель большого пальца (стопы) — <emphasis>musculus extensor hallucis longus (pedis)</emphasis></p>
+   <p>Длинная малоберцовая мышца — <emphasis>musculus peroneus longus</emphasis></p>
+   <p>Короткая малоберцовая мышца — <emphasis>musculus peroneus brevis</emphasis></p>
+   <p>Трехглавая мышца голени — <emphasis>musculus triceps surae</emphasis></p>
+   <p>Икроножная мышца — <emphasis>musculus gastrocnemius</emphasis></p>
+   <p>Камбаловидная мышца — <emphasis>musculus soleus</emphasis></p>
+   <p>Длинный сгибатель пальцев (стопы) — <emphasis>musculus flexor digitorum longus</emphasis></p>
+   <p>Длинный сгибатель большого пальца (стопы) — <emphasis>musculus flexor hallucis longus</emphasis></p>
+   <p>Верхний удерживатель сухожилий разгибателей (стопы) — <emphasis>retinaculum musculorum extensorum superius</emphasis></p>
+   <p>Нижний удерживатель сухожилий разгибателей (стопы) — <emphasis>retinaculum musculorum extensorum inferius</emphasis></p>
+   <p>Удерживатель сгибателей — <emphasis>retinaculum flexorum</emphasis></p>
+   <p>Верхний удерживатель сухожилий малоберцовых мышц — <emphasis>retinaculum musculorum peroneorum superius</emphasis></p>
+   <p>Нижний удерживатель сухожилий малоберцовых мышц — <emphasis>retinaculum musculorum peroneorum inferius</emphasis></p>
+   <p>Короткий разгибатель пальцев (стопы) — <emphasis>musculus extensor digitorum</emphasis></p>
+   <p>Короткий разгибатель большого пальца (стопы) — <emphasis>musculus extensor hallucis brevis</emphasis></p>
+   <p>Короткий сгибатель пальцев (стопы) — <emphasis>musculus flexor digitorum pedis brevis</emphasis></p>
+   <p>Подошвенный апоневроз — <emphasis>aponeurosis plantaris</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Спланхнология</p>
+   </title>
+   <section>
+    <title>
+     <p>Пищеварительная система</p>
+    </title>
+    <p>Подъязычная слюнная железа — <emphasis>glandula salivaria sublingualis</emphasis></p>
+    <p>Поднижнечелюстная слюнная железа — <emphasis>glandula salivaria submandibularis</emphasis></p>
+    <p>Околоушная слюнная железа — <emphasis>glandula salivaria parotis</emphasis></p>
+    <p>Околоушный проток — <emphasis>duсtus parotideus</emphasis></p>
+    <p>Коронка зуба — <emphasis>corona dentis</emphasis></p>
+    <p>Шейка зуба — <emphasis>cervix dentis</emphasis></p>
+    <p>Корень зуба — <emphasis>radix dentis</emphasis></p>
+    <p>Резцы — <emphasis>dentes incisivi</emphasis></p>
+    <p>Kлыки — <emphasis>dentes canini</emphasis></p>
+    <p>Малые коренные зубы — <emphasis>dentes premolares</emphasis></p>
+    <p>Большие коренные зубы — <emphasis>dentes molares</emphasis></p>
+    <p>Зуб мудрости — <emphasis>dens serotinus</emphasis></p>
+    <p>Тело языка — <emphasis>corpus linguae</emphasis></p>
+    <p>Корень языка — <emphasis>radix linguae</emphasis></p>
+    <p>Спинка языка — <emphasis>dorsum linguae</emphasis></p>
+    <p>Грибовидные сосочки языка — <emphasis>papillae fungiformes linguae</emphasis></p>
+    <p>Желобовидные сосочки языка — <emphasis>papillae vallatae linguae</emphasis></p>
+    <p>Листовидные сосочки языка — <emphasis>papillae foliatae linguae</emphasis></p>
+    <p>Слепое отверстие языка — <emphasis>foramen caecum linguae</emphasis></p>
+    <p>Язычная миндалина — <emphasis>tonsilla lingualis</emphasis></p>
+    <p>Мягкое небо — <emphasis>palatum molle</emphasis></p>
+    <p>Небно-язычная дужка — <emphasis>arcus palatoglossus</emphasis></p>
+    <p>Небно-глоточная дужка — <emphasis>arcus palatopharyngeus</emphasis></p>
+    <p>Трубный валик — <emphasis>torus tubarius</emphasis></p>
+    <p>Свод глотки — <emphasis>fornix pharyngis</emphasis></p>
+    <p>Глоточная миндалина — <emphasis>tonsilla pharyngealis</emphasis></p>
+    <p>Глоточное отверстие слуховой трубы — <emphasis>ostium pharyngeum tubae auditivae</emphasis></p>
+    <p>Верхний констриктор глотки — <emphasis>musculus constrictor pharyngis superior</emphasis></p>
+    <p>Средний констриктор глотки — <emphasis>musculus constrictor pharyngis medius</emphasis></p>
+    <p>Нижний констриктор глотки — <emphasis>musculus constrictor pharyngis inferior</emphasis></p>
+    <p>Шило-глоточная мышца — <emphasis>musculus stylopharyngeus</emphasis></p>
+    <p>Шейная часть пищевода — <emphasis>pars cervicalis oesophagi</emphasis></p>
+    <p>Грудная часть пищевода — <emphasis>pars thoracica oesophagi</emphasis></p>
+    <p>Брюшная часть пищевода — <emphasis>pars abdominalis oesophagi</emphasis></p>
+    <p>Передняя стенка желудка — <emphasis>paries anterior ventriculi</emphasis></p>
+    <p>Задняя стенка желудка — <emphasis>paries posterior ventriculi</emphasis></p>
+    <p>Большая кривизна желудка — <emphasis>curvatura ventriculi major</emphasis></p>
+    <p>Малая кривизна желудка — <emphasis>curvatura ventriculi minor</emphasis></p>
+    <p>Кардиальная часть желудка — <emphasis>pars cardiaca ventriculi</emphasis></p>
+    <p>Дно желудка — <emphasis>fundus ventriculi</emphasis></p>
+    <p>Тело желудка — <emphasis>corpus ventriculi</emphasis></p>
+    <p>Привратниковая часть желудка — <emphasis>pars pylorica ventriculi</emphasis></p>
+    <p>Привратниковый сфинктер — <emphasis>musculus sphincter pylori</emphasis></p>
+    <p>Круговые складки тонкой кишки — <emphasis>plicae circulares intestini tenuis</emphasis></p>
+    <p>Верхняя часть двенадцатиперстной кишки — <emphasis>pars superior duodeni</emphasis></p>
+    <p>Нисходящая часть двенадцатиперстной кишки — <emphasis>pars descendens duodeni</emphasis></p>
+    <p>Двенадцатиперстно-тощий изгиб — <emphasis>flexura duodenojejunalis</emphasis></p>
+    <p>Большой сосочек двенадцатиперстной кишки — <emphasis>papilla duodeni major</emphasis></p>
+    <p>Малый сосочек двенадцатиперстной кишки — <emphasis>papilla duodeni minor</emphasis></p>
+    <p>Тощая кишка — <emphasis>jejunum</emphasis></p>
+    <p>Подвздошная <emphasis>кишка — ileum</emphasis></p>
+    <p>Слепая кишка <emphasis>— caecum (cecum)</emphasis></p>
+    <p>Подвздошно-слепокишечное отверстие — <emphasis>foramen ileocaecale</emphasis></p>
+    <p>Червеобразный отросток — <emphasis>appendix vermiformis</emphasis></p>
+    <p>Восходящая ободочная кишка — <emphasis>colon ascendens</emphasis></p>
+    <p>Правый изгиб ободочной кишки — <emphasis>flexura coli dextra</emphasis></p>
+    <p>Поперечная ободочная кишка — <emphasis>colon transversum</emphasis></p>
+    <p>Левый изгиб ободочной кишки — <emphasis>flexura coli sinistra</emphasis></p>
+    <p>Нисходящая ободочная кишка — <emphasis>colon descendens</emphasis></p>
+    <p>Сигмовидная ободочная кишка — <emphasis>colon sigmoideum</emphasis></p>
+    <p>Гаустры — <emphasis>haustra coli</emphasis></p>
+    <p>Сальниковые отростки — <emphasis>appendices epiploicae (omentales)</emphasis></p>
+    <p>Брыжеечная лента ободочной кишки — <emphasis>taenia mesocolica</emphasis></p>
+    <p>Сальниковая лента ободочная кишка — <emphasis>taenia coli omentalis</emphasis></p>
+    <p>Свободная лента ободочной кишки — <emphasis>taenia coli libera</emphasis></p>
+    <p>Полулунные складки ободочной кишки — <emphasis>plicae coli semilunares</emphasis></p>
+    <p>Прямая кишка — <emphasis>rectum</emphasis></p>
+    <p>Диафрагмальная поверхность печени — <emphasis>facies diaphragmatica hepatis</emphasis></p>
+    <p>Висцеральная поверхность печени — <emphasis>facies visceralis hepatis</emphasis></p>
+    <p>Ямка желчного пузыря — <emphasis>fossa vesicae felleae</emphasis></p>
+    <p>Ворота печени — <emphasis>porta hepatis</emphasis></p>
+    <p>Желудочное вдавление (на печени) — <emphasis>impressio gastrica</emphasis></p>
+    <p>Почечное вдавление (на печени) — <emphasis>impressio renalis</emphasis></p>
+    <p>Правая доля печени — <emphasis>lobus hepatis dexter</emphasis></p>
+    <p>Левая доля печени — <emphasis>lobus hepatis sinister</emphasis></p>
+    <p>Квадратная доля печени — <emphasis>lobus quadratus hepatis</emphasis></p>
+    <p>Хвостатая доля печени — <emphasis>lobus caudatus hepatis</emphasis></p>
+    <p>Борозда нижней полой вены (печени) — <emphasis>sulcus venae cavae (hepatis)</emphasis></p>
+    <p>Щель круглой связки печени — <emphasis>fissura ligamenti teretis (hepatis)</emphasis></p>
+    <p>Круглая связка печени — <emphasis>ligamentum teres hepatis</emphasis></p>
+    <p>Общий печеночный проток — <emphasis>ductus hepaticus communis</emphasis></p>
+    <p>Правый печеночный проток — <emphasis>ductus hepaticus dexter</emphasis></p>
+    <p>Левый печеночный проток — <emphasis>ductus hepaticus sinister</emphasis></p>
+    <p>Дно желчного пузыря — <emphasis>fundus vesicae felleae</emphasis></p>
+    <p>Тело желчного пузыря — <emphasis>corpus vesicae felleae</emphasis></p>
+    <p>Шейка желчного пузыря — <emphasis>collum vesicae felleae</emphasis></p>
+    <p>Пузырный проток — <emphasis>ductus cysticus</emphasis></p>
+    <p>Общий желчный проток — <emphasis>ductus choledochus</emphasis></p>
+    <p>Головка поджелудочной железы — <emphasis>caput pancreatis</emphasis></p>
+    <p>Тело поджелудочной железы — <emphasis>corpus pancreatis</emphasis></p>
+    <p>Хвост поджелудочной железы — <emphasis>cauda pancreatis</emphasis></p>
+    <p>Брыжейка тонкой кишки — <emphasis>mesenterium</emphasis></p>
+    <p>Брыжейка сигмовидной кишки — <emphasis>mesocolon sigmoideum</emphasis></p>
+    <p>Большой сальник — <emphasis>omentum majus</emphasis></p>
+    <p>Малый сальник — <emphasis>omentum minus</emphasis></p>
+    <p>Сальниковое отверстие — <emphasis>foramen epiploicum (omentale)</emphasis></p>
+    <p>Брыжейка аппендикса — <emphasis>mesoappendix</emphasis></p>
+    <p>Печеночная сумка — <emphasis>bursa hepatica</emphasis></p>
+    <p>Преджелудочная сумка — <emphasis>bursa pregastrica</emphasis></p>
+    <p>Сальниковая сумка — <emphasis>bursa omentalis</emphasis></p>
+    <p>Правый брыжеечный синус (брюшины) — <emphasis>sinus mesentericus dexter</emphasis></p>
+    <p>Левый брыжеечный синус (брюшины) — <emphasis>sinus mesentericus sinister</emphasis></p>
+    <p>Правый латеральный канал (околоободочно-кишечная борозда) — <emphasis>canalis lateralis dexter (sulcus paracolicus dexter)</emphasis></p>
+    <p>Левый латеральный канал (околоободочно-кишечная борозда) — <emphasis>canalis lateralis sinister (sulcus paracolicus sinister)</emphasis></p>
+    <p>Верхнее подвздошно-слепокишечное углубление — <emphasis>recessus ileocaecalis superior</emphasis></p>
+    <p>Прямокишечно-маточное углубление — <emphasis>excavatio rectouterina</emphasis></p>
+    <p>Пузырно-маточное углубление — <emphasis>excavatio vesicouterina</emphasis></p>
+    <p>Прямокишечно-пузырное углубление — <emphasis>excavatio rectovesicalis</emphasis></p>
+   </section>
+   <section>
+    <title>
+     <p>Дыхательная система</p>
+    </title>
+    <p>Перегородка носа — <emphasis>septum nasi</emphasis></p>
+    <p>Верхняя носовая раковина — <emphasis>concha nasalis superior</emphasis></p>
+    <p>Средняя носовая раковина — <emphasis>concha nasalis media</emphasis></p>
+    <p>Нижняя носовая раковина — <emphasis>concha nasalis inferior</emphasis></p>
+    <p>Верхний носовой ход — <emphasis>meatus nasi superior</emphasis></p>
+    <p>Средний носовой ход — <emphasis>meatus nasi medius</emphasis></p>
+    <p>Нижний носовой ход — <emphasis>meatus nasi inferior</emphasis></p>
+    <p>Хоаны — <emphasis>choanae</emphasis></p>
+    <p>Гортань (на трупе)<emphasis> — larynx</emphasis></p>
+    <p>Выступ гортани — <emphasis>prominentia laryngea</emphasis></p>
+    <p>Щитовидный хрящ гортани — <emphasis>cartilago thyroidea laryngis</emphasis></p>
+    <p>Верхний рог щитовидного хряща — <emphasis>cornu superius cartilaginis thyroideae</emphasis></p>
+    <p>Нижний рог щитовидного хряща — <emphasis>cornu inferius cartilaginis thyroideae</emphasis></p>
+    <p>Дуга перстневидного хряща — <emphasis>arcus cartilaginis cricoideae</emphasis></p>
+    <p>Пластинка перстневидного хряща — <emphasis>lamina cartilaginis cricoideae</emphasis></p>
+    <p>Черпаловидный хрящ <emphasis>— cartilago arytenoidea</emphasis></p>
+    <p>Мышечный отросток черпаловидного хряща — <emphasis>processus muscularis cartilaginis arytenoideae</emphasis></p>
+    <p>Голосовой отросток черпаловидного хряща — <emphasis>processus vocalis cartilaginis arytenoideae</emphasis></p>
+    <p>Верхушка черпаловидного хряща — <emphasis>apex cartilaginis arytenoideae</emphasis></p>
+    <p>Надгортанник — <emphasis>epiglottis</emphasis></p>
+    <p>Щито-подъязычная мембрана — <emphasis>membrana thyrohyoidea</emphasis></p>
+    <p>Срединная щито-подъязычная связка — <emphasis>ligamentum thyrohyoideum medianum</emphasis></p>
+    <p>Перстне-щитовидный сустав — <emphasis>articulatio cricothyroidea</emphasis></p>
+    <p>Перстне-щитовидная связка — <emphasis>ligamentum cricothyroideum</emphasis></p>
+    <p>Перстне-трахеальная связка — <emphasis>ligamentum cricotracheale</emphasis></p>
+    <p>Перстне-черпаловидный сустав — <emphasis>articulatio cricoarytenoidea</emphasis></p>
+    <p>Межчерпаловидная вырезка — <emphasis>incisura interarytenoidea</emphasis></p>
+    <p>Вход в гортань — <emphasis>aditus laryngis</emphasis></p>
+    <p>Преддверие гортани — <emphasis>vestibulum laryngis</emphasis></p>
+    <p>Голосовая связка гортани — <emphasis>plica vocalis</emphasis></p>
+    <p>Складка преддверия (гортани) — <emphasis>plica vestibularis</emphasis></p>
+    <p>Желудочек гортани — <emphasis>ventriculus laryngis</emphasis></p>
+    <p>Подголосовая полость гортани — <emphasis>cavitas infraglottica laryngis</emphasis></p>
+    <p>Голосовая щель — <emphasis>rima glottidis</emphasis></p>
+    <p>Межперепончатая часть голосовой щели — <emphasis>pars intermembranacea rimae glottidis</emphasis></p>
+    <p>Межхрящевая часть голосовой щели — <emphasis>pars intercartilaginea rimae glottidis</emphasis></p>
+    <p>Перстнещитовидная мышца — <emphasis>musculus cricothyroideus</emphasis></p>
+    <p>Задняя перстне-черпаловидная мышца — <emphasis>musculus cricoarytenoideus posterior</emphasis></p>
+    <p>Поперечная черпаловидная мышца — <emphasis>musculus arytenoideus transversus</emphasis></p>
+    <p>Косая черпаловидная мышца — <emphasis>musculus arytenoideus obliquus</emphasis></p>
+    <p>Трахея — <emphasis>trachea</emphasis></p>
+    <p>Хрящи трахеи — <emphasis>cartilagines tracheales</emphasis></p>
+    <p>Кольцевые связки трахеи — <emphasis>ligamenta anularia tracheae</emphasis></p>
+    <p>Перепончатая стенка трахеи — <emphasis>paries membranaceus</emphasis></p>
+    <p>Бифуркация трахеи — <emphasis>bifurcatio tracheae</emphasis></p>
+    <p>Правый главный бронх — <emphasis>bronchus principalis dexter</emphasis></p>
+    <p>Левый главный бронх — <emphasis>bronchus principalis sinister</emphasis></p>
+    <p>Основание легкого — <emphasis>basis pulmonis</emphasis></p>
+    <p>Верхушка легкого — <emphasis>apex pulmonis</emphasis></p>
+    <p>Реберная поверхность легкого — <emphasis>facies costalis pulmonis</emphasis></p>
+    <p>Медиальная поверхность легкого — <emphasis>facies medialis pulmonis</emphasis></p>
+    <p>Диафрагмальная поверхность легкого — <emphasis>facies diaphragmatica pulmonis</emphasis></p>
+    <p>Передний край легкого — <emphasis>margo anterior pulmonis</emphasis></p>
+    <p>Язычок левого легкого — <emphasis>lingula pulmonis sinistri</emphasis></p>
+    <p>Сердечная вырезка левого легкого — <emphasis>incisura cardiaca pulmonis sinistri</emphasis></p>
+    <p>Нижний край левого легкого — <emphasis>margo inferior pulmonis sinistri</emphasis></p>
+    <p>Ворота легкого — <emphasis>hilum pulmonis</emphasis></p>
+    <p>Корень легкого — <emphasis>radix pulmonis</emphasis></p>
+    <p>Верхняя доля легкого (правого, левого) — <emphasis>lobus superior pulmonis (dextri, sinistri)</emphasis></p>
+    <p>Средняя доля правого легкого — <emphasis>lobus medius pulmonis dextri</emphasis></p>
+    <p>Нижняя доля легкого (правого, левого) — <emphasis>lobus inferior pulmonis (dextri, sinistri)</emphasis></p>
+    <p>Косая щель легкого — <emphasis>fissura obliqua pulmonis</emphasis></p>
+    <p>Горизонтальная щель правого легкого — <emphasis>fissura horizontalis pulmonis dextri</emphasis></p>
+    <p>Плевральная полость — <emphasis>cavitas pleuralis</emphasis></p>
+    <p>Купол плевры — <emphasis>cupula pleurae</emphasis></p>
+    <p>Висцеральная (легочная) плевра — <emphasis>pleura visceralis (pulmonalis)</emphasis></p>
+    <p>Париетальная плевра — <emphasis>pleura parietalis</emphasis></p>
+    <p>Медиастинальная плевра — <emphasis>pleura mediastinalis</emphasis></p>
+    <p>Диафрагмальная плевра — <emphasis>pleura diaphragmatica</emphasis></p>
+    <p>Реберно-диафрагмальный синус — <emphasis>recessus costodiaphragmaticus</emphasis></p>
+    <p>Реберно-медиастинальный синус — <emphasis>recessus costomediastinalis</emphasis></p>
+   </section>
+   <section>
+    <title>
+     <p>Мочеполовой аппарат</p>
+    </title>
+    <p>Почка (правая, левая) — <emphasis>ren (dexter, sinister)</emphasis></p>
+    <p>Почечные ворота — <emphasis>hilum renalis</emphasis></p>
+    <p>Почечная пазуха — <emphasis>sinus renalis</emphasis></p>
+    <p>Фиброзная капсула почки — <emphasis>capsula fibrosa renis</emphasis></p>
+    <p>Корковое вещество почки — <emphasis>cortex renis</emphasis></p>
+    <p>Мозговое вещество почки — <emphasis>medulla renis</emphasis></p>
+    <p>Почечная пирамида — pyramis renalis</p>
+    <p>Почечный сосочек — papilla renalis</p>
+    <p>Почечная лоханка — pelvis renalis</p>
+    <p>Большая почечная чашка — <emphasis>calyx renalis major</emphasis></p>
+    <p>Малая почечная чашка — <emphasis>calyx renalis minor</emphasis></p>
+    <p>Мочеточник (правый, левый) — <emphasis>ureter (dexter, sinister)</emphasis></p>
+    <p>Мочевой пузырь — <emphasis>vesica urinaria</emphasis></p>
+    <p>Дно мочевого пузыря — <emphasis>fundus vesicae urinariae</emphasis></p>
+    <p>Шейка мочевого пузыря — <emphasis>cervix vesicae urinariae</emphasis></p>
+    <p>Мочепузырный треугольник — <emphasis>trigonum vesicae urinariae</emphasis></p>
+    <p>Мочеточниковое отверстие — <emphasis>ostium ureteris</emphasis></p>
+    <p>Внутреннее отверстие мочеиспускательного канала — <emphasis>ostium urethrae internum</emphasis></p>
+   </section>
+   <section>
+    <title>
+     <p>Мужские половые органы</p>
+    </title>
+    <p>Яичко — <emphasis>testis</emphasis></p>
+    <p>Белочная оболочка яичка — <emphasis>tunica albuginea testis</emphasis></p>
+    <p>Придаток яичка — <emphasis>epididymis</emphasis></p>
+    <p>Головка придатка яичка — <emphasis>caput epididymidis</emphasis></p>
+    <p>Тело придатка яичка — <emphasis>corpus epididymidis</emphasis></p>
+    <p>Семявыносящий проток — <emphasis>ductus deferens</emphasis></p>
+    <p>Ампула семявыносящего протока — <emphasis>ampulla ductus deferentis</emphasis></p>
+    <p>Семенной пузырек — ve<emphasis>sicula seminalis</emphasis></p>
+    <p>Семенной бугорок — <emphasis>colliculus seminalis</emphasis></p>
+    <p>Семенной канатик — <emphasis>funiculus spermaticus</emphasis></p>
+    <p>Предстательная железа — <emphasis>prostata</emphasis></p>
+    <p>Правая (левая) доля предстательной железы — <emphasis>lobus prostatae dexter, sinister</emphasis></p>
+    <p>Перешеек предстательной железы (средняя доля) — <emphasis>isthmus prostatae (lobus medius)</emphasis></p>
+    <p>Головка полового члена — <emphasis>glans penis</emphasis></p>
+    <p>Крайняя плоть полового члена — <emphasis>preputium penis</emphasis></p>
+    <p>Пещеристое тело полового члена — <emphasis>corpus cavernosum penis</emphasis></p>
+    <p>Губчатое тело полового члена — <emphasis>corpus spongiosum penis</emphasis></p>
+    <p>Предстательная часть мужского мочеиспускательного канала — <emphasis>pars prostatica urethrae masculinae</emphasis></p>
+    <p>Перепончатая часть мужского мочеиспускательного канала — <emphasis>pars membranacea urethrae masculinae</emphasis></p>
+    <p>Губчатая часть мужского мочеиспускательного канала — <emphasis>pars spongiosa urethrae masculinae</emphasis></p>
+    <p>Мошонка — <emphasis>scrotum</emphasis></p>
+    <p>Сухожильный центр промежности — <emphasis>centrum tendineum perinei</emphasis></p>
+    <p>Диафрагма таза — <emphasis>diaphragma pelvis</emphasis></p>
+    <p>Седалищно-прямокишечная ямка — <emphasis>fossa isсhiorectalis</emphasis></p>
+    <p>Седалищно-пещеристая мышца — <emphasis>musculus ischiocavernosus</emphasis></p>
+    <p>Луковично-губчатая мышца — <emphasis>musculus bulbospongiosus</emphasis></p>
+    <p>Мышца, поднимающая задний проход — <emphasis>musculus levator ani</emphasis></p>
+    <p>Наружный сфинктер заднего прохода — <emphasis>musculus sphincter ani externus</emphasis></p>
+   </section>
+   <section>
+    <title>
+     <p>Женские половые органы</p>
+    </title>
+    <p>Яичник — <emphasis>ovarium</emphasis></p>
+    <p>Свободный край яичника — <emphasis>margo liber ovarii</emphasis></p>
+    <p>Брыжеечный край яичника — <emphasis>margo mesovaricus ovarii</emphasis></p>
+    <p>Собственная связка яичника — <emphasis>ligamentum ovarii proprium</emphasis></p>
+    <p>Поддерживающая связка яичника — <emphasis>ligamentum suspensorium ovarii</emphasis></p>
+    <p>Маточная труба — <emphasis>tuba uterina</emphasis></p>
+    <p>Бахромки маточной трубы — <emphasis>fimbriae tubae uterinae</emphasis></p>
+    <p>Воронка маточной трубы — <emphasis>infundibulum tubae uterinae</emphasis></p>
+    <p>Ампула маточной трубы — <emphasis>ampulla tubae uterinae</emphasis></p>
+    <p>Перешеек маточной трубы — <emphasis>isthmus tubae uterinae</emphasis></p>
+    <p>Тело матки <emphasis>— corpus uteri</emphasis></p>
+    <p>Дно матки — <emphasis>fundus uteri</emphasis></p>
+    <p>Шейка матки — <emphasis>cervix uteri</emphasis></p>
+    <p>Надвлагалищная часть шейки матки — <emphasis>portio supravaginalis cervicis uteri</emphasis></p>
+    <p>Влагалищная часть шейки матки — <emphasis>portio vaginalis cervicis uteri</emphasis></p>
+    <p>Широкая связка матки — <emphasis>ligamentum latum uteri</emphasis></p>
+    <p>Круглая связка матки — <emphasis>ligamentumi teres uteri</emphasis></p>
+    <p>Задний свод влагалища — <emphasis>fornix vaginae posterior</emphasis></p>
+    <p>Большая половая губа — <emphasis>labium pudendi majus</emphasis></p>
+    <p>Малая половая губа — <emphasis>labium pudendi minus</emphasis></p>
+    <p>Преддверие влагалища — <emphasis>vestibulum vaginae</emphasis></p>
+    <p>Клитор — <emphasis>clitoris</emphasis></p>
+    <p>Наружное отверстие женского мочеиспускательного канала <emphasis>— ostium externum urethrae femininae</emphasis></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>Ангиология</p>
+   </title>
+   <p>Основание сердца — <emphasis>basis cordis</emphasis></p>
+   <p>Верхушка сердца — <emphasis>apex cordis</emphasis></p>
+   <p>Грудинно-реберная (передняя) поверхность сердца — <emphasis>facies sternocostalis (anterior) cordis</emphasis></p>
+   <p>Диафрагмальная (нижняя) поверхность сердца — <emphasis>facies diaphragmatica (inferior) cordis</emphasis></p>
+   <p>Правое предсердие — <emphasis>atrium dextrum</emphasis></p>
+   <p>Левое предсердие — <emphasis>atrium sinistrum</emphasis></p>
+   <p>Правое ушко сердца — <emphasis>auricula dextra cordis</emphasis></p>
+   <p>Левое ушко сердца — <emphasis>auricula sinistra cordis</emphasis></p>
+   <p>Венечная борозда сердца — <emphasis>sulcus coronalis cordis</emphasis></p>
+   <p>Передняя межжелудочковая борозда — <emphasis>sulcus interventricularis cordis</emphasis></p>
+   <p>Правый желудочек сердца — <emphasis>ventriculus dexter</emphasis></p>
+   <p>Левый желудочек сердца — <emphasis>ventriculus sinister</emphasis></p>
+   <p>Правое предсердно-желудочковое отверстие — <emphasis>ostium atrioventriculare dextrum</emphasis></p>
+   <p>Левое предсердно-желудочковое отверстие — <emphasis>ostium atrioventriculare sinistrum</emphasis></p>
+   <p>Отверстие аорты (в сердце) — <emphasis>ostium aortae</emphasis></p>
+   <p>Клапан легочного ствола — <emphasis>valva trunci pulmonalis</emphasis></p>
+   <p>Гребенчатые мышцы (предсердий) — <emphasis>musculi pectinati</emphasis></p>
+   <p>Овальная ямка (предсердия) — <emphasis>fossa ovalis</emphasis></p>
+   <p>Отверстие верхней полой вены (в сердце) — <emphasis>ostium venae cavae superioris</emphasis></p>
+   <p>Отверстие нижней полой вены (в сердце) — <emphasis>ostium venae cavae inferioris</emphasis></p>
+   <p>Мясистые трабекулы — <emphasis>trabeculae carneae</emphasis></p>
+   <p>Сосочковые мышцы — <emphasis>musculi papillares</emphasis></p>
+   <p>Сухожильные хорды — <emphasis>chordae tendineae</emphasis></p>
+   <p>Перикард — <emphasis>pericardium</emphasis></p>
+   <p>Поперечный синус перикарда — <emphasis>sinus transversus pericardii</emphasis></p>
+   <p>Косой синус перикарда — <emphasis>sinus obliquus pericardii</emphasis></p>
+   <p>Правая венечная артерия — <emphasis>arteria coronaria dextra</emphasis></p>
+   <p>Левая венечная артерия — <emphasis>arteria coronaria sinistra</emphasis></p>
+   <p>Передняя межжелудочковая ветвь — <emphasis>ramus interventricularis anterior</emphasis></p>
+   <p>Венечный синус сердца — <emphasis>sinus coronarius cordis</emphasis></p>
+   <p>Легочный ствол — <emphasis>truncus pulmonalis</emphasis></p>
+   <p>Правая легочная артерия — <emphasis>arteria pulmonalis dextra</emphasis></p>
+   <p>Левая легочная артерия — <emphasis>arteria pulmonalis sinistra</emphasis></p>
+   <p>Луковица аорты — <emphasis>bulbus aortae</emphasis></p>
+   <p>Восходящая часть аорты — <emphasis>pars ascendens aortae</emphasis></p>
+   <p>Дуга аорты — <emphasis>arcus aortae</emphasis></p>
+   <p>Плечеголовной ствол — <emphasis>truncus brachiocephalicus</emphasis></p>
+   <p>Левая общая сонная артерия — <emphasis>arteria carotis communis sinistra</emphasis></p>
+   <p>Правая общая сонная артерия — <emphasis>arteria carotis communis dextra</emphasis></p>
+   <p>Наружняя сонная артерия — <emphasis>arteria carotis externa</emphasis></p>
+   <p>Верхняя щитовидная артерия — <emphasis>arteria thyroidea superior</emphasis></p>
+   <p>Язычная артерия — <emphasis>arteria lingualis</emphasis></p>
+   <p>Лицевая артерия — <emphasis>arteria facialis</emphasis></p>
+   <p>Затылочная артерия — <emphasis>arteria occipitalis</emphasis></p>
+   <p>Задняя ушная артерия — <emphasis>arteria auricularis pasterior</emphasis></p>
+   <p>Восходящая глоточная артерия — <emphasis>arteria pharyngea ascendens</emphasis></p>
+   <p>Поверхностная височная артерия — <emphasis>arteria temporalis superficialis</emphasis></p>
+   <p>Верхнечелюстная артерия — <emphasis>arteria maxillaris</emphasis></p>
+   <p>Нижняя альвеолярная артерия — <emphasis>arteria alveolaris inferior</emphasis></p>
+   <p>Средняя менингеальная артерия — <emphasis>arteria meningea media</emphasis></p>
+   <p>Внутренняя сонная артерия — <emphasis>arteria carotis interna</emphasis></p>
+   <p>Глазная артерия — <emphasis>arteria ophthalmica</emphasis></p>
+   <p>Передняя мозговая артерия — <emphasis>arteria cerebri anterior</emphasis></p>
+   <p>Средняя мозговая артерия — <emphasis>arteria cerebri media</emphasis></p>
+   <p>Подключичная артерия — <emphasis>arteria subclavia</emphasis></p>
+   <p>Позвоночная артерия — <emphasis>arteria vertebralis</emphasis></p>
+   <p>Базилярная артерия — <emphasis>arteria basilaris</emphasis></p>
+   <p>Задняя мозговая артерия — <emphasis>arteria cerebri posterior</emphasis></p>
+   <p>Артериальный (виллизиев) круг большого мозга — <emphasis>circulis arteriosus cerebri (Willisi)</emphasis></p>
+   <p>Внутренняя грудная артерия — <emphasis>arteria thoracica interna</emphasis></p>
+   <p>Щито-шейный ствол — <emphasis>truncus thyrocervicalis</emphasis></p>
+   <p>Нижняя щитовидная артерия — <emphasis>arteria thyroidea inferior</emphasis></p>
+   <p>Надлопаточная артерия — <emphasis>arteria suprascapularis</emphasis></p>
+   <p>Реберно-шейный ствол — <emphasis>truncus costocervicalis</emphasis></p>
+   <p>Поперечная артерия шеи — <emphasis>arteria transversa colli</emphasis></p>
+   <p>Подмышечная артерия — <emphasis>arteria axillaris</emphasis></p>
+   <p>Латеральная грудная артерия — <emphasis>arteria thoracica lateralis</emphasis></p>
+   <p>Подлопаточная артерия — <emphasis>arteria subscapularis</emphasis></p>
+   <p>Грудо-спинная артерия — <emphasis>arteria thoracodorsalis</emphasis></p>
+   <p>Артерия, огибающая лопатку — <emphasis>arteria circumflexa scapulae</emphasis></p>
+   <p>Задняя артерия, огибающая плечевую кость — <emphasis>arteria circumflexa humeri posterior</emphasis></p>
+   <p>Передняя артерия, огибающая плечевую кость — <emphasis>arteria circumflexa humeri anterior</emphasis></p>
+   <p>Плечевая артерия — <emphasis>arteria brachialis</emphasis></p>
+   <p>Глубокая артерия плеча — <emphasis>arteria profunda brachii</emphasis></p>
+   <p>Правая венечная артерия — <emphasis>arteria coronaria dextra</emphasis></p>
+   <p>Верхняя локтевая коллатеральная артерия — <emphasis>arteria collateralis ulnaris superior</emphasis></p>
+   <p>Нижняя локтевая коллатеральная артерия — <emphasis>arteria collateralis ulnaris inferior</emphasis></p>
+   <p>Лучевая артерия — <emphasis>arteria radialis</emphasis></p>
+   <p>Локтевая артерия — <emphasis>arteria ulnaris</emphasis></p>
+   <p>Поверхностная ладонная дуга — <emphasis>arcus palmaris superficialis</emphasis></p>
+   <p>Глубокая ладонная дуга — <emphasis>arcus palmaris profundus</emphasis></p>
+   <p>Общие ладонные пальцевые артерии — <emphasis>arteriae digitales palmares communes</emphasis></p>
+   <p>Артерия большого пальца кисти — <emphasis>arteria princeps pollicis</emphasis></p>
+   <p>Ладонные пястные артерии — <emphasis>arteriae metacarpeae (metacarpales) palmares</emphasis></p>
+   <p>Грудная аорта — <emphasis>aorta thoracica (pars thoracica aortae)</emphasis></p>
+   <p>Задние межреберные артерии — <emphasis>arteriae intercostales posteriores</emphasis></p>
+   <p>Брюшная аорта — <emphasis>aorta abdominalis (pars abdominalis aortae</emphasis>)</p>
+   <p>Поясничные артерии — <emphasis>arteriae lumbales</emphasis></p>
+   <p>Нижняя диафрагмальная артерия — <emphasis>arteria phrenica inferior</emphasis></p>
+   <p>Чревный ствол — <emphasis>truncus coeliacus (celiacus)</emphasis></p>
+   <p>Селезеночная артерия — <emphasis>arteria lienalis (splenica)</emphasis></p>
+   <p>Левая желудочно-сальниковая артерия — <emphasis>arteria gastroepiploica sinistra</emphasis></p>
+   <p>Левая желудочная артерия — <emphasis>arteria gastrica sinistra</emphasis></p>
+   <p>Общая печеночная артерия — <emphasis>arteria hepatica communis</emphasis></p>
+   <p>Собственная печеночная артерия — <emphasis>arteria hepatica propria</emphasis></p>
+   <p>Желудочно-двенадцатиперстная артерия — <emphasis>arteria gastroduodenalis</emphasis></p>
+   <p>Правая желудочно-сальниковая артерия — <emphasis>arteria gastroepiploica dextra</emphasis></p>
+   <p>Верхняя брыжеечная артерия — <emphasis>arteria mesenterica superior</emphasis></p>
+   <p>Тощекишечные и подвздошно-кишечные артерии — <emphasis>arteriae jejunales et ileales</emphasis></p>
+   <p>Подвздошно-ободочная артерия — <emphasis>arteria ileocolica</emphasis></p>
+   <p>Правая ободочная артерия — <emphasis>arteria colica dextra</emphasis></p>
+   <p>Средняя ободочная артерия — <emphasis>arteria colica media</emphasis></p>
+   <p>Нижняя брыжеечная артерия — <emphasis>arteria mesenterica inferior</emphasis></p>
+   <p>Левая ободочная артерия — <emphasis>arteria colica sinistra</emphasis></p>
+   <p>Сигмовидные артерии — <emphasis>arteriae sigmoideae</emphasis></p>
+   <p>Верхняя прямокишечная артерия — <emphasis>arteria rectalis superior</emphasis></p>
+   <p>Средняя надпочечниковая артерия — <emphasis>arteria suprarenalis media</emphasis></p>
+   <p>Почечная артерия — <emphasis>arteria renalis</emphasis></p>
+   <p>Нижняя надпочечниковая артерия — <emphasis>arteria suprarenalis inferior</emphasis></p>
+   <p>Яичковая (яичниковая) артерия<emphasis> — arteria testicularis (ovarica)</emphasis></p>
+   <p>Общая подвздошная артерия — <emphasis>arteria iliaca communis</emphasis></p>
+   <p>Верхняя ягодичная артерия — <emphasis>arteria glutea superior</emphasis></p>
+   <p>Пупочная артерия — <emphasis>arteria umbilicalis</emphasis></p>
+   <p>Запирательная артерия — <emphasis>arteria obturatoria</emphasis></p>
+   <p>Маточная артерия — <emphasis>arteria uterina</emphasis></p>
+   <p>Мочепузырные артерия — <emphasis>arteriae vesicale</emphasis>s</p>
+   <p>Наружная подвздошная артерия — <emphasis>arteria iliaca externa</emphasis></p>
+   <p>Нижняя надчревная артерия — <emphasis>arteria epigastrica inferior</emphasis></p>
+   <p>Бедренная артерия — <emphasis>arteria femoralis</emphasis></p>
+   <p>Глубокая артерия бедра — <emphasis>arteria profunda femoris</emphasis></p>
+   <p>Медиальная артерия, огибающая бедренную кость — <emphasis>arteria circumflexa femoris medialis</emphasis></p>
+   <p>Латеральная артерия, огибающая бедренную кость — <emphasis>arteria circumflexa femoris lateralis</emphasis></p>
+   <p>Нисходящая коленная артерия — <emphasis>arteria genus descendens</emphasis></p>
+   <p>Подколенная артерия — <emphasis>arteria poplitea</emphasis></p>
+   <p>Средняя артерия колена — <emphasis>arteria genus media</emphasis></p>
+   <p>Задняя большеберцовая артерия — <emphasis>arteria tibialis posterior</emphasis></p>
+   <p>Латеральная подошвенная артерия — <emphasis>arteria plantaris lateralis</emphasis></p>
+   <p>Медиальная подошвенная артерия — <emphasis>arteria plantaris medialis</emphasis></p>
+   <p>Передняя большеберцовая артерия — <emphasis>arteria tibialis anterior</emphasis></p>
+   <p>Тыльная артерия стопы — <emphasis>arteria dorsalis pedis</emphasis></p>
+   <p>Тыльная артериальная дуга (стопы) — <emphasis>arcus arteriosus dorsalis</emphasis></p>
+   <p>Верхняя полая вена — <emphasis>vena cava superior</emphasis></p>
+   <p>Непарная вена<emphasis> — vena azygos</emphasis></p>
+   <p>Полунепарная вена — <emphasis>vena hemiazygos</emphasis></p>
+   <p>Добавочная полунепарная вена — <emphasis>vena hemiazygos accessoria</emphasis></p>
+   <p>Задние межреберные вены — <emphasis>venae intercostales posteriores</emphasis></p>
+   <p>Правая плечеголовная вена — <emphasis>vena brachiocephalica dextra</emphasis></p>
+   <p>Левая плечеголовная вена — <emphasis>vena brachiocephalica sinistra</emphasis></p>
+   <p>Внутренняя яремная вена — <emphasis>vena jugularis interna</emphasis></p>
+   <p>Наружная яремная вена — <emphasis>vena jugularis externa</emphasis></p>
+   <p>Подключичная вена — <emphasis>vena subclavia</emphasis></p>
+   <p>Латеральная подкожная вена руки — <emphasis>vena cephalica</emphasis></p>
+   <p>Медиальная подкожная вена руки — <emphasis>vena basilica</emphasis></p>
+   <p>Подмышечная вена — <emphasis>vena axillaris</emphasis></p>
+   <p>Плечевая вена — <emphasis>vena brachialis</emphasis></p>
+   <p>Локтевая вена — <emphasis>vena ulnaris</emphasis></p>
+   <p>Лучевая вена — <emphasis>vena radialis</emphasis></p>
+   <p>Нижняя полая вена — <emphasis>vena cava inferior</emphasis></p>
+   <p>Поясничные вены — <emphasis>venae lumbales</emphasis></p>
+   <p>Яичковая (яичниковая) вена — <emphasis>vena testicularis (ovarica)</emphasis></p>
+   <p>Почечная вена — <emphasis>vena renalis</emphasis></p>
+   <p>Надпочечниковая вена — <emphasis>vena suprarenalis</emphasis></p>
+   <p>Воротная вена — <emphasis>vena portae (portalis)</emphasis></p>
+   <p>Верхняя брыжеечная вена — <emphasis>vena mesenterica superior</emphasis></p>
+   <p>Нижняя брыжеечная вена — <emphasis>vena mesenterica inferior</emphasis></p>
+   <p>Селезеночная вена — <emphasis>vena lienalis</emphasis></p>
+   <p>Общая подвздошная вена — <emphasis>vena iliaca communis</emphasis></p>
+   <p>Внутренняя подвздошная вена — <emphasis>vena iliaca interna</emphasis></p>
+   <p>Наружная подвздошная вена — <emphasis>vena iliaca externa</emphasis></p>
+   <p>Большая подкожная вена ноги — <emphasis>vena saphena magna</emphasis></p>
+   <p>Малая подкожная вена ноги — <emphasis>vena saphena parva</emphasis></p>
+   <p>Бедренная вена — <emphasis>vena femoralis</emphasis></p>
+   <p>Подколенная вена — <emphasis>vena poplitea</emphasis></p>
+   <p>Передняя большеберцовая вена — <emphasis>vena tibialis anterior</emphasis></p>
+   <p>Задняя большеберцовая вена — <emphasis>vena tibialis posterior</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Лимфатическая система</p>
+   </title>
+   <p>Грудной лимфатический проток — <emphasis>ductus thoracicus</emphasis></p>
+   <p>Поднижнечелюстные лимфатические узлы — <emphasis>nodi lymphatici submandibulares</emphasis></p>
+   <p>Бронхолегочные лимфатические узлы<emphasis> — nodi lymphatici bronchopulmonales</emphasis></p>
+   <p>Поясничные лимфатические узлы — <emphasis>nodi lymphatici lumbales</emphasis></p>
+   <p>Левые желудочные лимфатические узлы — <emphasis>nodi lymphatici gastrici sinistri</emphasis></p>
+   <p>Правые желудочные лимфатические узлы — <emphasis>nodi lymphatici gastrici dextri</emphasis></p>
+   <p>Левые желудочно-сальниковые лимфатические узлы — <emphasis>nodi lymphatici gastroomentales sinistri</emphasis></p>
+   <p>Правые желудочно-сальниковые лимфатические узлы — <emphasis>nodi lymphatici gastroomentales dextri</emphasis></p>
+   <p>Верхние брыжеечные лимфатические узлы — <emphasis>nodi lymphatici mesenterici superiores</emphasis></p>
+   <p>Подмышечные лимфатические узлы — <emphasis>nodi lymphatici axillares</emphasis></p>
+   <p>Паховые лимфатические узлы — <emphasis>nodi lymphatici inguinales</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Иммунная система</p>
+   </title>
+   <p>Тимус — <emphasis>thymus</emphasis></p>
+   <p>Небная миндалина — <emphasis>tonsilla palatina</emphasis></p>
+   <p>Язычная миндалина — <emphasis>tonsilla lingualis</emphasis></p>
+   <p>Аппендикс — <emphasis>appendix vermiformis</emphasis></p>
+   <p>Селезенка <emphasis>— lien (splen)</emphasis></p>
+   <p>Ворота селезенки — <emphasis>hilum lienis</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Центральная нервная система</p>
+   </title>
+   <p>Передняя срединная щель спинного мозга — <emphasis>fissura mediana anterior medullae spinalis</emphasis></p>
+   <p>Задняя срединная борозда спинного мозга — <emphasis>sulcus medianus posterior medullae spinalis</emphasis></p>
+   <p>Передний канатик спинного мозга (на разрезе или на целом мозге) — <emphasis>funiculus anterior medullae spinalis</emphasis></p>
+   <p>Боковой канатик спинного мозга (на разрезе или на целом мозге) — <emphasis>funiculus lateralis medullae spinalis</emphasis></p>
+   <p>Задний канатик спинного мозга (на разрезе или на целом мозге) — <emphasis>funiculus posterior medullae spinalis</emphasis></p>
+   <p>Передний рог спинного мозга (на разрезе) — <emphasis>cornu anterius medullae spinalis</emphasis></p>
+   <p>Задний рог спинного мозга (на разрезе) — <emphasis>cornu posterius medullae spinalis</emphasis></p>
+   <p>Серп большого мозга (твердая оболочка головного мозга)<emphasis> — falx cerebri</emphasis></p>
+   <p>Намет мозжечка — <emphasis>tentorium cerebelli</emphasis></p>
+   <p>Верхний сагиттальный синус (твердой мозговой оболочки) — <emphasis>sinus sagittalis superior</emphasis></p>
+   <p>Нижний сагиттальный синус — <emphasis>sinus sagittalis inferior</emphasis></p>
+   <p>Поперечный синус — <emphasis>sinus transversus</emphasis></p>
+   <p>Сигмовидный синус — <emphasis>sinus sigmoideus</emphasis></p>
+   <p>Верхний каменистый синус — <emphasis>sinus petrosus superior</emphasis></p>
+   <p>Пещеристый синус — <emphasis>sinus cavernosus</emphasis></p>
+   <p>Пирамида продолговатого мозга — <emphasis>pyramis medullae oblongatae</emphasis></p>
+   <p>Перекрест пирамид — <emphasis>decussatio pyramidum</emphasis></p>
+   <p>Олива продолговатого мозга — <emphasis>oliva medullae oblongatae</emphasis></p>
+   <p>Базилярная борозда (моста) — s<emphasis>ulcus basilaris (pontis)</emphasis></p>
+   <p>Средняя мозжечковая ножка — <emphasis>pedunculus cerebellaris medius (pontinus)</emphasis></p>
+   <p>Нижняя мозжечковая ножка — <emphasis>pedunculus cerebellaris inferior</emphasis></p>
+   <p>Верхняя мозжечковая ножка — <emphasis>pedunculus cerebellaris superior</emphasis></p>
+   <p>Задняя часть моста (покрышка моста на поперечном разрезе) — <emphasis>pars dorsalis pontis (tegmentum pontis)</emphasis></p>
+   <p>Трапециевидное тело (на поперечном разрезе моста) — <emphasis>corpus trapezoideum</emphasis></p>
+   <p>Передняя (базилярная) часть моста на поперечном разрезе — <emphasis>pars basilaris pontis</emphasis></p>
+   <p>IV желудочек (на сагиттальном разрезе) — <emphasis>ventriculus quartus</emphasis></p>
+   <p>Ромбовидная ямка — <emphasis>fossa rhomboidea</emphasis></p>
+   <p>Латеральный карман (IV желудочка) — <emphasis>recessus lateralis ventriculi quarti</emphasis></p>
+   <p>Срединная борозда (ромбовидная ямка) — <emphasis>sulcus medianus (fossa rhomboidea)</emphasis></p>
+   <p>Медиальное возвышение (ромбовидная ямка) — <emphasis>eminentia medialis (fossa rhomboidea)</emphasis></p>
+   <p>Лицевой бугорок (ромбовидная ямка) — <emphasis>colliculus facialis (fossa rhomboidea)</emphasis></p>
+   <p>Пограничная борозда (ромбовидная ямка) — <emphasis>sulcus terminalis (fossa rhomboidea)</emphasis></p>
+   <p>Вестибулярное поле (ромбовидная ямка) — <emphasis>area vestibularis (fossa rhomboidea)</emphasis></p>
+   <p>Мозговые полоски (ромбовидная ямка) — <emphasis>striae medullares (fossa rhomboidea)</emphasis></p>
+   <p>Треугольник подъязычного нерва (ромбовидная ямка) — <emphasis>trigonum nervi hypoglossi (fossa rhomboidea)</emphasis></p>
+   <p>Треугольник блуждающего нерва (ромбовидная ямка) — <emphasis>trigonum nervi vagi (fossa rhomboidea)</emphasis></p>
+   <p>Верхний мозговой парус — <emphasis>velum medullare superius</emphasis></p>
+   <p>Нижний мозговой парус — <emphasis>velum medullare inferius</emphasis></p>
+   <p>Полушарие мозжечка «Древо жизни» (на разрезе мозжечка) — <emphasis>hemispherium cerebelli arbor vitae</emphasis></p>
+   <p>Зубчатое ядро (на разрезе мозжечка) — <emphasis>nucleus dentatus</emphasis></p>
+   <p>Ножка мозга — <emphasis>pedunculus cerebri</emphasis></p>
+   <p>Межножковая ямка (средний мозг) — <emphasis>fossa interpeduncularis (mesencephalon)</emphasis></p>
+   <p>Заднее продырявленное вещество — <emphasis>substantia perforata posterior</emphasis></p>
+   <p>Передняя часть (основание) среднего мозга — <emphasis>pars ventralis (basis) mesencephali</emphasis></p>
+   <p>Задняя часть (покрышка) среднего мозга — <emphasis>pars dorsalis (tegmentum) mesencephali</emphasis></p>
+   <p>Крыша среднего мозга (пластинка четверохолмия) — <emphasis>tectum mesencephali (lamina quadrigemina)</emphasis></p>
+   <p>Верхние холмики крыши среднего мозга — <emphasis>colliculi superiores tecti mesencephali</emphasis></p>
+   <p>Ручка нижнего холмика крыши среднего мозга — <emphasis>brachium colliculi inferioris tecti mesencephali</emphasis></p>
+   <p>Ручка нижнего холмика — <emphasis>brachium colliculi inferioris</emphasis></p>
+   <p>Ручка верхнего холмика — <emphasis>brachium colliculi superioris</emphasis></p>
+   <p>Водопровод среднего мозга (на разрезе среднего мозга) — <emphasis>aquaeductus mesencephali</emphasis></p>
+   <p>Красное ядро (на разрезе среднего мозга) — <emphasis>nucleus ruber</emphasis></p>
+   <p>Черное вещество (на разрезе среднего мозга) — <emphasis>substantia nigra</emphasis></p>
+   <p>Промежуточный мозг — <emphasis>diencephalon</emphasis></p>
+   <p>Эпиталамическая спайка (задняя спайка промежуточного мозга) — <emphasis>commissura epithalamica (commissura posterior diencephali)</emphasis></p>
+   <p>Шишковидное тело — <emphasis>corpus pineale</emphasis></p>
+   <p>Таламус — <emphasis>thalamus</emphasis></p>
+   <p>Медиальное коленчатое тело — <emphasis>corpus geniculatum mediale</emphasis></p>
+   <p>Латеральное коленчатое тело<emphasis> — corpus geniculatum laterale</emphasis></p>
+   <p>Зрительный перекрест — <emphasis>chiasma opticum</emphasis></p>
+   <p>Сосцевидное тело — <emphasis>corpus mamillare</emphasis></p>
+   <p>Серый бугор — <emphasis>tuber cinereum</emphasis></p>
+   <p>Воронка — <emphasis>infundibulum</emphasis></p>
+   <p>III желудочек — <emphasis>ventriculus tertius</emphasis></p>
+   <p>Гипоталамическая борозда — <emphasis>sulcus hypothalamicus</emphasis></p>
+   <p>Межжелудочковое отверстие — <emphasis>foramen interventriculare</emphasis></p>
+   <p>Продольная щель большого мозга — <emphasis>fissura longitudinalis cerebri</emphasis></p>
+   <p>Поперечная щель большого мозга — <emphasis>fissura transversa cerebri</emphasis></p>
+   <p>Латеральная ямка большого мозга — <emphasis>fossa lateralis cerebri</emphasis></p>
+   <p>Центральная борозда полушария большого мозга — <emphasis>sulcus centralis cerebri</emphasis></p>
+   <p>Латеральная борозда полушария большого мозга — <emphasis>sulcus lateralis cerebri</emphasis></p>
+   <p>Предцентральная борозда — <emphasis>sulcus precentralis</emphasis></p>
+   <p>Верхняя лобная борозда — <emphasis>sulcus frontalis superior</emphasis></p>
+   <p>Нижняя лобная борозда — <emphasis>sulcus frontalis inferior</emphasis></p>
+   <p>Постцентральная борозда — <emphasis>sulcus postcentralis</emphasis></p>
+   <p>Внутритеменная борозда — <emphasis>sulcus intraparietalis</emphasis></p>
+   <p>Верхняя височная борозда — <emphasis>sulcus temporalis superior</emphasis></p>
+   <p>Нижняя височная борозда — <emphasis>sulcus temporalis inferior</emphasis></p>
+   <p>Борозда мозолистого тела — <emphasis>sulcus corporis callosi</emphasis></p>
+   <p>Поясная борозда — <emphasis>sulcus cinguli</emphasis></p>
+   <p>Теменно-затылочная борозда — <emphasis>sulcus parietooccipitalis</emphasis></p>
+   <p>Шпорная борозда — <emphasis>sulcus calcarinus</emphasis></p>
+   <p>Борозда гиппокампа — <emphasis>sulcus hippocampi</emphasis></p>
+   <p>Коллатеральная борозда — <emphasis>sulcus collateralis</emphasis></p>
+   <p>Затылочно-височная борозда — <emphasis>sulcus occipitotemporalis</emphasis></p>
+   <p>Обонятельная борозда — <emphasis>sulcus olfactorius</emphasis></p>
+   <p>Глазничные борозды — <emphasis>sulci orbitales</emphasis></p>
+   <p>Предцентральная извилина — <emphasis>gyrus precentralis</emphasis></p>
+   <p>Верхняя лобная извилина — <emphasis>gyrus frontalis superior</emphasis></p>
+   <p>Средняя лобная извилина — <emphasis>gyrus frontalis medius</emphasis></p>
+   <p>Нижняя лобная извилина — <emphasis>gyrus frontalis inferior</emphasis></p>
+   <p>Постцентральная извилина — <emphasis>gyrus postcentralis</emphasis></p>
+   <p>Верхняя теменная долька — <emphasis>lobulus parietalis superior</emphasis></p>
+   <p>Нижняя теменная долька — <emphasis>lobulus parietalis inferior</emphasis></p>
+   <p>Верхняя височная извилина — <emphasis>gyrus temporalis superior</emphasis></p>
+   <p>Средняя височная извилина — <emphasis>gyrus temporalis medius</emphasis></p>
+   <p>Нижняя височная извилина — <emphasis>gyrus temporalis inferior</emphasis></p>
+   <p>Извилины островка — <emphasis>gyri insulae</emphasis></p>
+   <p>Островковая доля большого мозга (островок) — <emphasis>lobulus insularis cerebri (insula)</emphasis></p>
+   <p>Поясная извилина — <emphasis>gyrus cinguli</emphasis></p>
+   <p>Перешеек поясной извилины — <emphasis>isthmus gyri cinguli</emphasis></p>
+   <p>Парацентральная долька — <emphasis>lobulus paracentralis</emphasis></p>
+   <p>Предклинье — <emphasis>precuneus</emphasis></p>
+   <p>Клин — <emphasis>cuneus</emphasis></p>
+   <p>Парагиппокампальная извилина<emphasis> — gyrus parahippocampalis</emphasis></p>
+   <p>Крючок — <emphasis>uncus</emphasis></p>
+   <p>Язычная извилина — <emphasis>gyrus lingualis</emphasis></p>
+   <p>Медиальная затылочно-височная извилина — <emphasis>gyrus occipitotemporalis medialis</emphasis></p>
+   <p>Латеральная затылочно-височная извилина — <emphasis>gyrus occipitotemporalis lateralis</emphasis></p>
+   <p>Прямая извилина<emphasis> — gyrus rectus</emphasis></p>
+   <p>Обонятельная луковица — <emphasis>bulbus olfactorius</emphasis></p>
+   <p>Обонятельный тракт — <emphasis>tractus olfactorius</emphasis></p>
+   <p>Обонятельный треугольник — <emphasis>trigonum olfactorium</emphasis></p>
+   <p>Переднее продырявленное вещество — <emphasis>substantia perforata anterior</emphasis></p>
+   <p>Мозолистое тело — <emphasis>corpus callosum</emphasis></p>
+   <p>Валик мозолистого тела — <emphasis>splenium corporis callosi</emphasis></p>
+   <p>Ствол мозолистого тела — <emphasis>truncus corporis callosi</emphasis></p>
+   <p>Колено мозолистого тела — <emphasis>genu corporis callosi</emphasis></p>
+   <p>Клюв мозолистого тела — <emphasis>rostrum corporis callosi</emphasis></p>
+   <p>Передняя спайка (мозга) — c<emphasis>ommissura cerebri anterior</emphasis></p>
+   <p>Свод мозга — <emphasis>fornix cerebri</emphasis></p>
+   <p>Прозрачная перегородка (мозга) — <emphasis>septum pellucidum</emphasis></p>
+   <p>Центральная часть бокового желудочка — <emphasis>pars centralis ventriculi lateralis</emphasis></p>
+   <p>Передний рог бокового желудочка — <emphasis>cornu anterius ventriculi lateralis</emphasis></p>
+   <p>Задний рог бокового желудочка — <emphasis>cornu posterius ventriculi lateralis</emphasis></p>
+   <p>Нижний рог бокового желудочка — <emphasis>cornu inferius ventriculi lateralis</emphasis></p>
+   <p>Коллатеральное возвышение бокового желудочка — <emphasis>eminentia collateralis ventriculi lateralis</emphasis></p>
+   <p>Головка хвостатого ядра — <emphasis>caput nuclei caudati</emphasis></p>
+   <p>Тело хвостатого ядра — <emphasis>corpus nuclei caudati</emphasis></p>
+   <p>Хвост хвостатого ядра — <emphasis>cauda nuclei caudati</emphasis></p>
+   <p>Чечевицеобразное ядро — <emphasis>nucleus lentiformis</emphasis></p>
+   <p>Ограда — <emphasis>claustrum</emphasis></p>
+   <p>Самая наружная капсула (конечный мозг) — <emphasis>capsula extrema (telencephalon)</emphasis></p>
+   <p>Наружная капсула (конечный мозг)<emphasis> — capsula externa (telencephalon)</emphasis></p>
+   <p>Внутренняя капсула (конечный мозг) — <emphasis>capsula interna (telencephalon)</emphasis></p>
+   <p>Передняя ножка внутренней капсулы — <emphasis>crus anterius capsulae internae</emphasis></p>
+   <p>Колено внутренней капсулы — <emphasis>genu capsulae internae</emphasis></p>
+   <p>Задняя ножка внутренней капсулы — <emphasis>crus posterius capsulae internae</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Периферическая нервная система</p>
+   </title>
+   <p>Зрительный нерв (II пара) — <emphasis>nervus opticus</emphasis></p>
+   <p>Глазодвигательный нерв (III пара) — <emphasis>nervus oculomotorius</emphasis></p>
+   <p>Блоковой нерв (IV пара) — <emphasis>nervus trochlearis</emphasis></p>
+   <p>Тройничный нерв (V пара) — <emphasis>nervus trigeminus</emphasis></p>
+   <p>Тройничный узел — <emphasis>ganglion trigeminale</emphasis></p>
+   <p>Глазной нерв — <emphasis>nervus ophthalmicus</emphasis></p>
+   <p>Верхнечелюстной нерв — <emphasis>nervus maxillaris</emphasis></p>
+   <p>Нижнечелюстной нерв — <emphasis>nervus mandibularis</emphasis></p>
+   <p>Ушно-височный нерв — <emphasis>nervus auriculotemporalis</emphasis></p>
+   <p>Язычный нерв — <emphasis>nervus lingualis</emphasis></p>
+   <p>Нижний альвеолярный нерв — <emphasis>nervus alveolaris inferior</emphasis></p>
+   <p>Отводящий нерв (VI пара) — <emphasis>nervus abducens</emphasis></p>
+   <p>Лицевой нерв (промежуточно-лицевой нерв VII пара) — <emphasis>nervus faciаlis</emphasis> (<emphasis>nervus intermediofacialis)</emphasis></p>
+   <p>Языкоглоточный нерв (IX пара) — <emphasis>nervus glossopharyngeus</emphasis></p>
+   <p>Блуждающий нерв (X пара) — <emphasis>nervus vagus</emphasis></p>
+   <p>Верхний гортанный нерв — <emphasis>nervus laryngeus superior</emphasis></p>
+   <p>Возвратный гортанный нерв<emphasis> — nervus laryngeus recurrens</emphasis></p>
+   <p>Передний блуждающий ствол — <emphasis>truncus vagalis anterior</emphasis></p>
+   <p>Задний блуждающий ствол — <emphasis>truncus vagalis posterior</emphasis></p>
+   <p>Добавочный нерв (XI пара) — <emphasis>nervus accessorius</emphasis></p>
+   <p>Подъязычный нерв (XII пара) — <emphasis>nervus hypoglossus</emphasis></p>
+   <p>Диафрагмальный нерв — <emphasis>nervus phrenicus</emphasis></p>
+   <p>Мышечно-кожный нерв — <emphasis>nervus musculocutaneus</emphasis></p>
+   <p>Срединный нерв — <emphasis>nervus medianus</emphasis></p>
+   <p>Локтевой нерв — <emphasis>nervus ulnaris</emphasis></p>
+   <p>Лучевой нерв — <emphasis>nervus radialis</emphasis></p>
+   <p>подмышечный нерв — <emphasis>nervus axillaris</emphasis></p>
+   <p>Латеральный кожный нерв бедра — <emphasis>nervus cutaneus femoris lateralis</emphasis></p>
+   <p>Бедренный нерв — <emphasis>nervus femoralis</emphasis></p>
+   <p>Запирательный нерв — <emphasis>nervus obturatorius</emphasis></p>
+   <p>Седалищный нерв<emphasis> — nervus ischiadicus</emphasis></p>
+   <p>Общий малоберцовый нерв — <emphasis>nervus peroneus communis</emphasis></p>
+   <p>Глубокий малоберцовый нерв — <emphasis>nervus peroneus profundus</emphasis></p>
+   <p>Поверхностный малоберцовый нерв — <emphasis>nervus peroneus superficialis</emphasis></p>
+   <p>Болышеберцовый нерв — <emphasis>nervus tibialis</emphasis></p>
+   <p>Медиальный подошвенный нерв — <emphasis>nervus plantaris medialis</emphasis></p>
+   <p>Латеральный подошвенный нерв — <emphasis>nervus plantaris lateralis</emphasis></p>
+   <p>Симпатический ствол — <emphasis>truncus sympathicus</emphasis></p>
+   <p>Узлы симпатического ствола — <emphasis>ganglia trunci sympathici</emphasis></p>
+   <p>Межузловые ветви симпатического ствола — <emphasis>rami interganglionares trunci sympathici</emphasis></p>
+   <p>Соединительные ветви симпатического ствола — <emphasis>rami communicantes trunci sympathici</emphasis></p>
+   <p>Большой внутренностный нерв — <emphasis>nervus splanchnicus major</emphasis></p>
+   <p>Малый внутренностный нерв — <emphasis>nervus splanchnicus minor</emphasis></p>
+   <p>Чревные узлы (чревное сплетение) — <emphasis>ganglia coeliaca (plexus coeliacus)</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Эндокринные железы</p>
+   </title>
+   <p>Правая доля щитовидной железы — <emphasis>lobus dexter glandulae thyreoideae</emphasis></p>
+   <p>Левая доля щитовидной железы — <emphasis>lobus sinister glandulae thyreoideae</emphasis></p>
+   <p>Перешеек щитовидной железы — <emphasis>isthmus glandulae thyreoideae</emphasis></p>
+   <p>Надпочечник (левый, правый) — <emphasis>glandula suprarenalis (dextra, sinistra)</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Органы чувств</p>
+   </title>
+   <p>Склера глазного яблока — <emphasis>sclera bulbi oculi</emphasis></p>
+   <p>Роговица — <emphasis>cornea</emphasis></p>
+   <p>Ресничное тело (на разрезе глазного яблока) — <emphasis>corpus ciliare</emphasis></p>
+   <p>Радужка (на разрезе глазного яблока) — <emphasis>iris</emphasis></p>
+   <p>Зрачок — <emphasis>pupilla</emphasis></p>
+   <p>Сетчатка (на разрезе глазного яблока) — <emphasis>retina</emphasis></p>
+   <p>Хрусталик (на разрезе глазного яблока) — <emphasis>lens</emphasis></p>
+   <p>Стекловидное тело (на разрезе глазного яблока) — <emphasis>corpus vitreum</emphasis></p>
+   <p>Латеральная прямая мышца глаза — <emphasis>musculus rectus lateralis oculi</emphasis></p>
+   <p>Верхняя прямая мышца глаза — <emphasis>musculus rectus superior oculi</emphasis></p>
+   <p>Верхнее веко — <emphasis>palpebra superior</emphasis></p>
+   <p>Нижнее веко — <emphasis>palpebra inferior</emphasis></p>
+   <p>Верхний конъюнктивальный мешок — <emphasis>recessus conjunctivalis superior</emphasis></p>
+   <p>Нижний конъюнктивальный мешок — <emphasis>recessus conjunctivalis inferior</emphasis></p>
+   <p>Слезная железа — <emphasis>glandula lacrimalis</emphasis></p>
+   <p>Завиток ушной раковины — <emphasis>helix auriculae</emphasis></p>
+   <p>Противозавиток — <emphasis>anthelix</emphasis></p>
+   <p>Козелок — <emphasis>tragus</emphasis></p>
+   <p>Противокозелок — <emphasis>antitragus</emphasis></p>
+   <p>Мочка ушной раковины — <emphasis>lobulus auricularis</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Из истории анатомических терминов</p>
+   </title>
+   <p><strong>acetabulum, i</strong> <emphasis>n</emphasis> вертлужная впадина тазовой кости</p>
+   <p>По одной из версий, слово образовано от <emphasis>acetum</emphasis> «уксус»: так назывался сосуд для уксуса и маленькая чашечка для ловли бросаемого во время игры шарика. Однако в Средние века это название возводили к глаголу <emphasis>accepto</emphasis> «принимаю» и писали <emphasis>acceptabulum,</emphasis> потому что эта впадина как бы принимает головку бедреной кости.</p>
+   <p><strong>ampulla,</strong> ае <emphasis>f</emphasis> колбообразный сосуд, ампула</p>
+   <p>По-латыни так назывался сосуд из глины или стекла с узкой шейкой и пузыреобразно вздутым дном. Возможно, это слово произошло от <emphasis>ampla bulla</emphasis> «большой пузырь».</p>
+   <p><strong>amygdala,</strong> ae <emphasis>f</emphasis> [гp. <emphasis>amygdale</emphasis> «миндаль», лат. <emphasis>tonsilla (см.)]</emphasis> миндалина Воспаленная нёбная миндалина похожа на плод миндального ореха по величине, форме и углублениям на поверхности скорлупы. Название было перенесено на сходные по строению язычную, глоточную, трубные миндалины — <emphasis>tonsilla palatina, lingualis, pharyngea, tubaria</emphasis> и на яйцевидное образование, дольку на нижней поверхности полушарий мозжечка.</p>
+   <p><strong>anatomia,</strong> ae <emphasis>f</emphasis> [гp. <emphasis>anatemno</emphasis> «рассекаю, расчленяю»] анатомия Искусство расчленения трупа, единственное в древности средство для познания строения живого тела.</p>
+   <p><strong>antagonistes,</strong> is <emphasis>т</emphasis> [от гр… <emphasis>anti-</emphasis> «против» <emphasis>+ agon</emphasis> «борьба»; отсюда же «агония»] противник, антагонист</p>
+   <p>Действующий в противоположном направлении. В анатомии, например, мышцы — сгибатели и разгибатели, приводящие и отводящие и т. д.</p>
+   <p><strong>aponeurosis, is</strong> <emphasis>f</emphasis> апоневроз, сухожильное растяжение, плоское широкое сухожилие</p>
+   <p>Изначально словом <emphasis>nеrа</emphasis> называли нервы, а словом <emphasis>nеuron</emphasis> — все, что теперь носит название «фиброзный». Иногда термин <emphasis>aponeurosis</emphasis> употреблялся в двояком смысле: как переход мяса мышцы в сухожилие и как собственно сухожилие. Позднее этим термином называли широкое и тонкое сухожилие, плотные фасции <emphasis>(см.).</emphasis></p>
+   <p><strong>apophysis, is</strong> <emphasis>f</emphasis> [гp. <emphasis>аро-</emphasis> «от» + <emphasis>phyo</emphasis> «произвожу»] отросток, вырост</p>
+   <p>В противоположность эпифизу, срастающемуся с массой кости, apophysis всегда составляет с ней единое целое. <strong>arbor,</strong> oris — дерево; <strong>arbor vitae</strong> «древо жизни (мозжечка)». Универсальным удлиняющим жизнь средством считался бальзам, изготовляемый из туи (Thuia occidentalis), которую поэтому и называли arbor vitae термин vermis cerebelli дан по сходству группировки листьев туи с расположением прослоек белого вещества, червячка (corpus medullare vermis), видных на разрезе под корой серого вещества.</p>
+   <p><strong>artefactum, i</strong> <emphasis>n</emphasis> [лат. <emphasis>ars, artis</emphasis> «искусство» <emphasis>+facio</emphasis> «делаю»] сделанное искусственно, артефакт, результат деятельности человека</p>
+   <p><strong>arteria,</strong> ае <emphasis>f</emphasis> [гр. <emphasis>аёr</emphasis> «воздух» + <emphasis>tereo</emphasis> «содержу»] артерия</p>
+   <p>Этим термином греки сначала правильно называли дыхательное горло, трахею. Хотя уже более 2000 лет мы знаем, что артерии не содержат воздуха, название «артерия» удержалось для кровеносных сосудов, несущих кровь от сердца.</p>
+   <p><strong>atlas, antis</strong> <emphasis>т</emphasis> [гр. <emphasis>Atlas</emphasis> «Атлант» — титан, который держит на себе небесный свод на западе Средиземного моря. Поэтому горы на северо-западе Африки называются Атласскими, а океан — Атлантическим] атлант, первый шейный позвонок, поддерживающий голову</p>
+   <p>Он вращается вокруг зубовидного отростка, расположенного на верхней поверхности тела второго позвонка, который неправильно назван «epistropheus» [rp. <emphasis>epistrephomai</emphasis> «вращаюсь»].</p>
+   <p><strong>atrium, i</strong> <emphasis>n</emphasis> преддверие, предсердие</p>
+   <p>В древности так называлась жилая комната в римском доме: дым от очага выходил через отверстие в крыше., поэтому стены ее были черны от копоти [лат. <emphasis>ater</emphasis> «черный»]; верхняя одежда оставлялась в vestibulum [лат. <emphasis>vestis</emphasis> «одежда»].</p>
+   <p><strong>axis, is</strong> <emphasis>т</emphasis> ось (колеса)</p>
+   <p>Так иногда обозначают второй шейный позвонок, зуб которого, dens epistrophei, служит осью, вокруг которой вращается атлант <emphasis>(см.).</emphasis></p>
+   <empty-line/>
+   <p><strong>caput, itis</strong> <emphasis>n</emphasis> голова, головка</p>
+   <p>Прежнее название головы testa — «testa etiam caput dicitur, quia sensus in eo originem capiunt», т. е. <emphasis>«Testa</emphasis> называется и <emphasis>caput,</emphasis> так как в ней берут (<emphasis>capiunt)</emphasis> начало чувства». Римляне словом <emphasis>testa</emphasis> обозначали всякую обожженную глиняную посуду (от <emphasis>torreo</emphasis> «жгу»).</p>
+   <p><strong>cauda equina</strong> [лат. <emphasis>equus</emphasis> «конь»] конский хвост</p>
+   <p>Спинной мозг в нижнем конце своем распадается на множество канатиков, что похоже на конский хвост.</p>
+   <p><strong>centrum, i</strong> <emphasis>n</emphasis> [гp. <emphasis>kentron</emphasis> «острие циркуля», а затем — «точка, в которую ставят его, чтобы описать окружность»] центр</p>
+   <p><strong>cephalika</strong> [гp. <emphasis>kephale</emphasis> (лат. <emphasis>cephale-)</emphasis> «голова» (sc. <emphasis>vena)]</emphasis> головная подкожная артерия руки, вливающаяся в подмышечную вену. У врачей Средневековья было принято при головных болях пускать кровь из этой вены, «quia abstrahit sanguinem e capite», т. е. «так как она отвлекает кровь от головы».</p>
+   <p><strong>cisterna, ае</strong> <emphasis>f</emphasis> цистерна, водоем, подземное водохранилище Римляне сооружали цистерны в земле и собирали в них дождевую воду. Уподобление цистерне перепончатого веретенообразного мешочка в области второго и третьего поясничного позвонков не вполне удачно.</p>
+   <p><strong>clavicula, ае</strong> <emphasis>f</emphasis> [лат. уменьшит, от <emphasis>clavis</emphasis> «ключ, задвижка, запор»] ключица. Еще в XVII в. в Италии использовались S-образные щеколды (claviculae). Таким образом, термин <emphasis>clavicula</emphasis> произошел от <emphasis>clavis</emphasis> не в смысле ключ, который у римлян был похож на современный, а по сходству с задвижкой, щеколдой.</p>
+   <p><strong>соссух, ygis</strong> <emphasis>т</emphasis> [гр. <emphasis>соккух</emphasis> «кукушка»] копчик, нижний конец позвоночного столба, который грекам показался похожим на клюв кукушки Современный термин для обозначения копчика — os coccygis.</p>
+   <p><strong>colon, coli</strong> <emphasis>n</emphasis> главный отдел толстой кишки (intestinum crassum), ободочная кишка (расположением своим напоминающая обод колеса)</p>
+   <p><strong>cranium, ii</strong> <emphasis>n</emphasis> [гр. <emphasis>cranion</emphasis> «череп», <emphasis>cranos</emphasis> «шлем»] череп Греки назвали его «quia cerebnim velut galea defendit», т. е. «так как подобно шлему защищает головной мозг». По-латыни череп называется <emphasis>cranium,</emphasis> а крыша черепа — <emphasis>calvaria.</emphasis> В русском языке уменьшительное <emphasis>черепица</emphasis> стало употребляться для обозначения глиняных обожженных плиток, которыми покрывают крышу дома.</p>
+   <p><strong>crypta, ae</strong> <emphasis>f</emphasis> [гp. <emphasis>crypto</emphasis> «скрываю»; у греков так назывались подвалы для хранения продовольствия, у римлян — длинные сводчатые галереи, позднее — подземные часовни и молельни в старинных храмах] железы с простым не ветвящимся протоком</p>
+   <p>Различают простые тубулезные и ацинозные железы, простые и разветвленные углубления в миндалинах.</p>
+   <p><strong>cubitus, i</strong> <emphasis>т</emphasis> [лат. <emphasis>cubo</emphasis> «лежу»] локоть</p>
+   <p>Римляне обычно на пиршестве возлежали, опираясь на левый локоть и предплечье. Греки предплечье называли <emphasis>olene</emphasis> (отсюда <emphasis>ulna</emphasis> «локтевая кость») или <emphasis>kybiton.</emphasis></p>
+   <empty-line/>
+   <p><strong>dentes sapientlae</strong> <emphasis>seu</emphasis> serotini [лат. <emphasis>sapientia</emphasis> «мудрость» + <emphasis>serotinus</emphasis> «поздний»] последние коренные зубы</p>
+   <p>Они нередко прорезываются даже позже 18 лет, «сum homo sapere incipit», т. е. «когда человек становится мудрым».</p>
+   <p><strong>diaphragma,</strong> atis <emphasis>n</emphasis> [гp. <emphasis>dia-</emphasis> «поперек» <emphasis>+phrasso</emphasis> «отгораживаю, разделяю перегородкой»] перегородка, грудобрюшная преграда</p>
+   <p>Так названа куполообразная мышца, разграничивающая грудную и брюшную полости.</p>
+   <p><strong>digitus,</strong> i <emphasis>т</emphasis> палец</p>
+   <p>Первый палец на руке — <emphasis>pollex,</emphasis> icis <emphasis>т [лат. роПео</emphasis> «иметь силу, владеть»]. По-гречески этот палец называется <emphasis>anticheir</emphasis> [гр. <emphasis>anti-</emphasis> «против» + <emphasis>cheir</emphasis> «рука»], т. е. «противопоставленный руке». Первый палец на стопе — <emphasis>hallux,</emphasis> ucis <emphasis>m.</emphasis> Второй палец на руке — <emphasis>index,</emphasis> icis <emphasis>т</emphasis> [лат. <emphasis>indico</emphasis> «указывать»]. Третий палец<emphasis> — digitus medius</emphasis> [лат. <emphasis>medius</emphasis> «средний»]. Римляне его называли также <emphasis>digitus impudicus,</emphasis> так как именно им указывали на неприличное [лат. <emphasis>impudicus</emphasis> «бесстыдный»]. Четвертый палец — <emphasis>digitus anularis</emphasis> [лат. <emphasis>anulus</emphasis> «перстень, кольцо»] или <emphasis>digitus medicus,</emphasis> так как на этом пальце врачи носили кольцо с изображением символа медицины (змеи, Эскулапа — бога врачевания и др.), используя это кольцо как личную печать врача. Пятый палец — <emphasis>digitus minimus</emphasis> [лат. <emphasis>minimus</emphasis> «самый маленький»] или <emphasis>digitus auricularis</emphasis> [лат. <emphasis>auricula</emphasis> «ушная раковина»], так как он удобен для очищения уха. <emphasis>Слово мизинец</emphasis> — древнерусское, образованное от прилагательного <emphasis>мизинный,</emphasis> т. е. меньший, незначительный.</p>
+   <p><strong>duodenum, i</strong> <emphasis>n</emphasis> двенадцатиперстная кишка</p>
+   <p>Древнегреческие врачи назвали ближайший к желудку отдел тонкой кишки <emphasis>dodecadactylon enteron</emphasis> [гp. <emphasis>dodeca</emphasis> «двенадцать» + <emphasis>dactylos</emphasis> «палец», <emphasis>enteron</emphasis> «кишка»], не вполне точно насчитав в нем 12 поперечных пальцев. На русский язык это было переведено как <emphasis>двенадцатиперстная.</emphasis> Латинское слово <emphasis>duodenum</emphasis> [лат. <emphasis>duodenus</emphasis> «двенадцатикратный»] было создано искусственно как перевод с древнегреческого.</p>
+   <p><strong>dura mater</strong> [лат. <emphasis>durus</emphasis> «твердый», <emphasis>mater</emphasis> — не только «мать», но и вообще «источник, основа»] твердая мозговая оболочка</p>
+   <p>В переводе на русский язык — «твердая мать». Ср. <emphasis>pia mater cerebri (encephali).</emphasis> Так в Средние века были переведены на латинский язык арабские термины, обозначавшие эти оболочки; в арабском же языке некоторые понятия определялись в терминах родства и слово «мать» обозначало также «рождение, содержание, кормление». Этот арабский термин вошел в анатомию при переводе в XI в. на латинский язык сводного медицинского сочинения <emphasis>«Liber regius»</emphasis> («Царская книга») врача X в. Гали Аббаса из Ирака. Греки различали две оболочки мозга: <emphasis>meninx</emphasis> sclera (pacheia) и <emphasis>meninx lepte.</emphasis> Греческие наименования оболочек сохранились в названиях их воспаления: <emphasis>lepto-</emphasis> и <emphasis>pachymeningitis.</emphasis> В этом термине вопреки правилам латинского языка прилагательное стоит перед существительным. Полный термин: <emphasis>dura mater cerebri (encephali) et medullae spinalis.</emphasis></p>
+   <empty-line/>
+   <p><strong>emissarium, ii</strong> <emphasis>n</emphasis> [лат. <emphasis>е-</emphasis> «вы-, из-» + <emphasis>mitto</emphasis> «пускаю» = <emphasis>emitto</emphasis> «выпускаю»] отводящий канал. Этим словом римляне называли каналы для осушения полей.</p>
+   <empty-line/>
+   <p><strong>fontanella, ае</strong> <emphasis>f</emphasis> [ит. уменьшительное от <emphasis>fonte</emphasis> «источник, фонтан» перевод лат. <emphasis>fontkulus oifans</emphasis> «источник»] родничок, перепончатый промежуток между костями черепа у младенца.</p>
+   <p>Термин итальянских хирургов XIII в., которые при болезнях носовой полости и глаз делали прижигание раскаленным железом в месте соединения венечного и стреловидного швов, вызывая выделение жидкости, которую они считали вредным выделением мозга.</p>
+   <empty-line/>
+   <p><strong>glottis, idis</strong> <emphasis>f</emphasis> [гp. уменьшит, <emphasis>от glotta</emphasis> «язычок»] голосовой аппарат, состоящий из голосовых складок и голосовой щели. Один из кроветворных органов, не имеющий ничего общего с головным мозгом, получивший свое название лишь по внешнему сходству с ним.</p>
+   <empty-line/>
+   <p><strong>meninx, ingis</strong> <emphasis>f</emphasis> мозговая оболочка</p>
+   <p>Термин, служивший грекам для обозначения различных оболочек. Аристотель обозначал им только мозговые оболочки, что сохранилось и поныне. Ср. <emphasis>dura, pia mater.</emphasis></p>
+   <p><strong>mitralis, e</strong> [лат. <emphasis>mitra</emphasis> «длинная перевязь, пояс, головная повязка»; позднее — «митра» епископа] двустворчатый клапан в <emphasis>ostium venosum sinistrum</emphasis> По форме этот клапан несколько похож на митру.</p>
+   <p><strong>модуль</strong> [лат. <emphasis>modulus</emphasis> уменыш. от <emphasis>modus</emphasis> «мера, единица измерения, масштаб»] единица сопоставления.</p>
+   <p>В учении о пропорциях человеческого тела единицей измерения принимали длину среднего пальца, лица, кисти, стопы, носа, позвоночника, но чаще всего — высоту головы.</p>
+   <p><strong>musculus, i</strong> <emphasis>т</emphasis> [гp. <emphasis>mys,</emphasis> лат. <emphasis>musculus</emphasis> «мышонок», уменыш. от «мышь»] мышца (ср. <emphasis>lacertus).</emphasis></p>
+   <p>Именно древнегреческие ученые дали мышце название <emphasis>mys</emphasis> «мышь», так как некоторые длинные мышцы (например, двуглавая мышца плеча) при сокращении показались им похожими на дрожащую мышь со сгорбленной спинкой. В длинных мышцах различают головку, брюшко и хвост <emphasis>(caput, venter, cauda).</emphasis> В русском языке до XIX в. употребляли и <emphasis>мышка,</emphasis> и <emphasis>мышца.</emphasis></p>
+   <empty-line/>
+   <p><strong>nervus, i</strong> <emphasis><strong>т</strong></emphasis> [гр. <emphasis>пеиrоп</emphasis> «всё белое и волокнистое: сухожилие, связка»] нерв</p>
+   <p><emphasis>Nervosus</emphasis> — «жилистый»; в анатомии «нервный». В Средние века этим термином обозначали все, что в настоящее время называют <emphasis>фиброзным, соединительнотканным.</emphasis> Ср. <emphasis>ароnеurоsis.</emphasis></p>
+   <empty-line/>
+   <p><strong>os hyoideuin</strong> [гp. <emphasis>hys, hyos</emphasis> «поросенок» + <emphasis>oides</emphasis> «похожий»] кость подъязычная</p>
+   <p>Название <emphasis>hyoideum</emphasis> объясняется тем, что греки увидели в этой кости сходство с буквой <emphasis>v</emphasis> или со свиным пятачком, свиным рылом.</p>
+   <p><strong>orbita, ае</strong> <emphasis>f</emphasis> [лат. <emphasis>orbis</emphasis> «круг»] колесо, колея</p>
+   <p>Впервые для обозначения глазницы этот термин употреблен в переводе «Канона» Авиценны, хотя эта впадина, похожая на четырехстороннюю лежащую пирамиду, — не круг и не борозда.</p>
+   <empty-line/>
+   <p><strong>palma, ae</strong> <emphasis><strong>f</strong></emphasis> [ «лопатка весла»] ладонь, углубление Древнегреческие врачи называли так и ладонь, и всю кисть: во время плавания она служит как бы веслом. Дерево с листьями, напоминающими кисть руки с развернутыми пальцами, также называется <emphasis>palma.</emphasis> Вся кисть называется <strong>manus,</strong> ладонь — <strong>palma</strong> (пальма — символ прославления и приветствия на Древнем Востоке). На ладони есть кожные складки, по которым гадают хироманты <emphasis>(cheir</emphasis> «рука» + <emphasis>manteia</emphasis> «прорицание»): линия жизни, линия головы, линия сердца и другие. Так как кожные складки на пальцах и ладонной поверхности кисти различны у всех людей, на этом основана дактилоскопия (греч. <emphasis>dactilos</emphasis> — «палец» + <emphasis>scopeo</emphasis> — «рассматривать»), раздел криминалистики, изучающий узоры ладонной поверхности фаланг пальцев.</p>
+   <p><strong>phalanx,</strong> <emphasis><strong>ngis</strong> f [гp phalanx</emphasis> «обрубок, фаланга»] членик пальца. Этот термин ввел Аристотель для обозначения у пальцев косточек, расположенных рядами — подобно воинам в «македонской фаланге», особом греческом военном построении, где за спиной каждого воина стоял другой, заменявший первого, когда тот бывал убит или ранен.</p>
+   <p><strong>philtrum, i</strong> <emphasis>n [гp. phileo</emphasis> «люблю», <emphasis>philtrum</emphasis> «притворное зелье, чары и все, что возбуждает любовь»] желобок между носовой перегородкой и верхней губой</p>
+   <p><strong>pia mater</strong> <emphasis>[лат.</emphasis> «благочестивый, нежный»; <emphasis>mater — </emphasis>не только «мать», но и вообще «источник, основа»] мягкая мозговая оболочка. В переводе на русский язык — «мягкая мать». Ср. <emphasis>dura mater cerebri (encephali).</emphasis> Так в Средние века были переведены на латинский язык арабские термины, обозначавшие эти оболочки; в арабском же языке некоторые понятия определялись в терминах родства и слово «мать» обозначало также «рождение, содержание, кормление». Этот арабский термин вошел в анатомию при переводе в XI в. на латинский язык сводного медицинского сочинения <emphasis>«Liber regius»</emphasis> («Царская книга») врача X в. Гали Аббаса из Ирака. Греки различали две оболочки мозга: <emphasis>meninx sclera (pacheia)</emphasis> и <emphasis>meninx lepte.</emphasis> Греческие наименования оболочек сохранились в названиях воспаления их: <emphasis>lepto-</emphasis> и <emphasis>pachymeningitis.</emphasis> Полный термин: <emphasis>pia mater cerebri (encephali).</emphasis> В этом термине вопреки правилам латинского языка прилагательное стоит перед существительным.</p>
+   <p><strong>pomum Adami</strong> <emphasis>seu</emphasis> <strong>prominentia laryngea</strong> Адамово яблоко <emphasis>или</emphasis> гортанный выступ</p>
+   <p>Устаревшее, но еще встречающееся наименование выступающего верхнего края щитовидного хряща от происходящего под более острым углом соединения между собою пластинок этого хряща у мужчин с низкими голосами. Выражение <emphasis>pomum Adami</emphasis> связано с легендой о первородном грехе: при зове Бога: «Где ты, Адам?», тот поперхнулся остатком непроглоченного яблока, который застрял в гортани. Поэтому все мужчины должны нести этот знак «ad posteros propagatum istius maleficii», т. е. «для памяти в потомстве об этом злодеянии».</p>
+   <p><strong>pupilla, ае</strong> <emphasis>f</emphasis> [лат. уменьшит «девочка, маленькая одетая детская кукла»] зрачок</p>
+   <p>В нем отражается уменьшенная фигура того, на кого смотрит человек. Русское слово <emphasis>зрачок</emphasis> — уменьшительное от <emphasis>зрак</emphasis> «зрение». О зрачке также говорили <emphasis>зеркальце малое в глазу, оконце очное (глазное).</emphasis></p>
+   <empty-line/>
+   <p><strong>rectum, i</strong> <emphasis>n</emphasis> [лат. <emphasis>rectus</emphasis> «прямой» (sc. <emphasis>intestinum)]</emphasis> прямая кишка. У человека она, впрочем, не прямая, а образует изгибы, крестцовый и копчиковый <emphasis>(flexurae sacralis et coccygea).</emphasis> Прямая она у животных, которыми и пользовался Гален для своих анатомических исследований. Некоторые анатомы полагают, что лучше было бы назвать этот отдел кишечника <emphasis>intestinum terminate.</emphasis></p>
+   <p><strong>rete mirabile</strong> [лат. <emphasis>miror</emphasis> «удивляюсь»] чудная сеть. Еще до Галена знали, что внутренняя сонная артерия, там, где входит в полость черепа между основной костью и твердой мозговой оболочкой, распадается на густое сплетение, количество ветвей которого очень удивило Галена, и он дал ему название <emphasis>maximum mirabile</emphasis> «величайшее чудо». Комментаторы — истолкователи Галена создали термин <emphasis>rete mirabile,</emphasis> сохранившийся в анатомии. Это сплетение веточек <emphasis>arteria carotis intema</emphasis> соединяется затем опять в единичный ствол, вновь рассыпающийся в сеть мелких сосудов в сосудистых сплетениях головного мозга. По представлению древних, в сонной артерии заключался <emphasis>spiritus vitalis,</emphasis> который здесь превращался в <emphasis>spiritus animalis,</emphasis> собирающийся в мозговых полостях, откуда через нервные стволы разносился по всему телу. Чудной сетью по-прежнему называют внезапное распадение сосуда на кисть ветвей, переходящих в капилляры. Если же ветви, до перехода в капилляры, собираются опять в один сосуд, то именуются <emphasis>rete mirabile bipolare.</emphasis></p>
+   <p><strong>retina, ae</strong> <emphasis>f</emphasis> [только по созвучию напоминает <emphasis>rete</emphasis> «сеть»] сетчатка. Она совсем не похожа на сеть, но названа так, вероятно, потому, что <emphasis>nervi visorii substantia dilatatur in Шит involucrum,</emphasis> т. е. «вещество зрительного нерва растягивается в широкий покров».</p>
+   <empty-line/>
+   <p><strong>Salvatella, ае</strong> <emphasis>f</emphasis> [лат. <emphasis>salvo</emphasis> «спасать» (sc. <emphasis>vena)],</emphasis> вена, изменчивая по положению</p>
+   <p>Она начинается на тыловой части кисти между мизинцем и безымянным пальцем или между безымянным и средним. Возможно, название получилось путем ряда искажений термина Авиценны <emphasis>al-usailium</emphasis> —&gt; <emphasis>alaseilem</emphasis> —&gt; <emphasis>salasailem</emphasis> —&gt; <emphasis>salvatella.</emphasis> Есть и другое объяснение: <emphasis>quia salvat,</emphasis> т. е. «так как спасает»: кровопускания из этой вены считались очень полезными.</p>
+   <p><strong>scalpellum, i</strong> <emphasis>n</emphasis> скальпель [лат. <emphasis>scalpo</emphasis> «вырезаю» (ср. <emphasis>скальп)]</emphasis> ножичек Нож для анатомического препарирования.</p>
+   <p><strong>scapula, ае</strong> <emphasis>f</emphasis> лопатка. В классическом латинском языке для обозначения спины в противоположность груди <emphasis>(pectus)</emphasis> употреблялось <emphasis>scapulae</emphasis> (мн. число). В Средние века лопатку называли <emphasis>spathula [тр. spathe</emphasis> «широкий плоский предмет; похожий на лопату»]. Отсюда же и слово <emphasis>шпатель.</emphasis> Некоторые авторы предпочитают термин <emphasis>omoplate</emphasis> (ср. франц. <emphasis>omoplate),</emphasis> его часть omo-употребляется в анатомической номенклатуре как элемент «лопаточно-», например, <emphasis>omohyoideus</emphasis> «лопаточно-подъязычный».</p>
+   <p><strong>spina,</strong> ае <emphasis>f</emphasis> ость, острие, шип</p>
+   <p>На время конных состязаний арену римского цирка разделяли посредине стенкой высотой в метр; по ее концам стояли пограничные камни <emphasis>(metae),</emphasis> которые не должны были задеть поворачивающие колесницы; эту стенку называли <emphasis>spina.</emphasis> Хребет также делит спинную поверхность тела на две равные части, поэтому и его также назвали <emphasis>spina (dorsalis).</emphasis></p>
+   <p><strong>stapes, edis</strong> <emphasis>m</emphasis> [лат. <emphasis>sto</emphasis> «стою» + <emphasis>pes</emphasis> «нога, стопа»] стремя</p>
+   <p>Слово позднейшего происхождения, так как греки и римляне не пользовались седлом, а покрывали лошадей чепраком, попоной. Стремена и седла вошли в употребление лишь в IV в. христианской эры <emphasis>(scala et sella equestres).</emphasis> Термином <emphasis>stapes</emphasis> по внешнему сходству обозначена одна из слуховых косточек (<emphasis>ossicula auditus),</emphasis> открытая в XVI в.</p>
+   <empty-line/>
+   <p><strong>tabatiere anatomique</strong> [франц. <emphasis>tabatiere anatomique]</emphasis> анатомическая табакерка</p>
+   <p>Так называют ямку, образующуюся при отведении большого пальца между сухожилиями длинного отводящего мускула большого пальца с коротким сгибателем, с одной стороны, и длинного разгибателя его — с другой. Анатомы, нюхавшие по моде XVIII–XIX вв. табак, чтобы не брать его загрязненными руками, насыпали табак в эту ямку. По-русски вена в этом месте называлась <emphasis>соколок,</emphasis> а само место — <emphasis>насоколок,</emphasis> так как у охотников здесь сидел сокол. Чтобы птица не повредила когтями руку, сокольничий надевал кожаную рукавицу.</p>
+   <p><strong>tendo calcaneus</strong> <emphasis>seu</emphasis> <strong>Achillis</strong> пяточное <emphasis>или</emphasis> Ахиллесово сухожилие трехглавого мускула голени, прикрепляющееся к пяточному отростку Мать греческого героя Ахиллеса, богиня Фетида, чтобы сделать сына неуязвимым, искупала его в волшебных водах реки Стикса в подземном царстве. При этом она держала его за пятку, которая осталась единственным местом, поражение в которое могло убить Ахиллеса. Что и случилось у стен Трои, когда стрела Париса попала в Ахиллесову пяту.</p>
+   <p><strong>theatrum anatomicum</strong> [гp. <emphasis>theathron</emphasis> «место для зрелищ»] анатомический театр</p>
+   <p>В конце Средних веков рассечения трупов производились публично. На них приглашались почетные лица города и все желающие. Звонили в колокола, вывешивали особые афиши — устраивалось как бы театральное представление, откуда и пошло выражение <emphasis>анатомический театр.</emphasis></p>
+   <p><strong>thymus, i</strong> <emphasis>т</emphasis> вилочковая железа</p>
+   <p>Название возникло благодаря некоторому сходству формы этой железы у животных с цветками тимьяна <emphasis>(thymos).</emphasis> Это сходство было замечено, когда во время принесения животных в жертву их сжигали, посыпая тимьяном. Есть другое объяснение — от гр. <emphasis>thymos</emphasis> «дух, сердце, чувство». Русское название передает сходство по форме.</p>
+   <p><strong>thyreoideus</strong> [гр. <emphasis>thyra</emphasis> «дверь»] щитовидный</p>
+   <p>Дверь дома защищает его, служа как бы щитом, а в случае необходимости ее и действительно можно использовать для защиты в качестве щита. Большой четыреугольный греческий щит из дерева, обитого кожей, был заимствован и римлянами. Самый крупный из гортанных хрящей получил название щитовидного, так как его боковые пластинки похожи на такой щит.</p>
+   <p><strong>tonsilla, ae</strong> <emphasis>f</emphasis> [лат. <emphasis>tondeo</emphasis> «стригу, царапаю»] миндалина. Ср. <emphasis>amygdala</emphasis> Как полагают, это наименование отражает то, что воспаление этих желез сопровождается чувством царапанья в зеве. По сходству формы этим же словом обозначают и яйцевидную дольку полушарий мозжечка (tonsilla cere-belli).</p>
+   <p><strong>tympanum, i</strong> <emphasis>n</emphasis> [гp. <emphasis>tympanon</emphasis> «тимпан» (ударный музыкальный инструмент) от <emphasis>typto</emphasis> «бью, ударяю»] барабан</p>
+   <p>До начала XVI в. еще не было ясного представления ни о внутреннем, ни о среднем ухе; барабанную перепонку считали местом восприятия слуховых ощущений. Мало знали и о полости, которую вместе с барабанной перепонкой называли <emphasis>tympanum — </emphasis>«а similitudine cum tympano», т. е. «по сходству с барабаном». Даже после того, как узнали, что барабанная полость имеет чрезвычайно неправильную форму, нисколько не похожую на барабан, названия <emphasis>cavum</emphasis> и <emphasis>membrane tympani</emphasis> сохранились.</p>
+   <empty-line/>
+   <p><strong>vestibulum, i</strong> <emphasis>n</emphasis> [лат. <emphasis>vestis</emphasis> «одежда»] преддверие</p>
+   <p>В римском доме перед дверью в обитаемые комнаты было специальное открытое на улицу помещение, где оставляли верхнюю одежду (тогу). В анатомии это слово употребляется для обозначения начального переднего отдела органа или полости: <emphasis>vestibulum bursae omentalis (laryngis, nasi, oris).</emphasis></p>
+   <p><strong>vibrissae, arum</strong> <emphasis>f</emphasis> [лат. <emphasis>vibro</emphasis> «качаю, дрожу»; <emphasis>vibrisso</emphasis> «произвожу трели»] волосы в носу</p>
+   <p>В старых учебниках анатомии этимология слова объяснялась так: «ita dicti quod his evulsis, caput vibrator», т. е. «они так называются потому, что при их вырывании вздрагивает голова». Возможно, название <emphasis>vibrissae</emphasis> было дано сначала усам кошки, а затем перенесено на человека.</p>
+   <p><strong>vomer, eris</strong> <emphasis>т</emphasis> [лат. <emphasis>vomo</emphasis> «изрыгаю»] сошник</p>
+   <p>Староримский плуг разбрасывал землю в обе стороны, как бы изрыгая ее. Греки и римляне не знали этой кости. Она долго считалась составной частью решетчатой кости. Когда нижнюю часть костной носовой перегородки (saeptum nasi osseum) выделили как самостоятельную кость, ее назвали по сходству с лемехом сохи.</p>
+   <empty-line/>
+   <p><strong>zona,</strong> ae <emphasis>f</emphasis> [гp. <emphasis>zone</emphasis> «пояс»] область</p>
+  </section>
+  <section>
+   <title>
+    <p>Литература</p>
+   </title>
+   <p>1. Анатомия человека / Под ред. М.Р. Сапина. — М.: Медицина, 1997. — Т.1. — 543 с.</p>
+   <p>2. Анатомия человека /Под ред. М.Р.Сапина. — М.: Медицина, 1997. — Т.2. — 560 с.</p>
+   <p>3. Бахрушина Л.А. Частотный латинско-русский словарь анатомических терминов / Под ред. В.Ф. Новодрановой. — М. 1991. — 116 с.</p>
+   <p>4. Бекишева Е.В. Учебный историко-этимологический словарь медицинских терминов / Под ред. А.Ф. Краснова, В.Ф. Новодрановой. — М., 2002. — 78 с.</p>
+   <p>5. Бондаренко М.А. Латинский язык и основы медицинской терминологии. — Тулу: ТулГУ, 2005. — 206 с.</p>
+   <p>6. Гайворонский И.А. Анатомия человека. — СПб.: Спецлит, 2001. — 560 с.</p>
+   <p>7. Международная анатомическая номенклатура / Под ред. С.С. Михайлова. — М.: Медицина, 1980. — 210 с.</p>
+   <p>8. Сапин М.Р., Никитюк Д.Б. Карманный атлас анатомии человека. — М.: АПП «Джангар», 2004. — 720 с.</p>
+   <p>9. Синельников Р.Д. Атлас анатомии человека. — М.: Медицина, 1996. — Т. 1. — 343 с.</p>
+   <p>10. Синельников P.Д. Атлас анатомии человека — М.: Медицина, 1996. Т. 2. — 263 с.</p>
+   <p>11. Синельников P.Д. Атлас анатомии человека — М.: Медицина,1994. Т. 3. — 231 с.</p>
+   <p>12. Синельников P.Д. Атлас анатомии человека — М.: Медицина,1994. Т. 4. — 319 с.</p>
+   <p>13. Привес М.Г., Лысенков Н.К., Бушкович В.М. Анатомия человека. — М.: Медицина, 1985. — 671 с.</p>
+   <p>14. Сапин М. Р., Бартош И. О. Вопросы для подготовки к экзамену по анатомии человека и для составления экзаменационных билетов. Москва 2002.</p>
+  </section>
+ </body>
+ <binary id="i_001.png" content-type="image/png">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
+/WVLCdvMtLXNfNXomUWVSat5Tb/6u5mv6S3Clp+0ptd4qxzdCNvk9LTNdtVImjkDe5Z/y+mX
+ddmw3Satw9VKT++xoG3s+IeGtlmtmlTP2AbZU3HSOr+y304t4hPb6TPTv2fHey9rG2Gb3Ni2
+2asa85lRjZL2/v3719fXslvOv+vji7tg2HbPTM+Y3T57ZW1jaEMY9xY3Y1UjaUaVJW3ssLJ1
++uIuErb4zIz6TJek5fxaUHD90sDQhr/rPLqZqRo9M6ppz5oOakfHY2/r6fylblat4qGNsCHq
+1jYDVaNndrVOWsGNS4njS/174zQkLf+Xg4KhjbBhq0PbtFetQ9LYMNKI46RFZetyOhE29NS0
+bXqrxohmmvukRYQtE2HDUaPtJBqrRs+sK0ja2IW4zsfn6jV6wIQNQ8iObuqqRtKsa500PYOa
+D3Eb5PqvrcMW2PGPC1JtU1Q1euZA56TZGrCktO5607AFhjYk1bdNS9VImgOmp7SZFyF349oj
+hA0t1LRtfNU09IxtkPWeJu3pgbTjy66tCNkSn20mNoxV1raRVdPQM4jonzTIOh3XHi1FBt6j
+jTaetm1Y1UiaDx22Ox5fbd++ffvu3bun93tleS0WvLWelkfeeu/oo3VO9o+gnfy2DagaPXNj
+yIG0mDSp5UeLSVvnquWRC4bt6uha67AFhjZky2lb16rRMzdGna14SVrlLfjjYGILhA1PpNvW
+r2rKk8aGkXx9kna68Bh+GFBmHtR2lsffp/RPwxY4zIbGrtrWo2rKe4Z83S77ebU9hMNpp6TG
+taVbiafl6XsJOP8IOji2rXnVSJobY5O2TiRs6N+J45pU2OKtjQ1bYP8IHtq2rWHV6JknGpIm
+O6jt/outWJ7u7BAJW3wexoYtMLShSGxbk6rRM2c0JC0SaU98kXWz/Bikj67FWxN8+0Rx2AJD
+G56Tr5rdpLFh5FS37Y7pt1pLvcK6uXDMKcFxLVxPbI/OPBKV7R8JDG14TrJqdnuGU91GtHCd
+NNlBbX1V9TSoRes8JBK2dfgTXIoMDG3qOfgd4udfClWtZ8/+5f/8+FPxr//X9rOvnKqkiezm
+d5y08MNzKBi25dlWFbZA2xrY/Ywvz62Pp1egap1HtBizpW3krZHingULSVseodezSm4/L5dh
+C7St2ulPt5vnU2AP5MAlx6Vka9XWPwQKV61n0hJ16Zy04ruoP0pXnJ/TbZA1wTi9C4VhCy4W
+ynpK/1D7eyYLq6bhENo6tG3/4+5fiVy+mp4FxUlbOZ7SVrLjWvi89+mwhV77RyKGtoT8n2VP
+T+D6RuySqmlI2mo7tB09jdyc2yArexbaJC2I7uNPqBnU/v3f/uOf/vkfy/56FKcWwXFtu8tf
+JGzbuSq93X/I0BZ8vTQXKP759fq8Pauaqp6tToe2U0xyO/17FrKTJnKmjBkOpx1tU2EibKFu
+LXfOttX88Pp7rgrPmKUzaav00Hbq9OP9fb2P6mMWNdrBX3bLR9sXyqv7HX5Kke+/+1Dz16+u
+9mkrbEHiiOD6Xe3mR1jq53TLzZOTkFU15T1brbPX07xt+d4jNLBnYVzSWmzlj8uPIje13I74
+1WR2YRPRIWxBYgOOxdGtRcB2bD0hj+xO239TNSs928lfk8zkIHWCPzbtVh3Lbvwo85VRZFCr
+P7QWNQ1bi2uwtQhbkNvGqbNtHep1pO1JaC1VNaNJW4m3bcdE6sR/iswlrdGgJn6bxa6uYR0a
+hG03Tt2GLRT96iA4ZV59/0v9nA6pVD5tL0ct5F5fzXrPtlq3befpd7mtny5PSRv4HrXELQtu
+hoxaTGz5S5Fh3GG2NOU1qjdDz67sq+apZ1ud25bP0E8XSdvehdRBtfXW4jJmi7BtjQpbeP6c
+tw6bVzP3LPqsal6TtlLbNuXET8DPwmP6XsQPsIm/iS0cwhbunvMhm/6ncuzZf374cYft1y8v
+3R9OD8flx7BWzX3PtmhbPtm9jtHwpJUNatu7kB3U1ttcd52UhSc9ru3CFiSe+UeH2QJDW6l0
+3RMxi7wm7crPpurZVuL9bfyGGNr0LCjYxF+ftD5ahE3kLo4KhrbQ9/RapiU+923PdiWLfPfs
+dFBb/OxXv55rUNu6en9b/Glff+Cn+lkqfpnLeTEduIk/Eklai0FtveXtmwTElyJjbLZfhRZh
+CxlDWxhxei0rtl+RNz84fszSsyVjpyVb+U5awqcVyJnDFh3XJLdnWtp9k3V+bD01ms/CoWfF
+97XTeeGxv4LqxE8zcymy7C5OHcMWmg1tYfTXRdzxS3D1CcZfqujZ1aAWZK+Fbd3p8bZt3sJM
+P1Q5Mhe7PCWt3aC23v7uPd2tj7EV38XRcZbKHNpC0cG2YP/H8OppP/28cr73ZujZrR+rxri2
+utpLsjvA7iZvTXsW2qw6hgmmtK0+YQsN9o+EvLCF0SfZ6izxPNOzHIlBLWxnNcK2FQ/DHt9M
+dvzht5u3pofQQrMRLYxLWutBbb2X4ym4yqrzKGxh6GpkqDsXSfyD5p/B9BObXm9Mm6pnOViB
+PBcvtJbftnA4xtv+MRaqfNkqO4pWf7/R8Yl1OaVdnVuy7DBbOmyhy/6R0L5tQc3o9ugJLO7Z
+tDFLD2phVzXGtVPptoWzb+LTb+uBP2wir1Paehb6nhCrz6B2SzxsoeVhtnB4PvPbVvwV7Nm2
+mieKnjWyn9UI29Z2o1H8Vrv6DTpkfH/3T53gvvCnb0STfQATJi1xKYA+GyOD0Jfvqm1Nh7Yg
+9OMmfqGD9GOgZ7duB7XACuRT9W3buf344T+Hk/csqJnSthodZguH1ciCezlVs4skyF3ctUWl
+8tGzPk6qxrh2S7xtCQN/Dm31LKg8DX+N2yu3FXyz5Qxtoc2RtnB2hq2Qd8bOmgVJDehZT+ez
+GmELP2wY+fJ/pT4gvUYURv9iWGNsz0KvXSGnd7QzdlDLuSRpoyNtYfNVlv1+Lmub7NDWgci3
+Fknbyll+DKxAVlq/LxNzW7CTt7H7QaKnPQstNzpqWHvMDFuQHtpCy4Ntofvu/57o2ViXVWNc
+eyQnb5rbNlXPTu/rqEPSZO+iw/bIsnu5crX7f/nv6Ueltm3p76vMLzc9O5U5qIX0rEbYlm+v
+9PnWjnoechNR3LNgM2mZh9A0TGmrxDfVTtnQ9mg1MoguQpy+yzPzIgyq2kbP9GAFsonE6Lb7
+7te8GSR06VnQdBQtUpW0Vc5SZPR0nMq5fs1xaAuNj7dF2zs9/a5YH/mQvInELNCzO/mDWrit
+2uTj2u2GkVu3v2UPGeAeXdVzp3XPQveN+zs6kxY9Clv8Q+bXa31iH22P3N5Xu2XJVbpw3UY3
+2eVreiaOWa0HDW1Ll2x5Lbj9WXXfs6A7aVF+2KKyvI1tW87J5652lzQa3Vr8VkTPMj0a1EJO
+1SYf1wRlti2SSsjVy9P2Zz7xEyse2qv7Eu9ZwVvQ9Cctehq26FF1KtuWf0e30mcuXh7A+gG7
+R7v915rC0TNzsmY1wiYo88h/5avD6evR+rPdeSxL3KmGmEVWkhaVhS0UtS1c5+2qbU/vKMfV
+AHf6Fd/toixYnGw04tOzp54OaoEVyFsF2yBztNvVFs/CcPwBHlKyxF1f9WzI+UFsJS0qDlt4
+/k2Vztv6pUyMbo/u7tbtpWeO/z3+lXTe2s33xKyn3KoxrrXwtG2rxAtE/kB2e1PF0nct27P6
+k11ZTFpUE7ZQ8d7t8DxvZXd3K//KarInRXv0PUPSihUMauHRrDZn2Oq3Qd7Kb9uq5ke00Ux2
++5BkFxsFX6SWZ37asIWKEyXHP5RNb+LfhGXX5Hzq6fcJPRuCFUgttj8wla9TUbd3C5RNZtHT
+njU6DfH6hNvKm8j3SVR8HHf7FTwWbvvVP30fd8E9PlX5PVP2LUHPBnpWtTnHtf7S59/KJHhm
+o+Mt337MMWZ99qFVMpE3wZgd1WxTyhng0sfeVsXfuqPGshU9k1K2/BgKZjXC1lPlACeyZf/R
+y4TRmB3FZ1th25ombUskb6u1c8fvkMRBuJ3dIxH/9qj8ctMzJViBvBe/WVvshHxEZIBbSb0i
+qNrKWOP0dE3aDrmdfulPH7kgkd+NEmNcZufSj6QSPdOmeFALZVWbbVz70x/DL36ppW1BOm/F
+ti9GRgey1frqfDxdk5KwJXq2/rn/M6nha1ej/itLzxQqnNVmC9tKT9vC6LylTxdpyG7gUBu2
+W0PCZpHIV5OetVMzqAVWIMus39DkbRJjw8aXVQQxm0R51aYd17ZUjW6BvLWUCFv9m8bS99vo
+lich9esIPeujclALlbMaYYu0tS0UvbN7Wru3QKhaxOv23nxnBAdrYmYOK5Bi1LZtReSuZPZA
+2wE2MrZq8XWhZ/3VD2qhvmqTjGtxG2QOhW1bzRa5033nhkpQ+QW62nZv6BlIaPfrBTGzjlmt
+Cc1tW4mfo2ug/DdOVb6Tt9u4VvAVyXwS7Ma+9TNPz8YSGdSCSNUmGdcKbH9IDBUuWItczYnB
+Wr+FuczT57/+1Gg6n4fQ5fQuxMwZmVmNsN3S9maANCtjnOwFly0eXRO/sMvwsHV7bomZV6xA
+9mYrb0Fr4bpdkeCUqrDJejq0mXseiJlOUsuPQbBq7se1/A0jmUwce9tp+hKWmcyxPetAw68O
++UOblcATs3lIzmruw9aCxba1MPylXO22kbRGF+EMXsJGzEwQHNQCK5BKGNpX0kJ+0hIv37uX
+4EaX2mmtrO6PrqV3/Hyv/q7RsFGyyQlXjXGtnrkDb5VEkhYOL8GqWtVB8efrZkWXmBklO6iF
+FrMaYZMy+QCnWbu5pPOpzm6Tpn9cI2bYYQXyAfENI/lmG+COckaKPhvTO7x2Nz1d8ir/XdsK
+B19i5oP4oBYaVY1xrZ05B7hHpw5p+hLcbRxpPbS1+ERaj2uUDDlazWqErQMHA1yLV+1GYRuy
+vNZoaIufy/ffffjm26xODBzXKJljLQa1wAqkD3MOcAmCr8LDt/aJXzNv+xnlhy2TyLhGyVCj
+YdUY14YwNMA1PXRUeWLD4TE7Esnb8fMSD1sBMjahRoNaaD2rEbaBTl8p9KROakN/wvJ6/ejo
+lMKSnSo7h5mez46GoSlWIJ8ZuA1ShPLUCVqStv5Zzwu6uG6fWtkWfwKG/ppXjXFNv3lShz6I
+GdLaLT8GZjVcEXxh6h/I7aAGYCo9qsa4NrPKpLk5nxOAqOmgFrrNaoRtTvVT2qPz9qLA8A2Q
+gCxWIB+zvmEEAEZpPaiFnlVjXJvNwP0my/zBobUc+YOawlNBAqe6zmqEbR5soVSOhUf012FQ
+C6xAYpTWp6WPr9pMbKdIGhzrXTXGtRnoGdRo205Zz1h+RL0+g1oYMqs5CBsbRhLEk1a/DZLD
+bIH5DNNgBRIGiIRt/fNshavs2dNB7S9/5p0Y2Os2qIVRVXMwrqHeo0Nrgm9cW1/l19drHyeK
+PD6Z9c8Ya48wZ9isRtjwlPg7stdbO752L/9L+UiX+IVg4PvWGdQwHCuQwEnermaU/lNd5jjb
+omQMahDRc/kxjK0a4xqean0CrcT0Fsm+G6Hy1po+FQVJY1CDBsxqhdgGKaLgXWt9zgyZuAsN
+E0zrZ0DD5wgfOg9qYXjVGNecKdjWrzZsV3Z3PSQAp3cq9ZyQNJg2flYjbJ58/fLS5y3Yes7l
+f/swukVivaOaZ6b40bL8iKP+g1rQUDWg7OxZ8fVXSdsSMh+hYPzK8lbzAEga9FBRNcY1FJ8W
+0krbbrU4kpf55FQGlaTh1JBBLSipWrAZNjaM6OGmbae2n1dBgRKjW/2ASNKgjZaqAfGtYDWb
+3UUOLClXUzjZI3z0DAmjBrWgqmoWxzWIE7lCje/RbXX77rp2SBrUUlS1QNjwg/qhLZqkbaF7
+3kga0gYOakFb1eCA1OZ+qcuKbl/o3RcufoJN20bSoJy6qtka19gw0pTU0LaapHCN2kbPYIK6
+qgVrYcOR7HuxpYa2nasXfTe1k20bSUOmscuPQWfVgB3xoS1hlwHrkVsef2XYlid/+TVF6vEA
+rSmtGuOadS1OndVoaEtzsGhZFjYfV1JFZ8MHtaC2aoGw2dcobOufxxZuR3nw8sN2jBmDGmzR
+WzUgreey5C39wcsM2/J8bsNG0pBPw6AWlFfNxLjGNsiEDqfwV9W2U3q2pTxdiiRpsEh11eBA
+h7BpTlrCkNrlhC2OayQNjygZ1IL+qpkY1zCK0Z6ltd6fkhM2kga7tFctEDb74ktkn6uJHr17
+9273X96+fTvkkRRodL7m27B98dUb3qCGfHoGtWCiavBBfCkyZ1A7Ju3qPy5eX1+//y73EXYe
+E2e4HAEgwkbVlI9rbBjJJBi24qRdWQa4R+/Q2n1wt8hJ5Y1xDVKWF8DlJVoPG1UL6sOGTCJh
+a5GQJYF/+6v4rV6qf+PdPFckAB4xUzW40WFXZGg8qMm6uuuc2i1taxc2xjXcWga1xTJy6BnX
+LFWNcc2NdYtdQd5arD0+fQx9rLVLf8rFYas/RSSgkKWqBcLmTqPtka+vr/EP79+/T3+k2qRt
+3eat6cQG5NAzrhmrGlzKX5PMGdS2r+9r3kKycFbO5Js4kQphQ39x+VEbe1XTOa6xDbLS9m2/
+V4V7mrSdpXC3o5sJV9cuKAgbi5AQpGRcs1e1oDVskNLuXdu7sJlYfjwlGDagjM5BLRitGmZQ
+sFVyqhf0IVebA9I0jGtWq8a4NhupV/B1XLM7qKUxrqEDtYNasFu1QNi8azeoLWHbHkyyslXk
+iHENCg0f1wxXTRs2jAjaJa3pa/fuOpkA0jQPasF61RjXXBp1dn8AIsaOa7arBn86JM3TXnYW
+IdGZ8kEtOKga45onTGmADwPHNfNVC4QNk+3pB0Z5NKiNCpuHqunBhpEaNacUAYDISdUY11DD
+0zZIxlboMWRcc1K1QNiM44hase2GEdmkcXE1bOnfJxL5qRrsImmAV/3HNVdVY1ybFqeJCkWD
+mqc3OaApK4NacFa1QNiQ4fTyK54OrYlg+RFSOo9r3qo2HNsgn5Jafnw0rvkLG6Mq2jE0qAWX
+VWNcc4bTZ9wSTxqDGmT1HNccVi0QNjsG7hO5GteC5bP4A+JsDWrBa9Uwp6d7Rk7DFqwtRX7z
+7UvZX7zaKsKghha6jWtuq8a45kn+IqTUZkiGNiAYHNSC46qFcWFjw4ghMYFXU4v+thUPalcY
+1NBOn3HNc9Uwp4Jx7WopMtqNiXoiV5O008+XpGHL4qAW3FeNdUjNHm0Vab0TMh22LSUbMpnS
+YFGHcc151eBJ66Nr6dVIPep7dvwcSRrc8F81xrU5FW8b6dO2dJ4Ti5wkDX20W35sPa75r1oY
+ETY2jDTyaB2yZj/k8S/2nOFyPkepd16TNPTXNGxTVA2edAvbzu52hi9U7h5A5qc5/GHDBKP7
+RKJZqsY65LQanc5/7DB3tN574pNl7RF6tBvXZqlaIGyOPN0PGV/NW5//V8m0dPXJkjRkMj2o
+hamqBm2+fnkpPg9kwUZ/Jddg6zPk3Y5uJA3DNRrX5qoa45onZWEL+i7a0rRzjGh4xPqgFmar
+WugYNrZBdlD21mwlQ1tCo87RM2jTYlybrmpwJr61y8fQlrA+1Jq8ffHVG8KGBAeDWpizaqxD
++lM8tAVTbQvVeSNs0EZ8XJuxaoGweVQ2tIW8PfEKFZ8DZQlbYDUSBz4GtTBt1aBEzTbIU8Vt
+C58XwkrhatpG2KCE7Lg2b9U6jGtsGMkhHrZQ17bI1gBX1jbCBpfmrRqQ4yoVCmtX0DbChmj4
+8qPguDZ11Ti6pkSLca31VdDULlc+bRthgzNTVy0QNjVkw9b5wp6JhIwKXv5FUIHhg1okNa7N
+XjX4k5m0d+/eJf7v27dvRR7MwODlh41xDUqIhI2qtR3X2DCSbxnXln9WTmwiSdt+wOvr6/ff
+fci/5Xwd1jAJG24pGdQEUbVPWIfUo2YpUippq2ViWy9Lnbg+9aN7P6XhKB1hgwb14xpVAy4t
+gYmDWk+yheMAGxL8DWqBqq0Y1/QoW4psOqiN0vltc4xr0KByXKNqPyFsqogcZttZ2/D+/fv0
+R7ZOWs8LnzKu4ZTLQS1QNSiXeZjt6TGt19fX+IfTvC1JW0a6v/310U0+dlXNxOfS4XTMjGvQ
+oGZco2qfaTGusQ2yktTQdhqDJW+nYfvbX/+h8u6K3Z7uq6BtjGvY8TqoBap2xDqkTom25Qxq
+iQZchW2snLapOqcJIKt4XKNqsKTFwbYdqfdfi0gffnsUNt67hklQtROMa4aIvDla57gWDQkb
+fLOy/Fg2rlG1c4RNre2gJni+j0nCBrhH1Xpgw4iUsrXH/Bd9VcuPW1JhyxzXWIR0zMqgFhWM
+a1TtEuOaNk0Pp4XNdn+dnr7FDZgTVYMNrZNmgkjYOLo2M1uDWvR0XKNqKYxrSvRJmonXeiY2
+TOhR2KjaDcJmnb+dFPVhY1ybk8VBrQBV64QNI8WuBrWZRxYmNswmf1yjavcY1wbqdjiN2QW+
+TTKoBaqWibAN0XOHyG5RbpmEhl+GJq1yXGMREuZkjmtUDQCcm2dQC1QtH+PabNyPa4A5OeMa
+VXuAsPUktfw4wwmluJoosKJq/bANUpb4pHJ8ldc/rgG3nC0/3o5rVO0ZxrU+9JxJRHnYND82
+YAiq9hhhA2CFs0EtSo9rVA34yemhprjOyVQEmEDVSjCu2SKyYUT5UiRw5HJQixLjGlUrVBY2
+NoyMInIFMp1D2zffvox+CIAiVA14RmfbZHHJUAccD2rR1bhG1cqxDtlI/gbIR5v7H41r4e7M
+kOv9+s4bYA5Vg23tzq+R07YwenRj+RGn3A9qIXBcrQ3GNVsKto08apsPLD9COd6F3RZhG67R
+OuSWzpNLMajhlO9BjfNAqsM2yBY6nOd3baFI3nIe7ZBVTQY1qMVVQ/thXLMlZqn4HWyZa5L1
+juVjZwqmlZm0QNWkEDZBX7+8FJwH8um4VvnW7N3f7bM+ufsEK99afnzMDGoO+Ft+zO9ZRNUw
+L8GL1AyJ3PFeaj4dkgZtnvYsompiGNeGKzi61ujqa8fb7Nk599eTwxVPg1pZ0gJVk5UZNjaM
+tFMWttC+BD2HuYLPiEENehT3LKJq8KZsP2TnS2Z3GObWG2R0m4SPQa0yaYGqiWMdUoO4V1Dn
+0HalXedOP6/tjTOoQYP6nkVUTR5hU6K4bUqGG9lFy6vPi6T5YHpQk+pZRNWgUdnm/lPFR9qC
+srW7+reBr2Fbb4GkYTjZpAWq1sjtuMaGkVtjwxZpzltZ21h4dMnooCbes4iqtcI6pCrbs3KU
+7SWJf9CTt8pTnJA0jNUoaYGqQTPBcU3KtiIaCtft9F1Qy9yg1q5nEVVriHGtnnjYBE+CfNqS
+IakraNsXX71hXENnrXsWUTVMpMNV0K7S0qF2Ty+XQ9jQU5+kBarWGuNavZ7rkO/evdv+69u3
+b6Vuuc+ROZ3XgUM7JpYfu/UsomrNXYWNbZCd3Q5qu6Tt/otU4VofmXsUNsY1tNY5aYGqwYRl
+XFv+WTOxFSTt6gP+9td/eHrjVxoVjoltEsoHtf49i6haD6xDimi3FHmbtNXr6+v33+0fg8iV
+uGULlx82xjWIG9WziKp1QtgGEtwkckxaCyKFY2LzTe2gNjZpgarBloKlyPq1x9Xbt2+37+bu
+o+acy5lhY1yDiOE9i6haP8dxjQ0jZfKXImWTlvmROZ6e60TPOZehgcJBTUnSAlXrjHVIKVLH
+2F5fX5d/vn//Pv1hMWmNBrXMwpWFjXENrenpWUTVYFX9xsg1ErFt4SJvslNaWvrqOUxsCJoG
+NW09i6hab4xrshJtS6/sneYhc3RrLdG2grCxbQQt6ExaoGpDEDZxT+e2dBiWtg0PW7h+wwAT
+28w0DGpqexZRtcHYMCJll7TK3fzHsPXf/RhKL+d9lDOucWgNOZQnLVC1URjXZLV4d7aSiS2c
+DW2Ma3MaO6jp71lE1WBeu3MfL2FTckRK5PQlQBkrPYuo2jCMayIK9okYVRk29oygjK2kBao2
+FmGrVDal2V27Y2KbWf/lR3M9i6gaAGDPaNICVRsujmtsgyxwNag1mmaWmx2yDRIIfQc1uz2L
+qNp4y/fQ//z36AeBCXBoDWnWexZRNZjUbt8joE2fQc1H0gJVw2xqtopoWIRkwwjEuelZRNUw
+l8r3L2sIW7C8jRNPtR7UnCUtUDUlfv4lh9YeYPkRqOevZxFVgzeya3THHRbxxkdNbMu9M6jN
+o9Gg5rVnEVWDMf0HtdOtg6OWIjWsf8I030kLVA0oNnZoE8cJ+7URH9Tc9yyiaphO2YU317+7
++19K9o8AaZMkLVA1PdgwkmP4PpGr1cghDwbIMU/PIqqGGdXs77d7ho7Ew2b5URup5cfZkhao
+GgzJH9Rav1U5FtFo2zCJCXsWUTVMqv5y0jVtS0Q3fZTum29fCu4ujUFNm8pBbdqeRVQNPnU7
+s9Q2jSLT2/Zh7wpH0nBr8qQFqoaZ1Y9rO00Lx5uvJ1E8qNGziKopwjZIWTnjmnjYVuKF295I
+wWM+fQwMam6QtBVVA5prVLjKHpM0hQoGNXq2Q9VgQ7t3qrUb107t7qsmcvltY7umS/TsFFWD
+DV+/vBSETf/VyOrHuLIqM6gp9GhQI2lXqBqcyzy6FhRsxyguXDpsx5siaabRszSqpgsbRlrI
+nNg6L0WmJc48eSr/wZM0nTIHNZJ2i6phChbDFuW/1/t04tz9RZJmFz3LRNWAzyhZjdx51Lar
+OY+kGUXPHqFqmEU8T0fm5hHTbTudOEmaZonlR5L2FFWDGWXbIGsoXJAM2RcNWD+GnhlFz8pQ
+NUykYJf/2gZVebsNG0kz5HRQI2nFqJo6bINM6D+urbStSd6GjZ4ZRc8qUTXMIj2ovXv37u3b
+t7c3sguJnsgdffHVG8Km33ZQo2ciqBqMKRvXctYel7At/8xp22ps5OxelRtHJE0KVQM+E9u2
+ld+5Y2PGDnOMa8rFQY2eyaJqsOfpuHY7qB1Ldvp/H41xUeXlY24xrllH0sRRNY3YMHIrP2w5
+a4+vr6/LP9+/f5/+sJoxLmjdTolRlh9zktYCVYNVUvsh18Zktm1r27nihcqmkWMRErOhasBn
+lrY9ClsoWpncqnzPAIuQFi2DGhqhajCsflw7bUlm2CpjtqPzPCaAOVQNttWELVGR27BVJu30
+GgKEDahH1ZRiw0i+/iccEZnSTs+2XBY2FiFtYfmxKaoGnDsd1057lnnxtlPHtjGxATWoGsxL
+DGqJ2IiUIzZJ5HaKuwhbGNRao2rwrLIWu3FtO6hJ9Wx7g+tDLRjXWIQEIqoG27odUWuatPVm
+a8IG/RjUOqBqmNHTYHRI2nrjLEUCNaiaXmyDvNVhUHt9fd2u7DVN2noXhM0lBrU+qBqQq0PS
+1jsibEAZqgarOr9HrVvSZHESSCUY1LqhaoBGRiMKDEfV4JzIah6NQQ0GtZ6ommpsGBEx7WEq
+lh8xIaoGkyoPqj16N9ioQe377z588+3LkLsG7KJqmELNuLakZQmM7OPpgEFNCZYfO6NqgAec
+LguIqBrsKVt+nOroGoOaEgxq/VE17dgwclR8QTWvYdsNaiQNM6NqmJTX0weTND0Y1IagaphL
+2bimecPIdlAjaQBVA5wgaaowqI1C1TAdT0fX1kHt48ePHH8FAlXDnGLYHh1a07wISdK0YVAb
+iKoZwDbIFgrCpk0c1EgasEXVYFLx5v4t5WFLny6LpKnFoDYWVYNVImH7y58/fvHVG7VhSyNp
+wBFVw7yWLoa/bx1c8nD7K7aqQ2vLwyZpwBFVg2Ei49oqJ2zdpJcf6Zlaer6FpkXVbGDDSB/x
+SVb+wsR3ApBA1WCb7LgWJdo2dhGSnimn/PehSVA1mNcibGHoguTp8uNS03ggEEACVYMH7cK2
+3OzwC1LH6ZCkKcegpgRVgxONwhb+HpW1ba0XIdc72t4LSQMyUTUz2DAibqlgfi12bWvnmEyS
+ph+Dmh5UDX60G9dWet6vBuAUVYMrT8P2aFwbQvnDQ2BQU4aqwZsOE1s3JA14iqrBoUdhUzuu
+6XxU2GFQ04aqwSfTExs9A4pRNUvYBvlIbENO21SNa3oeCWARVYNz+W0bjp6Zw/KjQlQNU2i9
+IBkvQJr/wcf/SNIAEVQNs2g9tGWG7Zg0emYUg5pOVA1zaTq03YaNpAGtUTVj2DBSb9T2yF3S
+6JlpDGpqUTXMaC3KmjepbZB/+fPHL756k3nvAMRRNUztmLd6p2Fb/qPU7WM4BjXNqBrwSdP5
+iaQB3VA1QN52XCNpzjCoKUfVgCZi2Ega0BlVs4dtkFaQNH8Y1PSjagAAP6gaAPMYobCiaoAY
+3ojWAsXCI1QNSMk/EQlJK0CxII6qmcSGkZ5ywkbSctAwdEDVgHumr6w9xJ/+GH7169EPAlOi
+akAtBrWlYTskDaNQNSDL1bg2W9KOAduhZxiLqgG5jmHznbTbgB2RNAxH1axiwwgEFQRsh55B
+CaoGPLAd1ywOavX1OqJnUIWqAc/EsFlJWouMbZE0aEPVgMfUJq11w7boGXSiaoBhPTO2RdKg
+FlUDzBjVsC16BuWommFsg3RPQ8ZW9AwmUDVAC1UN2yFpsIKqAcNoztiKnsEWqgZ0YqJhOyQN
+5lA1oC2LMQv0DGZRNdvYMKKT0ZJF9AymUTVAhumSrUgarKNqQBUfMQv0DF5QNeAxNyVbkTS4
+QdWALP5KFtEzOEPVzGPDSFNeYxboGZyiasCe45KtSBq8omrAJzOULKJn8I2qYWrzxCwiaXCP
+qmE6s5UsomeYBFXDFOYsWUTPMBWq5gHbIBNm7lkgaZgPVYNPk8cs0DPMiqrBFWIWkTRMi6rB
+A2K2omeYHFWDYcRsi54Bgaq5Mc+GEUp2iqQBEVWDAZQsgZ4BW1QNqtGzNJIG7FA1aETMbtEz
+4BRVgyLELAc9AxKomh92N4wQs3wkDUijahiGmD1Cz4AcVA29LTNltLxM/+H3Qx+KHSQNyETV
+0Mkasy3CdoueAY9QNbR1GjPkoGdAAaqGVjJ7xrh2iqQBZaiaKxq2QRYMZ4Rti54BNagaZLDS
+KIKkAZWoGqpIxYxxjZ4BIqgaCokPZzOHjaQBUqganmGlURY9A2RRNW8abRjpE7OpxjV6BrRA
+1ZDSfzKbJGwkDWiEquEcK42N0DOgKaqGveE9czyukTSgNaqGnwzvmWP0DOiDquETbT3zNK7R
+M6AnquZQ/jZIbTHb8hE2kgZ0RtUmpblnPtAzYAiq5lNiXDPUM7vjGkkDRqFqEzHUs5W5sNEz
+YCyq5tZ2XLPYM3PoGaABVfPMR8xMjGskDVCCqsEAzWGjZ4AqVA0oR9IAbagabNA2rtEzQCeq
+BjOUhI2eAZpRNeABkgYoR9VgycBxjZ4BJlA1GDMkbCQNsIKqASn0DLCFqsGePuMaPQMsomrA
+CZIGGEXVYFK7cY2eAaZRNVjVImwkDbCOqgGf0DPAB6oGw0TGNXoGeELVYFtl2Ega4AxVw6To
+GeASVYN5BeMaSQO8omrwID9s9AzwjaphFvQMmAFVgxPpcY2kAZOgavDjNGz0DJgKVYNnJA2Y
+DVWDK+u4Rs+AOf1/XKb2GyyH+yQAAAAASUVORK5CYII=</binary>
+</FictionBook>
