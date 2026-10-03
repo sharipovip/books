@@ -4,10 +4,64 @@
   "folder": "books/Таърих",
   "books": [
     {
+      "name": "Malikov 2018 560 c",
+      "file": ".Malikov_2018_560_c.pdf",
+      "size": 17106453,
+      "mtime": 1791021631
+    },
+    {
+      "name": "80 ст",
+      "file": "136032015.- 80 ст.pdf",
+      "size": 26351901,
+      "mtime": 1791021632
+    },
+    {
+      "name": "Hisob",
+      "file": "Hisob.pdf",
+      "size": 41700540,
+      "mtime": 1791021632
+    },
+    {
+      "name": "Наикратчайшая история Англии",
+      "file": "Istoria_Anglii_2021352.pdf",
+      "size": 16459773,
+      "mtime": 1791021632
+    },
+    {
+      "name": "К истории русской революции. — М. : Политиздат, 1990",
+      "file": "istoriya 1990_447_ст.pdf",
+      "size": 19696808,
+      "mtime": 1791021632
+    },
+    {
+      "name": "kees german 2005 496 ст",
+      "file": "kees german_2005_496_ст.pdf",
+      "size": 16244408,
+      "mtime": 1791021632
+    },
+    {
+      "name": "БАХШИ 2",
+      "file": "kitobkhon-net-sadri_bukhoro.pdf",
+      "size": 1354501,
+      "mtime": 1791021632
+    },
+    {
+      "name": "sarazm",
+      "file": "sarazm.pdf",
+      "size": 5884350,
+      "mtime": 1791021632
+    },
+    {
+      "name": "vozvisheni stalina 2010 512",
+      "file": "vozvisheni stalina_2010_512.pdf",
+      "size": 50324092,
+      "mtime": 1791021632
+    },
+    {
       "name": "Эҳёи Аҷам. Руҷӯи таърихию публицистӣ. Акбар Турсунов",
       "file": "Эҳёи Аҷам. Руҷӯи таърихию публицистӣ. Акбар Турсунов.pdf",
       "size": 3681201,
-      "mtime": 1791003517
+      "mtime": 1791021633
     }
   ]
 }

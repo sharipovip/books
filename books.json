@@ -856,13 +856,31 @@
       ]
     },
     {
-      "id": "jughrofiya",
-      "name": "Ҷуғрофия",
-      "folder_raw": "Ҷуғрофия",
+      "id": "huquqshinosi_qonunguzori",
+      "name": "Ҳуқуқшиносӣ, Қонунгузорӣ",
+      "folder_raw": "Ҳуқуқшиносӣ, Қонунгузорӣ",
       "emoji": "📚",
       "color1": "#d97706",
       "color2": "#fbbf24",
       "sort_order": 130,
+      "subs": [
+        {
+          "id": "huquqshinosi_qonunguzori",
+          "name": "Ҳуқуқшиносӣ, Қонунгузорӣ",
+          "folder_raw": "Ҳуқуқшиносӣ, Қонунгузорӣ",
+          "folder": "books/Ҳуқуқшиносӣ, Қонунгузорӣ",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "jughrofiya",
+      "name": "Ҷуғрофия",
+      "folder_raw": "Ҷуғрофия",
+      "emoji": "📚",
+      "color1": "#dc2626",
+      "color2": "#f87171",
+      "sort_order": 131,
       "subs": [
         {
           "id": "jughrofiya",
