@@ -41,6 +41,8 @@ BOOKS_JSON = ROOT / "books.json"
 COVER_SOURCE_HASHES = ROOT / "cover_source_hashes.json"
 DISPLAY_NAMES = ROOT / "display_names.json"
 RENAMED_BOOK_PATHS: dict[str, str] = {}
+# False = для PDF название берётся из ИМЕНИ ФАЙЛА (как раньше), а не из метаданных PDF.
+USE_PDF_METADATA_TITLE = False
 REPO = os.environ.get("KITOB_REPO", "sharipovip/books")
 BRANCH = os.environ.get("KITOB_BRANCH", "main")
 TODAY = date.today().isoformat()
@@ -527,8 +529,9 @@ def pdf_info(pdf: Path) -> dict[str, Any]:
                 name = title
         except Exception:
             pass
-    elif pdf.suffix.lower() == ".pdf":
-        # PDF: заголовок из метаданных (если есть), иначе имя файла как есть
+    elif pdf.suffix.lower() == ".pdf" and USE_PDF_METADATA_TITLE:
+        # PDF: заголовок из метаданных. ВЫКЛЮЧЕНО по умолчанию: в метаданных многих учебников
+        # мусор («Author: ikbol», «68.cdr», «Sanat va Mehnat s4.in») и он портил названия.
         try:
             t = pdf_title(pdf)
             if t:
