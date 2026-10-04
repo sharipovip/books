@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-04",
+  "folder": "books/Филмсозӣ",
+  "books": [
+    {
+      "name": "kinoiskusstvo sovetskogo tadzhikistana",
+      "file": "1_kinoiskusstvo_sovetskogo_tadzhikistana.pdf",
+      "size": 46194489,
+      "mtime": 1791077062
+    },
+    {
+      "name": "ocherk istorii tadzhikskogo hudozhestvennogo kino",
+      "file": "1_ocherk_istorii_tadzhikskogo_hudozhestvennogo_kino.pdf",
+      "size": 83695850,
+      "mtime": 1791077063
+    },
+    {
+      "name": "Влюбиться в лучшего друга",
+      "file": "1_vljubitsja_v_luchshego_druga.pdf",
+      "size": 493808,
+      "mtime": 1791077063
+    },
+    {
+      "name": "Аполлон на миллион",
+      "file": "Аполлон на миллион.fb2",
+      "size": 1152936,
+      "mtime": 1791077062
+    },
+    {
+      "name": "Противники",
+      "file": "Противники.fb2",
+      "size": 1505332,
+      "mtime": 1791077063
+    }
+  ]
+}
