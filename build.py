@@ -4,10 +4,10 @@
 Китобхона — auto builder for sharipovip/books
 
 What it does:
-1) Scans books/** for book files (pdf, epub, fb2, doc, docx, mp4, txt).
+1) Scans books/** for book files (pdf, epub, fb2, doc, docx, mp4, m4v, webm, txt, zip).
 2) Writes manifest.json into every folder that contains them.
 3) Writes root books.json from the real folder structure.
-4) Generates covers/<same folder>/<pdf name>.jpg from first PDF page.
+4) Generates covers/<same folder>/<book name>.jpg from a PDF page, embedded cover, or consistent fallback artwork.
 
 Idempotent: repeated runs do not duplicate anything and commit only real changes.
 """
@@ -30,15 +30,17 @@ from pathlib import Path
 from typing import Any
 
 try:
-    from PIL import Image
+    from PIL import Image, ImageDraw, ImageFont
 except Exception:
-    Image = None
+    Image = ImageDraw = ImageFont = None
 
 ROOT = Path(__file__).resolve().parent
 BOOKS_DIR = ROOT / "books"
 COVERS_DIR = ROOT / "covers"
 BOOKS_JSON = ROOT / "books.json"
+COVER_SOURCE_HASHES = ROOT / "cover_source_hashes.json"
 DISPLAY_NAMES = ROOT / "display_names.json"
+RENAMED_BOOK_PATHS: dict[str, str] = {}
 REPO = os.environ.get("KITOB_REPO", "sharipovip/books")
 BRANCH = os.environ.get("KITOB_BRANCH", "main")
 TODAY = date.today().isoformat()
@@ -46,7 +48,7 @@ TODAY = date.today().isoformat()
 PDF_EXT = ".pdf"
 # v94: бисёрформат — ғайр аз PDF ин форматҳо низ ба manifest.json ва books.json дохил мешаванд
 # (барнома онҳоро мекушояд: epub/fb2/docx дар дохил, .doc тавассути барномаи берунӣ, mp4/текст)
-BOOK_EXTS = {".pdf", ".epub", ".fb2", ".doc", ".docx", ".mp4", ".txt"}
+BOOK_EXTS = {".pdf", ".epub", ".fb2", ".doc", ".docx", ".mp4", ".m4v", ".webm", ".txt", ".zip"}
 COVER_W = int(os.environ.get("COVER_W", "400"))
 COVER_H = int(os.environ.get("COVER_H", "600"))
 COVER_QUALITY = int(os.environ.get("COVER_QUALITY", "78"))
@@ -408,6 +410,8 @@ def rename_books_to_titles() -> int:
     PDF не переименовываются (заголовок из PDF надёжно извлечь нельзя) — их имена и так
     нормальные. Идемпотентно: повторный запуск ничего не меняет.
     """
+    global RENAMED_BOOK_PATHS
+    RENAMED_BOOK_PATHS = {}
     renamed = 0
     if not BOOKS_DIR.exists():
         return 0
@@ -441,14 +445,15 @@ def rename_books_to_titles() -> int:
         if target == path:
             continue
         # обложка следует за книгой (старое имя → новое имя)
-        old_cover = cover_path_for_pdf(path)
-        new_cover = cover_path_for_pdf(target)
+        old_cover = cover_path_for_book(path)
+        new_cover = cover_path_for_book(target)
         if old_cover.exists():
             if new_cover.exists():
                 old_cover.unlink()          # новая уже есть — старую убираем
             else:
                 new_cover.parent.mkdir(parents=True, exist_ok=True)
                 old_cover.rename(new_cover)
+        RENAMED_BOOK_PATHS[rel_posix(path)] = rel_posix(target)
         path.rename(target)
         renamed += 1
         print(f"✏️ renamed: {rel_posix(path)} → {rel_posix(target).split('/')[-1]}")
@@ -622,7 +627,7 @@ def build_books_json(pdf_dirs: dict[Path, list[Path]], overrides: dict[str, Any]
     return changed
 
 
-def cover_path_for_pdf(pdf: Path) -> Path:
+def cover_path_for_book(pdf: Path) -> Path:
     rel = pdf.relative_to(BOOKS_DIR)
     return COVERS_DIR / rel.with_suffix(".jpg")
 
@@ -638,16 +643,20 @@ def file_sha1(path: Path, max_bytes: int = 1024 * 1024) -> str:
     return h.hexdigest()
 
 
-def cover_is_fresh(pdf: Path, cover: Path) -> bool:
-    if not cover.exists() or cover.stat().st_size < 500:
-        return False
-    # mtime check is enough for GitHub Action after checkout.
-    return cover.stat().st_mtime >= pdf.stat().st_mtime
+def file_sha256(path: Path) -> str:
+    h = hashlib.sha256()
+    with path.open("rb") as f:
+        for chunk in iter(lambda: f.read(1024 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def cover_is_usable(cover: Path) -> bool:
+    return cover.exists() and cover.stat().st_size >= 500
 
 
 def generate_cover(pdf: Path, cover: Path) -> bool:
-    if cover_is_fresh(pdf, cover):
-        return False
+    """Render the first PDF page. Return True when the result was verified/saved."""
     if shutil.which("pdftoppm") is None:
         print("⚠ pdftoppm not found, skipping covers")
         return False
@@ -681,14 +690,13 @@ def generate_cover(pdf: Path, cover: Path) -> bool:
             canvas.save(tmp, "JPEG", quality=COVER_QUALITY, optimize=True, progressive=True)
             if cover.exists() and file_sha1(tmp) == file_sha1(cover):
                 tmp.unlink(missing_ok=True)
-                return False
+                return True
             tmp.replace(cover)
             print(f"🖼 cover: {rel_posix(cover)}")
             return True
         except Exception as e:
             print(f"⚠ cover save failed for {rel_posix(pdf)}: {e}")
             return False
-
 
 def save_cover_bytes(data: bytes, cover: Path) -> bool:
     """Обложка из bytes (epub/fb2) — тот же вид, что у PDF-обложек: 400x600, белый фон."""
@@ -705,7 +713,7 @@ def save_cover_bytes(data: bytes, cover: Path) -> bool:
         canvas.save(tmp, "JPEG", quality=COVER_QUALITY, optimize=True, progressive=True)
         if cover.exists() and file_sha1(tmp) == file_sha1(cover):
             tmp.unlink(missing_ok=True)
-            return False
+            return True
         tmp.replace(cover)
         return True
     except Exception as e:
@@ -714,8 +722,6 @@ def save_cover_bytes(data: bytes, cover: Path) -> bool:
 
 
 def generate_cover_from_meta(book: Path, cover: Path) -> bool:
-    if cover.exists() and cover.stat().st_mtime >= book.stat().st_mtime and cover.stat().st_size >= 500:
-        return False  # свежая — не трогаем
     try:
         _title, data = book_meta(book)
     except Exception:
@@ -725,30 +731,245 @@ def generate_cover_from_meta(book: Path, cover: Path) -> bool:
     return save_cover_bytes(data, cover)
 
 
-def build_covers(pdf_dirs: dict[Path, list[Path]]) -> int:
-    changed = 0
-    for pdfs in pdf_dirs.values():
-        for pdf in pdfs:
-            if pdf.suffix.lower() == PDF_EXT:
-                # PDF: обложка = первая страница (pdftoppm)
-                if generate_cover(pdf, cover_path_for_pdf(pdf)):
-                    changed += 1
-            elif pdf.suffix.lower() in (".epub", ".fb2"):
-                # EPUB/FB2: обложка извлекается из самого файла
-                if generate_cover_from_meta(pdf, cover_path_for_pdf(pdf)):
-                    changed += 1
-                    print(f"🖼 cover (from file meta): {rel_posix(cover_path_for_pdf(pdf))}")
-    return changed
+def _cover_font(size: int, bold: bool = False):
+    if ImageFont is None:
+        return None
+    candidates = [
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf" if bold else "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+        "/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf" if bold else "/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf",
+        "/usr/share/fonts/truetype/freefont/FreeSansBold.ttf" if bold else "/usr/share/fonts/truetype/freefont/FreeSans.ttf",
+    ]
+    for candidate in candidates:
+        if Path(candidate).is_file():
+            try:
+                return ImageFont.truetype(candidate, size=size)
+            except Exception:
+                pass
+    try:
+        return ImageFont.load_default()
+    except Exception:
+        return None
 
+
+def _hex_rgb(value: str) -> tuple[int, int, int]:
+    value = value.lstrip("#")
+    return tuple(int(value[i:i + 2], 16) for i in (0, 2, 4))  # type: ignore[return-value]
+
+
+def _cover_title(book: Path) -> str:
+    if book.suffix.lower() in (".epub", ".fb2"):
+        try:
+            title, _cover = book_meta(book)
+            if title:
+                return title
+        except Exception:
+            pass
+    elif book.suffix.lower() == ".pdf":
+        try:
+            title = pdf_title(book)
+            if title:
+                return title
+        except Exception:
+            pass
+    return pretty_book_name(book.stem) or book.stem
+
+
+def _wrap_cover_title(text: str, font, draw, max_width: int) -> list[str]:
+    words = str(text or "Китоб").split()
+    if not words:
+        return ["Китоб"]
+    lines: list[str] = []
+    line = ""
+    for word in words:
+        candidate = (line + " " + word).strip()
+        try:
+            width = draw.textbbox((0, 0), candidate, font=font)[2]
+        except Exception:
+            width = len(candidate) * 12
+        if line and width > max_width:
+            lines.append(line)
+            line = word
+        else:
+            line = candidate
+    if line:
+        lines.append(line)
+    if len(lines) > 5:
+        lines = lines[:5]
+        lines[-1] = lines[-1].rstrip(" .…") + "…"
+    return lines
+
+
+def generate_generic_cover(book: Path, cover: Path) -> bool:
+    """Create consistent artwork for supported formats without an extractable cover."""
+    if Image is None or ImageDraw is None:
+        print("⚠ Pillow not found, skipping generic cover")
+        return False
+    try:
+        seed = hashlib.sha1(rel_posix(book).encode("utf-8")).digest()
+        color_a, color_b = PALETTES[seed[0] % len(PALETTES)]
+        start, end = _hex_rgb(color_a), _hex_rgb(color_b)
+        canvas = Image.new("RGB", (COVER_W, COVER_H), start)
+        draw = ImageDraw.Draw(canvas)
+        for y in range(COVER_H):
+            t = y / max(1, COVER_H - 1)
+            color = tuple(int(start[i] * (1 - t) + end[i] * t) for i in range(3))
+            draw.line((0, y, COVER_W, y), fill=color)
+        margin = 28
+        outline = tuple(min(255, c + 48) for c in start)
+        draw.rounded_rectangle((margin, margin, COVER_W - margin, COVER_H - margin), radius=20, outline=outline, width=3)
+        # Simple open-book pictogram, drawn with primitives so no external asset is needed.
+        top, bottom = 76, 225
+        left, mid, right = 105, COVER_W // 2, COVER_W - 105
+        draw.line((left, top + 18, mid, top + 35, right, top + 18), fill=(255, 248, 224), width=6, joint="curve")
+        draw.line((left, top + 18, left, bottom - 10, mid, bottom - 28, mid, top + 35), fill=(255, 248, 224), width=6, joint="curve")
+        draw.line((right, top + 18, right, bottom - 10, mid, bottom - 28), fill=(255, 248, 224), width=6, joint="curve")
+        draw.line((mid, top + 35, mid, bottom - 28), fill=(255, 248, 224), width=4)
+
+        extension = book.suffix.lower().lstrip(".").upper() or "BOOK"
+        small_font = _cover_font(17, bold=True)
+        title_font = _cover_font(30, bold=True)
+        if small_font is None or title_font is None:
+            return False
+        label = f"KITOBHONA  ·  {extension}"
+        try:
+            label_width = draw.textbbox((0, 0), label, font=small_font)[2]
+            draw.text(((COVER_W - label_width) / 2, 248), label, font=small_font, fill=(255, 248, 224))
+        except UnicodeEncodeError:
+            draw.text((COVER_W * 0.2, 248), extension, font=small_font, fill=(255, 248, 224))
+        title = _cover_title(book)
+        lines = _wrap_cover_title(title, title_font, draw, COVER_W - 84)
+        y = 310
+        for line in lines:
+            try:
+                box = draw.textbbox((0, 0), line, font=title_font)
+                width = box[2] - box[0]
+                height = box[3] - box[1]
+                draw.text(((COVER_W - width) / 2, y), line, font=title_font, fill=(255, 255, 255), stroke_width=1, stroke_fill=(0, 0, 0))
+                y += max(38, height + 10)
+            except UnicodeEncodeError:
+                safe = line.encode("ascii", "replace").decode("ascii")
+                draw.text((40, y), safe, font=title_font, fill=(255, 255, 255))
+                y += 42
+        cover.parent.mkdir(parents=True, exist_ok=True)
+        tmp = cover.with_suffix(".tmp.jpg")
+        canvas.save(tmp, "JPEG", quality=COVER_QUALITY, optimize=True, progressive=True)
+        if cover.exists() and file_sha1(tmp) == file_sha1(cover):
+            tmp.unlink(missing_ok=True)
+            return True
+        tmp.replace(cover)
+        print(f"🖼 fallback cover: {rel_posix(cover)}")
+        return True
+    except Exception as e:
+        print(f"⚠ generic cover failed for {rel_posix(book)}: {e}")
+        return False
+
+
+def changed_book_paths_from_event() -> set[str]:
+    """Find book files added/modified in the current push so legacy covers refresh once."""
+    event_path = os.environ.get("GITHUB_EVENT_PATH")
+    if not event_path:
+        return set()
+    try:
+        event = json.loads(Path(event_path).read_text(encoding="utf-8"))
+        before = str(event.get("before") or "")
+        after = str(event.get("after") or "HEAD")
+        changed: set[str] = set()
+        for commit in event.get("commits") or []:
+            if not isinstance(commit, dict):
+                continue
+            for field in ("added", "modified"):
+                for path in commit.get(field) or []:
+                    normalized = str(path).strip().replace("\\", "/")
+                    if normalized.startswith("books/"):
+                        changed.add(normalized)
+        if changed:
+            return changed
+    except Exception:
+        return set()
+    if not before or not after or set(before) <= {"0"}:
+        return set()
+    try:
+        result = subprocess.run(
+            ["git", "-c", "core.quotepath=false", "diff", "--name-only", "--diff-filter=ACMRT", before, after, "--", "books/"],
+            stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=60,
+        )
+        if result.returncode != 0:
+            return set()
+        return {line.strip().replace("\\", "/") for line in result.stdout.splitlines() if line.strip().startswith("books/")}
+    except Exception:
+        return set()
+
+
+def build_covers(book_dirs: dict[Path, list[Path]], force_paths: set[str] | None = None) -> int:
+    """Refresh changed covers and create fallbacks for every supported book format."""
+    previous = read_json(COVER_SOURCE_HASHES, {})
+    if not isinstance(previous, dict):
+        previous = {}
+    forced = set(force_paths or ())
+    updated: dict[str, str] = {}
+    changed = 0
+    for files in book_dirs.values():
+        for book in files:
+            key = rel_posix(book)
+            cover = cover_path_for_book(book)
+            valid_cover = cover_is_usable(cover)
+            force = key in forced
+            try:
+                source_hash = file_sha256(book)
+            except Exception as e:
+                print(f"⚠ could not hash {key}: {e}")
+                if key in previous:
+                    updated[key] = str(previous[key] or "")
+                continue
+            old_hash = previous.get(key)
+
+            # On the first run, keep valid legacy covers as-is, except files in the
+            # triggering push; checkout mtimes are not reliable for detecting updates.
+            if valid_cover and not force and key not in previous:
+                updated[key] = source_hash
+                continue
+            if valid_cover and not force and old_hash == source_hash:
+                updated[key] = source_hash
+                continue
+
+            before_cover = file_sha1(cover) if valid_cover else None
+            ext = book.suffix.lower()
+            ok = False
+            if ext == PDF_EXT:
+                ok = generate_cover(book, cover)
+            elif ext in (".epub", ".fb2"):
+                ok = generate_cover_from_meta(book, cover)
+                if not ok:
+                    ok = generate_generic_cover(book, cover)
+                elif ok:
+                    print(f"🖼 cover (from file meta): {rel_posix(cover)}")
+            else:
+                ok = generate_generic_cover(book, cover)
+
+            if ok and cover_is_usable(cover):
+                updated[key] = source_hash
+                after_cover = file_sha1(cover)
+                if before_cover != after_cover:
+                    changed += 1
+            else:
+                # Keep a mismatch marker so a transient rendering failure retries later.
+                updated[key] = str(old_hash or "")
+
+    write_json_if_changed(COVER_SOURCE_HASHES, updated)
+    return changed
 
 def main() -> int:
     os.chdir(ROOT)
+    changed_books = changed_book_paths_from_event()
     overrides = read_json(DISPLAY_NAMES, {})
     if not isinstance(overrides, dict):
         print("⚠ display_names.json must be an object; ignoring")
         overrides = {}
 
     r = rename_books_to_titles()
+    for old_path, new_path in RENAMED_BOOK_PATHS.items():
+        if old_path in changed_books:
+            changed_books.add(new_path)
     if r:
         print(f"✏️ Renamed {r} books to their real titles")
 
@@ -756,19 +977,19 @@ def main() -> int:
     if d:
         print(f"📄 Created {d} viewable copies of .doc books")
 
-    pdf_dirs = collect_pdf_dirs()
-    pdf_count = sum(len(v) for v in pdf_dirs.values())
-    print(f"🔎 Found {pdf_count} books (pdf/epub/fb2/doc/docx/mp4/txt) in {len(pdf_dirs)} folders")
+    book_dirs = collect_pdf_dirs()
+    book_count = sum(len(v) for v in book_dirs.values())
+    print(f"🔎 Found {book_count} supported books in {len(book_dirs)} folders")
 
-    if not pdf_dirs:
-        print("⚠ No PDFs found. Nothing to build.")
+    if not book_dirs:
+        print("⚠ No supported books found. Nothing to build.")
         return 0
 
-    m = build_manifests(pdf_dirs)
-    b = build_books_json(pdf_dirs, overrides)
-    c = build_covers(pdf_dirs)
+    m = build_manifests(book_dirs)
+    b = build_books_json(book_dirs, overrides)
+    c = build_covers(book_dirs, changed_books)
 
-    print(f"✅ Done: manifests changed={m}, books.json changed={int(b)}, covers changed={c}")
+    print(f"✅ Done: manifests changed={m}, books.json changed={int(b)}, covers changed={c}, cover source hashes updated")
     return 0
 
 
