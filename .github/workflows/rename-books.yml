@@ -1,0 +1,103 @@
+name: ✏️ Rename latin books
+
+# Переименование книг с латинскими/цифровыми именами в настоящие названия.
+#
+# Как работает:
+#   mode=plan  — НИЧЕГО не меняет, только готовит отчёт rename_report.md
+#                и коммитит его в репо (можно читать прямо на GitHub).
+#   mode=apply — переименовывает книги (+ обложки) и коммитит.
+#                После пуша сам запустится build.yml и пересоберёт
+#                manifest.json, books.json, обложки и поисковый индекс.
+#
+# Безопасность (почему ничего не сломается):
+#   • книги с уже кириллическими именами НЕ трогаются вообще;
+#   • PDF переименовывается только при совпадении «туда-обратно»
+#     (название из самой книги при обратной транслитерации = текущее имя файла);
+#   • иностранные книги (English, The Tipping Point, латышские...) остаются;
+#   • сканы без текстового слоя — только в отчёт (переименовываются через
+#     rename_overrides.json, добавьте файл в корень и запустите снова);
+#   • точные дубликаты удаляются (restore-missing-files мог вернуть латинскую копию);
+#   • повторный запуск ничего не меняет (идемпотентно).
+#
+# Запуск: вкладка Actions → «✏️ Rename latin books» → Run workflow → mode.
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'plan = только отчёт; apply = переименовать и закоммитить'
+        required: true
+        default: 'plan'
+        type: choice
+        options:
+          - plan
+          - apply
+
+permissions:
+  contents: write
+
+# Та же очередь, что у build.yml — чтобы переименование и сборка
+# никогда не пушли одновременно.
+concurrency:
+  group: build-books-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  rename:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: true
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install poppler-utils (pdftotext)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y poppler-utils
+
+      - name: 🔍 План переименования (ничего не меняет)
+        if: inputs.mode == 'plan'
+        run: python3 rename_latin_books.py
+
+      - name: ✏️ Переименование (--apply)
+        if: inputs.mode == 'apply'
+        run: python3 rename_latin_books.py --apply
+
+      - name: 💾 Commit отчёта (plan)
+        if: inputs.mode == 'plan'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rename_report.md rename_plan.json
+          if git diff --cached --quiet; then
+            echo "✓ Отчёт не изменился"
+          else
+            git pull --rebase origin main
+            git commit -m "📋 rename: отчёт-план переименования книг (проверь и запусти mode=apply)"
+            git push
+            echo "✅ Отчёт закоммичен — открой rename_report.md в репозитории"
+          fi
+
+      - name: 💾 Commit переименований (apply)
+        if: inputs.mode == 'apply'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "✓ Переименовывать нечего"
+          else
+            git pull --rebase origin main
+            git commit -m "✏️ rename: латинские/цифровые имена книг → настоящие названия"
+            git push
+            echo "✅ Готово! Дальше build.yml сам пересоберёт манифесты и обложки"
+          fi
