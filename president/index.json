@@ -1,9 +1,49 @@
 {
  "version": 1,
- "updatedAt": "2026-10-03",
+ "updatedAt": "2026-10-04",
  "source": "prezident.tj",
  "cats": {
   "news": [
+   {
+    "id": 57562,
+    "title": "Ташрифи Президенти Ҷумҳурии Тоҷикистон, Пешвои миллат муҳтарам Эмомалӣ Раҳмон ба ноҳияи Восеъ",
+    "publish": "2026-10-04 09:46:00",
+    "thumb": "https://live.staticflickr.com/65535/55568059368_381da2b515.jpg",
+    "photos_count": 13,
+    "site_path": ""
+   },
+   {
+    "id": 57558,
+    "title": "Ифтитоҳи фосилавии 8 иншоот дар ноҳияи Фархор",
+    "publish": "2026-10-04 09:25:00",
+    "thumb": "https://live.staticflickr.com/65535/55568048568_4c8f92f01f.jpg",
+    "photos_count": 11,
+    "site_path": ""
+   },
+   {
+    "id": 57554,
+    "title": "Ба истифода додани бинои нави Маркази адлия дар ноҳияи Фархор",
+    "publish": "2026-10-04 09:13:00",
+    "thumb": "https://live.staticflickr.com/65535/55568033003_fba58b558a.jpg",
+    "photos_count": 7,
+    "site_path": ""
+   },
+   {
+    "id": 57550,
+    "title": "Ифтитоҳи бинои нави Шуъбаи КДАМ дар ноҳияи Фархор",
+    "publish": "2026-10-04 08:50:00",
+    "thumb": "https://live.staticflickr.com/65535/55568320055_690098792e.jpg",
+    "photos_count": 7,
+    "site_path": ""
+   },
+   {
+    "id": 57546,
+    "title": "Оғози сафари корӣ ба шаҳру ноҳияҳои вилояти Хатлон ",
+    "publish": "2026-10-04 08:29:00",
+    "thumb": "https://live.staticflickr.com/65535/55567961364_3e012b7112.jpg",
+    "photos_count": 20,
+    "site_path": ""
+   },
    {
     "id": 57542,
     "title": "Паёми шодбошӣ ба муносибати Рӯзи омӯзгорон",
@@ -59,46 +99,6 @@
     "thumb": "",
     "photos_count": 0,
     "site_path": "/event/documents/decrees/57507"
-   },
-   {
-    "id": 57461,
-    "title": "Гусели Пешвои миллат дар фурудгоҳи шаҳри Хоруғ",
-    "publish": "2026-09-28 09:50:00",
-    "thumb": "https://live.staticflickr.com/65535/55556019973_480d3f7f9f.jpg",
-    "photos_count": 3,
-    "site_path": ""
-   },
-   {
-    "id": 57456,
-    "title": "Мулоқот бо роҳбарону фаъолони Вилояти Мухтори Кӯҳистони Бадахшон",
-    "publish": "2026-09-28 08:33:00",
-    "thumb": "https://live.staticflickr.com/65535/55555937530_f27109ed18.jpg",
-    "photos_count": 52,
-    "site_path": ""
-   },
-   {
-    "id": 57455,
-    "title": "Суханронӣ дар мулоқот бо роҳбарону фаъолони ВМКБ",
-    "publish": "2026-09-28 08:32:00",
-    "thumb": "https://live.staticflickr.com/65535/55555937530_f27109ed18.jpg",
-    "photos_count": 54,
-    "site_path": ""
-   },
-   {
-    "id": 57451,
-    "title": "Суханронӣ бахшида ба ҷашни 35-солагии истиқлоли давлатӣ дар варзишгоҳи марказии шаҳри Хоруғ",
-    "publish": "2026-09-27 19:10:00",
-    "thumb": "https://live.staticflickr.com/65535/55553018487_4c462f6276.jpg",
-    "photos_count": 86,
-    "site_path": ""
-   },
-   {
-    "id": 57449,
-    "title": "Иштирок дар тантанаҳои идона ба муносибати ҷашни 35-солагии истиқлоли давлатӣ дар шаҳри Хоруғ",
-    "publish": "2026-09-27 19:07:00",
-    "thumb": "https://live.staticflickr.com/65535/55553018487_4c462f6276.jpg",
-    "photos_count": 86,
-    "site_path": ""
    }
   ],
   "meetings": [
@@ -299,6 +299,46 @@
   ],
   "trips": [
    {
+    "id": 57562,
+    "title": "Ташрифи Президенти Ҷумҳурии Тоҷикистон, Пешвои миллат муҳтарам Эмомалӣ Раҳмон ба ноҳияи Восеъ",
+    "publish": "2026-10-04 09:46:00",
+    "thumb": "https://live.staticflickr.com/65535/55568059368_381da2b515.jpg",
+    "photos_count": 13,
+    "site_path": ""
+   },
+   {
+    "id": 57558,
+    "title": "Ифтитоҳи фосилавии 8 иншоот дар ноҳияи Фархор",
+    "publish": "2026-10-04 09:25:00",
+    "thumb": "https://live.staticflickr.com/65535/55568048568_4c8f92f01f.jpg",
+    "photos_count": 11,
+    "site_path": ""
+   },
+   {
+    "id": 57554,
+    "title": "Ба истифода додани бинои нави Маркази адлия дар ноҳияи Фархор",
+    "publish": "2026-10-04 09:13:00",
+    "thumb": "https://live.staticflickr.com/65535/55568033003_fba58b558a.jpg",
+    "photos_count": 7,
+    "site_path": ""
+   },
+   {
+    "id": 57550,
+    "title": "Ифтитоҳи бинои нави Шуъбаи КДАМ дар ноҳияи Фархор",
+    "publish": "2026-10-04 08:50:00",
+    "thumb": "https://live.staticflickr.com/65535/55568320055_690098792e.jpg",
+    "photos_count": 7,
+    "site_path": ""
+   },
+   {
+    "id": 57546,
+    "title": "Оғози сафари корӣ ба шаҳру ноҳияҳои вилояти Хатлон ",
+    "publish": "2026-10-04 08:29:00",
+    "thumb": "https://live.staticflickr.com/65535/55567961364_3e012b7112.jpg",
+    "photos_count": 20,
+    "site_path": ""
+   },
+   {
     "id": 57461,
     "title": "Гусели Пешвои миллат дар фурудгоҳи шаҳри Хоруғ",
     "publish": "2026-09-28 09:50:00",
@@ -352,46 +392,6 @@
     "publish": "2026-09-27 11:50:00",
     "thumb": "https://live.staticflickr.com/65535/55554021524_8a90e61e6f.jpg",
     "photos_count": 9,
-    "site_path": ""
-   },
-   {
-    "id": 57437,
-    "title": "Ифтитоҳи фосилавии 90 иншоот дар шаҳру ноҳияҳои Вилояти Мухтори Кӯҳистони Бадахшон",
-    "publish": "2026-09-27 11:25:00",
-    "thumb": "https://live.staticflickr.com/65535/55554221525_4930937b00.jpg",
-    "photos_count": 69,
-    "site_path": ""
-   },
-   {
-    "id": 57433,
-    "title": "Ба истифода додани бинои нави муассисаи таҳсилоти миёнаи умумии №6 дар шаҳри Хоруғ",
-    "publish": "2026-09-27 11:13:00",
-    "thumb": "https://live.staticflickr.com/65535/55553855228_72e28d86a1.jpg",
-    "photos_count": 14,
-    "site_path": ""
-   },
-   {
-    "id": 57429,
-    "title": "Ифтитоҳи Боғи фарҳангию фароғатии Дуои модар дар шаҳри Хоруғ",
-    "publish": "2026-09-27 11:07:00",
-    "thumb": "https://live.staticflickr.com/65535/55552714707_0aeb2a5633.jpg",
-    "photos_count": 12,
-    "site_path": ""
-   },
-   {
-    "id": 57425,
-    "title": "Муаррифии лоиҳаи сохтмони Маркази агрологистикӣ дар шаҳри Хоруғ",
-    "publish": "2026-09-27 10:18:00",
-    "thumb": "https://live.staticflickr.com/65535/55553647726_e35736ecc2.jpg",
-    "photos_count": 4,
-    "site_path": ""
-   },
-   {
-    "id": 57421,
-    "title": "Муаррифии лоиҳаҳои шабакаҳои донишкадаҳои байналмилалии Донишгоҳи байналмилалии сайёҳӣ ва соҳибкории Тоҷикистон",
-    "publish": "2026-09-27 10:15:00",
-    "thumb": "https://live.staticflickr.com/65535/55553979450_90ae67d564.jpg",
-    "photos_count": 4,
     "site_path": ""
    }
   ],
