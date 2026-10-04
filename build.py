@@ -400,6 +400,11 @@ def pdf_title(path: Path) -> str | None:
     return t
 
 
+def _stem_has_cyr(s: str) -> bool:
+    """Есть ли кириллические буквы (вкл. таджикские ҒғӢӣҚқӮӯҲҳҶҷ)."""
+    return bool(re.search(r"[А-Яа-яЁёҒғӢӣҚқӮӯҲҳҶҷ]", s))
+
+
 def rename_books_to_titles() -> int:
     """Переименует файлы epub/fb2/doc в НАСТОЯЩИЕ названия.
 
@@ -428,6 +433,11 @@ def rename_books_to_titles() -> int:
             if path.stem.strip().casefold() == title.strip().casefold():
                 continue  # уже называется как книга
             new_base = sanitize_filename(title, path.suffix)
+            # v105 (безопасность): файл с КИРИЛЛИЧЕСКИМ именем НИКОГДА не
+            # переименовывается в латинское/мусорное название из метаданных
+            # (метаданные бывают битые: «68.cdr», «Author: ikbol» и т.п.).
+            if new_base and _stem_has_cyr(path.stem) and not _stem_has_cyr(new_base):
+                continue
         else:
             # метаданных нет (китобҳои лотинӣ бо «_») — барои ординарӣ: 1_Kitobi_darsi → Kitobi darsi
             pretty = pretty_book_name(path.stem)
