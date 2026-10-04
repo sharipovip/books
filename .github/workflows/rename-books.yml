@@ -81,10 +81,18 @@ jobs:
           if git diff --cached --quiet; then
             echo "✓ Отчёт не изменился"
           else
-            git pull --rebase origin main
             git commit -m "📋 rename: отчёт-план переименования книг (проверь и запусти mode=apply)"
-            git push
-            echo "✅ Отчёт закоммичен — открой rename_report.md в репозитории"
+            for i in 1 2 3; do
+              if git pull --rebase origin main && git push; then
+                echo "✅ Отчёт закоммичен — открой rename_report.md в репозитории"
+                exit 0
+              fi
+              echo "⚠ push не прошёл (попытка $i из 3) — повторяю"
+              git rebase --abort 2>/dev/null || true
+              sleep 15
+            done
+            echo "❌ Не удалось запушить после 3 попыток"
+            exit 1
           fi
 
       - name: 💾 Commit переименований (apply)
@@ -96,8 +104,16 @@ jobs:
           if git diff --cached --quiet; then
             echo "✓ Переименовывать нечего"
           else
-            git pull --rebase origin main
             git commit -m "✏️ rename: латинские/цифровые имена книг → настоящие названия"
-            git push
-            echo "✅ Готово! Дальше build.yml сам пересоберёт манифесты и обложки"
+            for i in 1 2 3; do
+              if git pull --rebase origin main && git push; then
+                echo "✅ Готово! Дальше build.yml сам пересоберёт манифесты и обложки"
+                exit 0
+              fi
+              echo "⚠ push не прошёл (попытка $i из 3) — повторяю"
+              git rebase --abort 2>/dev/null || true
+              sleep 15
+            done
+            echo "❌ Не удалось запушить после 3 попыток"
+            exit 1
           fi
