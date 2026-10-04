@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-04",
+  "folder": "books/Сармоягузорӣ",
+  "books": [
+    {
+      "name": "shpargalka po investicijam",
+      "file": "1_shpargalka_po_investicijam.pdf",
+      "size": 497286,
+      "mtime": 1791148208
+    },
+    {
+      "name": "Путь к совершенству",
+      "file": "Путь к совершенству.fb2",
+      "size": 629930,
+      "mtime": 1791148208
+    }
+  ]
+}

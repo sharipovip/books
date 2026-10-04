@@ -224,6 +224,13 @@
       "sort_order": 60,
       "subs": [
         {
+          "id": "iqtisod",
+          "name": "Иқтисод",
+          "folder_raw": "Иқтисод",
+          "folder": "books/Иқтисод",
+          "emoji": "💼"
+        },
+        {
           "id": "iqtisod_buhgalteriya",
           "name": "Бухгалтерия",
           "folder_raw": "Бухгалтерия",
@@ -1029,13 +1036,31 @@
       ]
     },
     {
-      "id": "satsiologiya",
-      "name": "Сатсиология",
-      "folder_raw": "Сатсиология",
+      "id": "sarmoyaguzori",
+      "name": "Сармоягузорӣ",
+      "folder_raw": "Сармоягузорӣ",
       "emoji": "📚",
       "color1": "#dc2626",
       "color2": "#f87171",
       "sort_order": 140,
+      "subs": [
+        {
+          "id": "sarmoyaguzori",
+          "name": "Сармоягузорӣ",
+          "folder_raw": "Сармоягузорӣ",
+          "folder": "books/Сармоягузорӣ",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "satsiologiya",
+      "name": "Сатсиология",
+      "folder_raw": "Сатсиология",
+      "emoji": "📚",
+      "color1": "#0891b2",
+      "color2": "#22d3ee",
+      "sort_order": 141,
       "subs": [
         {
           "id": "satsiologiya",
@@ -1051,9 +1076,9 @@
       "name": "Сиёсат, Сиёсатшиносӣ",
       "folder_raw": "Сиёсат, Сиёсатшиносӣ",
       "emoji": "📚",
-      "color1": "#0891b2",
-      "color2": "#22d3ee",
-      "sort_order": 141,
+      "color1": "#16a34a",
+      "color2": "#86efac",
+      "sort_order": 142,
       "subs": [
         {
           "id": "siyosat_siyosatshinosi",
@@ -1069,9 +1094,9 @@
       "name": "Табиат ва ҳайвонот",
       "folder_raw": "Табиат ва ҳайвонот",
       "emoji": "📚",
-      "color1": "#16a34a",
-      "color2": "#86efac",
-      "sort_order": 142,
+      "color1": "#be185d",
+      "color2": "#f472b6",
+      "sort_order": 143,
       "subs": [
         {
           "id": "tabiat_va_hayvonot",
@@ -1087,9 +1112,9 @@
       "name": "Тарбияи кўдакон",
       "folder_raw": "Тарбияи кўдакон",
       "emoji": "📚",
-      "color1": "#be185d",
-      "color2": "#f472b6",
-      "sort_order": 143,
+      "color1": "#64748b",
+      "color2": "#94a3b8",
+      "sort_order": 144,
       "subs": [
         {
           "id": "tarbiyai_k_dakon",
@@ -1105,9 +1130,9 @@
       "name": "Таърих",
       "folder_raw": "Таърих",
       "emoji": "🏛",
-      "color1": "#64748b",
-      "color2": "#94a3b8",
-      "sort_order": 144,
+      "color1": "#2563eb",
+      "color2": "#60a5fa",
+      "sort_order": 145,
       "subs": [
         {
           "id": "tarih",
@@ -1130,9 +1155,9 @@
       "name": "Фалсафа",
       "folder_raw": "Фалсафа",
       "emoji": "🤔",
-      "color1": "#2563eb",
-      "color2": "#60a5fa",
-      "sort_order": 145,
+      "color1": "#7c3aed",
+      "color2": "#a78bfa",
+      "sort_order": 146,
       "subs": [
         {
           "id": "falsafa",
@@ -1148,9 +1173,9 @@
       "name": "Фарҳангшиносӣ",
       "folder_raw": "Фарҳангшиносӣ",
       "emoji": "🎨",
-      "color1": "#7c3aed",
-      "color2": "#a78bfa",
-      "sort_order": 146,
+      "color1": "#0d9488",
+      "color2": "#5eead4",
+      "sort_order": 147,
       "subs": [
         {
           "id": "farhangshinosi",
@@ -1166,9 +1191,9 @@
       "name": "Физика",
       "folder_raw": "Физика",
       "emoji": "📚",
-      "color1": "#0d9488",
-      "color2": "#5eead4",
-      "sort_order": 147,
+      "color1": "#d97706",
+      "color2": "#fbbf24",
+      "sort_order": 148,
       "subs": [
         {
           "id": "fizika",
@@ -1184,9 +1209,9 @@
       "name": "Филмсозӣ",
       "folder_raw": "Филмсозӣ",
       "emoji": "🔬",
-      "color1": "#d97706",
-      "color2": "#fbbf24",
-      "sort_order": 148,
+      "color1": "#dc2626",
+      "color2": "#f87171",
+      "sort_order": 149,
       "subs": [
         {
           "id": "filmsozi",
@@ -1202,9 +1227,9 @@
       "name": "Худ бисоз",
       "folder_raw": "Худ бисоз",
       "emoji": "📚",
-      "color1": "#dc2626",
-      "color2": "#f87171",
-      "sort_order": 149,
+      "color1": "#0891b2",
+      "color2": "#22d3ee",
+      "sort_order": 150,
       "subs": [
         {
           "id": "hud_bisoz",
@@ -1220,9 +1245,9 @@
       "name": "Ҳуқуқшиносӣ, Қонунгузорӣ",
       "folder_raw": "Ҳуқуқшиносӣ, Қонунгузорӣ",
       "emoji": "📚",
-      "color1": "#0891b2",
-      "color2": "#22d3ee",
-      "sort_order": 150,
+      "color1": "#16a34a",
+      "color2": "#86efac",
+      "sort_order": 151,
       "subs": [
         {
           "id": "huquqshinosi_qonunguzori",
@@ -1238,9 +1263,9 @@
       "name": "Ҷуғрофия",
       "folder_raw": "Ҷуғрофия",
       "emoji": "📚",
-      "color1": "#16a34a",
-      "color2": "#86efac",
-      "sort_order": 151,
+      "color1": "#be185d",
+      "color2": "#f472b6",
+      "sort_order": 152,
       "subs": [
         {
           "id": "jughrofiya",

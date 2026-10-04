@@ -4,10 +4,28 @@
   "folder": "books/Идора, интихоби коркунон",
   "books": [
     {
+      "name": "madanijati biznes",
+      "file": "1_madanijati__biznes.pdf",
+      "size": 5074876,
+      "mtime": 1791148168
+    },
+    {
+      "name": "organizacionnoe povedenie i upravlenie personalom",
+      "file": "organizacionnoe povedenie i upravlenie personalom.doc",
+      "size": 4795392,
+      "mtime": 1791148168
+    },
+    {
+      "name": "Путь к совершенству",
+      "file": "Путь к совершенству (2).fb2",
+      "size": 629930,
+      "mtime": 1791148168
+    },
+    {
       "name": "Путь к совершенству",
       "file": "Путь к совершенству.fb2",
       "size": 629930,
-      "mtime": 1791138189
+      "mtime": 1791148168
     }
   ]
 }
