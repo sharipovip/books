@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-04",
+  "folder": "books/Равоншиносии иҷтимоӣ",
+  "books": [
+    {
+      "name": "Asoshoi psikhologiyai sinusoli va pedagogi",
+      "file": "1_Asoshoi_psikhologiyai_sinusoli_va_pedagogi.pdf",
+      "size": 9023604,
+      "mtime": 1791126683
+    },
+    {
+      "name": "Путь к совершенству",
+      "file": "Путь к совершенству.fb2",
+      "size": 629930,
+      "mtime": 1791126683
+    }
+  ]
+}
