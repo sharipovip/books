@@ -73,6 +73,17 @@ jobs:
             echo "✓ No changes to commit"
           else
             git commit -m "🤖 auto: rebuild manifests + books.json + covers + indexes"
-            git push
-            echo "✅ Pushed changes"
+            # v105: гонка пушей — downloader/books и president-news пушат в main
+            # одновременно; подтягиваем их коммиты и пробуем 3 раза
+            for i in 1 2 3; do
+              if git pull --rebase origin main && git push; then
+                echo "✅ Pushed changes"
+                exit 0
+              fi
+              echo "⚠ push не прошёл (попытка $i из 3) — повторяю"
+              git rebase --abort 2>/dev/null || true
+              sleep 15
+            done
+            echo "❌ Не удалось запушить после 3 попыток"
+            exit 1
           fi

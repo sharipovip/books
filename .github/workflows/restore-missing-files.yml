@@ -80,6 +80,7 @@ jobs:
             echo "✓ No files to restore"
           else
             git commit -m "♻️ restore missing books from ${{ github.event.inputs.source_ref }}"
+            git pull --rebase origin main
             git push
             echo "✅ Restored files pushed"
           fi

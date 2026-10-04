@@ -174,4 +174,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "Add files to ${{ github.event.inputs.folder }}" || echo "No changes"
+          git pull --rebase origin main
           git push
