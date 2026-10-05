@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "folder": "books/Мусиқӣ. Ракс",
   "books": [
     {
       "name": "Istoriya kompozitorskogo tvorshestva v Tadjikistan",
       "file": "1_Istoriya_kompozitorskogo_tvorshestva_v_Tadjikistan.pdf",
       "size": 75249648,
-      "mtime": 1791148184
+      "mtime": 1791173921
     },
     {
       "name": "Противники",
       "file": "Противники.fb2",
       "size": 1505332,
-      "mtime": 1791148184
+      "mtime": 1791173921
     }
   ]
 }

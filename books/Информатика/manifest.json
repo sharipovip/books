@@ -1,115 +1,115 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "folder": "books/Информатика",
   "books": [
     {
       "name": "12336,-2022.-128с",
       "file": "12336,-2022.-128с..pdf",
       "size": 18193544,
-      "mtime": 1791148171
+      "mtime": 1791173880
     },
     {
       "name": "asoshoi tehnikai kompjuter. kitobi darsyi baroi honandagoni sinfi 11",
       "file": "1_asoshoi_tehnikai_kompjuter._kitobi_darsyi_baroi_honandagoni_sinfi_11.pdf",
       "size": 15333733,
-      "mtime": 1791148171
+      "mtime": 1791173882
     },
     {
       "name": "asoshoi tehnikai kompjuteryi 10",
       "file": "1_asoshoi_tehnikai_kompjuteryi 10.pdf",
       "size": 15586768,
-      "mtime": 1791148171
+      "mtime": 1791173882
     },
     {
       "name": "asoshoi tehnikai kompjuteryi 8-9",
       "file": "1_asoshoi_tehnikai_kompjuteryi_8-9.pdf",
       "size": 992596,
-      "mtime": 1791148171
-    },
-    {
-      "name": "azbuka hakera 3 kompjuternaja virusologija",
-      "file": "1_azbuka_hakera_3_kompjuternaja_virusologija.pdf",
-      "size": 9525912,
-      "mtime": 1791148171
-    },
-    {
-      "name": "biblioteka programmista c",
-      "file": "1_biblioteka_programmista_c.pdf",
-      "size": 2042933,
-      "mtime": 1791148171
-    },
-    {
-      "name": "informatikai tatbiqi",
-      "file": "1_informatikai_tatbiqi.pdf",
-      "size": 14717390,
-      "mtime": 1791148171
+      "mtime": 1791173882
     },
     {
       "name": "instrumenty taktika i motivy hakerov znaj svoego vraga",
       "file": "1_instrumenty_taktika_i_motivy_hakerov_znaj_svoego_vraga.pdf",
       "size": 3125054,
-      "mtime": 1791148171
-    },
-    {
-      "name": "internet-smi",
-      "file": "1_internet-smi.pdf",
-      "size": 4460357,
-      "mtime": 1791148171
+      "mtime": 1791173882
     },
     {
       "name": "osnovy sovremennoj kriptografii 1.2",
       "file": "1_osnovy_sovremennoj_kriptografii_1.2.pdf",
       "size": 1456959,
-      "mtime": 1791148171
+      "mtime": 1791173882
     },
     {
       "name": "osnovy sovremennoj kriptografii 1.3",
       "file": "1_osnovy_sovremennoj_kriptografii_1.3.pdf",
       "size": 2621433,
-      "mtime": 1791148171
-    },
-    {
-      "name": "podgotovka shkolnikov k olimpiadam po informatike s ispolzovaniem vebsajta",
-      "file": "1_podgotovka_shkolnikov_k_olimpiadam_po_informatike_s_ispolzovaniem_vebsajta.pdf",
-      "size": 3168808,
-      "mtime": 1791148171
-    },
-    {
-      "name": "sekrety hakerov. bezopasnost setej gotovye reshenija trete izdanie",
-      "file": "1_sekrety_hakerov._bezopasnost_setej_gotovye_reshenija_trete_izdanie.pdf",
-      "size": 21658824,
-      "mtime": 1791148171
+      "mtime": 1791173882
     },
     {
       "name": "1C",
       "file": "1C.doc",
       "size": 53248,
-      "mtime": 1791148171
+      "mtime": 1791173880
+    },
+    {
+      "name": "I Азбука ХАКЕРА 3 о Компьютерная вирусология",
+      "file": "I Азбука ХАКЕРА 3 о Компьютерная вирусология.pdf",
+      "size": 9525912,
+      "mtime": 1791173883
     },
     {
       "name": "informacionnaja bezopasnost (2)",
       "file": "informacionnaja bezopasnost (2).doc",
       "size": 4944384,
-      "mtime": 1791148171
+      "mtime": 1791173883
     },
     {
       "name": "informacionnaja bezopasnost",
       "file": "informacionnaja bezopasnost.doc",
       "size": 4944384,
-      "mtime": 1791148171
+      "mtime": 1791173883
+    },
+    {
+      "name": "Библиотека Программиста",
+      "file": "Библиотека Программиста.pdf",
+      "size": 2042933,
+      "mtime": 1791173884
+    },
+    {
+      "name": "Интернет-сми",
+      "file": "Интернет-сми.pdf",
+      "size": 4460357,
+      "mtime": 1791173884
+    },
+    {
+      "name": "Информатикаи Татбики",
+      "file": "Информатикаи Татбики.pdf",
+      "size": 14717390,
+      "mtime": 1791173886
+    },
+    {
+      "name": "Подготовка Школьников к Олимпиадам по Информатике с Использованием Веб-сайта",
+      "file": "Подготовка Школьников к Олимпиадам по Информатике с Использованием Веб-сайта.pdf",
+      "size": 3168808,
+      "mtime": 1791173886
     },
     {
       "name": "Происшествие на тихой улице",
       "file": "Происшествие на тихой улице (2).fb2",
       "size": 1447641,
-      "mtime": 1791148171
+      "mtime": 1791173886
     },
     {
       "name": "Происшествие на тихой улице",
       "file": "Происшествие на тихой улице.fb2",
       "size": 1447641,
-      "mtime": 1791148171
+      "mtime": 1791173886
+    },
+    {
+      "name": "Секреты Хакеров. Безопасность Сетей - Готовые Решения Третье Издание",
+      "file": "Секреты Хакеров. Безопасность Сетей - Готовые Решения Третье Издание.pdf",
+      "size": 21658824,
+      "mtime": 1791173886
     }
   ]
 }

@@ -1,433 +1,433 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "folder": "books/Забоншиносӣ",
   "books": [
     {
       "name": "0093.1",
       "file": "0093.1.doc",
       "size": 2061824,
-      "mtime": 1791148152
+      "mtime": 1791173841
     },
     {
       "name": "12073,3",
       "file": "12073,3.pdf",
       "size": 61978265,
-      "mtime": 1791148152
+      "mtime": 1791173841
     },
     {
       "name": "12102",
       "file": "12102.pdf",
       "size": 44689832,
-      "mtime": 1791148152
+      "mtime": 1791173841
     },
     {
       "name": "12203",
       "file": "12203.pdf",
       "size": 39536179,
-      "mtime": 1791148152
+      "mtime": 1791173842
     },
     {
       "name": "95 uprazhnenij na vse pravila russkogo jazyka 3 klass",
       "file": "1_95_uprazhnenij_na_vse_pravila_russkogo_jazyka_3_klass.pdf",
       "size": 5878111,
-      "mtime": 1791148152
-    },
-    {
-      "name": "anglijskij dlja srednego urovnja",
-      "file": "1_anglijskij_dlja_srednego_urovnja.pdf",
-      "size": 1483129,
-      "mtime": 1791148153
+      "mtime": 1791173842
     },
     {
       "name": "delovoj anglijskij",
       "file": "1_delovoj_anglijskij.pdf",
       "size": 2988416,
-      "mtime": 1791148153
-    },
-    {
-      "name": "farhangi tafsirii zaboni tojikyi",
-      "file": "1_farhangi__tafsirii__zaboni__tojikyi.pdf",
-      "size": 10127933,
-      "mtime": 1791148153
-    },
-    {
-      "name": "farhangi tafsirii zaboni tojikyi jildi 1.jpg",
-      "file": "1_farhangi_tafsirii_zaboni_tojikyi_jildi_1.jpg.pdf",
-      "size": 17809162,
-      "mtime": 1791148153
-    },
-    {
-      "name": "farhangi tafsirii zaboni tojikyi jildi 2",
-      "file": "1_farhangi_tafsirii_zaboni_tojikyi_jildi_2.pdf",
-      "size": 42880319,
-      "mtime": 1791148153
+      "mtime": 1791173844
     },
     {
       "name": "Frazeolgiyai zaboni hozirai tojik",
       "file": "1_Frazeolgiyai_zaboni_hozirai_tojik.pdf",
       "size": 22025012,
-      "mtime": 1791148152
+      "mtime": 1791173842
     },
     {
       "name": "Grammatikai zaboni shugnoni",
       "file": "1_Grammatikai_zaboni_shugnoni.pdf",
       "size": 83644067,
-      "mtime": 1791148153
+      "mtime": 1791173843
     },
     {
       "name": "grammatikai zaboni tojikyi",
       "file": "1_grammatikai_zaboni_tojikyi.pdf",
       "size": 10724650,
-      "mtime": 1791148153
-    },
-    {
-      "name": "inshoi ozod. kismi 2",
-      "file": "1_inshoi_ozod._kismi_2.pdf",
-      "size": 14016568,
-      "mtime": 1791148153
+      "mtime": 1791173844
     },
     {
       "name": "Ism",
       "file": "1_Ism.pdf",
       "size": 74081727,
-      "mtime": 1791148153
+      "mtime": 1791173844
     },
     {
       "name": "mantiq. kitobi darsyi baroi maktabhoi olii tojikiston",
       "file": "1_mantiq._kitobi_darsyi_baroi_maktabhoi_olii_tojikiston.pdf",
       "size": 15565360,
-      "mtime": 1791148153
+      "mtime": 1791173844
     },
     {
       "name": "navisanda va zabon",
       "file": "1_navisanda_va_zabon.pdf",
       "size": 89228147,
-      "mtime": 1791148154
+      "mtime": 1791173845
     },
     {
       "name": "polnyj kurs. anglijskogo jazyka",
       "file": "1_polnyj_kurs._anglijskogo_jazyka.pdf",
       "size": 18896860,
-      "mtime": 1791148154
+      "mtime": 1791173846
     },
     {
       "name": "PU Engl EXTRA I NEW web",
       "file": "1_PU_Engl_EXTRA_I_NEW_web.pdf",
       "size": 3215255,
-      "mtime": 1791148153
-    },
-    {
-      "name": "sabkshinosj jo tarihi tagavvuri nasri forsi",
-      "file": "1_sabkshinosj_jo_tarihi_tagavvuri_nasri_forsi.pdf",
-      "size": 84779132,
-      "mtime": 1791148155
+      "mtime": 1791173844
     },
     {
       "name": "tarihi zabonshinosii tojik. jildi 2",
       "file": "1_tarihi_zabonshinosii_tojik._jildi_2.pdf",
       "size": 98985837,
-      "mtime": 1791148155
+      "mtime": 1791173852
     },
     {
       "name": "uchus govorit po -russki",
       "file": "1_uchus_govorit_po_-russki.pdf",
       "size": 35414030,
-      "mtime": 1791148155
+      "mtime": 1791173853
     },
     {
       "name": "uslub va kamoli sukhan",
       "file": "1_uslub_va_kamoli_sukhan.pdf",
       "size": 9279421,
-      "mtime": 1791148156
-    },
-    {
-      "name": "zaboni adabii hozirai tojik sintaksis",
-      "file": "1_zaboni_adabii_hozirai_tojik_sintaksis.pdf",
-      "size": 2263206,
-      "mtime": 1791148156
+      "mtime": 1791173853
     },
     {
       "name": "zaboni anglisyi 6",
       "file": "1_zaboni_anglisyi_6.pdf",
       "size": 18470650,
-      "mtime": 1791148156
+      "mtime": 1791173853
     },
     {
       "name": "zaboni anglisyikitobi darsi baroi sinfi-8",
       "file": "1_zaboni_anglisyikitobi_darsi_baroi_sinfi-8.pdf",
       "size": 15651563,
-      "mtime": 1791148156
+      "mtime": 1791173853
     },
     {
       "name": "zaboni anglisyikitobi darsyi baroi sinfi 7-um",
       "file": "1_zaboni_anglisyikitobi_darsyi_baroi_sinfi_7-um.pdf",
       "size": 15291782,
-      "mtime": 1791148156
+      "mtime": 1791173853
     },
     {
       "name": "Zaboni tojiki",
       "file": "1_Zaboni_tojiki.pdf",
       "size": 24547461,
-      "mtime": 1791148153
+      "mtime": 1791173844
     },
     {
       "name": "zabonshinosii tojik",
       "file": "1_zabonshinosii_tojik.pdf",
       "size": 18544340,
-      "mtime": 1791148156
+      "mtime": 1791173853
     },
     {
       "name": "Zaboni tojiki",
       "file": "2_Zaboni_tojiki.pdf",
       "size": 57891615,
-      "mtime": 1791148156
+      "mtime": 1791173854
     },
     {
       "name": "4954",
       "file": "4954.pdf",
       "size": 20091954,
-      "mtime": 1791148156
+      "mtime": 1791173854
     },
     {
       "name": "4961",
       "file": "4961.pdf",
       "size": 49175331,
-      "mtime": 1791148156
+      "mtime": 1791173854
     },
     {
       "name": "5097",
       "file": "5097.pdf",
       "size": 54099801,
-      "mtime": 1791148157
+      "mtime": 1791173854
     },
     {
       "name": "2018. 232 с",
       "file": "5267. 2018. 232 с..pdf",
       "size": 37893815,
-      "mtime": 1791148157
+      "mtime": 1791173854
     },
     {
       "name": "5268т. 2015. 329 с",
       "file": "5268т. 2015. 329 с..pdf",
       "size": 54518436,
-      "mtime": 1791148157
+      "mtime": 1791173854
     },
     {
       "name": "5273, 2020. 161 с",
       "file": "5273, 2020. 161 с..pdf",
       "size": 20574261,
-      "mtime": 1791148157
+      "mtime": 1791173854
     },
     {
       "name": "5374, 584с",
       "file": "5374, 584с..pdf",
       "size": 67783557,
-      "mtime": 1791148157
+      "mtime": 1791173855
     },
     {
       "name": "5401 2020-590с",
       "file": "5401 2020-590с.pdf",
       "size": 88492367,
-      "mtime": 1791148160
+      "mtime": 1791173855
     },
     {
       "name": "8146 zaboni modari va hudshinosii milli. 2025. 168 с",
       "file": "8146 zaboni modari va hudshinosii milli. 2025. 168 с..pdf",
       "size": 44730966,
-      "mtime": 1791148160
+      "mtime": 1791173856
     },
     {
       "name": "akademik zabonshinos. 1989с. 72сҳ",
       "file": "akademik zabonshinos. 1989с. 72сҳ..pdf",
       "size": 15239532,
-      "mtime": 1791148160
+      "mtime": 1791173856
     },
     {
       "name": "aqolahoi nomshinosi -2001. 172с",
       "file": "aqolahoi nomshinosi -2001. 172с..pdf",
       "size": 58098087,
-      "mtime": 1791148160
+      "mtime": 1791173856
     },
     {
       "name": "atri suhan. -2021. 176с",
       "file": "atri suhan. -2021. 176с..pdf",
       "size": 55699204,
-      "mtime": 1791148160
+      "mtime": 1791173856
     },
     {
       "name": "giyosov-2024.-267с",
       "file": "giyosov-2024.-267с..pdf",
       "size": 80949065,
-      "mtime": 1791148160
+      "mtime": 1791173856
     },
     {
       "name": "harofiddin rustamov 1972-80с",
       "file": "harofiddin rustamov 1972-80с.pdf",
       "size": 21147164,
-      "mtime": 1791148161
+      "mtime": 1791173856
     },
     {
       "name": "hudomuzi zaboni tojiki",
       "file": "hudomuzi zaboni tojiki.pdf",
       "size": 85978620,
-      "mtime": 1791148161
+      "mtime": 1791173857
     },
     {
       "name": "hudshinosi. farhang va zaboni millat",
       "file": "hudshinosi. farhang va zaboni millat.pdf",
       "size": 25402544,
-      "mtime": 1791148161
+      "mtime": 1791173857
     },
     {
       "name": "imorati suhan -2018. 216с",
       "file": "imorati suhan -2018. 216с..pdf",
       "size": 52712247,
-      "mtime": 1791148161
+      "mtime": 1791173857
     },
     {
       "name": "jome-l-mutun -2015. 300с",
       "file": "jome-l-mutun -2015. 300с..pdf",
       "size": 73466847,
-      "mtime": 1791148161
+      "mtime": 1791173857
     },
     {
       "name": "kultura russkoj rechi",
       "file": "kultura russkoj rechi.doc",
       "size": 3204608,
-      "mtime": 1791148161
+      "mtime": 1791173857
     },
     {
       "name": "Lost structure",
       "file": "Lost structure (2).fb2",
       "size": 2013276,
-      "mtime": 1791148160
+      "mtime": 1791173856
     },
     {
       "name": "Lost structure",
       "file": "Lost structure.fb2",
       "size": 2013276,
-      "mtime": 1791148160
+      "mtime": 1791173856
     },
     {
       "name": "nomnoma-76с",
       "file": "nomnoma-76с..pdf",
       "size": 12508990,
-      "mtime": 1791148161
+      "mtime": 1791173858
     },
     {
       "name": "ocherkhoi gramatiki 1. -1971. 178с",
       "file": "ocherkhoi gramatiki 1. -1971. 178с..pdf",
       "size": 88175347,
-      "mtime": 1791148161
+      "mtime": 1791173859
     },
     {
       "name": "ocherkhoi grammatiki oid ba holsh...j 2. -1971. 132с",
       "file": "ocherkhoi grammatiki oid ba holsh...j 2. -1971. 132с..pdf",
       "size": 65279522,
-      "mtime": 1791148162
+      "mtime": 1791173859
     },
     {
       "name": "rammatikai zabon 1963. 186 с",
       "file": "rammatikai zabon 1963. 186 с.pdf",
       "size": 90472393,
-      "mtime": 1791148162
+      "mtime": 1791173859
     },
     {
       "name": "russkij jazyk v dvuh chastjah",
       "file": "russkij jazyk v dvuh chastjah.doc",
       "size": 13133462,
-      "mtime": 1791148162
+      "mtime": 1791173860
     },
     {
       "name": "rustamov jm sabab",
       "file": "rustamov_jm_sabab.pdf",
       "size": 7099986,
-      "mtime": 1791148162
+      "mtime": 1791173860
     },
     {
       "name": "tahlili lingvistii",
       "file": "tahlili lingvistii.pdf",
       "size": 70525473,
-      "mtime": 1791148163
+      "mtime": 1791173860
     },
     {
       "name": "teoreticheskaja grammatika anglijskogo jazyka",
       "file": "teoreticheskaja grammatika anglijskogo jazyka.doc",
       "size": 2890752,
-      "mtime": 1791148163
+      "mtime": 1791173860
     },
     {
       "name": "tolib vahobov 2. -2006. 132с",
       "file": "tolib vahobov 2. -2006. 132с..pdf",
       "size": 44689832,
-      "mtime": 1791148163
+      "mtime": 1791173860
     },
     {
       "name": "vazi amalkardi zabini tojiki kitobi 1.-2014. 332с",
       "file": "vazi amalkardi zabini tojiki kitobi 1.-2014. 332с..pdf",
       "size": 56173010,
-      "mtime": 1791148163
+      "mtime": 1791173861
     },
     {
       "name": "zabon va uslubi shoironi maori1991-84с",
       "file": "zabon va uslubi shoironi maori1991-84с.pdf",
       "size": 35799762,
-      "mtime": 1791148163
+      "mtime": 1791173861
     },
     {
       "name": "zabon va bedorii milli",
       "file": "zabon_va_bedorii_milli.pdf",
       "size": 70310854,
-      "mtime": 1791148163
+      "mtime": 1791173862
     },
     {
       "name": "zaboni adabi tojik XX",
       "file": "zaboni adabi tojik XX.pdf",
       "size": 66874317,
-      "mtime": 1791148166
+      "mtime": 1791173863
     },
     {
       "name": "zaboni tojiki va huviyati milli",
       "file": "zaboni tojiki va huviyati milli.pdf",
       "size": 38327972,
-      "mtime": 1791148167
-    },
-    {
-      "name": "zaboni-adabijoti-ilmiyu-tekhnikii-to-ik",
-      "file": "zaboni-adabijoti-ilmiyu-tekhnikii-to-ik.pdf",
-      "size": 830139,
-      "mtime": 1791148167
+      "mtime": 1791173865
     },
     {
       "name": "zarbulmasal va maqolahoi1979.-124с",
       "file": "zarbulmasal va maqolahoi1979.-124с..pdf",
       "size": 18123405,
-      "mtime": 1791148167
+      "mtime": 1791173866
+    },
+    {
+      "name": "Забони Адабии Ҳозираи Тоҷик Синтаксис",
+      "file": "Забони Адабии Ҳозираи Тоҷик Синтаксис.pdf",
+      "size": 2263206,
+      "mtime": 1791173867
+    },
+    {
+      "name": "Забони Адабиёти Илмию Техникии Тоҷикӣ",
+      "file": "Забони Адабиёти Илмию Техникии Тоҷикӣ.pdf",
+      "size": 830139,
+      "mtime": 1791173867
+    },
+    {
+      "name": "и н ш о и о з о д &ИСМИ 2",
+      "file": "и н ш о и о з о д &ИСМИ 2.pdf",
+      "size": 14016568,
+      "mtime": 1791173870
     },
     {
       "name": "История Олимпийских игр. Медали. Значки. Плакаты",
       "file": "История Олимпийских игр. Медали. Значки. Плакаты (2).fb2",
       "size": 10240379,
-      "mtime": 1791148167
+      "mtime": 1791173867
     },
     {
       "name": "История Олимпийских игр. Медали. Значки. Плакаты",
       "file": "История Олимпийских игр. Медали. Значки. Плакаты.fb2",
       "size": 10240379,
-      "mtime": 1791148167
+      "mtime": 1791173867
     },
     {
       "name": "ОСТОРОЖНО HOT DOG!",
       "file": "ОСТОРОЖНО HOT DOG! (2).fb2",
       "size": 925103,
-      "mtime": 1791148167
+      "mtime": 1791173867
     },
     {
       "name": "ОСТОРОЖНО HOT DOG!",
       "file": "ОСТОРОЖНО HOT DOG!.fb2",
       "size": 925103,
-      "mtime": 1791148167
+      "mtime": 1791173867
+    },
+    {
+      "name": "ПРОБНЫЙ УРОК Английский для среднего уровня extra",
+      "file": "ПРОБНЫЙ УРОК Английский для среднего уровня extra.pdf",
+      "size": 1483129,
+      "mtime": 1791173867
+    },
+    {
+      "name": "САБКШИНОСИ •• таърихи татаввури насри форсй",
+      "file": "САБКШИНОСИ •• таърихи татаввури насри форсй.pdf",
+      "size": 84779132,
+      "mtime": 1791173869
+    },
+    {
+      "name": "Фарҳанги Тафсирии Забони Тоҷикӣ (2)",
+      "file": "Фарҳанги Тафсирии Забони Тоҷикӣ (2).pdf",
+      "size": 17809162,
+      "mtime": 1791173869
+    },
+    {
+      "name": "Фарҳанги Тафсирии Забони Тоҷикӣ (3)",
+      "file": "Фарҳанги Тафсирии Забони Тоҷикӣ (3).pdf",
+      "size": 42880319,
+      "mtime": 1791173870
+    },
+    {
+      "name": "Фарҳанги Тафсирии Забони Тоҷикӣ",
+      "file": "Фарҳанги Тафсирии Забони Тоҷикӣ.pdf",
+      "size": 10127933,
+      "mtime": 1791173870
     }
   ]
 }

@@ -1,49 +1,49 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "folder": "books/Равоншиносии хонаводагӣ",
   "books": [
     {
       "name": "Analysis of the Law on PAs 2014 final TAJ",
       "file": "1_Analysis_of_the_Law_on_PAs_2014__final___TAJ.pdf",
       "size": 439509,
-      "mtime": 1791148195
-    },
-    {
-      "name": "gustarishi ahloqi milli posukh",
-      "file": "1_gustarishi_ahloqi_milli_posukh....pdf",
-      "size": 1159747,
-      "mtime": 1791148195
-    },
-    {
-      "name": "hostgoryi",
-      "file": "1_hostgoryi.pdf",
-      "size": 5953380,
-      "mtime": 1791148195
+      "mtime": 1791173941
     },
     {
       "name": "Psikhologiyai zurovari dar oila",
       "file": "1_Psikhologiyai_zurovari_dar_oila.pdf",
       "size": 2807591,
-      "mtime": 1791148195
+      "mtime": 1791173941
     },
     {
       "name": "Why ProLife Tajik",
       "file": "1_Why_ProLife_Tajik.pdf",
       "size": 2940077,
-      "mtime": 1791148195
+      "mtime": 1791173941
     },
     {
       "name": "izbavlenie ot vseh boleznej. uroki ljubvi k sebe",
       "file": "izbavlenie ot vseh boleznej. uroki ljubvi k sebe.doc",
       "size": 1294848,
-      "mtime": 1791148195
+      "mtime": 1791173941
+    },
+    {
+      "name": "Густариши Ахлоқи Миллӣ",
+      "file": "Густариши Ахлоқи Миллӣ.pdf",
+      "size": 1159747,
+      "mtime": 1791173941
     },
     {
       "name": "Происшествие на тихой улице",
       "file": "Происшествие на тихой улице.fb2",
       "size": 1447641,
-      "mtime": 1791148195
+      "mtime": 1791173941
+    },
+    {
+      "name": "Хостгорӣ",
+      "file": "Хостгорӣ.pdf",
+      "size": 5953380,
+      "mtime": 1791173941
     }
   ]
 }
