@@ -1,31 +1,31 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-06",
   "folder": "books/Идора, интихоби коркунон",
   "books": [
     {
       "name": "organizacionnoe povedenie i upravlenie personalom",
       "file": "organizacionnoe povedenie i upravlenie personalom.doc",
       "size": 4795392,
-      "mtime": 1791173872
+      "mtime": 1791295878
     },
     {
       "name": "МАДАНИЯТИ БИЗНЕС I и .1",
       "file": "МАДАНИЯТИ БИЗНЕС I и .1.pdf",
       "size": 5074876,
-      "mtime": 1791173872
+      "mtime": 1791295878
     },
     {
       "name": "Путь к совершенству",
       "file": "Путь к совершенству (2).fb2",
       "size": 629930,
-      "mtime": 1791173872
+      "mtime": 1791295878
     },
     {
       "name": "Путь к совершенству",
       "file": "Путь к совершенству.fb2",
       "size": 629930,
-      "mtime": 1791173872
+      "mtime": 1791295878
     }
   ]
 }

@@ -1,49 +1,49 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-06",
   "folder": "books/Сатсиология",
   "books": [
     {
       "name": "0496.1",
       "file": "0496.1.doc",
       "size": 3005952,
-      "mtime": 1791173963
+      "mtime": 1791295922
     },
     {
       "name": "o sociologii praktikum po anglijskomu jazyku",
       "file": "o sociologii praktikum po anglijskomu jazyku.doc",
       "size": 829440,
-      "mtime": 1791173963
+      "mtime": 1791295922
     },
     {
       "name": "siyosati demografi 2003-2015. .168с",
       "file": "siyosati demografi 2003-2015. .168с.pdf",
       "size": 65847668,
-      "mtime": 1791173964
+      "mtime": 1791295922
     },
     {
       "name": "sociologija massovoj kommunikacii",
       "file": "sociologija massovoj kommunikacii.doc",
       "size": 2582016,
-      "mtime": 1791173964
+      "mtime": 1791295922
     },
     {
       "name": "МЕТРОЛОГИЯ Мафх,умл;ои асосй, истилохдо ва таърифот",
       "file": "МЕТРОЛОГИЯ Мафх,умл;ои асосй, истилохдо ва таърифот.pdf",
       "size": 33392503,
-      "mtime": 1791173965
+      "mtime": 1791295923
     },
     {
       "name": "Путь к совершенству",
       "file": "Путь к совершенству.fb2",
       "size": 629930,
-      "mtime": 1791173965
+      "mtime": 1791295923
     },
     {
       "name": "Сотсиология",
       "file": "Сотсиология.pdf",
       "size": 1033942,
-      "mtime": 1791173965
+      "mtime": 1791295923
     }
   ]
 }
