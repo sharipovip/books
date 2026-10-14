@@ -5,6 +5,14 @@
  "cats": {
   "news": [
    {
+    "id": 57881,
+    "title": "Мулоқот бо Президенти Ҷумҳурии Озарбойҷон Илҳом Алиев",
+    "publish": "2026-10-14 22:30:00",
+    "thumb": "https://live.staticflickr.com/65535/55589557611_9a0f07c72f.jpg",
+    "photos_count": 1,
+    "site_path": ""
+   },
+   {
     "id": 57873,
     "title": "Оғози сафари корӣ ба Ҷумҳурии Озарбойҷон",
     "publish": "2026-10-14 19:13:00",
@@ -91,17 +99,17 @@
     "thumb": "https://live.staticflickr.com/65535/55576947170_f2c4fa6c91.jpg",
     "photos_count": 2,
     "site_path": ""
-   },
-   {
-    "id": 57791,
-    "title": "Иштирок ва суханронӣ дар Мулоқоти ҳаштуми машваратии сарони давлатҳои Осиёи Марказӣ ва Ҷумҳурии Озарбойҷон",
-    "publish": "2026-10-08 13:15:00",
-    "thumb": "https://live.staticflickr.com/65535/55576511859_efbabfa865.jpg",
-    "photos_count": 9,
-    "site_path": ""
    }
   ],
   "meetings": [
+   {
+    "id": 57881,
+    "title": "Мулоқот бо Президенти Ҷумҳурии Озарбойҷон Илҳом Алиев",
+    "publish": "2026-10-14 22:30:00",
+    "thumb": "https://live.staticflickr.com/65535/55589557611_9a0f07c72f.jpg",
+    "photos_count": 1,
+    "site_path": ""
+   },
    {
     "id": 57827,
     "title": "Суҳбат бо Президенти Ҷумҳурии Исломии Эрон Масъуди Пизишкиён",
@@ -188,14 +196,6 @@
     "publish": "2026-09-01 16:24:00",
     "thumb": "https://live.staticflickr.com/65535/55501946514_e84a8f7905.jpg",
     "photos_count": 3,
-    "site_path": ""
-   },
-   {
-    "id": 56899,
-    "title": "Мулоқот бо Президенти Ҷумҳурии Исломии Эрон Масъуд Пизишкиён",
-    "publish": "2026-08-31 18:10:00",
-    "thumb": "https://live.staticflickr.com/65535/55498600672_30a6e16426.jpg",
-    "photos_count": 7,
     "site_path": ""
    }
   ],
@@ -299,6 +299,14 @@
   ],
   "trips": [
    {
+    "id": 57881,
+    "title": "Мулоқот бо Президенти Ҷумҳурии Озарбойҷон Илҳом Алиев",
+    "publish": "2026-10-14 22:30:00",
+    "thumb": "https://live.staticflickr.com/65535/55589557611_9a0f07c72f.jpg",
+    "photos_count": 1,
+    "site_path": ""
+   },
+   {
     "id": 57873,
     "title": "Оғози сафари корӣ ба Ҷумҳурии Озарбойҷон",
     "publish": "2026-10-14 19:13:00",
@@ -384,14 +392,6 @@
     "publish": "2026-10-08 13:15:00",
     "thumb": "https://live.staticflickr.com/65535/55576511859_efbabfa865.jpg",
     "photos_count": 9,
-    "site_path": ""
-   },
-   {
-    "id": 57787,
-    "title": "Оғози сафари корӣ ба Туркманистон",
-    "publish": "2026-10-08 11:11:00",
-    "thumb": "https://live.staticflickr.com/65535/55575194907_5859887d52.jpg",
-    "photos_count": 6,
     "site_path": ""
    }
   ],
