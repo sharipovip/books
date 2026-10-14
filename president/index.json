@@ -5,6 +5,22 @@
  "cats": {
   "news": [
    {
+    "id": 57873,
+    "title": "Оғози сафари корӣ ба Ҷумҳурии Озарбойҷон",
+    "publish": "2026-10-14 19:13:00",
+    "thumb": "https://live.staticflickr.com/65535/55589107806_dcbe830cff.jpg",
+    "photos_count": 1,
+    "site_path": ""
+   },
+   {
+    "id": 57869,
+    "title": "Сафари корӣ ба Ҷумҳурии Озарбойҷон",
+    "publish": "2026-10-14 15:43:00",
+    "thumb": "https://live.staticflickr.com/65535/55588997844_32eb24d726.jpg",
+    "photos_count": 1,
+    "site_path": ""
+   },
+   {
     "id": 57855,
     "title": "Мулоқот бо соҳибкорону сармоягузорони кишвар",
     "publish": "2026-10-14 13:05:00",
@@ -82,22 +98,6 @@
     "publish": "2026-10-08 13:15:00",
     "thumb": "https://live.staticflickr.com/65535/55576511859_efbabfa865.jpg",
     "photos_count": 9,
-    "site_path": ""
-   },
-   {
-    "id": 57787,
-    "title": "Оғози сафари корӣ ба Туркманистон",
-    "publish": "2026-10-08 11:11:00",
-    "thumb": "https://live.staticflickr.com/65535/55575194907_5859887d52.jpg",
-    "photos_count": 6,
-    "site_path": ""
-   },
-   {
-    "id": 57783,
-    "title": "Сафари корӣ ба Туркманистон",
-    "publish": "2026-10-08 07:55:00",
-    "thumb": "https://live.staticflickr.com/65535/55576020511_b6e432434b.jpg",
-    "photos_count": 1,
     "site_path": ""
    }
   ],
@@ -299,6 +299,14 @@
   ],
   "trips": [
    {
+    "id": 57873,
+    "title": "Оғози сафари корӣ ба Ҷумҳурии Озарбойҷон",
+    "publish": "2026-10-14 19:13:00",
+    "thumb": "https://live.staticflickr.com/65535/55589107806_dcbe830cff.jpg",
+    "photos_count": 1,
+    "site_path": ""
+   },
+   {
     "id": 57855,
     "title": "Мулоқот бо соҳибкорону сармоягузорони кишвар",
     "publish": "2026-10-14 13:05:00",
@@ -384,14 +392,6 @@
     "publish": "2026-10-08 11:11:00",
     "thumb": "https://live.staticflickr.com/65535/55575194907_5859887d52.jpg",
     "photos_count": 6,
-    "site_path": ""
-   },
-   {
-    "id": 57783,
-    "title": "Сафари корӣ ба Туркманистон",
-    "publish": "2026-10-08 07:55:00",
-    "thumb": "https://live.staticflickr.com/65535/55576020511_b6e432434b.jpg",
-    "photos_count": 1,
     "site_path": ""
    }
   ],
