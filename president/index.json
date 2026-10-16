@@ -5,6 +5,14 @@
  "cats": {
   "news": [
    {
+    "id": 57909,
+    "title": "Иштирок дар Ҳамоиши Роҳбарон оид ба гуногунии биологӣ",
+    "publish": "2026-10-16 12:58:00",
+    "thumb": "https://live.staticflickr.com/65535/55592620481_fddc85a0c2.jpg",
+    "photos_count": 17,
+    "site_path": ""
+   },
+   {
     "id": 57905,
     "title": "Оғози сафари корӣ ба Ҷумҳурии Арманистон",
     "publish": "2026-10-15 21:02:00",
@@ -90,14 +98,6 @@
     "publish": "2026-10-09 17:59:00",
     "thumb": "https://live.staticflickr.com/65535/55578976670_fcb5b4ef33.jpg",
     "photos_count": 7,
-    "site_path": ""
-   },
-   {
-    "id": 57827,
-    "title": "Суҳбат бо Президенти Ҷумҳурии Исломии Эрон Масъуди Пизишкиён",
-    "publish": "2026-10-09 17:47:00",
-    "thumb": "https://live.staticflickr.com/65535/55578958355_af2cb23481.jpg",
-    "photos_count": 1,
     "site_path": ""
    }
   ],
@@ -299,6 +299,14 @@
   ],
   "trips": [
    {
+    "id": 57909,
+    "title": "Иштирок дар Ҳамоиши Роҳбарон оид ба гуногунии биологӣ",
+    "publish": "2026-10-16 12:58:00",
+    "thumb": "https://live.staticflickr.com/65535/55592620481_fddc85a0c2.jpg",
+    "photos_count": 17,
+    "site_path": ""
+   },
+   {
     "id": 57905,
     "title": "Оғози сафари корӣ ба Ҷумҳурии Арманистон",
     "publish": "2026-10-15 21:02:00",
@@ -384,14 +392,6 @@
     "publish": "2026-10-09 17:47:00",
     "thumb": "https://live.staticflickr.com/65535/55578958355_af2cb23481.jpg",
     "photos_count": 1,
-    "site_path": ""
-   },
-   {
-    "id": 57809,
-    "title": "Иштирок ва суханронӣ дар ҷаласаи Шурои сарони давлатҳои ИДМ дар Туркманистон",
-    "publish": "2026-10-09 13:34:00",
-    "thumb": "https://live.staticflickr.com/65535/55578247101_d26a303fd1.jpg",
-    "photos_count": 13,
     "site_path": ""
    }
   ],
