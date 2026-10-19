@@ -5,6 +5,38 @@
  "cats": {
   "news": [
    {
+    "id": 57950,
+    "title": "Мулоқот бо Муовини аввали Президенти Ҷумҳурии Исломии Эрон Муҳаммадризо Ориф",
+    "publish": "2026-10-19 17:51:00",
+    "thumb": "https://live.staticflickr.com/65535/55597968302_cd2b7f6090.jpg",
+    "photos_count": 7,
+    "site_path": ""
+   },
+   {
+    "id": 57940,
+    "title": "Тариқи фосилавӣ ифтитоҳ намудани 20 иншоот дар ноҳияи Рӯдакӣ",
+    "publish": "2026-10-19 14:51:00",
+    "thumb": "https://live.staticflickr.com/65535/55598964024_c875242377.jpg",
+    "photos_count": 24,
+    "site_path": ""
+   },
+   {
+    "id": 57936,
+    "title": "Ифтитоҳи бинои нави Қасри фарҳанг дар маркази ноҳияи Рӯдакӣ",
+    "publish": "2026-10-19 13:43:00",
+    "thumb": "https://live.staticflickr.com/65535/55598820693_7a56906735.jpg",
+    "photos_count": 15,
+    "site_path": ""
+   },
+   {
+    "id": 57932,
+    "title": "Ифтитоҳи бинои раёсати маорифи ноҳияи Рӯдакӣ",
+    "publish": "2026-10-19 11:49:00",
+    "thumb": "https://live.staticflickr.com/65535/55597551707_994f2bfb8e.jpg",
+    "photos_count": 9,
+    "site_path": ""
+   },
+   {
     "id": 57930,
     "title": "Мулоқот бо Сарвазири Шурои давлатии Ҷумҳурии Мардумии Чин Ли Сян",
     "publish": "2026-10-19 10:30:00",
@@ -67,41 +99,17 @@
     "thumb": "https://live.staticflickr.com/65535/55589557611_9a0f07c72f.jpg",
     "photos_count": 1,
     "site_path": ""
-   },
-   {
-    "id": 57873,
-    "title": "Оғози сафари корӣ ба Ҷумҳурии Озарбойҷон",
-    "publish": "2026-10-14 19:13:00",
-    "thumb": "https://live.staticflickr.com/65535/55589107806_dcbe830cff.jpg",
-    "photos_count": 1,
-    "site_path": ""
-   },
-   {
-    "id": 57869,
-    "title": "Сафари корӣ ба Ҷумҳурии Озарбойҷон",
-    "publish": "2026-10-14 15:43:00",
-    "thumb": "https://live.staticflickr.com/65535/55588997844_32eb24d726.jpg",
-    "photos_count": 1,
-    "site_path": ""
-   },
-   {
-    "id": 57855,
-    "title": "Мулоқот бо соҳибкорону сармоягузорони кишвар",
-    "publish": "2026-10-14 13:05:00",
-    "thumb": "https://live.staticflickr.com/65535/55589113570_81f0c323f1.jpg",
-    "photos_count": 101,
-    "site_path": ""
-   },
-   {
-    "id": 57857,
-    "title": "Суханронӣ дар мулоқот бо соҳибкорону сармоягузорони мамлакат",
-    "publish": "2026-10-14 13:05:00",
-    "thumb": "https://live.staticflickr.com/65535/55589113570_81f0c323f1.jpg",
-    "photos_count": 101,
-    "site_path": ""
    }
   ],
   "meetings": [
+   {
+    "id": 57950,
+    "title": "Мулоқот бо Муовини аввали Президенти Ҷумҳурии Исломии Эрон Муҳаммадризо Ориф",
+    "publish": "2026-10-19 17:51:00",
+    "thumb": "https://live.staticflickr.com/65535/55597968302_cd2b7f6090.jpg",
+    "photos_count": 7,
+    "site_path": ""
+   },
    {
     "id": 57930,
     "title": "Мулоқот бо Сарвазири Шурои давлатии Ҷумҳурии Мардумии Чин Ли Сян",
@@ -188,14 +196,6 @@
     "publish": "2026-09-16 07:51:00",
     "thumb": "https://live.staticflickr.com/65535/55530222902_beaa357a09.jpg",
     "photos_count": 12,
-    "site_path": ""
-   },
-   {
-    "id": 56957,
-    "title": "Мулоқот бо Президенти Федератсияи Русия Владимир Путин",
-    "publish": "2026-09-01 18:36:00",
-    "thumb": "https://live.staticflickr.com/65535/55502060911_71a9590c82.jpg",
-    "photos_count": 10,
     "site_path": ""
    }
   ],
@@ -299,6 +299,30 @@
   ],
   "trips": [
    {
+    "id": 57940,
+    "title": "Тариқи фосилавӣ ифтитоҳ намудани 20 иншоот дар ноҳияи Рӯдакӣ",
+    "publish": "2026-10-19 14:51:00",
+    "thumb": "https://live.staticflickr.com/65535/55598964024_c875242377.jpg",
+    "photos_count": 24,
+    "site_path": ""
+   },
+   {
+    "id": 57936,
+    "title": "Ифтитоҳи бинои нави Қасри фарҳанг дар маркази ноҳияи Рӯдакӣ",
+    "publish": "2026-10-19 13:43:00",
+    "thumb": "https://live.staticflickr.com/65535/55598820693_7a56906735.jpg",
+    "photos_count": 15,
+    "site_path": ""
+   },
+   {
+    "id": 57932,
+    "title": "Ифтитоҳи бинои раёсати маорифи ноҳияи Рӯдакӣ",
+    "publish": "2026-10-19 11:49:00",
+    "thumb": "https://live.staticflickr.com/65535/55597551707_994f2bfb8e.jpg",
+    "photos_count": 9,
+    "site_path": ""
+   },
+   {
     "id": 57913,
     "title": "Суханронӣ дар Саммити Роҳбарон оид ба гуногунии биологӣ",
     "publish": "2026-10-16 16:56:00",
@@ -368,30 +392,6 @@
     "publish": "2026-10-14 13:05:00",
     "thumb": "https://live.staticflickr.com/65535/55589113570_81f0c323f1.jpg",
     "photos_count": 101,
-    "site_path": ""
-   },
-   {
-    "id": 57851,
-    "title": "Ифтитоҳи фосилавии 6 иншооти таъиноти гуногун дар ноҳияи Шаҳринав",
-    "publish": "2026-10-13 12:30:00",
-    "thumb": "https://live.staticflickr.com/65535/55586582528_0c2dfb5be7.jpg",
-    "photos_count": 10,
-    "site_path": ""
-   },
-   {
-    "id": 57847,
-    "title": "Сафари корӣ ба ноҳияи Шаҳринав ва боздид аз Маркази ҷумҳуриявии таълимию методии Кумитаи ҳолатҳои фавқулода ва мудофиаи гражданӣ",
-    "publish": "2026-10-13 12:02:00",
-    "thumb": "https://live.staticflickr.com/65535/55586568923_c5b4ab1618.jpg",
-    "photos_count": 46,
-    "site_path": ""
-   },
-   {
-    "id": 57829,
-    "title": "Оғози бунёди терминали нави байналмилалӣ дар фурудгоҳи Душанбе",
-    "publish": "2026-10-09 17:59:00",
-    "thumb": "https://live.staticflickr.com/65535/55578976670_fcb5b4ef33.jpg",
-    "photos_count": 7,
     "site_path": ""
    }
   ],
