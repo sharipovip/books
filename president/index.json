@@ -5,6 +5,14 @@
  "cats": {
   "news": [
    {
+    "id": 57930,
+    "title": "Мулоқот бо Сарвазири Шурои давлатии Ҷумҳурии Мардумии Чин Ли Сян",
+    "publish": "2026-10-19 10:30:00",
+    "thumb": "https://live.staticflickr.com/65535/55598584513_0a61c7493f.jpg",
+    "photos_count": 22,
+    "site_path": ""
+   },
+   {
     "id": 57919,
     "title": "Паёми шодбошӣ ба муносибати ҷашни Меҳргон",
     "publish": "2026-10-17 07:00:00",
@@ -91,17 +99,17 @@
     "thumb": "https://live.staticflickr.com/65535/55589113570_81f0c323f1.jpg",
     "photos_count": 101,
     "site_path": ""
-   },
-   {
-    "id": 57851,
-    "title": "Ифтитоҳи фосилавии 6 иншооти таъиноти гуногун дар ноҳияи Шаҳринав",
-    "publish": "2026-10-13 12:30:00",
-    "thumb": "https://live.staticflickr.com/65535/55586582528_0c2dfb5be7.jpg",
-    "photos_count": 10,
-    "site_path": ""
    }
   ],
   "meetings": [
+   {
+    "id": 57930,
+    "title": "Мулоқот бо Сарвазири Шурои давлатии Ҷумҳурии Мардумии Чин Ли Сян",
+    "publish": "2026-10-19 10:30:00",
+    "thumb": "https://live.staticflickr.com/65535/55598584513_0a61c7493f.jpg",
+    "photos_count": 22,
+    "site_path": ""
+   },
    {
     "id": 57881,
     "title": "Мулоқот бо Президенти Ҷумҳурии Озарбойҷон Илҳом Алиев",
@@ -188,14 +196,6 @@
     "publish": "2026-09-01 18:36:00",
     "thumb": "https://live.staticflickr.com/65535/55502060911_71a9590c82.jpg",
     "photos_count": 10,
-    "site_path": ""
-   },
-   {
-    "id": 56953,
-    "title": "Мулоқот бо Сарвазири Ҷумҳурии Ҳиндустон Нарендра Модӣ",
-    "publish": "2026-09-01 16:24:00",
-    "thumb": "https://live.staticflickr.com/65535/55501946514_e84a8f7905.jpg",
-    "photos_count": 3,
     "site_path": ""
    }
   ],
