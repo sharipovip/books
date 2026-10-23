@@ -1277,13 +1277,31 @@
       ]
     },
     {
-      "id": "huquqshinosi_qonunguzori",
-      "name": "Ҳуқуқшиносӣ, Қонунгузорӣ",
-      "folder_raw": "Ҳуқуқшиносӣ, Қонунгузорӣ",
+      "id": "ghayra",
+      "name": "Ғайра",
+      "folder_raw": "Ғайра",
       "emoji": "📚",
       "color1": "#64748b",
       "color2": "#94a3b8",
       "sort_order": 153,
+      "subs": [
+        {
+          "id": "ghayra",
+          "name": "Ғайра",
+          "folder_raw": "Ғайра",
+          "folder": "books/Ғайра",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "huquqshinosi_qonunguzori",
+      "name": "Ҳуқуқшиносӣ, Қонунгузорӣ",
+      "folder_raw": "Ҳуқуқшиносӣ, Қонунгузорӣ",
+      "emoji": "📚",
+      "color1": "#2563eb",
+      "color2": "#60a5fa",
+      "sort_order": 154,
       "subs": [
         {
           "id": "huquqshinosi_qonunguzori",
@@ -1299,9 +1317,9 @@
       "name": "Ҷуғрофия",
       "folder_raw": "Ҷуғрофия",
       "emoji": "📚",
-      "color1": "#2563eb",
-      "color2": "#60a5fa",
-      "sort_order": 154,
+      "color1": "#7c3aed",
+      "color2": "#a78bfa",
+      "sort_order": 155,
       "subs": [
         {
           "id": "jughrofiya",
