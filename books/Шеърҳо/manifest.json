@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-23",
+  "folder": "books/Шеърҳо",
+  "books": [
+    {
+      "name": "muzhda",
+      "file": "1_muzhda.pdf",
+      "size": 404727,
+      "mtime": 1792761582
+    },
+    {
+      "name": "nafasi duvum",
+      "file": "1_nafasi_duvum.pdf",
+      "size": 656496,
+      "mtime": 1792761582
+    },
+    {
+      "name": "nasimi panj",
+      "file": "1_nasimi_panj.pdf",
+      "size": 1058753,
+      "mtime": 1792761582
+    },
+    {
+      "name": "osmondara",
+      "file": "1_osmondara.pdf",
+      "size": 32652774,
+      "mtime": 1792761583
+    },
+    {
+      "name": "pajmon dar andesha",
+      "file": "1_pajmon_dar_andesha.pdf",
+      "size": 2493588,
+      "mtime": 1792761583
+    },
+    {
+      "name": "reshapajvand",
+      "file": "1_reshapajvand.pdf",
+      "size": 981733,
+      "mtime": 1792761583
+    },
+    {
+      "name": "shoiri dardho",
+      "file": "1_shoiri_dardho.pdf",
+      "size": 11616196,
+      "mtime": 1792761583
+    },
+    {
+      "name": "tashna",
+      "file": "1_tashna.pdf",
+      "size": 50773849,
+      "mtime": 1792761584
+    },
+    {
+      "name": "zuhuri hazrati inson",
+      "file": "1_zuhuri_hazrati_inson.pdf",
+      "size": 628988,
+      "mtime": 1792761584
+    },
+    {
+      "name": "Absolute rage",
+      "file": "Absolute rage.fb2",
+      "size": 921898,
+      "mtime": 1792761582
+    },
+    {
+      "name": "firuz b. tafti dil",
+      "file": "firuz_b. tafti_dil..pdf",
+      "size": 2401704,
+      "mtime": 1792761584
+    },
+    {
+      "name": "Пепел и песок",
+      "file": "Пепел и песок.fb2",
+      "size": 1214299,
+      "mtime": 1792761583
+    }
+  ]
+}
