@@ -5,6 +5,14 @@
  "cats": {
   "news": [
    {
+    "id": 58132,
+    "title": "Ифтитоҳи Маркази аутизм ва оғози сохтмони Маркази трансплантология дар Душанбе",
+    "publish": "2026-10-30 10:39:00",
+    "thumb": "https://live.staticflickr.com/65535/55620750196_6578d15c46.jpg",
+    "photos_count": 27,
+    "site_path": ""
+   },
+   {
     "id": 58125,
     "title": "Маҷлиси Ҳукумати Ҷумҳурии Тоҷикистон",
     "publish": "2026-10-29 17:55:00",
@@ -91,14 +99,6 @@
     "thumb": "",
     "photos_count": 0,
     "site_path": "/event/documents/commands?date=26.10.2026"
-   },
-   {
-    "id": 58036,
-    "title": "Таъиноти кадрӣ",
-    "publish": "2026-10-26 15:00:00",
-    "thumb": "https://live.staticflickr.com/65535/55611827347_293db9cdba.jpg",
-    "photos_count": 12,
-    "site_path": ""
    }
   ],
   "meetings": [
@@ -299,6 +299,14 @@
   ],
   "trips": [
    {
+    "id": 58132,
+    "title": "Ифтитоҳи Маркази аутизм ва оғози сохтмони Маркази трансплантология дар Душанбе",
+    "publish": "2026-10-30 10:39:00",
+    "thumb": "https://live.staticflickr.com/65535/55620750196_6578d15c46.jpg",
+    "photos_count": 27,
+    "site_path": ""
+   },
+   {
     "id": 58076,
     "title": "Ифтитоҳи ҶДММ Шаҳдоб дар ноҳияи Шоҳмансури шаҳри Душанбе",
     "publish": "2026-10-27 11:33:00",
@@ -384,14 +392,6 @@
     "publish": "2026-10-19 13:43:00",
     "thumb": "https://live.staticflickr.com/65535/55598820693_7a56906735.jpg",
     "photos_count": 15,
-    "site_path": ""
-   },
-   {
-    "id": 57932,
-    "title": "Ифтитоҳи бинои раёсати маорифи ноҳияи Рӯдакӣ",
-    "publish": "2026-10-19 11:49:00",
-    "thumb": "https://live.staticflickr.com/65535/55597551707_994f2bfb8e.jpg",
-    "photos_count": 9,
     "site_path": ""
    }
   ],
