@@ -5,6 +5,14 @@
  "cats": {
   "news": [
    {
+    "id": 58376,
+    "title": "Оғози сафари расмӣ дар Ҷумҳурии Қазоқистон",
+    "publish": "2026-11-05 19:53:00",
+    "thumb": "https://live.staticflickr.com/65535/55634323713_2bdf8a1d60.jpg",
+    "photos_count": 7,
+    "site_path": ""
+   },
+   {
     "id": 58372,
     "title": "Сафари расмӣ ба Ҷумҳурии Қазоқистон",
     "publish": "2026-11-05 15:45:00",
@@ -90,14 +98,6 @@
     "publish": "2026-11-02 12:50:00",
     "thumb": "https://live.staticflickr.com/65535/55626951418_fdbf8b39a8.jpg",
     "photos_count": 17,
-    "site_path": ""
-   },
-   {
-    "id": 58228,
-    "title": "Ифтитоҳи бинои маҷмааи миллии соҳибкории Роҳи Абрешим дар шаҳри Истаравшан",
-    "publish": "2026-11-02 12:35:00",
-    "thumb": "https://live.staticflickr.com/65535/55626910973_4b5f4d7fc2.jpg",
-    "photos_count": 16,
     "site_path": ""
    }
   ],
@@ -299,6 +299,14 @@
   ],
   "trips": [
    {
+    "id": 58376,
+    "title": "Оғози сафари расмӣ дар Ҷумҳурии Қазоқистон",
+    "publish": "2026-11-05 19:53:00",
+    "thumb": "https://live.staticflickr.com/65535/55634323713_2bdf8a1d60.jpg",
+    "photos_count": 7,
+    "site_path": ""
+   },
+   {
     "id": 58268,
     "title": "Ифтитоҳи фосилавии 8 иншоот ва муаррифии лоиҳаҳо дар шаҳру ноҳияҳои вилояти Суғд",
     "publish": "2026-11-03 11:59:00",
@@ -384,14 +392,6 @@
     "publish": "2026-11-02 10:56:00",
     "thumb": "https://live.staticflickr.com/65535/55625564547_bd17fb183b.jpg",
     "photos_count": 12,
-    "site_path": ""
-   },
-   {
-    "id": 58204,
-    "title": "Ба истифода додани бинои муассисаи таҳсилоти томактабии хусусии Ғунчаи баҳор дар ноҳияи Шаҳристон",
-    "publish": "2026-11-02 10:43:00",
-    "thumb": "https://live.staticflickr.com/65535/55625540347_2b9d04536e.jpg",
-    "photos_count": 11,
     "site_path": ""
    }
   ],
