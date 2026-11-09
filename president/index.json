@@ -29,6 +29,14 @@
     "site_path": ""
    },
    {
+    "id": 58483,
+    "title": "Изҳорот барои матбуот аз рӯйи натиҷаҳои музокироти сатҳи олии Тоҷикистону Қазоқистон",
+    "publish": "2026-11-07 16:00:00",
+    "thumb": "",
+    "photos_count": 0,
+    "site_path": ""
+   },
+   {
     "id": 58432,
     "title": "Маросими имзои санадҳои нави ҳамкорӣ миёни Ҷумҳурии Тоҷикистон ва Ҷумҳурии Қазоқистон",
     "publish": "2026-11-07 15:22:00",
@@ -91,14 +99,6 @@
     "thumb": "https://live.staticflickr.com/65535/55634323713_2bdf8a1d60.jpg",
     "photos_count": 7,
     "site_path": ""
-   },
-   {
-    "id": 58372,
-    "title": "Сафари расмӣ ба Ҷумҳурии Қазоқистон",
-    "publish": "2026-11-05 15:45:00",
-    "thumb": "https://live.staticflickr.com/65535/55634049935_1363267855.jpg",
-    "photos_count": 1,
-    "site_path": ""
    }
   ],
   "meetings": [
@@ -116,6 +116,14 @@
     "publish": "2026-11-07 18:08:00",
     "thumb": "https://live.staticflickr.com/65535/55637294272_9326a687f5.jpg",
     "photos_count": 22,
+    "site_path": ""
+   },
+   {
+    "id": 58483,
+    "title": "Изҳорот барои матбуот аз рӯйи натиҷаҳои музокироти сатҳи олии Тоҷикистону Қазоқистон",
+    "publish": "2026-11-07 16:00:00",
+    "thumb": "",
+    "photos_count": 0,
     "site_path": ""
    },
    {
@@ -189,17 +197,17 @@
     "thumb": "https://live.staticflickr.com/65535/55561132157_793157d9ae.jpg",
     "photos_count": 4,
     "site_path": ""
-   },
-   {
-    "id": 57515,
-    "title": "Мулоқот бо вазирони корҳои дохилии кишварҳои иштирокдори Иттиҳоди Давлатҳои Мустақил",
-    "publish": "2026-10-01 10:16:00",
-    "thumb": "https://live.staticflickr.com/65535/55562231579_82deb17a48.jpg",
-    "photos_count": 8,
-    "site_path": ""
    }
   ],
   "speeches": [
+   {
+    "id": 58483,
+    "title": "Изҳорот барои матбуот аз рӯйи натиҷаҳои музокироти сатҳи олии Тоҷикистону Қазоқистон",
+    "publish": "2026-11-07 16:00:00",
+    "thumb": "",
+    "photos_count": 0,
+    "site_path": ""
+   },
    {
     "id": 58380,
     "title": "Паёми шодбошӣ ба муносибати Рӯзи Конститутсия",
@@ -287,14 +295,6 @@
     "thumb": "https://live.staticflickr.com/65535/55545706376_7db4f0573c.jpg",
     "photos_count": 62,
     "site_path": ""
-   },
-   {
-    "id": 57218,
-    "title": "Суханронӣ дар Донишгоҳи Корея",
-    "publish": "2026-09-17 07:14:00",
-    "thumb": "https://live.staticflickr.com/65535/55532011422_78dae6214b.jpg",
-    "photos_count": 31,
-    "site_path": ""
    }
   ],
   "trips": [
@@ -312,6 +312,14 @@
     "publish": "2026-11-07 18:08:00",
     "thumb": "https://live.staticflickr.com/65535/55637294272_9326a687f5.jpg",
     "photos_count": 22,
+    "site_path": ""
+   },
+   {
+    "id": 58483,
+    "title": "Изҳорот барои матбуот аз рӯйи натиҷаҳои музокироти сатҳи олии Тоҷикистону Қазоқистон",
+    "publish": "2026-11-07 16:00:00",
+    "thumb": "",
+    "photos_count": 0,
     "site_path": ""
    },
    {
@@ -384,14 +392,6 @@
     "publish": "2026-11-03 11:23:00",
     "thumb": "https://live.staticflickr.com/65535/55629315579_c241133e65.jpg",
     "photos_count": 11,
-    "site_path": ""
-   },
-   {
-    "id": 58262,
-    "title": "Корхонаи нӯшокиҳои ташнагишикани ҷамъияти дорои масъулияти маҳдуди Райан дар минтақаи озоди иқтисодии Суғд",
-    "publish": "2026-11-03 10:56:00",
-    "thumb": "https://live.staticflickr.com/65535/55628093767_56ce702dfe.jpg",
-    "photos_count": 14,
     "site_path": ""
    }
   ],
