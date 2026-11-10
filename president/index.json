@@ -5,6 +5,14 @@
  "cats": {
   "news": [
    {
+    "id": 58511,
+    "title": "Оғози сафари корӣ дар Федератсияи Русия",
+    "publish": "2026-11-10 19:50:00",
+    "thumb": "https://live.staticflickr.com/65535/55643769377_5c18292b91.jpg",
+    "photos_count": 3,
+    "site_path": ""
+   },
+   {
     "id": 58501,
     "title": "Сафари корӣ ба Федератсияи Русия",
     "publish": "2026-11-10 14:34:00",
@@ -90,14 +98,6 @@
     "publish": "2026-11-07 14:21:00",
     "thumb": "https://live.staticflickr.com/65535/55638129914_34c72ee59b.jpg",
     "photos_count": 7,
-    "site_path": ""
-   },
-   {
-    "id": 58424,
-    "title": "Мулоқоту музокироти сатҳи олӣ миёни Тоҷикистону Қазоқистон",
-    "publish": "2026-11-07 13:25:00",
-    "thumb": "https://live.staticflickr.com/65535/55638031264_52131a89d0.jpg",
-    "photos_count": 9,
     "site_path": ""
    }
   ],
@@ -299,6 +299,14 @@
   ],
   "trips": [
    {
+    "id": 58511,
+    "title": "Оғози сафари корӣ дар Федератсияи Русия",
+    "publish": "2026-11-10 19:50:00",
+    "thumb": "https://live.staticflickr.com/65535/55643769377_5c18292b91.jpg",
+    "photos_count": 3,
+    "site_path": ""
+   },
+   {
     "id": 58498,
     "title": "Суханронӣ ба ифтихори Рӯзи милитсияи тоҷик",
     "publish": "2026-11-10 10:22:00",
@@ -384,14 +392,6 @@
     "publish": "2026-11-07 12:49:00",
     "thumb": "https://live.staticflickr.com/65535/55638180965_2a31766082.jpg",
     "photos_count": 17,
-    "site_path": ""
-   },
-   {
-    "id": 58412,
-    "title": "Мулоқот бо Подшоҳи Шоҳигарии Ҳошимии Урдун Абдуллоҳи II ибни Ал-Ҳусайн",
-    "publish": "2026-11-06 14:41:00",
-    "thumb": "https://live.staticflickr.com/65535/55635831288_9712173540.jpg",
-    "photos_count": 3,
     "site_path": ""
    }
   ],
